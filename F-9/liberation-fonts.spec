@@ -12,6 +12,7 @@ BuildArch: noarch
 # for /etc/fonts/conf.d 
 Requires: fontconfig
 
+
 %description
 The Liberation Fonts are intended to be replacements for the three
 most commonly used fonts on Microsoft systems: Times New Roman,
