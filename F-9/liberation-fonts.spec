@@ -1,7 +1,7 @@
 Summary: Fonts to replace commonly used Microsoft Windows Fonts
 Name: liberation-fonts
 Version: 0.1
-Release: 8%{?dist}
+Release: 9%{?dist}
 License: GPL + font exception
 Group: User Interface/X
 URL: https://www.redhat.com/promo/fonts/
@@ -53,6 +53,9 @@ fi
 %config(noreplace) %{_sysconfdir}/fonts/conf.d/59-liberation-fonts.conf
 
 %changelog
+* Tue May 15 2007 Matthias Clasen <mclasen@redhat.com> 0.1-9
+- Bump revision
+
 * Tue May 15 2007 Matthias Clasen <mclasen@redhat.com> 0.1-8
 - Change the license tag to "GPL + font exception"
 
