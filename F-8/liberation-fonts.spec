@@ -1,17 +1,16 @@
 Summary: Fonts to replace commonly used Microsoft Windows Fonts
 Name: liberation-fonts
-Version: 0.1
-Release: 9%{?dist}
+Version: 0.2
+Release: 1%{?dist}
 License: GPL + font exception
 Group: User Interface/X
 URL: https://www.redhat.com/promo/fonts/
-Source0: https://www.redhat.com/f/fonts/liberation-fonts-ttf-2.tar.gz 
+Source0: https://www.redhat.com/f/fonts/liberation-fonts-ttf-3.tar.gz 
 Source1: 59-liberation-fonts.conf
 BuildRoot: %{_tmppath}/%{name}-%{version}-%{release}-root
 BuildArch: noarch
 # for /etc/fonts/conf.d 
 Requires: fontconfig
-
 
 %description
 The Liberation Fonts are intended to be replacements for the three
@@ -19,7 +18,7 @@ most commonly used fonts on Microsoft systems: Times New Roman,
 Arial, and Courier New.
 
 %prep
-%setup -q -c
+%setup -q
 
 %clean
 rm -rf %{buildroot}
@@ -54,6 +53,9 @@ fi
 %config(noreplace) %{_sysconfdir}/fonts/conf.d/59-liberation-fonts.conf
 
 %changelog
+* Thu Jun 14 2007 Caius Chance <cchance@redhat.com> 0.2-1.fc8
+- Fixed bz#240393: Update to new release.
+
 * Tue May 15 2007 Matthias Clasen <mclasen@redhat.com> 0.1-9
 - Bump revision
 
