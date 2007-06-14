@@ -54,7 +54,7 @@ fi
 
 %changelog
 * Thu Jun 14 2007 Caius Chance <cchance@redhat.com> 0.2-1.fc8
-- Fixed bz#240393: Update to new release.
+- Updated new source tarball from upstream: '-3' (version 0.2).
 
 * Tue May 15 2007 Matthias Clasen <mclasen@redhat.com> 0.1-9
 - Bump revision
