@@ -1,44 +1,51 @@
-Summary: Fonts to replace commonly used Microsoft Windows Fonts
-Name: liberation-fonts
-Version: 0.1
-Release: 9%{?dist}
-License: GPL + font exception
-Group: User Interface/X
-URL: https://www.redhat.com/promo/fonts/
-Source0: https://www.redhat.com/f/fonts/liberation-fonts-ttf-2.tar.gz 
-Source1: 59-liberation-fonts.conf
-BuildRoot: %{_tmppath}/%{name}-%{version}-%{release}-root
-BuildArch: noarch
-# for /etc/fonts/conf.d 
-Requires: fontconfig
+%define srcname    liberation-fonts
+%define srcver     0.2
+%define srcdir     %{srcname}-%{srcver}
+
+Summary:      Fonts to replace commonly used Microsoft Windows Fonts
+Name:         liberation-fonts
+Version:      0.2
+Release:      1%{?dist}
+License:      GPL + font exception
+Group:        User Interface/X
+URL:          https://www.redhat.com/promo/fonts/
+Source0:      https://www.redhat.com/f/fonts/liberation-fonts-ttf-3.tar.gz 
+Source1:      59-liberation-fonts.conf
+BuildRoot:    %{_tmppath}/%{name}-%{version}-%{release}-root
+BuildArch:    noarch
+Requires:     fontconfig
 
 
 %description
-The Liberation Fonts are intended to be replacements for the three
-most commonly used fonts on Microsoft systems: Times New Roman,
-Arial, and Courier New.
+The Liberation Fonts are intended to be replacements for the three most commonly used fonts on Microsoft systems: Times New Roman, Arial, and Courier New.
+
 
 %prep
 %setup -q -c
 
+
 %clean
 rm -rf %{buildroot}
 
+
 %build
+
 
 %install
 rm -rf %{buildroot}
 # fonts
 install -m 0755 -d %{buildroot}%{_datadir}/fonts/liberation
-install -m 0644 *.ttf %{buildroot}%{_datadir}/fonts/liberation
+install -m 0644 %{srcdir}/*.ttf %{buildroot}%{_datadir}/fonts/liberation
 # configuration
 install -m 0755 -d %{buildroot}%{_sysconfdir}/fonts/conf.d
 install -m 0644 %{SOURCE1} %{buildroot}%{_sysconfdir}/fonts/conf.d
+
 
 %post
 if [ -x /usr/bin/fc-cache ]; then
   /usr/bin/fc-cache %{_datadir}/fonts
 fi
+
 
 %postun
 if [ "$1" = "0" ]; then
@@ -47,13 +54,19 @@ if [ "$1" = "0" ]; then
   fi
 fi
 
+
 %files
 %defattr(-,root,root)
-%doc License.txt COPYING
+%doc %{srcdir}/License.txt %{srcdir}/COPYING
 %{_datadir}/fonts/liberation
 %config(noreplace) %{_sysconfdir}/fonts/conf.d/59-liberation-fonts.conf
 
+
 %changelog
+* Tue Aug 21 2007 Caius Chance <cchance@redhat.com> 0.2-1.fc8
+- Resolves: rhbz#250753 Incorrect lincense file.
+- Synchonized source tarball version with upstream (0.2).
+
 * Tue May 15 2007 Matthias Clasen <mclasen@redhat.com> 0.1-9
 - Bump revision
 
