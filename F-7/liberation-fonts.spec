@@ -63,7 +63,7 @@ fi
 
 
 %changelog
-* Tue Aug 21 2007 Caius Chance <cchance@redhat.com> 0.2-1.fc8
+* Tue Aug 21 2007 Caius Chance <cchance@redhat.com> 0.2-1.fc7
 - Resolves: rhbz#250753 Incorrect lincense file.
 - Synchonized source tarball version with upstream (0.2).
 
