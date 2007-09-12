@@ -1,7 +1,10 @@
+%define fontdir %{_datadir}/fonts/liberation
+%define catalogue %{_sysconfdir}/X11/fontpath.d
+
 Summary: Fonts to replace commonly used Microsoft Windows Fonts
 Name: liberation-fonts
 Version: 0.2
-Release: 2%{?dist}
+Release: 3%{?dist}
 License: GPLv2 with exceptions
 Group: User Interface/X
 URL: https://www.redhat.com/promo/fonts/
@@ -9,8 +12,7 @@ Source0: https://www.redhat.com/f/fonts/liberation-fonts-ttf-3.tar.gz
 Source1: 59-liberation-fonts.conf
 BuildRoot: %{_tmppath}/%{name}-%{version}-%{release}-root
 BuildArch: noarch
-# for /etc/fonts/conf.d 
-Requires: fontconfig
+Buildrequires: xorg-x11-font-utils
 
 %description
 The Liberation Fonts are intended to be replacements for the three
@@ -28,11 +30,18 @@ rm -rf %{buildroot}
 %install
 rm -rf %{buildroot}
 # fonts
-install -m 0755 -d %{buildroot}%{_datadir}/fonts/liberation
-install -m 0644 *.ttf %{buildroot}%{_datadir}/fonts/liberation
+install -m 0755 -d %{buildroot}%{fontdir}
+install -m 0644 *.ttf %{buildroot}%{fontdir}
 # configuration
 install -m 0755 -d %{buildroot}%{_sysconfdir}/fonts/conf.d
 install -m 0644 %{SOURCE1} %{buildroot}%{_sysconfdir}/fonts/conf.d
+
+install -d $RPM_BUILD_ROOT%{catalogue}
+ln -sf %{fontdir} $RPM_BUILD_ROOT%{catalogue}/%{name}
+
+# generate fonts.dir and fonts.scale
+mkfontdir %{buildroot}%{fontdir}
+mkfontscale %{buildroot}%{fontdir}
 
 %post
 if [ -x /usr/bin/fc-cache ]; then
@@ -49,10 +58,19 @@ fi
 %files
 %defattr(-,root,root)
 %doc License.txt COPYING
-%{_datadir}/fonts/liberation
+%dir %{fontdir}
 %config(noreplace) %{_sysconfdir}/fonts/conf.d/59-liberation-fonts.conf
+%{fontdir}/*.ttf
+%verify(not md5 size mtime) %{fontdir}/fonts.dir
+%verify(not md5 size mtime) %{fontdir}/fonts.scale
+%{catalogue}/%{name}
 
 %changelog
+* Wed Sep 12 2007 Jens Petersen <petersen@redhat.com> - 0.2-3.fc8
+- add fontdir macro
+- create fonts.dir and fonts.scale (reported by Mark Alford, #245961)
+- add catalogue symlink
+
 * Wed Sep 12 2007 Jens Petersen <petersen@redhat.com> - 0.2-2.fc8
 - update license field to GPLv2
 
