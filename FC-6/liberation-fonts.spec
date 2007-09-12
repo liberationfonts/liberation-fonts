@@ -2,7 +2,7 @@ Summary: Fonts to replace commonly used Microsoft Windows Fonts
 Name: liberation-fonts
 Version: 0.1
 Release: 9%{?dist}
-License: GPL + font exception
+License: GPLv2 with exceptions
 Group: User Interface/X
 URL: https://www.redhat.com/promo/fonts/
 Source0: https://www.redhat.com/f/fonts/liberation-fonts-ttf-2.tar.gz 

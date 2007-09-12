@@ -5,7 +5,7 @@ Release: 1%{?dist}
 License: GPL + font exception
 Group: User Interface/X
 URL: https://www.redhat.com/promo/fonts/
-Source0: https://www.redhat.com/f/fonts/liberation-fonts-ttf-3.tar.gz 
+Source0: https://www.redhat.com/f/fonts/liberation-fonts-ttf-3.tar.gz
 Source1: 59-liberation-fonts.conf
 BuildRoot: %{_tmppath}/%{name}-%{version}-%{release}-root
 BuildArch: noarch
