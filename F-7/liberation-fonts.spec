@@ -13,7 +13,7 @@ Group:        User Interface/X
 URL:          https://www.redhat.com/promo/fonts/
 Source0:      https://www.redhat.com/f/fonts/liberation-fonts-ttf-3.tar.gz 
 Source1:      59-liberation-fonts.conf
-BuildRoot:    %{_tmppath}/%{name}-%{version}-%{release}-root
+BuildRoot:    %(mktemp -ud %{_tmppath}/%{name}-%{version}-%{release}-XXXXXX)
 BuildArch:    noarch
 Requires:     fontconfig
 
@@ -72,6 +72,7 @@ fi
 * Tue Oct 02 2007 Caius Chance <cchance@redhat.com> 0.2-2.fc7
 - Resolves: rhbz#250753 (need fonts.dir file.)
   <<< added font.dir generation script in spec file.
+  <<< updated BuildRoot in spec file.
 
 * Tue Aug 21 2007 Caius Chance <cchance@redhat.com> 0.2-1.fc7
 - Resolves: rhbz#250753 Incorrect lincense file.
