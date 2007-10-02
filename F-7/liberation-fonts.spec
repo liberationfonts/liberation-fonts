@@ -2,6 +2,8 @@
 %define srcver     0.2
 %define srcdir     %{srcname}-%{srcver}
 
+%define fontdir %{_datadir}/fonts/liberation
+
 Summary:      Fonts to replace commonly used Microsoft Windows Fonts
 Name:         liberation-fonts
 Version:      0.2
@@ -34,12 +36,14 @@ rm -rf %{buildroot}
 %install
 rm -rf %{buildroot}
 # fonts
-install -m 0755 -d %{buildroot}%{_datadir}/fonts/liberation
-install -m 0644 %{srcdir}/*.ttf %{buildroot}%{_datadir}/fonts/liberation
+install -m 0755 -d %{buildroot}%{fontdir}
+install -m 0644 %{srcdir}/*.ttf %{buildroot}%{fontdir}
 # configuration
 install -m 0755 -d %{buildroot}%{_sysconfdir}/fonts/conf.d
 install -m 0644 %{SOURCE1} %{buildroot}%{_sysconfdir}/fonts/conf.d
-
+# generate fonts.dir and fonts.scale
+mkfontdir %{buildroot}%{fontdir}
+mkfontscale %{buildroot}%{fontdir}
 
 %post
 if [ -x /usr/bin/fc-cache ]; then
@@ -60,9 +64,15 @@ fi
 %doc %{srcdir}/License.txt %{srcdir}/COPYING
 %{_datadir}/fonts/liberation
 %config(noreplace) %{_sysconfdir}/fonts/conf.d/59-liberation-fonts.conf
+%verify(not md5 size mtime) %{fontdir}/fonts.dir
+%verify(not md5 size mtime) %{fontdir}/fonts.scale
 
 
 %changelog
+* Tue Oct 02 2007 Caius Chance <cchance@redhat.com> 0.2-2.fc7
+- Resolves: rhbz#250753 (need fonts.dir file.)
+  <<< added font.dir generation script in spec file.
+
 * Tue Aug 21 2007 Caius Chance <cchance@redhat.com> 0.2-1.fc7
 - Resolves: rhbz#250753 Incorrect lincense file.
 - Synchonized source tarball version with upstream (0.2).
