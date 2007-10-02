@@ -15,6 +15,7 @@ Source0:      https://www.redhat.com/f/fonts/liberation-fonts-ttf-3.tar.gz
 Source1:      59-liberation-fonts.conf
 BuildRoot:    %(mktemp -ud %{_tmppath}/%{name}-%{version}-%{release}-XXXXXX)
 BuildArch:    noarch
+Buildrequires: xorg-x11-font-utils
 Requires:     fontconfig
 
 
