@@ -4,12 +4,11 @@
 Summary: Fonts to replace commonly used Microsoft Windows Fonts
 Name: liberation-fonts
 Version: 0.2
-Release: 3%{?dist}
+Release: 4%{?dist}
 License: GPLv2 with exceptions
 Group: User Interface/X
 URL: https://www.redhat.com/promo/fonts/
 Source0: https://www.redhat.com/f/fonts/liberation-fonts-ttf-3.tar.gz
-Source1: 59-liberation-fonts.conf
 BuildRoot: %{_tmppath}/%{name}-%{version}-%{release}-root
 BuildArch: noarch
 Buildrequires: xorg-x11-font-utils
@@ -34,7 +33,6 @@ install -m 0755 -d %{buildroot}%{fontdir}
 install -m 0644 *.ttf %{buildroot}%{fontdir}
 # configuration
 install -m 0755 -d %{buildroot}%{_sysconfdir}/fonts/conf.d
-install -m 0644 %{SOURCE1} %{buildroot}%{_sysconfdir}/fonts/conf.d
 
 install -d $RPM_BUILD_ROOT%{catalogue}
 ln -sf %{fontdir} $RPM_BUILD_ROOT%{catalogue}/%{name}
@@ -59,13 +57,15 @@ fi
 %defattr(-,root,root)
 %doc License.txt COPYING
 %dir %{fontdir}
-%config(noreplace) %{_sysconfdir}/fonts/conf.d/59-liberation-fonts.conf
 %{fontdir}/*.ttf
 %verify(not md5 size mtime) %{fontdir}/fonts.dir
 %verify(not md5 size mtime) %{fontdir}/fonts.scale
 %{catalogue}/%{name}
 
 %changelog
+* Wed Nov 28 2007 Caius Chance <cchance@redhat.com> - 0.2-4.fc9
+- Resolves: rhbz#367791 (remove 59-liberation-fonts.conf)
+
 * Wed Sep 12 2007 Jens Petersen <petersen@redhat.com> - 0.2-3.fc8
 - add fontdir macro
 - create fonts.dir and fonts.scale (reported by Mark Alford, #245961)
