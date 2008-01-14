@@ -3,12 +3,14 @@
 
 Summary: Fonts to replace commonly used Microsoft Windows Fonts
 Name: liberation-fonts
-Version: 0.2
-Release: 4%{?dist}
+Version: 1.0
+Release: 1%{?dist}
 License: GPLv2 with exceptions
 Group: User Interface/X
 URL: https://www.redhat.com/promo/fonts/
-Source0: https://www.redhat.com/f/fonts/liberation-fonts-ttf-3.tar.gz
+Source0: liberation-fonts.tar.gz
+Source1: COPYING
+Source2: License.txt
 BuildRoot: %{_tmppath}/%{name}-%{version}-%{release}-root
 BuildArch: noarch
 Buildrequires: xorg-x11-font-utils
@@ -19,7 +21,8 @@ most commonly used fonts on Microsoft systems: Times New Roman,
 Arial, and Courier New.
 
 %prep
-%setup -q
+%setup -q -n %{name} -a 0
+%{__cp} %{SOURCE1} %{SOURCE2} %{_builddir}/%{name}
 
 %clean
 rm -rf %{buildroot}
@@ -33,7 +36,7 @@ install -m 0755 -d %{buildroot}%{fontdir}
 install -m 0644 *.ttf %{buildroot}%{fontdir}
 # configuration
 install -m 0755 -d %{buildroot}%{_sysconfdir}/fonts/conf.d
-
+# catalogue
 install -d $RPM_BUILD_ROOT%{catalogue}
 ln -sf %{fontdir} $RPM_BUILD_ROOT%{catalogue}/%{name}
 
@@ -63,6 +66,9 @@ fi
 %{catalogue}/%{name}
 
 %changelog
+* Mon Jan 14 2008 Caius Chance <cchance@redhat.com> - 1.0-1.fc9
+- Resolves: rhbz#428596 (Liberation fonts need to be updated to latest font.)
+
 * Wed Nov 28 2007 Caius Chance <cchance@redhat.com> - 0.2-4.fc9
 - Resolves: rhbz#367791 (remove 59-liberation-fonts.conf)
 
