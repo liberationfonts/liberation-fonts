@@ -4,7 +4,7 @@
 Summary: Fonts to replace commonly used Microsoft Windows Fonts
 Name: liberation-fonts
 Version: 1.0
-Release: 2%{?dist}
+Release: 3%{?dist}
 License: GPLv2 with exceptions
 Group: User Interface/X
 URL: https://www.redhat.com/promo/fonts/
@@ -66,6 +66,9 @@ fi
 %{catalogue}/%{name}
 
 %changelog
+* Tue Mar 25 2008 Caius Chance <cchance@redhat.com> - 1.0-3.fc9
+- Resolves: rhbz#240525 (Alignment mismatch of dot accents.)
+
 * Wed Jan 16 2008 Caius Chance <cchance@redhat.com> - 1.0-2.fc9
 - Moved source tarball from cvs to separated storage.
 
