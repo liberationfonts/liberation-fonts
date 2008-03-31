@@ -4,8 +4,14 @@
 Summary: Fonts to replace commonly used Microsoft Windows Fonts
 Name: liberation-fonts
 Version: 1.0
-Release: 3%{?dist}
-License: GPLv2 with exceptions
+Release: 4%{?dist}
+# The license of the Liberation Fonts is a EULA that contains 
+# GPLv2 and two exceptions:
+# The first exception is the standard FSF font exception.
+# The second exception is an anti-lockdown clause somewhat like
+# the one in GPLv3. This license is Free, but GPLv2 and GPLv3
+# incompatible.
+License: Liberation
 Group: User Interface/X
 URL: https://www.redhat.com/promo/fonts/
 Source0: liberation-fonts.tar.gz
@@ -66,6 +72,9 @@ fi
 %{catalogue}/%{name}
 
 %changelog
+* Mon Mar 31 2008 Tom "spot" Callaway <tcallawa@redhat.com> - 1.0-4
+- correct license tag, license explanation added
+
 * Tue Mar 25 2008 Caius Chance <cchance@redhat.com> - 1.0-3.fc9
 - Resolves: rhbz#240525 (Alignment mismatch of dot accents.)
 
