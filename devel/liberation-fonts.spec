@@ -3,8 +3,8 @@
 
 Summary: Fonts to replace commonly used Microsoft Windows Fonts
 Name: liberation-fonts
-Version: 1.0
-Release: 4%{?dist}
+Version: 1.03
+Release: 1%{?dist}
 # The license of the Liberation Fonts is a EULA that contains 
 # GPLv2 and two exceptions:
 # The first exception is the standard FSF font exception.
@@ -14,7 +14,7 @@ Release: 4%{?dist}
 License: Liberation
 Group: User Interface/X
 URL: https://www.redhat.com/promo/fonts/
-Source0: liberation-fonts.tar.gz
+Source0: liberation-fonts-1.03.tar.gz
 Source1: COPYING
 Source2: License.txt
 BuildRoot: %{_tmppath}/%{name}-%{version}-%{release}-root
@@ -72,13 +72,17 @@ fi
 %{catalogue}/%{name}
 
 %changelog
-* Mon Mar 31 2008 Tom "spot" Callaway <tcallawa@redhat.com> - 1.0-4
+* Thu Apr 10 2008 Caius Chance <cchance@redhat.com> - 1.03-1.fc9
+- Resolves: rhbz#251890 (Exchanged and incomplete glyphs.)
+- Repack source tarball and re-align source version number.
+
+* Mon Mar 31 2008 Tom "spot" Callaway <tcallawa@redhat.com> - 1.02-2
 - correct license tag, license explanation added
 
-* Tue Mar 25 2008 Caius Chance <cchance@redhat.com> - 1.0-3.fc9
+* Tue Mar 25 2008 Caius Chance <cchance@redhat.com> - 1.02-1.fc9
 - Resolves: rhbz#240525 (Alignment mismatch of dot accents.)
 
-* Wed Jan 16 2008 Caius Chance <cchance@redhat.com> - 1.0-2.fc9
+* Wed Jan 16 2008 Caius Chance <cchance@redhat.com> - 1.01-1.fc9
 - Moved source tarball from cvs to separated storage.
 
 * Mon Jan 14 2008 Caius Chance <cchance@redhat.com> - 1.0-1.fc9
