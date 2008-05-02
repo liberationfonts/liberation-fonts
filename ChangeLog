@@ -1,0 +1,30 @@
+
+* Wed May 01 2008 Caius Chance <cchance@redhat.com>
+- Imported into fedorahosted.org repository and be hosted.
+    https://fedorahosted.org/liberation-fonts/
+- Modified source root directory name definition in Makefile.
+- Created 'dist' target for binary TTF tarball and 'src' for source tarball.
+
+* Wed May 01 2008 Caius Chance <cchance@redhat.com>
+- Converted previous TTF files into SFD files to be open source.
+- Created fontforge SFD -> TTF scripts.
+- Created Makefile.
+- Added documentations: AUTHORS, ChangeLog, README.
+- Repacked source tarball.
+- Released version 1.04.
+
+* Thu Apr 10 2008 Caius Chance <cchance@redhat.com>
+- Fixed exchanged and incomplete glyphs (from Ascender).
+- Repacked source tarball.
+- Released version 1.03.
+
+* Tue Mar 25 2008 Caius Chance <cchance@redhat.com>
+- Fixed alignment mismatch of dot accents (from Ascender).
+- Released version 1.02.
+
+* Mon Jan 14 2008 Caius Chance <cchance@redhat.com>
+- Updated new source tarball from Ascender.
+- Released version 1.0.
+
+* Thu Jun 14 2007 Caius Chance <cchance@redhat.com>
+- Updated new source tarball from Ascender.
