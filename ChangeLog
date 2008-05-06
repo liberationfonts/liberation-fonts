@@ -1,11 +1,16 @@
 
-* Wed May 01 2008 Caius Chance <cchance@redhat.com>
+* Tue May 06 2008 Caius Chance <cchance@redhat.com>
+- Refined clean target.
+
+* Fri May 02 2008 Caius Chance <cchance@redhat.com>
 - Imported into fedorahosted.org repository and be hosted.
     https://fedorahosted.org/liberation-fonts/
 - Modified source root directory name definition in Makefile.
 - Created 'dist' target for binary TTF tarball and 'src' for source tarball.
+- Corrected Regular fonts filenames.
+- Added TTF -> SFD make target.
 
-* Wed May 01 2008 Caius Chance <cchance@redhat.com>
+* Thu May 01 2008 Caius Chance <cchance@redhat.com>
 - Converted previous TTF files into SFD files to be open source.
 - Created fontforge SFD -> TTF scripts.
 - Created Makefile.
