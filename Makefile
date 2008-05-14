@@ -11,7 +11,7 @@ BINDOCS = AUTHORS ChangeLog COPYING License.txt README
 all: dist
 
 
-ttf:
+build:
 	$(foreach sfdfile, $(SFDFILES), $(FONTFORGE) -script ./scripts/sfd2ttf.pe $(sfdfile);)
 	mkdir -p build/ttf && mv ./src/*.ttf ./build/ttf/
 
@@ -21,7 +21,7 @@ sfd:
 	mkdir -p build/sfd && mv ./build/ttf/*.sfd ./build/sfd/
 
 
-dist: clean-build ttf
+dist: clean-build build
 	mkdir -p ../liberation-fonts_build/liberation-fonts
 	cp $(TTFFILES) $(BINDOCS) ../liberation-fonts_build/liberation-fonts/
 	mkdir -p ../liberation-fonts_tar

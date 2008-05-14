@@ -1,8 +1,6 @@
 1. What's this?
 ===============
 
-liberation-fonts is fonts to replace commonly used Microsoft Windows Fonts.
-
 The Liberation Fonts are intended to be replacements for the three most 
 commonly used fonts on Microsoft systems: Times New Roman, Arial, and Courier 
 New.
@@ -30,7 +28,7 @@ New.
   following commands:
 
     $ cd liberation-fonts-[VERSION]
-    $ make build
+    $ make
 
   The built font files will be stored in 'build' directory.
 
@@ -48,38 +46,10 @@ The fonts should be installed and detected by the system after installation.
 User is adviced to restart system to ensure fonts are ready to be used.
 
 
-5. Re-package
-=============
-
-  Before re-package source tarball, one has to update the version number 
-  in file 'Makefile' line:
-
-    VER = [NEW_VERSION]
-
-  It is highly recommended that file 'ChangeLog' should be updated to reflect
-  changes.
-
-  Change into directory liberation-fonts-[VERSION]/ and re-package as 
-  distribution by following commands:
-
-    $ cd liberation-fonts-[VERSION]
-    $ make dist
-
-  A new package will be generated as 'liberation-fonts-[NEW_VERSION].tar.gz'.
-
-
-6. License
+5. License
 ==========
 
-The license of the Liberation Fonts is a EULA that contains GPLv2 and two 
-exceptions:
-
-  The first exception is the standard FSF font exception.
-
-  The second exception is an anti-lockdown clause somewhat like the one in 
-  GPLv3. This license is Free, but GPLv2 and GPLv3 incompatible.
-
-Read GPLV2 file 'COPYING' and Liberation Fonts License file 'License.txt' for
+Read GPL file 'COPYING' and Liberation Fonts License file 'License.txt' for
 more information.
 
 
@@ -89,12 +59,11 @@ more information.
 Special thanks to all liberation-fonts developers and users!
 
  * Caius Chance <cchance at redhat.com>
-   - Developer and Fedora/RHEL package maintainer.
+   - Current project maintainer.
 
  * Mark Webbink <mwebbink at redhat.com>
-   - Developer and coordinator.
+   - Coordinator.
 
  * Ascender Corporation <http://www.ascendercorp.com>
-   - Initial manufacturer
 
  * And, all other contributors.
