@@ -1,0 +1,69 @@
+1. What's this?
+===============
+
+The Liberation Fonts are intended to be replacements for the three most 
+commonly used fonts on Microsoft systems: Times New Roman, Arial, and Courier 
+New.
+
+
+2. Requirements
+===============
+
+  * fontforge.
+    - http://fontforge.sourceforge.net
+
+
+3. Install
+==========
+
+3.1 Decompress tarball
+
+  You can extract the files by following command:
+
+    $ tar zxvf liberation-fonts-[VERSION].tar.gz
+
+3.2 Build from the source
+
+  Change into directory liberation-fonts-[VERSION]/ and build from sources by 
+  following commands:
+
+    $ cd liberation-fonts-[VERSION]
+    $ make
+
+  The built font files will be stored in 'build' directory.
+
+3.3 Install to system
+
+  Install to system by following command:
+
+    $ make install
+
+
+4. Usage
+========
+
+The fonts should be installed and detected by the system after installation. 
+User is adviced to restart system to ensure fonts are ready to be used.
+
+
+5. License
+==========
+
+Read GPL file 'COPYING' and Liberation Fonts License file 'License.txt' for
+more information.
+
+
+6. Credit
+=========
+
+Special thanks to all liberation-fonts developers and users!
+
+ * Caius Chance <cchance at redhat.com>
+   - Current project maintainer.
+
+ * Mark Webbink <mwebbink at redhat.com>
+   - Coordinator.
+
+ * Ascender Corporation <http://www.ascendercorp.com>
+
+ * And, all other contributors.

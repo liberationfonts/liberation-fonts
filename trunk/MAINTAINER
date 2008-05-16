@@ -1,0 +1,23 @@
+To Maintainers
+==============
+
+  Please read README before continue reading the following contents.
+
+Re-package
+==========
+
+  Before re-package source tarball, one has to update the version number 
+  in file 'Makefile' line:
+
+    VER = [NEW_VERSION]
+
+  It is highly recommended that file 'ChangeLog' should be updated to reflect
+  changes.
+
+  Change into directory liberation-fonts-[VERSION]/ and re-package as 
+  distribution by following commands:
+
+    $ cd liberation-fonts-[VERSION]
+    $ make dist
+
+  A new package will be generated as 'liberation-fonts-[NEW_VERSION].tar.gz'.
