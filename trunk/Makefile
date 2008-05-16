@@ -1,5 +1,5 @@
 VER = 1.04
-FONTFORGE = /usr/bin/fontforge
+FONTFORGE = /usr/bin/env fontforge
 
 SRCDIRS = $(shell find -type d | grep -v .git)
 BINDIRS = $(shell find -type d | grep -v .git | grep -v src)
