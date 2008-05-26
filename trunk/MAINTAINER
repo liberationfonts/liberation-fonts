@@ -1,23 +1,19 @@
 To Maintainers
 ==============
 
-  Please read README before continue reading the following contents.
+Please see the README before continuing.
 
-Re-package
-==========
+Before packaging a new release based on a new source tarball, you have to
+update the version number in the Makefile:
+VER = [VERSION]
 
-  Before re-package source tarball, one has to update the version number 
-  in file 'Makefile' line:
+Make sure that the defined version corresponds to the font software metadata
+which you can check with ftinfo/otfinfo or fontforge itself.
+It is highly recommended that file 'ChangeLog' is updated to reflect
+changes.
 
-    VER = [NEW_VERSION]
+Create a tarball with the following command:
+$ make dist
 
-  It is highly recommended that file 'ChangeLog' should be updated to reflect
-  changes.
-
-  Change into directory liberation-fonts-[VERSION]/ and re-package as 
-  distribution by following commands:
-
-    $ cd liberation-fonts-[VERSION]
-    $ make dist
-
-  A new package will be generated as 'liberation-fonts-[NEW_VERSION].tar.gz'.
+The new versionned tarball will be available in the dist/ folder as
+'liberation-fonts-[NEW_VERSION].tar.gz'.
