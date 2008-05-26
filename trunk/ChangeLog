@@ -1,4 +1,6 @@
 * Mon 26 May 2008 Caius Chance <cchance@redhat.com>
+- Fixed Unicode name mis-mapping of Mono TTF files.
+- Regenerate SFD files from Unicode name mis-mapping fixed Mono TTF files.
 ==========
 - Applied following patches submitted by Nicolas Spalinger
   <nicolas_spalinger sil org>:
@@ -11,10 +13,8 @@
   - Some-rewording-of-the-readme-file.
 ==========
 	
-
 * Thu May 22 2008 Caius Chance <cchance@redhat.com>
-- Fix description name mapping issue in Ascender's TTF 
-  (located in archive, experimental).
+- Added latest (1.03) TTF files from Ascender. (in 'archive')
 
 * Fri May 16 2008 Caius Chance <cchance@redhat.com>
 - Change source tree as 'trunk', 'tags', 'branches'.
