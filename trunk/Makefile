@@ -5,7 +5,7 @@ SRCDIRS = $(shell find -type d | grep -v .git)
 BINDIRS = $(shell find -type d | grep -v .git | grep -v src)
 SRCFILES = $(shell find -type f | grep -v .git)
 SFDFILES = $(shell ls ./src/*.sfd)
-TTFFILES = $(shell ls ./build/ttf/*.ttf)
+TTFFILES = $(shell ls ./build-area/ttf/*.ttf)
 BINDOCS = AUTHORS ChangeLog COPYING License.txt README 
 
 all: dist
@@ -13,35 +13,32 @@ all: dist
 
 build:
 	$(foreach sfdfile, $(SFDFILES), $(FONTFORGE) -script ./scripts/sfd2ttf.pe $(sfdfile);)
-	mkdir -p build/ttf && mv ./src/*.ttf ./build/ttf/
+	mkdir -p build-area/ttf && mv ./src/*.ttf ./build-area/ttf/
 
 
 sfd:
 	$(foreach ttffile, $(TTFFILES), $(FONTFORGE) -script ./scripts/ttf2sfd.pe $(ttffile);)
-	mkdir -p build/sfd && mv ./build/ttf/*.sfd ./build/sfd/
+	mkdir -p build-area/sfd && mv ./build-area/ttf/*.sfd ./build-area/sfd/
 
 
 dist: clean-build build
-	mkdir -p ../liberation-fonts_build/liberation-fonts
-	cp $(TTFFILES) $(BINDOCS) ../liberation-fonts_build/liberation-fonts/
-	mkdir -p ../liberation-fonts_tar
-	cd ../liberation-fonts_build && tar czvf \
-	  ../liberation-fonts_tar/liberation-fonts-$(VER).tar.gz \
-	  liberation-fonts/
+	mkdir -p build-area/liberation-fonts-$(VER)
+	cp $(TTFFILES) $(BINDOCS) build-area/liberation-fonts-$(VER)
+	mkdir -p dist
+	cd build-area && tar czvf  ../dist/liberation-fonts-$(VER).tar.gz  liberation-fonts-$(VER)/
 
 src: clean-build
-	mkdir -p ../liberation-fonts_build/liberation-fonts-$(VER)
-	$(foreach tardir, $(SRCDIRS), mkdir -p ../liberation-fonts_build/liberation-fonts-$(VER)/$(tardir);)
-	$(foreach srcfile, $(SRCFILES), cp $(srcfile) ../liberation-fonts_build/liberation-fonts-$(VER)/$(shell dirname $(srcfile))/;)
-	mkdir -p ../liberation-fonts_tar
-	cd ../liberation-fonts_build && tar czvf \
-	  ../liberation-fonts_tar/liberation-fonts-$(VER).src.tar.gz \
+	mkdir -p build-area/liberation-fonts-$(VER)
+	$(foreach tardir, $(SRCDIRS), mkdir -p build-area/liberation-fonts/liberation-fonts-$(VER)/$(tardir);)
+	$(foreach srcfile, $(SRCFILES), cp $(srcfile) build-area/liberation-fonts/liberation-fonts-$(VER)/$(shell dirname $(srcfile))/;)
+	mkdir -p dist
+	cd build-area && tar czvf \
+	  ../dist/liberation-fonts-$(VER).src.tar.gz \
 	  liberation-fonts-$(VER)/
 
 
 clean: clean-build
-	rm -rf ../liberation-fonts_tar
+	rm -rf dist
 
 clean-build:
-	rm -rf build
-	rm -rf ../liberation-fonts_build
+	rm -rf build-area
