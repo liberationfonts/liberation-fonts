@@ -30,13 +30,13 @@ dist: clean-build build
 	  liberation-fonts/
 
 src: clean-build
-	mkdir -p ../liberation-fonts_build/liberation-fonts
-	$(foreach tardir, $(SRCDIRS), mkdir -p ../liberation-fonts_build/liberation-fonts/$(tardir);)
-	$(foreach srcfile, $(SRCFILES), cp $(srcfile) ../liberation-fonts_build/liberation-fonts/$(shell dirname $(srcfile))/;)
+	mkdir -p ../liberation-fonts_build/liberation-fonts-$(VER)
+	$(foreach tardir, $(SRCDIRS), mkdir -p ../liberation-fonts_build/liberation-fonts-$(VER)/$(tardir);)
+	$(foreach srcfile, $(SRCFILES), cp $(srcfile) ../liberation-fonts_build/liberation-fonts-$(VER)/$(shell dirname $(srcfile))/;)
 	mkdir -p ../liberation-fonts_tar
 	cd ../liberation-fonts_build && tar czvf \
 	  ../liberation-fonts_tar/liberation-fonts-$(VER).src.tar.gz \
-	  liberation-fonts/
+	  liberation-fonts-$(VER)/
 
 
 clean: clean-build

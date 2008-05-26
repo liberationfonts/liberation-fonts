@@ -1,9 +1,26 @@
+* Mon 26 May 2008 Caius Chance <cchance@redhat.com>
+==========
+- Applied following patches submitted by Nicolas Spalinger
+  <nicolas_spalinger sil org>:
+  - We-need-versioned-tarballs.
+  - Add-ignore-file-so-the-VCS-does-not-track-the-folder.
+  - Adjust-path-for-various-Makefile-targets-subfolders.
+  - Fix-versionning-mismatch-in-the-binary-font-metadata.
+  - Add-some-description-and-extra-lines-to-the-build-ta.
+  - Reword-and-restructure-maintainers-recommendations.
+  - Some-rewording-of-the-readme-file.
+==========
+	
+
+* Thu May 22 2008 Caius Chance <cchance@redhat.com>
+- Fix description name mapping issue in Ascender's TTF 
+  (located in archive, experimental).
 
 * Fri May 16 2008 Caius Chance <cchance@redhat.com>
 - Change source tree as 'trunk', 'tags', 'branches'.
 ==========
-- Applied following patches submitted by Nicolas Spalinger 
-  <nicolas_spalinger sil org>
+- Applied following patches submitted by Nicolas Spalinger
+  <nicolas_spalinger sil org>:
   - Add-more-information-about-the-upstream-designer.
   - Minor-typo-and-layout-fixes.
   - Adjust-fontforge-path-with-env-as-a-source-build.
