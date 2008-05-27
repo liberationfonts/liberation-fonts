@@ -1,6 +1,7 @@
 * Mon 27 May 2008 Caius Chance <cchance@redhat.com>
-- Fixed Unicode name mis-mapping of Sans TTF files.
-- Regenerate SFD files from Unicode name mis-mapping fixed Sans TTF files.
+- Fixed Unicode name mis-mapping of Sans and Serif TTF files.
+- Regenerate SFD files from Unicode name mis-mapping fixed Sans and Serif TTF 
+  files.
 
 * Mon 26 May 2008 Caius Chance <cchance@redhat.com>
 - Fixed Unicode name mis-mapping of Mono TTF files.
@@ -53,8 +54,6 @@
 - Created fontforge SFD -> TTF scripts.
 - Created Makefile.
 - Added documentations: AUTHORS, ChangeLog, README.
-- Repacked source tarball.
-- Released version 1.04.
 
 * Thu Apr 10 2008 Caius Chance <cchance@redhat.com>
 - Fixed exchanged and incomplete glyphs (from Ascender).
