@@ -1,3 +1,7 @@
+* Mon 27 May 2008 Caius Chance <cchance@redhat.com>
+- Fixed Unicode name mis-mapping of Sans TTF files.
+- Regenerate SFD files from Unicode name mis-mapping fixed Sans TTF files.
+
 * Mon 26 May 2008 Caius Chance <cchance@redhat.com>
 - Fixed Unicode name mis-mapping of Mono TTF files.
 - Regenerate SFD files from Unicode name mis-mapping fixed Mono TTF files.
