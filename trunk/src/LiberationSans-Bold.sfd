@@ -1,4 +1,4 @@
-SplineFontDB: 2.0
+SplineFontDB: 3.0
 FontName: LiberationSans-Bold
 FullName: Liberation Sans Bold
 FamilyName: Liberation Sans
@@ -13,13 +13,13 @@ Descent: 410
 LayerCount: 2
 Layer: 0 1 "Back" 
 Layer: 1 1 "Fore" 
-XUID: [1021 682 1963032581 8467880]
+XUID: [1021 682 1963032581 8842470]
 FSType: 8
 OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1123372800
-ModificationTime: 1211849070
+ModificationTime: 1211956922
 PfmFamily: 17
 TTFWeight: 700
 TTFWidth: 5
@@ -3092,17 +3092,17 @@ ShortTable: maxp 16
 EndShort
 LangName: 1033 "" "" "" "Ascender - Liberation Sans Bold" "" "Version 1.02" "" "Liberation is a trademark of Red Hat, Inc. registered in U.S. Patent and Trademark Office and certain other jurisdictions." "Ascender Corporation" "Steve Matteson" "" "http://www.ascendercorp.com/" "http://www.ascendercorp.com/typedesigners.html" "Use of this Liberation font software is subject to the license agreement under which you accepted the Liberation font software." "http://www.ascendercorp.com/liberation.html" 
 GaspTable: 3 8 2 10 1 65535 3
-Encoding: UnicodeBmp
+Encoding: Original
 UnicodeInterp: none
 NameList: Adobe Glyph List
 DisplaySize: -24
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 60 20 22
-BeginChars: 65556 668
+WinInfo: 0 20 22
+BeginChars: 668 668
 
 StartChar: .notdef
-Encoding: 65536 -1 0
+Encoding: 0 -1 0
 Width: 1536
 Flags: W
 TtInstrs:
@@ -3149,7 +3149,7 @@ EndSplineSet
 EndChar
 
 StartChar: .null
-Encoding: 65537 -1 1
+Encoding: 1 -1 1
 Width: 0
 GlyphClass: 2
 Flags: W
@@ -3157,7 +3157,7 @@ LayerCount: 2
 EndChar
 
 StartChar: nonmarkingreturn
-Encoding: 65538 -1 2
+Encoding: 2 -1 2
 Width: 569
 GlyphClass: 2
 Flags: W
@@ -3165,7 +3165,7 @@ LayerCount: 2
 EndChar
 
 StartChar: space
-Encoding: 32 32 3
+Encoding: 3 32 3
 AltUni2: 0000a0.ffffffff.0
 Width: 569
 GlyphClass: 2
@@ -3175,7 +3175,7 @@ Kerns2: 372 -37 "'kern' Horizontal Kerning lookup 0 subtable"  366 -37 "'kern' H
 EndChar
 
 StartChar: exclam
-Encoding: 33 33 4
+Encoding: 4 33 4
 Width: 682
 GlyphClass: 2
 Flags: W
@@ -3707,7 +3707,7 @@ EndSplineSet
 EndChar
 
 StartChar: quotedbl
-Encoding: 34 34 5
+Encoding: 5 34 5
 Width: 971
 GlyphClass: 2
 Flags: W
@@ -3784,7 +3784,7 @@ EndSplineSet
 EndChar
 
 StartChar: numbersign
-Encoding: 35 35 6
+Encoding: 6 35 6
 Width: 1139
 GlyphClass: 2
 Flags: W
@@ -4068,7 +4068,7 @@ EndSplineSet
 EndChar
 
 StartChar: dollar
-Encoding: 36 36 7
+Encoding: 7 36 7
 Width: 1139
 GlyphClass: 2
 Flags: W
@@ -4443,7 +4443,7 @@ EndSplineSet
 EndChar
 
 StartChar: percent
-Encoding: 37 37 8
+Encoding: 8 37 8
 Width: 1821
 GlyphClass: 2
 Flags: W
@@ -5502,7 +5502,7 @@ EndSplineSet
 EndChar
 
 StartChar: ampersand
-Encoding: 38 38 9
+Encoding: 9 38 9
 Width: 1479
 GlyphClass: 2
 Flags: W
@@ -5775,7 +5775,7 @@ EndSplineSet
 EndChar
 
 StartChar: quotesingle
-Encoding: 39 39 10
+Encoding: 10 39 10
 Width: 487
 GlyphClass: 2
 Flags: W
@@ -5845,7 +5845,7 @@ EndSplineSet
 EndChar
 
 StartChar: parenleft
-Encoding: 40 40 11
+Encoding: 11 40 11
 Width: 682
 GlyphClass: 2
 Flags: W
@@ -5922,7 +5922,7 @@ EndSplineSet
 EndChar
 
 StartChar: parenright
-Encoding: 41 41 12
+Encoding: 12 41 12
 Width: 682
 GlyphClass: 2
 Flags: W
@@ -6017,7 +6017,7 @@ EndSplineSet
 EndChar
 
 StartChar: asterisk
-Encoding: 42 42 13
+Encoding: 13 42 13
 Width: 797
 GlyphClass: 2
 Flags: W
@@ -6121,7 +6121,7 @@ EndSplineSet
 EndChar
 
 StartChar: plus
-Encoding: 43 43 14
+Encoding: 14 43 14
 Width: 1196
 GlyphClass: 2
 Flags: W
@@ -6228,7 +6228,7 @@ EndSplineSet
 EndChar
 
 StartChar: comma
-Encoding: 44 44 15
+Encoding: 15 44 15
 Width: 569
 GlyphClass: 2
 Flags: W
@@ -6289,7 +6289,7 @@ EndSplineSet
 EndChar
 
 StartChar: hyphen
-Encoding: 45 45 16
+Encoding: 16 45 16
 AltUni2: 0000ad.ffffffff.0
 Width: 682
 GlyphClass: 2
@@ -6323,7 +6323,7 @@ EndSplineSet
 EndChar
 
 StartChar: period
-Encoding: 46 46 17
+Encoding: 17 46 17
 Width: 569
 GlyphClass: 2
 Flags: W
@@ -6369,7 +6369,7 @@ EndSplineSet
 EndChar
 
 StartChar: slash
-Encoding: 47 47 18
+Encoding: 18 47 18
 Width: 569
 GlyphClass: 2
 Flags: W
@@ -6432,7 +6432,7 @@ EndSplineSet
 EndChar
 
 StartChar: zero
-Encoding: 48 48 19
+Encoding: 19 48 19
 Width: 1139
 GlyphClass: 2
 Flags: W
@@ -6517,7 +6517,7 @@ EndSplineSet
 EndChar
 
 StartChar: one
-Encoding: 49 49 20
+Encoding: 20 49 20
 Width: 1139
 GlyphClass: 2
 Flags: W
@@ -6625,7 +6625,7 @@ Kerns2: 20 -113 "'kern' Horizontal Kerning lookup 0 subtable"
 EndChar
 
 StartChar: two
-Encoding: 50 50 21
+Encoding: 21 50 21
 Width: 1139
 GlyphClass: 2
 Flags: W
@@ -6723,7 +6723,7 @@ EndSplineSet
 EndChar
 
 StartChar: three
-Encoding: 51 51 22
+Encoding: 22 51 22
 Width: 1139
 GlyphClass: 2
 Flags: W
@@ -6902,7 +6902,7 @@ EndSplineSet
 EndChar
 
 StartChar: four
-Encoding: 52 52 23
+Encoding: 23 52 23
 Width: 1139
 GlyphClass: 2
 Flags: W
@@ -7056,7 +7056,7 @@ EndSplineSet
 EndChar
 
 StartChar: five
-Encoding: 53 53 24
+Encoding: 24 53 24
 Width: 1139
 GlyphClass: 2
 Flags: W
@@ -7229,7 +7229,7 @@ EndSplineSet
 EndChar
 
 StartChar: six
-Encoding: 54 54 25
+Encoding: 25 54 25
 Width: 1139
 GlyphClass: 2
 Flags: W
@@ -7383,7 +7383,7 @@ EndSplineSet
 EndChar
 
 StartChar: seven
-Encoding: 55 55 26
+Encoding: 26 55 26
 Width: 1139
 GlyphClass: 2
 Flags: W
@@ -7456,7 +7456,7 @@ EndSplineSet
 EndChar
 
 StartChar: eight
-Encoding: 56 56 27
+Encoding: 27 56 27
 Width: 1139
 GlyphClass: 2
 Flags: W
@@ -7638,7 +7638,7 @@ EndSplineSet
 EndChar
 
 StartChar: nine
-Encoding: 57 57 28
+Encoding: 28 57 28
 Width: 1139
 GlyphClass: 2
 Flags: W
@@ -7796,7 +7796,7 @@ EndSplineSet
 EndChar
 
 StartChar: colon
-Encoding: 58 58 29
+Encoding: 29 58 29
 Width: 682
 GlyphClass: 2
 Flags: W
@@ -8202,7 +8202,7 @@ EndSplineSet
 EndChar
 
 StartChar: semicolon
-Encoding: 59 59 30
+Encoding: 30 59 30
 AltUni2: 00037e.ffffffff.0
 Width: 682
 GlyphClass: 2
@@ -8633,7 +8633,7 @@ EndSplineSet
 EndChar
 
 StartChar: less
-Encoding: 60 60 31
+Encoding: 31 60 31
 Width: 1196
 GlyphClass: 2
 Flags: W
@@ -8758,7 +8758,7 @@ EndSplineSet
 EndChar
 
 StartChar: equal
-Encoding: 61 61 32
+Encoding: 32 61 32
 Width: 1196
 GlyphClass: 2
 Flags: W
@@ -8853,7 +8853,7 @@ EndSplineSet
 EndChar
 
 StartChar: greater
-Encoding: 62 62 33
+Encoding: 33 62 33
 Width: 1196
 GlyphClass: 2
 Flags: W
@@ -8978,7 +8978,7 @@ EndSplineSet
 EndChar
 
 StartChar: question
-Encoding: 63 63 34
+Encoding: 34 63 34
 Width: 1251
 GlyphClass: 2
 Flags: W
@@ -9092,7 +9092,7 @@ EndSplineSet
 EndChar
 
 StartChar: at
-Encoding: 64 64 35
+Encoding: 35 64 35
 Width: 1997
 GlyphClass: 2
 Flags: W
@@ -9409,7 +9409,7 @@ EndSplineSet
 EndChar
 
 StartChar: A
-Encoding: 65 65 36
+Encoding: 36 65 36
 Width: 1479
 GlyphClass: 2
 Flags: W
@@ -10181,7 +10181,7 @@ Kerns2: 515 -113 "'kern' Horizontal Kerning lookup 0 subtable"  92 -76 "'kern' H
 EndChar
 
 StartChar: B
-Encoding: 66 66 37
+Encoding: 37 66 37
 Width: 1479
 GlyphClass: 2
 Flags: W
@@ -10329,7 +10329,7 @@ EndSplineSet
 EndChar
 
 StartChar: C
-Encoding: 67 67 38
+Encoding: 38 67 38
 Width: 1479
 GlyphClass: 2
 Flags: W
@@ -10473,7 +10473,7 @@ EndSplineSet
 EndChar
 
 StartChar: D
-Encoding: 68 68 39
+Encoding: 39 68 39
 Width: 1479
 GlyphClass: 2
 Flags: W
@@ -10595,7 +10595,7 @@ EndSplineSet
 EndChar
 
 StartChar: E
-Encoding: 69 69 40
+Encoding: 40 69 40
 Width: 1366
 GlyphClass: 2
 Flags: W
@@ -10703,7 +10703,7 @@ EndSplineSet
 EndChar
 
 StartChar: F
-Encoding: 70 70 41
+Encoding: 41 70 41
 Width: 1251
 GlyphClass: 2
 Flags: W
@@ -10791,7 +10791,7 @@ Kerns2: 36 -113 "'kern' Horizontal Kerning lookup 0 subtable"  17 -227 "'kern' H
 EndChar
 
 StartChar: G
-Encoding: 71 71 42
+Encoding: 42 71 42
 Width: 1593
 GlyphClass: 2
 Flags: W
@@ -10950,7 +10950,7 @@ EndSplineSet
 EndChar
 
 StartChar: H
-Encoding: 72 72 43
+Encoding: 43 72 43
 Width: 1479
 GlyphClass: 2
 Flags: W
@@ -11053,7 +11053,7 @@ EndSplineSet
 EndChar
 
 StartChar: I
-Encoding: 73 73 44
+Encoding: 44 73 44
 Width: 569
 GlyphClass: 2
 Flags: W
@@ -11174,7 +11174,7 @@ EndSplineSet
 EndChar
 
 StartChar: J
-Encoding: 74 74 45
+Encoding: 45 74 45
 Width: 1139
 GlyphClass: 2
 Flags: W
@@ -11256,7 +11256,7 @@ EndSplineSet
 EndChar
 
 StartChar: K
-Encoding: 75 75 46
+Encoding: 46 75 46
 Width: 1479
 GlyphClass: 2
 Flags: W
@@ -11443,7 +11443,7 @@ EndSplineSet
 EndChar
 
 StartChar: L
-Encoding: 76 76 47
+Encoding: 47 76 47
 Width: 1251
 GlyphClass: 2
 Flags: W
@@ -11498,7 +11498,7 @@ Kerns2: 515 -113 "'kern' Horizontal Kerning lookup 0 subtable"  92 -76 "'kern' H
 EndChar
 
 StartChar: M
-Encoding: 77 77 48
+Encoding: 48 77 48
 Width: 1706
 GlyphClass: 2
 Flags: W
@@ -12150,7 +12150,7 @@ EndSplineSet
 EndChar
 
 StartChar: N
-Encoding: 78 78 49
+Encoding: 49 78 49
 Width: 1479
 GlyphClass: 2
 Flags: W
@@ -12290,7 +12290,7 @@ EndSplineSet
 EndChar
 
 StartChar: O
-Encoding: 79 79 50
+Encoding: 50 79 50
 Width: 1593
 GlyphClass: 2
 Flags: W
@@ -12451,7 +12451,7 @@ EndSplineSet
 EndChar
 
 StartChar: P
-Encoding: 80 80 51
+Encoding: 51 80 51
 Width: 1366
 GlyphClass: 2
 Flags: W
@@ -12565,7 +12565,7 @@ Kerns2: 36 -152 "'kern' Horizontal Kerning lookup 0 subtable"  17 -264 "'kern' H
 EndChar
 
 StartChar: Q
-Encoding: 81 81 52
+Encoding: 52 81 52
 Width: 1593
 GlyphClass: 2
 Flags: W
@@ -12752,7 +12752,7 @@ EndSplineSet
 EndChar
 
 StartChar: R
-Encoding: 82 82 53
+Encoding: 53 82 53
 Width: 1479
 GlyphClass: 2
 Flags: W
@@ -12905,7 +12905,7 @@ Kerns2: 60 -76 "'kern' Horizontal Kerning lookup 0 subtable"  58 -37 "'kern' Hor
 EndChar
 
 StartChar: S
-Encoding: 83 83 54
+Encoding: 54 83 54
 Width: 1366
 GlyphClass: 2
 Flags: W
@@ -13076,7 +13076,7 @@ EndSplineSet
 EndChar
 
 StartChar: T
-Encoding: 84 84 55
+Encoding: 55 84 55
 Width: 1251
 GlyphClass: 2
 Flags: W
@@ -13658,7 +13658,7 @@ Kerns2: 92 -152 "'kern' Horizontal Kerning lookup 0 subtable"  90 -152 "'kern' H
 EndChar
 
 StartChar: U
-Encoding: 85 85 56
+Encoding: 56 85 56
 Width: 1479
 GlyphClass: 2
 Flags: W
@@ -13769,7 +13769,7 @@ EndSplineSet
 EndChar
 
 StartChar: V
-Encoding: 86 86 57
+Encoding: 57 86 57
 Width: 1366
 GlyphClass: 2
 Flags: W
@@ -13956,7 +13956,7 @@ Kerns2: 92 -76 "'kern' Horizontal Kerning lookup 0 subtable"  88 -76 "'kern' Hor
 EndChar
 
 StartChar: W
-Encoding: 87 87 58
+Encoding: 58 87 58
 Width: 1933
 GlyphClass: 2
 Flags: W
@@ -14680,7 +14680,7 @@ Kerns2: 92 -37 "'kern' Horizontal Kerning lookup 0 subtable"  88 -37 "'kern' Hor
 EndChar
 
 StartChar: X
-Encoding: 88 88 59
+Encoding: 59 88 59
 Width: 1366
 GlyphClass: 2
 Flags: W
@@ -14846,7 +14846,7 @@ EndSplineSet
 EndChar
 
 StartChar: Y
-Encoding: 89 89 60
+Encoding: 60 89 60
 Width: 1366
 GlyphClass: 2
 Flags: W
@@ -15292,7 +15292,7 @@ Kerns2: 89 -113 "'kern' Horizontal Kerning lookup 0 subtable"  88 -113 "'kern' H
 EndChar
 
 StartChar: Z
-Encoding: 90 90 61
+Encoding: 61 90 61
 Width: 1251
 GlyphClass: 2
 Flags: W
@@ -15423,7 +15423,7 @@ EndSplineSet
 EndChar
 
 StartChar: bracketleft
-Encoding: 91 91 62
+Encoding: 62 91 62
 Width: 682
 GlyphClass: 2
 Flags: W
@@ -15488,7 +15488,7 @@ EndSplineSet
 EndChar
 
 StartChar: backslash
-Encoding: 92 92 63
+Encoding: 63 92 63
 Width: 569
 GlyphClass: 2
 Flags: W
@@ -15549,7 +15549,7 @@ EndSplineSet
 EndChar
 
 StartChar: bracketright
-Encoding: 93 93 64
+Encoding: 64 93 64
 Width: 682
 GlyphClass: 2
 Flags: W
@@ -15612,7 +15612,7 @@ EndSplineSet
 EndChar
 
 StartChar: asciicircum
-Encoding: 94 94 65
+Encoding: 65 94 65
 Width: 1196
 GlyphClass: 2
 Flags: W
@@ -15699,7 +15699,7 @@ EndSplineSet
 EndChar
 
 StartChar: underscore
-Encoding: 95 95 66
+Encoding: 66 95 66
 Width: 1139
 GlyphClass: 2
 Flags: W
@@ -15735,7 +15735,7 @@ EndSplineSet
 EndChar
 
 StartChar: grave
-Encoding: 96 96 67
+Encoding: 67 96 67
 Width: 682
 GlyphClass: 2
 Flags: W
@@ -15803,7 +15803,7 @@ EndSplineSet
 EndChar
 
 StartChar: a
-Encoding: 97 97 68
+Encoding: 68 97 68
 Width: 1139
 GlyphClass: 2
 Flags: W
@@ -16008,7 +16008,7 @@ EndSplineSet
 EndChar
 
 StartChar: b
-Encoding: 98 98 69
+Encoding: 69 98 69
 Width: 1251
 GlyphClass: 2
 Flags: W
@@ -16139,7 +16139,7 @@ EndSplineSet
 EndChar
 
 StartChar: c
-Encoding: 99 99 70
+Encoding: 70 99 70
 Width: 1139
 GlyphClass: 2
 Flags: W
@@ -16233,7 +16233,7 @@ EndSplineSet
 EndChar
 
 StartChar: d
-Encoding: 100 100 71
+Encoding: 71 100 71
 Width: 1251
 GlyphClass: 2
 Flags: W
@@ -16359,7 +16359,7 @@ EndSplineSet
 EndChar
 
 StartChar: e
-Encoding: 101 101 72
+Encoding: 72 101 72
 Width: 1139
 GlyphClass: 2
 Flags: W
@@ -16484,7 +16484,7 @@ EndSplineSet
 EndChar
 
 StartChar: f
-Encoding: 102 102 73
+Encoding: 73 102 73
 Width: 682
 GlyphClass: 2
 Flags: W
@@ -16607,7 +16607,7 @@ Kerns2: 515 37 "'kern' Horizontal Kerning lookup 0 subtable"
 EndChar
 
 StartChar: g
-Encoding: 103 103 74
+Encoding: 74 103 74
 Width: 1251
 GlyphClass: 2
 Flags: W
@@ -16760,7 +16760,7 @@ EndSplineSet
 EndChar
 
 StartChar: h
-Encoding: 104 104 75
+Encoding: 75 104 75
 Width: 1251
 GlyphClass: 2
 Flags: W
@@ -16894,7 +16894,7 @@ EndSplineSet
 EndChar
 
 StartChar: i
-Encoding: 105 105 76
+Encoding: 76 105 76
 Width: 569
 GlyphClass: 2
 Flags: W
@@ -16996,7 +16996,7 @@ EndSplineSet
 EndChar
 
 StartChar: j
-Encoding: 106 106 77
+Encoding: 77 106 77
 Width: 569
 GlyphClass: 2
 Flags: W
@@ -17203,7 +17203,7 @@ EndSplineSet
 EndChar
 
 StartChar: k
-Encoding: 107 107 78
+Encoding: 78 107 78
 Width: 1139
 GlyphClass: 2
 Flags: W
@@ -17368,7 +17368,7 @@ EndSplineSet
 EndChar
 
 StartChar: l
-Encoding: 108 108 79
+Encoding: 79 108 79
 Width: 569
 GlyphClass: 2
 Flags: W
@@ -17455,7 +17455,7 @@ EndSplineSet
 EndChar
 
 StartChar: m
-Encoding: 109 109 80
+Encoding: 80 109 80
 Width: 1821
 GlyphClass: 2
 Flags: W
@@ -17681,7 +17681,7 @@ EndSplineSet
 EndChar
 
 StartChar: n
-Encoding: 110 110 81
+Encoding: 81 110 81
 Width: 1251
 GlyphClass: 2
 Flags: W
@@ -17818,7 +17818,7 @@ EndSplineSet
 EndChar
 
 StartChar: o
-Encoding: 111 111 82
+Encoding: 82 111 82
 Width: 1251
 GlyphClass: 2
 Flags: W
@@ -17897,7 +17897,7 @@ EndSplineSet
 EndChar
 
 StartChar: p
-Encoding: 112 112 83
+Encoding: 83 112 83
 Width: 1251
 GlyphClass: 2
 Flags: W
@@ -18045,7 +18045,7 @@ EndSplineSet
 EndChar
 
 StartChar: q
-Encoding: 113 113 84
+Encoding: 84 113 84
 Width: 1251
 GlyphClass: 2
 Flags: W
@@ -18167,7 +18167,7 @@ EndSplineSet
 EndChar
 
 StartChar: r
-Encoding: 114 114 85
+Encoding: 85 114 85
 Width: 797
 GlyphClass: 2
 Flags: W
@@ -18295,7 +18295,7 @@ Kerns2: 515 76 "'kern' Horizontal Kerning lookup 0 subtable"  17 -113 "'kern' Ho
 EndChar
 
 StartChar: s
-Encoding: 115 115 86
+Encoding: 86 115 86
 Width: 1139
 GlyphClass: 2
 Flags: W
@@ -18505,7 +18505,7 @@ EndSplineSet
 EndChar
 
 StartChar: t
-Encoding: 116 116 87
+Encoding: 87 116 87
 Width: 682
 GlyphClass: 2
 Flags: W
@@ -18623,7 +18623,7 @@ EndSplineSet
 EndChar
 
 StartChar: u
-Encoding: 117 117 88
+Encoding: 88 117 88
 Width: 1251
 GlyphClass: 2
 Flags: W
@@ -18758,7 +18758,7 @@ EndSplineSet
 EndChar
 
 StartChar: v
-Encoding: 118 118 89
+Encoding: 89 118 89
 Width: 1139
 GlyphClass: 2
 Flags: W
@@ -19409,7 +19409,7 @@ Kerns2: 17 -152 "'kern' Horizontal Kerning lookup 0 subtable"  15 -152 "'kern' H
 EndChar
 
 StartChar: w
-Encoding: 119 119 90
+Encoding: 90 119 90
 Width: 1593
 GlyphClass: 2
 Flags: W
@@ -20463,7 +20463,7 @@ Kerns2: 17 -76 "'kern' Horizontal Kerning lookup 0 subtable"  15 -76 "'kern' Hor
 EndChar
 
 StartChar: x
-Encoding: 120 120 91
+Encoding: 91 120 91
 Width: 1139
 GlyphClass: 2
 Flags: W
@@ -20671,7 +20671,7 @@ EndSplineSet
 EndChar
 
 StartChar: y
-Encoding: 121 121 92
+Encoding: 92 121 92
 Width: 1139
 GlyphClass: 2
 Flags: W
@@ -21431,7 +21431,7 @@ Kerns2: 17 -152 "'kern' Horizontal Kerning lookup 0 subtable"  15 -152 "'kern' H
 EndChar
 
 StartChar: z
-Encoding: 122 122 93
+Encoding: 93 122 93
 Width: 1024
 GlyphClass: 2
 Flags: W
@@ -21535,7 +21535,7 @@ EndSplineSet
 EndChar
 
 StartChar: braceleft
-Encoding: 123 123 94
+Encoding: 94 123 94
 Width: 797
 GlyphClass: 2
 Flags: W
@@ -21674,7 +21674,7 @@ EndSplineSet
 EndChar
 
 StartChar: bar
-Encoding: 124 124 95
+Encoding: 95 124 95
 Width: 573
 GlyphClass: 2
 Flags: W
@@ -21736,7 +21736,7 @@ EndSplineSet
 EndChar
 
 StartChar: braceright
-Encoding: 125 125 96
+Encoding: 96 125 96
 Width: 797
 GlyphClass: 2
 Flags: W
@@ -21875,7 +21875,7 @@ EndSplineSet
 EndChar
 
 StartChar: asciitilde
-Encoding: 126 126 97
+Encoding: 97 126 97
 Width: 1196
 GlyphClass: 2
 Flags: W
@@ -21978,7 +21978,7 @@ EndSplineSet
 EndChar
 
 StartChar: exclamdown
-Encoding: 161 161 98
+Encoding: 98 161 98
 Width: 682
 GlyphClass: 2
 Flags: W
@@ -22371,7 +22371,7 @@ EndSplineSet
 EndChar
 
 StartChar: cent
-Encoding: 162 162 99
+Encoding: 99 162 99
 Width: 1139
 GlyphClass: 2
 Flags: W
@@ -22524,7 +22524,7 @@ EndSplineSet
 EndChar
 
 StartChar: sterling
-Encoding: 163 163 100
+Encoding: 100 163 100
 Width: 1139
 GlyphClass: 2
 Flags: W
@@ -22732,7 +22732,7 @@ EndSplineSet
 EndChar
 
 StartChar: currency
-Encoding: 164 164 101
+Encoding: 101 164 101
 Width: 1139
 GlyphClass: 2
 Flags: W
@@ -22874,7 +22874,7 @@ EndSplineSet
 EndChar
 
 StartChar: yen
-Encoding: 165 165 102
+Encoding: 102 165 102
 Width: 1139
 GlyphClass: 2
 Flags: W
@@ -23153,7 +23153,7 @@ EndSplineSet
 EndChar
 
 StartChar: brokenbar
-Encoding: 166 166 103
+Encoding: 103 166 103
 Width: 573
 GlyphClass: 2
 Flags: W
@@ -23235,7 +23235,7 @@ EndSplineSet
 EndChar
 
 StartChar: section
-Encoding: 167 167 104
+Encoding: 104 167 104
 Width: 1139
 GlyphClass: 2
 Flags: W
@@ -23518,7 +23518,7 @@ EndSplineSet
 EndChar
 
 StartChar: dieresis
-Encoding: 168 168 105
+Encoding: 105 168 105
 Width: 682
 GlyphClass: 2
 Flags: W
@@ -23640,7 +23640,7 @@ EndSplineSet
 EndChar
 
 StartChar: copyright
-Encoding: 169 169 106
+Encoding: 106 169 106
 Width: 1509
 GlyphClass: 2
 Flags: W
@@ -23859,7 +23859,7 @@ EndSplineSet
 EndChar
 
 StartChar: ordfeminine
-Encoding: 170 170 107
+Encoding: 107 170 107
 Width: 758
 GlyphClass: 2
 Flags: W
@@ -24060,7 +24060,7 @@ EndSplineSet
 EndChar
 
 StartChar: guillemotleft
-Encoding: 171 171 108
+Encoding: 108 171 108
 Width: 1139
 GlyphClass: 2
 Flags: W
@@ -24206,7 +24206,7 @@ EndSplineSet
 EndChar
 
 StartChar: logicalnot
-Encoding: 172 172 109
+Encoding: 109 172 109
 Width: 1196
 GlyphClass: 2
 Flags: W
@@ -24285,7 +24285,7 @@ EndSplineSet
 EndChar
 
 StartChar: registered
-Encoding: 174 174 110
+Encoding: 110 174 110
 Width: 1509
 GlyphClass: 2
 Flags: W
@@ -24506,7 +24506,7 @@ EndSplineSet
 EndChar
 
 StartChar: macron
-Encoding: 175 175 111
+Encoding: 111 175 111
 Width: 1131
 GlyphClass: 2
 Flags: W
@@ -24539,7 +24539,7 @@ EndSplineSet
 EndChar
 
 StartChar: degree
-Encoding: 176 176 112
+Encoding: 112 176 112
 Width: 819
 GlyphClass: 2
 Flags: W
@@ -24662,7 +24662,7 @@ EndSplineSet
 EndChar
 
 StartChar: plusminus
-Encoding: 177 177 113
+Encoding: 113 177 113
 Width: 1124
 GlyphClass: 2
 Flags: W
@@ -24810,7 +24810,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni00B2
-Encoding: 178 178 114
+Encoding: 114 178 114
 Width: 682
 GlyphClass: 2
 Flags: W
@@ -24925,7 +24925,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni00B3
-Encoding: 179 179 115
+Encoding: 115 179 115
 Width: 682
 GlyphClass: 2
 Flags: W
@@ -25090,7 +25090,7 @@ EndSplineSet
 EndChar
 
 StartChar: acute
-Encoding: 180 180 116
+Encoding: 116 180 116
 Width: 682
 GlyphClass: 2
 Flags: W
@@ -25152,7 +25152,7 @@ EndSplineSet
 EndChar
 
 StartChar: u00B5
-Encoding: 181 181 117
+Encoding: 117 181 117
 Width: 1180
 GlyphClass: 2
 Flags: W
@@ -25269,7 +25269,7 @@ EndSplineSet
 EndChar
 
 StartChar: paragraph
-Encoding: 182 182 118
+Encoding: 118 182 118
 Width: 1139
 GlyphClass: 2
 Flags: W
@@ -25379,7 +25379,7 @@ EndSplineSet
 EndChar
 
 StartChar: periodcentered
-Encoding: 183 183 119
+Encoding: 119 183 119
 AltUni2: 002219.ffffffff.0
 Width: 569
 GlyphClass: 2
@@ -25420,7 +25420,7 @@ EndSplineSet
 EndChar
 
 StartChar: cedilla
-Encoding: 184 184 120
+Encoding: 120 184 120
 Width: 682
 GlyphClass: 2
 Flags: W
@@ -25650,7 +25650,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni00B9
-Encoding: 185 185 121
+Encoding: 121 185 121
 Width: 682
 GlyphClass: 2
 Flags: W
@@ -25756,7 +25756,7 @@ EndSplineSet
 EndChar
 
 StartChar: ordmasculine
-Encoding: 186 186 122
+Encoding: 122 186 122
 Width: 748
 GlyphClass: 2
 Flags: W
@@ -25880,7 +25880,7 @@ EndSplineSet
 EndChar
 
 StartChar: guillemotright
-Encoding: 187 187 123
+Encoding: 123 187 123
 Width: 1139
 GlyphClass: 2
 Flags: W
@@ -26025,7 +26025,7 @@ EndSplineSet
 EndChar
 
 StartChar: onequarter
-Encoding: 188 188 124
+Encoding: 124 188 124
 Width: 1708
 GlyphClass: 2
 Flags: W
@@ -26065,7 +26065,7 @@ Refer: 653 -1 N 1 0 0 1 946 -693 2
 EndChar
 
 StartChar: onehalf
-Encoding: 189 189 125
+Encoding: 125 189 125
 Width: 1708
 GlyphClass: 2
 Flags: W
@@ -26086,7 +26086,7 @@ Refer: 114 178 N 1 0 0 1 973 -695 2
 EndChar
 
 StartChar: threequarters
-Encoding: 190 190 126
+Encoding: 126 190 126
 Width: 1708
 GlyphClass: 2
 Flags: W
@@ -26126,7 +26126,7 @@ Refer: 115 179 N 1 0 0 1 59 0 2
 EndChar
 
 StartChar: questiondown
-Encoding: 191 191 127
+Encoding: 127 191 127
 Width: 1251
 GlyphClass: 2
 Flags: W
@@ -26258,7 +26258,7 @@ EndSplineSet
 EndChar
 
 StartChar: Agrave
-Encoding: 192 192 128
+Encoding: 128 192 128
 Width: 1479
 GlyphClass: 2
 Flags: W
@@ -26291,7 +26291,7 @@ Refer: 660 -1 N 1 0 0 1 342 0 2
 EndChar
 
 StartChar: Aacute
-Encoding: 193 193 129
+Encoding: 129 193 129
 Width: 1479
 GlyphClass: 2
 Flags: W
@@ -26323,7 +26323,7 @@ Refer: 661 -1 N 1 0 0 1 486 0 2
 EndChar
 
 StartChar: Acircumflex
-Encoding: 194 194 130
+Encoding: 130 194 130
 Width: 1479
 GlyphClass: 2
 Flags: W
@@ -26355,7 +26355,7 @@ Refer: 662 -1 N 1 0 0 1 397 0 2
 EndChar
 
 StartChar: Atilde
-Encoding: 195 195 131
+Encoding: 131 195 131
 Width: 1479
 GlyphClass: 2
 Flags: W
@@ -26387,7 +26387,7 @@ Refer: 665 -1 N 1 0 0 1 397 0 2
 EndChar
 
 StartChar: Adieresis
-Encoding: 196 196 132
+Encoding: 132 196 132
 Width: 1479
 GlyphClass: 2
 Flags: W
@@ -26423,7 +26423,7 @@ Refer: 664 -1 N 1 0 0 1 399 0 2
 EndChar
 
 StartChar: Aring
-Encoding: 197 197 133
+Encoding: 133 197 133
 Width: 1479
 GlyphClass: 2
 Flags: W
@@ -26458,7 +26458,7 @@ Refer: 332 730 N 1 0 0 1 446 162 2
 EndChar
 
 StartChar: AE
-Encoding: 198 198 134
+Encoding: 134 198 134
 Width: 2048
 GlyphClass: 2
 Flags: W
@@ -26643,7 +26643,7 @@ EndSplineSet
 EndChar
 
 StartChar: Ccedilla
-Encoding: 199 199 135
+Encoding: 135 199 135
 Width: 1479
 GlyphClass: 2
 Flags: W
@@ -26667,7 +26667,7 @@ Refer: 120 184 N 1 0 0 1 489 0 2
 EndChar
 
 StartChar: Egrave
-Encoding: 200 200 136
+Encoding: 136 200 136
 Width: 1366
 GlyphClass: 2
 Flags: W
@@ -26700,7 +26700,7 @@ Refer: 660 -1 N 1 0 0 1 309 0 2
 EndChar
 
 StartChar: Eacute
-Encoding: 201 201 137
+Encoding: 137 201 137
 Width: 1366
 GlyphClass: 2
 Flags: W
@@ -26732,7 +26732,7 @@ Refer: 661 -1 N 1 0 0 1 430 0 2
 EndChar
 
 StartChar: Ecircumflex
-Encoding: 202 202 138
+Encoding: 138 202 138
 Width: 1366
 GlyphClass: 2
 Flags: W
@@ -26764,7 +26764,7 @@ Refer: 662 -1 N 1 0 0 1 371 0 2
 EndChar
 
 StartChar: Edieresis
-Encoding: 203 203 139
+Encoding: 139 203 139
 Width: 1366
 GlyphClass: 2
 Flags: W
@@ -26800,7 +26800,7 @@ Refer: 664 -1 N 1 0 0 1 371 0 2
 EndChar
 
 StartChar: Igrave
-Encoding: 204 204 140
+Encoding: 140 204 140
 Width: 569
 GlyphClass: 2
 Flags: W
@@ -26833,7 +26833,7 @@ Refer: 660 -1 N 1 0 0 1 -127 0 2
 EndChar
 
 StartChar: Iacute
-Encoding: 205 205 141
+Encoding: 141 205 141
 Width: 569
 GlyphClass: 2
 Flags: W
@@ -26865,7 +26865,7 @@ Refer: 661 -1 N 1 0 0 1 17 0 2
 EndChar
 
 StartChar: Icircumflex
-Encoding: 206 206 142
+Encoding: 142 206 142
 Width: 569
 GlyphClass: 2
 Flags: W
@@ -26898,7 +26898,7 @@ Refer: 662 -1 N 1 0 0 1 -58 0 2
 EndChar
 
 StartChar: Idieresis
-Encoding: 207 207 143
+Encoding: 143 207 143
 Width: 569
 GlyphClass: 2
 Flags: W
@@ -26934,7 +26934,7 @@ Refer: 664 -1 N 1 0 0 1 -56 0 2
 EndChar
 
 StartChar: Eth
-Encoding: 208 208 144
+Encoding: 144 208 144
 Width: 1479
 GlyphClass: 2
 Flags: W
@@ -27096,7 +27096,7 @@ EndSplineSet
 EndChar
 
 StartChar: Ntilde
-Encoding: 209 209 145
+Encoding: 145 209 145
 Width: 1479
 GlyphClass: 2
 Flags: W
@@ -27128,7 +27128,7 @@ Refer: 665 -1 N 1 0 0 1 398 0 2
 EndChar
 
 StartChar: Ograve
-Encoding: 210 210 146
+Encoding: 146 210 146
 Width: 1593
 GlyphClass: 2
 Flags: W
@@ -27160,7 +27160,7 @@ Refer: 660 -1 N 1 0 0 1 460 0 2
 EndChar
 
 StartChar: Oacute
-Encoding: 211 211 147
+Encoding: 147 211 147
 Width: 1593
 GlyphClass: 2
 Flags: W
@@ -27192,7 +27192,7 @@ Refer: 661 -1 N 1 0 0 1 538 0 2
 EndChar
 
 StartChar: Ocircumflex
-Encoding: 212 212 148
+Encoding: 148 212 148
 Width: 1593
 GlyphClass: 2
 Flags: W
@@ -27225,7 +27225,7 @@ Refer: 662 -1 N 1 0 0 1 453 0 2
 EndChar
 
 StartChar: Otilde
-Encoding: 213 213 149
+Encoding: 149 213 149
 Width: 1593
 GlyphClass: 2
 Flags: W
@@ -27258,7 +27258,7 @@ Refer: 665 -1 N 1 0 0 1 446 0 2
 EndChar
 
 StartChar: Odieresis
-Encoding: 214 214 150
+Encoding: 150 214 150
 Width: 1593
 GlyphClass: 2
 Flags: W
@@ -27295,7 +27295,7 @@ Refer: 664 -1 N 1 0 0 1 454 0 2
 EndChar
 
 StartChar: multiply
-Encoding: 215 215 151
+Encoding: 151 215 151
 Width: 1196
 GlyphClass: 2
 Flags: W
@@ -27442,7 +27442,7 @@ EndSplineSet
 EndChar
 
 StartChar: Oslash
-Encoding: 216 216 152
+Encoding: 152 216 152
 Width: 1593
 GlyphClass: 2
 Flags: W
@@ -27719,7 +27719,7 @@ EndSplineSet
 EndChar
 
 StartChar: Ugrave
-Encoding: 217 217 153
+Encoding: 153 217 153
 Width: 1479
 GlyphClass: 2
 Flags: W
@@ -27752,7 +27752,7 @@ Refer: 660 -1 N 1 0 0 1 329 0 2
 EndChar
 
 StartChar: Uacute
-Encoding: 218 218 154
+Encoding: 154 218 154
 Width: 1479
 GlyphClass: 2
 Flags: W
@@ -27784,7 +27784,7 @@ Refer: 661 -1 N 1 0 0 1 505 0 2
 EndChar
 
 StartChar: Ucircumflex
-Encoding: 219 219 155
+Encoding: 155 219 155
 Width: 1479
 GlyphClass: 2
 Flags: W
@@ -27817,7 +27817,7 @@ Refer: 662 -1 N 1 0 0 1 395 0 2
 EndChar
 
 StartChar: Udieresis
-Encoding: 220 220 156
+Encoding: 156 220 156
 Width: 1479
 GlyphClass: 2
 Flags: W
@@ -27853,7 +27853,7 @@ Refer: 664 -1 N 1 0 0 1 398 0 2
 EndChar
 
 StartChar: Yacute
-Encoding: 221 221 157
+Encoding: 157 221 157
 Width: 1366
 GlyphClass: 2
 Flags: W
@@ -27885,7 +27885,7 @@ Refer: 661 -1 N 1 0 0 1 437 0 2
 EndChar
 
 StartChar: Thorn
-Encoding: 222 222 158
+Encoding: 158 222 158
 Width: 1366
 GlyphClass: 2
 Flags: W
@@ -27990,7 +27990,7 @@ EndSplineSet
 EndChar
 
 StartChar: germandbls
-Encoding: 223 223 159
+Encoding: 159 223 159
 Width: 1251
 GlyphClass: 2
 Flags: W
@@ -28186,7 +28186,7 @@ EndSplineSet
 EndChar
 
 StartChar: agrave
-Encoding: 224 224 160
+Encoding: 160 224 160
 Width: 1139
 GlyphClass: 2
 Flags: W
@@ -28219,7 +28219,7 @@ Refer: 67 96 N 1 0 0 1 174 0 2
 EndChar
 
 StartChar: aacute
-Encoding: 225 225 161
+Encoding: 161 225 161
 Width: 1139
 GlyphClass: 2
 Flags: W
@@ -28251,7 +28251,7 @@ Refer: 116 180 N 1 0 0 1 288 0 2
 EndChar
 
 StartChar: acircumflex
-Encoding: 226 226 162
+Encoding: 162 226 162
 Width: 1139
 GlyphClass: 2
 Flags: W
@@ -28284,7 +28284,7 @@ Refer: 327 710 N 1 0 0 1 199 0 2
 EndChar
 
 StartChar: atilde
-Encoding: 227 227 163
+Encoding: 163 227 163
 Width: 1139
 GlyphClass: 2
 Flags: W
@@ -28317,7 +28317,7 @@ Refer: 334 732 N 1 0 0 1 176 0 2
 EndChar
 
 StartChar: adieresis
-Encoding: 228 228 164
+Encoding: 164 228 164
 Width: 1139
 GlyphClass: 2
 Flags: W
@@ -28354,7 +28354,7 @@ Refer: 105 168 N 1 0 0 1 215 0 2
 EndChar
 
 StartChar: aring
-Encoding: 229 229 165
+Encoding: 165 229 165
 Width: 1139
 GlyphClass: 2
 Flags: W
@@ -28391,7 +28391,7 @@ Refer: 332 730 N 1 0 0 1 266 41 2
 EndChar
 
 StartChar: ae
-Encoding: 230 230 166
+Encoding: 166 230 166
 Width: 1821
 GlyphClass: 2
 Flags: W
@@ -28648,7 +28648,7 @@ EndSplineSet
 EndChar
 
 StartChar: ccedilla
-Encoding: 231 231 167
+Encoding: 167 231 167
 Width: 1139
 GlyphClass: 2
 Flags: W
@@ -28672,7 +28672,7 @@ Refer: 120 184 N 1 0 0 1 291 0 2
 EndChar
 
 StartChar: egrave
-Encoding: 232 232 168
+Encoding: 168 232 168
 Width: 1139
 GlyphClass: 2
 Flags: W
@@ -28705,7 +28705,7 @@ Refer: 67 96 N 1 0 0 1 221 0 2
 EndChar
 
 StartChar: eacute
-Encoding: 233 233 169
+Encoding: 169 233 169
 Width: 1139
 GlyphClass: 2
 Flags: W
@@ -28737,7 +28737,7 @@ Refer: 116 180 N 1 0 0 1 331 0 2
 EndChar
 
 StartChar: ecircumflex
-Encoding: 234 234 170
+Encoding: 170 234 170
 Width: 1139
 GlyphClass: 2
 Flags: W
@@ -28769,7 +28769,7 @@ Refer: 327 710 N 1 0 0 1 223 0 2
 EndChar
 
 StartChar: edieresis
-Encoding: 235 235 171
+Encoding: 171 235 171
 Width: 1139
 GlyphClass: 2
 Flags: W
@@ -28805,7 +28805,7 @@ Refer: 105 168 N 1 0 0 1 244 0 2
 EndChar
 
 StartChar: igrave
-Encoding: 236 236 172
+Encoding: 172 236 172
 Width: 569
 GlyphClass: 2
 Flags: W
@@ -28838,7 +28838,7 @@ Refer: 67 96 N 1 0 0 1 -130 0 2
 EndChar
 
 StartChar: iacute
-Encoding: 237 237 173
+Encoding: 173 237 173
 Width: 569
 GlyphClass: 2
 Flags: W
@@ -28870,7 +28870,7 @@ Refer: 116 180 N 1 0 0 1 27 0 2
 EndChar
 
 StartChar: icircumflex
-Encoding: 238 238 174
+Encoding: 174 238 174
 Width: 569
 GlyphClass: 2
 Flags: W
@@ -28902,7 +28902,7 @@ Refer: 327 710 N 1 0 0 1 -83 0 2
 EndChar
 
 StartChar: idieresis
-Encoding: 239 239 175
+Encoding: 175 239 175
 Width: 569
 GlyphClass: 2
 Flags: W
@@ -28938,7 +28938,7 @@ Refer: 105 168 N 1 0 0 1 -56 0 2
 EndChar
 
 StartChar: eth
-Encoding: 240 240 176
+Encoding: 176 240 176
 Width: 1251
 GlyphClass: 2
 Flags: W
@@ -29156,7 +29156,7 @@ EndSplineSet
 EndChar
 
 StartChar: ntilde
-Encoding: 241 241 177
+Encoding: 177 241 177
 Width: 1251
 GlyphClass: 2
 Flags: W
@@ -29188,7 +29188,7 @@ Refer: 334 732 N 1 0 0 1 266 0 2
 EndChar
 
 StartChar: ograve
-Encoding: 242 242 178
+Encoding: 178 242 178
 Width: 1251
 GlyphClass: 2
 Flags: W
@@ -29221,7 +29221,7 @@ Refer: 67 96 N 1 0 0 1 262 0 2
 EndChar
 
 StartChar: oacute
-Encoding: 243 243 179
+Encoding: 179 243 179
 Width: 1251
 GlyphClass: 2
 Flags: W
@@ -29253,7 +29253,7 @@ Refer: 116 180 N 1 0 0 1 378 0 2
 EndChar
 
 StartChar: ocircumflex
-Encoding: 244 244 180
+Encoding: 180 244 180
 Width: 1251
 GlyphClass: 2
 Flags: W
@@ -29286,7 +29286,7 @@ Refer: 327 710 N 1 0 0 1 256 0 2
 EndChar
 
 StartChar: otilde
-Encoding: 245 245 181
+Encoding: 181 245 181
 Width: 1251
 GlyphClass: 2
 Flags: W
@@ -29319,7 +29319,7 @@ Refer: 334 732 N 1 0 0 1 248 0 2
 EndChar
 
 StartChar: odieresis
-Encoding: 246 246 182
+Encoding: 182 246 182
 Width: 1251
 GlyphClass: 2
 Flags: W
@@ -29355,7 +29355,7 @@ Refer: 105 168 N 1 0 0 1 284 0 2
 EndChar
 
 StartChar: divide
-Encoding: 247 247 183
+Encoding: 183 247 183
 Width: 1124
 GlyphClass: 2
 Flags: W
@@ -29460,7 +29460,7 @@ EndSplineSet
 EndChar
 
 StartChar: oslash
-Encoding: 248 248 184
+Encoding: 184 248 184
 Width: 1251
 GlyphClass: 2
 Flags: W
@@ -29635,7 +29635,7 @@ EndSplineSet
 EndChar
 
 StartChar: ugrave
-Encoding: 249 249 185
+Encoding: 185 249 185
 Width: 1251
 GlyphClass: 2
 Flags: W
@@ -29668,7 +29668,7 @@ Refer: 67 96 N 1 0 0 1 217 0 2
 EndChar
 
 StartChar: uacute
-Encoding: 250 250 186
+Encoding: 186 250 186
 Width: 1251
 GlyphClass: 2
 Flags: W
@@ -29700,7 +29700,7 @@ Refer: 116 180 N 1 0 0 1 376 0 2
 EndChar
 
 StartChar: ucircumflex
-Encoding: 251 251 187
+Encoding: 187 251 187
 Width: 1251
 GlyphClass: 2
 Flags: W
@@ -29733,7 +29733,7 @@ Refer: 327 710 N 1 0 0 1 252 0 2
 EndChar
 
 StartChar: udieresis
-Encoding: 252 252 188
+Encoding: 188 252 188
 Width: 1251
 GlyphClass: 2
 Flags: W
@@ -29769,7 +29769,7 @@ Refer: 105 168 N 1 0 0 1 282 0 2
 EndChar
 
 StartChar: yacute
-Encoding: 253 253 189
+Encoding: 189 253 189
 Width: 1139
 GlyphClass: 2
 Flags: W
@@ -29801,7 +29801,7 @@ Refer: 116 180 N 1 0 0 1 326 0 2
 EndChar
 
 StartChar: thorn
-Encoding: 254 254 190
+Encoding: 190 254 190
 Width: 1251
 GlyphClass: 2
 Flags: W
@@ -29933,7 +29933,7 @@ EndSplineSet
 EndChar
 
 StartChar: ydieresis
-Encoding: 255 255 191
+Encoding: 191 255 191
 Width: 1139
 GlyphClass: 2
 Flags: W
@@ -29969,7 +29969,7 @@ Refer: 105 168 N 1 0 0 1 241 0 2
 EndChar
 
 StartChar: Amacron
-Encoding: 256 256 192
+Encoding: 192 256 192
 Width: 1479
 GlyphClass: 2
 Flags: W
@@ -30001,7 +30001,7 @@ Refer: 329 713 N 1 0 0 1 396 334 2
 EndChar
 
 StartChar: amacron
-Encoding: 257 257 193
+Encoding: 193 257 193
 Width: 1139
 GlyphClass: 2
 Flags: W
@@ -30034,7 +30034,7 @@ Refer: 329 713 N 1 0 0 1 243 0 2
 EndChar
 
 StartChar: Abreve
-Encoding: 258 258 194
+Encoding: 194 258 194
 Width: 1479
 GlyphClass: 2
 Flags: W
@@ -30066,7 +30066,7 @@ Refer: 667 -1 N 1 0 0 1 390 0 2
 EndChar
 
 StartChar: abreve
-Encoding: 259 259 195
+Encoding: 195 259 195
 Width: 1139
 GlyphClass: 2
 Flags: W
@@ -30099,7 +30099,7 @@ Refer: 330 728 N 1 0 0 1 283 0 2
 EndChar
 
 StartChar: Aogonek
-Encoding: 260 260 196
+Encoding: 196 260 196
 Width: 1479
 GlyphClass: 2
 Flags: W
@@ -30124,7 +30124,7 @@ Refer: 333 731 N 1 0 0 1 949 11 2
 EndChar
 
 StartChar: aogonek
-Encoding: 261 261 197
+Encoding: 197 261 197
 Width: 1139
 GlyphClass: 2
 Flags: W
@@ -30154,7 +30154,7 @@ Refer: 333 731 N 1 0 0 1 609 0 2
 EndChar
 
 StartChar: Cacute
-Encoding: 262 262 198
+Encoding: 198 262 198
 Width: 1479
 GlyphClass: 2
 Flags: W
@@ -30186,7 +30186,7 @@ Refer: 661 -1 N 1 0 0 1 565 0 2
 EndChar
 
 StartChar: cacute
-Encoding: 263 263 199
+Encoding: 199 263 199
 Width: 1139
 GlyphClass: 2
 Flags: W
@@ -30218,7 +30218,7 @@ Refer: 116 180 N 1 0 0 1 359 0 2
 EndChar
 
 StartChar: Ccircumflex
-Encoding: 264 264 200
+Encoding: 200 264 200
 Width: 1479
 GlyphClass: 2
 Flags: W
@@ -30250,7 +30250,7 @@ Refer: 662 -1 N 1 0 0 1 460 0 2
 EndChar
 
 StartChar: ccircumflex
-Encoding: 265 265 201
+Encoding: 201 265 201
 Width: 1139
 GlyphClass: 2
 Flags: W
@@ -30282,7 +30282,7 @@ Refer: 327 710 N 1 0 0 1 230 0 2
 EndChar
 
 StartChar: Cdotaccent
-Encoding: 266 266 202
+Encoding: 202 266 202
 Width: 1479
 GlyphClass: 2
 Flags: W
@@ -30314,7 +30314,7 @@ Refer: 331 729 N 1 0 0 1 446 270 2
 EndChar
 
 StartChar: cdotaccent
-Encoding: 267 267 203
+Encoding: 203 267 203
 Width: 1139
 GlyphClass: 2
 Flags: W
@@ -30338,7 +30338,7 @@ Refer: 331 729 N 1 0 0 1 260 0 2
 EndChar
 
 StartChar: Ccaron
-Encoding: 268 268 204
+Encoding: 204 268 204
 Width: 1479
 GlyphClass: 2
 Flags: W
@@ -30370,7 +30370,7 @@ Refer: 663 -1 N 1 0 0 1 440 0 2
 EndChar
 
 StartChar: ccaron
-Encoding: 269 269 205
+Encoding: 205 269 205
 Width: 1139
 GlyphClass: 2
 Flags: W
@@ -30402,7 +30402,7 @@ Refer: 328 711 N 1 0 0 1 214 0 2
 EndChar
 
 StartChar: Dcaron
-Encoding: 270 270 206
+Encoding: 206 270 206
 Width: 1479
 GlyphClass: 2
 Flags: W
@@ -30435,7 +30435,7 @@ Refer: 663 -1 N 1 0 0 1 358 0 2
 EndChar
 
 StartChar: dcaron
-Encoding: 271 271 207
+Encoding: 207 271 207
 Width: 1472
 GlyphClass: 2
 Flags: W
@@ -30466,7 +30466,7 @@ Refer: 658 -1 N 1 0 0 1 1115 75 2
 EndChar
 
 StartChar: Dcroat
-Encoding: 272 272 208
+Encoding: 208 272 208
 Width: 1479
 GlyphClass: 2
 Flags: W
@@ -30476,7 +30476,7 @@ Refer: 144 208 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: dcroat
-Encoding: 273 273 209
+Encoding: 209 273 209
 Width: 1251
 GlyphClass: 2
 Flags: W
@@ -30665,7 +30665,7 @@ EndSplineSet
 EndChar
 
 StartChar: Emacron
-Encoding: 274 274 210
+Encoding: 210 274 210
 Width: 1366
 GlyphClass: 2
 Flags: W
@@ -30698,7 +30698,7 @@ Refer: 329 713 N 1 0 0 1 350 334 2
 EndChar
 
 StartChar: emacron
-Encoding: 275 275 211
+Encoding: 211 275 211
 Width: 1139
 GlyphClass: 2
 Flags: W
@@ -30730,7 +30730,7 @@ Refer: 329 713 N 1 0 0 1 245 0 2
 EndChar
 
 StartChar: Ebreve
-Encoding: 276 276 212
+Encoding: 212 276 212
 Width: 1366
 GlyphClass: 2
 Flags: W
@@ -30763,7 +30763,7 @@ Refer: 667 -1 N 1 0 0 1 353 0 2
 EndChar
 
 StartChar: ebreve
-Encoding: 277 277 213
+Encoding: 213 277 213
 Width: 1139
 GlyphClass: 2
 Flags: W
@@ -30796,7 +30796,7 @@ Refer: 330 728 N 1 0 0 1 272 0 2
 EndChar
 
 StartChar: Edotaccent
-Encoding: 278 278 214
+Encoding: 214 278 214
 Width: 1366
 GlyphClass: 2
 Flags: W
@@ -30829,7 +30829,7 @@ Refer: 331 729 N 1 0 0 1 365 270 2
 EndChar
 
 StartChar: edotaccent
-Encoding: 279 279 215
+Encoding: 215 279 215
 Width: 1139
 GlyphClass: 2
 Flags: W
@@ -30853,7 +30853,7 @@ Refer: 331 729 N 1 0 0 1 241 0 2
 EndChar
 
 StartChar: Eogonek
-Encoding: 280 280 216
+Encoding: 216 280 216
 Width: 1366
 GlyphClass: 2
 Flags: W
@@ -30883,7 +30883,7 @@ Refer: 333 731 N 1 0 0 1 749 0 2
 EndChar
 
 StartChar: eogonek
-Encoding: 281 281 217
+Encoding: 217 281 217
 Width: 1139
 GlyphClass: 2
 Flags: W
@@ -30918,7 +30918,7 @@ Refer: 333 731 N 1 0 0 1 463 17 2
 EndChar
 
 StartChar: Ecaron
-Encoding: 282 282 218
+Encoding: 218 282 218
 Width: 1366
 GlyphClass: 2
 Flags: W
@@ -30951,7 +30951,7 @@ Refer: 663 -1 N 1 0 0 1 367 0 2
 EndChar
 
 StartChar: ecaron
-Encoding: 283 283 219
+Encoding: 219 283 219
 Width: 1139
 GlyphClass: 2
 Flags: W
@@ -30983,7 +30983,7 @@ Refer: 328 711 N 1 0 0 1 216 0 2
 EndChar
 
 StartChar: Gcircumflex
-Encoding: 284 284 220
+Encoding: 220 284 220
 Width: 1593
 GlyphClass: 2
 Flags: W
@@ -31015,7 +31015,7 @@ Refer: 662 -1 N 1 0 0 1 455 0 2
 EndChar
 
 StartChar: gcircumflex
-Encoding: 285 285 221
+Encoding: 221 285 221
 Width: 1251
 GlyphClass: 2
 Flags: W
@@ -31047,7 +31047,7 @@ Refer: 327 710 N 1 0 0 1 233 0 2
 EndChar
 
 StartChar: Gbreve
-Encoding: 286 286 222
+Encoding: 222 286 222
 Width: 1593
 GlyphClass: 2
 Flags: W
@@ -31079,7 +31079,7 @@ Refer: 667 -1 N 1 0 0 1 461 0 2
 EndChar
 
 StartChar: gbreve
-Encoding: 287 287 223
+Encoding: 223 287 223
 Width: 1251
 GlyphClass: 2
 Flags: W
@@ -31111,7 +31111,7 @@ Refer: 330 728 N 1 0 0 1 310 0 2
 EndChar
 
 StartChar: Gdotaccent
-Encoding: 288 288 224
+Encoding: 224 288 224
 Width: 1593
 GlyphClass: 2
 Flags: W
@@ -31143,7 +31143,7 @@ Refer: 331 729 N 1 0 0 1 467 270 2
 EndChar
 
 StartChar: gdotaccent
-Encoding: 289 289 225
+Encoding: 225 289 225
 Width: 1251
 GlyphClass: 2
 Flags: W
@@ -31167,7 +31167,7 @@ Refer: 331 729 N 1 0 0 1 285 0 2
 EndChar
 
 StartChar: Gcommaaccent
-Encoding: 290 290 226
+Encoding: 226 290 226
 Width: 1593
 GlyphClass: 2
 Flags: W
@@ -31191,7 +31191,7 @@ Refer: 652 -1 N 1 0 0 1 590 0 2
 EndChar
 
 StartChar: gcommaaccent
-Encoding: 291 291 227
+Encoding: 227 291 227
 Width: 1251
 GlyphClass: 2
 Flags: W
@@ -31229,7 +31229,7 @@ Refer: 659 -1 N 1 0 0 1 393 0 2
 EndChar
 
 StartChar: Hcircumflex
-Encoding: 292 292 228
+Encoding: 228 292 228
 Width: 1479
 GlyphClass: 2
 Flags: W
@@ -31261,7 +31261,7 @@ Refer: 662 -1 N 1 0 0 1 403 0 2
 EndChar
 
 StartChar: hcircumflex
-Encoding: 293 293 229
+Encoding: 229 293 229
 Width: 1251
 GlyphClass: 2
 Flags: W
@@ -31293,7 +31293,7 @@ Refer: 662 -1 N 1 0 0 1 302 79 2
 EndChar
 
 StartChar: Hbar
-Encoding: 294 294 230
+Encoding: 230 294 230
 Width: 1479
 GlyphClass: 2
 Flags: W
@@ -31438,7 +31438,7 @@ EndSplineSet
 EndChar
 
 StartChar: hbar
-Encoding: 295 295 231
+Encoding: 231 295 231
 Width: 1251
 GlyphClass: 2
 Flags: W
@@ -31617,7 +31617,7 @@ EndSplineSet
 EndChar
 
 StartChar: Itilde
-Encoding: 296 296 232
+Encoding: 232 296 232
 Width: 569
 GlyphClass: 2
 Flags: W
@@ -31649,7 +31649,7 @@ Refer: 665 -1 N 1 0 0 1 -54 0 2
 EndChar
 
 StartChar: itilde
-Encoding: 297 297 233
+Encoding: 233 297 233
 Width: 569
 GlyphClass: 2
 Flags: W
@@ -31681,7 +31681,7 @@ Refer: 334 732 N 1 0 0 1 -89 0 2
 EndChar
 
 StartChar: Imacron
-Encoding: 298 298 234
+Encoding: 234 298 234
 Width: 569
 GlyphClass: 2
 Flags: W
@@ -31713,7 +31713,7 @@ Refer: 329 713 N 1 0 0 1 -56 334 2
 EndChar
 
 StartChar: imacron
-Encoding: 299 299 235
+Encoding: 235 299 235
 Width: 569
 GlyphClass: 2
 Flags: W
@@ -31745,7 +31745,7 @@ Refer: 329 713 N 1 0 0 1 -56 0 2
 EndChar
 
 StartChar: Ibreve
-Encoding: 300 300 236
+Encoding: 236 300 236
 Width: 569
 GlyphClass: 2
 Flags: W
@@ -31777,7 +31777,7 @@ Refer: 667 -1 N 1 0 0 1 -63 0 2
 EndChar
 
 StartChar: ibreve
-Encoding: 301 301 237
+Encoding: 237 301 237
 Width: 569
 GlyphClass: 2
 Flags: W
@@ -31809,7 +31809,7 @@ Refer: 330 728 N 1 0 0 1 -10 0 2
 EndChar
 
 StartChar: Iogonek
-Encoding: 302 302 238
+Encoding: 238 302 238
 Width: 569
 GlyphClass: 2
 Flags: W
@@ -31834,7 +31834,7 @@ Refer: 333 731 N 1 0 0 1 12 0 2
 EndChar
 
 StartChar: iogonek
-Encoding: 303 303 239
+Encoding: 239 303 239
 Width: 569
 GlyphClass: 2
 Flags: W
@@ -31859,7 +31859,7 @@ Refer: 333 731 N 1 0 0 1 -7 0 2
 EndChar
 
 StartChar: Idotaccent
-Encoding: 304 304 240
+Encoding: 240 304 240
 Width: 569
 GlyphClass: 2
 Flags: W
@@ -31891,7 +31891,7 @@ Refer: 331 729 N 1 0 0 1 -54 270 2
 EndChar
 
 StartChar: dotlessi
-Encoding: 305 305 241
+Encoding: 241 305 241
 Width: 569
 GlyphClass: 2
 Flags: W
@@ -31972,7 +31972,7 @@ EndSplineSet
 EndChar
 
 StartChar: IJ
-Encoding: 306 306 242
+Encoding: 242 306 242
 Width: 1607
 GlyphClass: 2
 Flags: W
@@ -32011,7 +32011,7 @@ Refer: 45 74 N 1 0 0 1 468 0 2
 EndChar
 
 StartChar: ij
-Encoding: 307 307 243
+Encoding: 243 307 243
 Width: 1139
 GlyphClass: 2
 Flags: W
@@ -32063,7 +32063,7 @@ Refer: 77 106 N 1 0 0 1 569 0 2
 EndChar
 
 StartChar: Jcircumflex
-Encoding: 308 308 244
+Encoding: 244 308 244
 Width: 1139
 GlyphClass: 2
 Flags: W
@@ -32095,7 +32095,7 @@ Refer: 662 -1 N 1 0 0 1 348 0 2
 EndChar
 
 StartChar: jcircumflex
-Encoding: 309 309 245
+Encoding: 245 309 245
 Width: 569
 GlyphClass: 2
 Flags: W
@@ -32429,7 +32429,7 @@ EndSplineSet
 EndChar
 
 StartChar: Kcommaaccent
-Encoding: 310 310 246
+Encoding: 246 310 246
 Width: 1479
 GlyphClass: 2
 Flags: W
@@ -32462,7 +32462,7 @@ Refer: 652 -1 N 1 0 0 1 527 0 2
 EndChar
 
 StartChar: kcommaaccent
-Encoding: 311 311 247
+Encoding: 247 311 247
 Width: 1139
 GlyphClass: 2
 Flags: W
@@ -32487,7 +32487,7 @@ Refer: 652 -1 N 1 0 0 1 377 0 2
 EndChar
 
 StartChar: kgreenlandic
-Encoding: 312 312 248
+Encoding: 248 312 248
 Width: 1139
 GlyphClass: 2
 Flags: W
@@ -32635,7 +32635,7 @@ EndSplineSet
 EndChar
 
 StartChar: Lacute
-Encoding: 313 313 249
+Encoding: 249 313 249
 Width: 1251
 GlyphClass: 2
 Flags: W
@@ -32668,7 +32668,7 @@ Refer: 661 -1 N 1 0 0 1 173 0 2
 EndChar
 
 StartChar: lacute
-Encoding: 314 314 250
+Encoding: 250 314 250
 Width: 569
 GlyphClass: 2
 Flags: W
@@ -32700,7 +32700,7 @@ Refer: 661 -1 N 1 0 0 1 19 79 2
 EndChar
 
 StartChar: Lcommaaccent
-Encoding: 315 315 251
+Encoding: 251 315 251
 Width: 1251
 GlyphClass: 2
 Flags: W
@@ -32725,7 +32725,7 @@ Refer: 652 -1 N 1 0 0 1 409 0 2
 EndChar
 
 StartChar: lcommaaccent
-Encoding: 316 316 252
+Encoding: 252 316 252
 Width: 569
 GlyphClass: 2
 Flags: W
@@ -32749,7 +32749,7 @@ Refer: 652 -1 N 1 0 0 1 58 0 2
 EndChar
 
 StartChar: Lcaron
-Encoding: 317 317 253
+Encoding: 253 317 253
 Width: 1251
 GlyphClass: 2
 Flags: W
@@ -32780,7 +32780,7 @@ Refer: 658 -1 N 1 0 0 1 626 0 2
 EndChar
 
 StartChar: lcaron
-Encoding: 318 318 254
+Encoding: 254 318 254
 Width: 789
 GlyphClass: 2
 Flags: W
@@ -32811,7 +32811,7 @@ Refer: 658 -1 N 1 0 0 1 432 75 2
 EndChar
 
 StartChar: Ldot
-Encoding: 319 319 255
+Encoding: 255 319 255
 Width: 1251
 GlyphClass: 2
 Flags: W
@@ -32835,7 +32835,7 @@ Refer: 331 729 N 1 0 0 1 469 -626 2
 EndChar
 
 StartChar: ldot
-Encoding: 320 320 256
+Encoding: 256 320 256
 Width: 981
 GlyphClass: 2
 Flags: W
@@ -32864,7 +32864,7 @@ Refer: 331 729 N 1 0 0 1 400 -626 2
 EndChar
 
 StartChar: Lslash
-Encoding: 321 321 257
+Encoding: 257 321 257
 Width: 1251
 GlyphClass: 2
 Flags: W
@@ -32961,7 +32961,7 @@ EndSplineSet
 EndChar
 
 StartChar: lslash
-Encoding: 322 322 258
+Encoding: 258 322 258
 Width: 569
 GlyphClass: 2
 Flags: W
@@ -33109,7 +33109,7 @@ EndSplineSet
 EndChar
 
 StartChar: Nacute
-Encoding: 323 323 259
+Encoding: 259 323 259
 Width: 1479
 GlyphClass: 2
 Flags: W
@@ -33141,7 +33141,7 @@ Refer: 661 -1 N 1 0 0 1 487 0 2
 EndChar
 
 StartChar: nacute
-Encoding: 324 324 260
+Encoding: 260 324 260
 Width: 1251
 GlyphClass: 2
 Flags: W
@@ -33173,7 +33173,7 @@ Refer: 116 180 N 1 0 0 1 388 0 2
 EndChar
 
 StartChar: Ncommaaccent
-Encoding: 325 325 261
+Encoding: 261 325 261
 Width: 1479
 GlyphClass: 2
 Flags: W
@@ -33198,7 +33198,7 @@ Refer: 652 -1 N 1 0 0 1 508 0 2
 EndChar
 
 StartChar: ncommaaccent
-Encoding: 326 326 262
+Encoding: 262 326 262
 Width: 1251
 GlyphClass: 2
 Flags: W
@@ -33222,7 +33222,7 @@ Refer: 652 -1 N 1 0 0 1 411 0 2
 EndChar
 
 StartChar: Ncaron
-Encoding: 327 327 263
+Encoding: 263 327 263
 Width: 1479
 GlyphClass: 2
 Flags: W
@@ -33255,7 +33255,7 @@ Refer: 663 -1 N 1 0 0 1 392 0 2
 EndChar
 
 StartChar: ncaron
-Encoding: 328 328 264
+Encoding: 264 328 264
 Width: 1251
 GlyphClass: 2
 Flags: W
@@ -33288,7 +33288,7 @@ Refer: 328 711 N 1 0 0 1 242 0 2
 EndChar
 
 StartChar: napostrophe
-Encoding: 329 329 265
+Encoding: 265 329 265
 Width: 1451
 GlyphClass: 2
 Flags: W
@@ -33365,7 +33365,7 @@ Refer: 515 8217 N 1 0 0 1 -161 0 2
 EndChar
 
 StartChar: Eng
-Encoding: 330 330 266
+Encoding: 266 330 266
 Width: 1481
 GlyphClass: 2
 Flags: W
@@ -33505,7 +33505,7 @@ EndSplineSet
 EndChar
 
 StartChar: eng
-Encoding: 331 331 267
+Encoding: 267 331 267
 Width: 1251
 GlyphClass: 2
 Flags: W
@@ -33662,7 +33662,7 @@ EndSplineSet
 EndChar
 
 StartChar: Omacron
-Encoding: 332 332 268
+Encoding: 268 332 268
 Width: 1593
 GlyphClass: 2
 Flags: W
@@ -33694,7 +33694,7 @@ Refer: 329 713 N 1 0 0 1 454 334 2
 EndChar
 
 StartChar: omacron
-Encoding: 333 333 269
+Encoding: 269 333 269
 Width: 1251
 GlyphClass: 2
 Flags: W
@@ -33726,7 +33726,7 @@ Refer: 329 713 N 1 0 0 1 288 0 2
 EndChar
 
 StartChar: Obreve
-Encoding: 334 334 270
+Encoding: 270 334 270
 Width: 1593
 GlyphClass: 2
 Flags: W
@@ -33759,7 +33759,7 @@ Refer: 667 -1 N 1 0 0 1 437 0 2
 EndChar
 
 StartChar: obreve
-Encoding: 335 335 271
+Encoding: 271 335 271
 Width: 1251
 GlyphClass: 2
 Flags: W
@@ -33791,7 +33791,7 @@ Refer: 330 728 N 1 0 0 1 336 0 2
 EndChar
 
 StartChar: Ohungarumlaut
-Encoding: 336 336 272
+Encoding: 272 336 272
 Width: 1593
 GlyphClass: 2
 Flags: W
@@ -33827,7 +33827,7 @@ Refer: 666 -1 N 1 0 0 1 561 0 2
 EndChar
 
 StartChar: ohungarumlaut
-Encoding: 337 337 273
+Encoding: 273 337 273
 Width: 1251
 GlyphClass: 2
 Flags: W
@@ -33863,7 +33863,7 @@ Refer: 335 733 N 1 0 0 1 385 0 2
 EndChar
 
 StartChar: OE
-Encoding: 338 338 274
+Encoding: 274 338 274
 Width: 2048
 GlyphClass: 2
 Flags: W
@@ -34040,7 +34040,7 @@ EndSplineSet
 EndChar
 
 StartChar: oe
-Encoding: 339 339 275
+Encoding: 275 339 275
 Width: 1933
 GlyphClass: 2
 Flags: W
@@ -34202,7 +34202,7 @@ EndSplineSet
 EndChar
 
 StartChar: Racute
-Encoding: 340 340 276
+Encoding: 276 340 276
 Width: 1479
 GlyphClass: 2
 Flags: W
@@ -34234,7 +34234,7 @@ Refer: 661 -1 N 1 0 0 1 461 0 2
 EndChar
 
 StartChar: racute
-Encoding: 341 341 277
+Encoding: 277 341 277
 Width: 797
 GlyphClass: 2
 Flags: W
@@ -34266,7 +34266,7 @@ Refer: 116 180 N 1 0 0 1 182 0 2
 EndChar
 
 StartChar: Rcommaaccent
-Encoding: 342 342 278
+Encoding: 278 342 278
 Width: 1479
 GlyphClass: 2
 Flags: W
@@ -34291,7 +34291,7 @@ Refer: 652 -1 N 1 0 0 1 517 0 2
 EndChar
 
 StartChar: rcommaaccent
-Encoding: 343 343 279
+Encoding: 279 343 279
 Width: 797
 GlyphClass: 2
 Flags: W
@@ -34316,7 +34316,7 @@ Refer: 652 -1 N 1 0 0 1 57 0 2
 EndChar
 
 StartChar: Rcaron
-Encoding: 344 344 280
+Encoding: 280 344 280
 Width: 1479
 GlyphClass: 2
 Flags: W
@@ -34349,7 +34349,7 @@ Refer: 663 -1 N 1 0 0 1 358 0 2
 EndChar
 
 StartChar: rcaron
-Encoding: 345 345 281
+Encoding: 281 345 281
 Width: 797
 GlyphClass: 2
 Flags: W
@@ -34382,7 +34382,7 @@ Refer: 328 711 N 1 0 0 1 56 0 2
 EndChar
 
 StartChar: Sacute
-Encoding: 346 346 282
+Encoding: 282 346 282
 Width: 1366
 GlyphClass: 2
 Flags: W
@@ -34414,7 +34414,7 @@ Refer: 661 -1 N 1 0 0 1 468 0 2
 EndChar
 
 StartChar: sacute
-Encoding: 347 347 283
+Encoding: 283 347 283
 Width: 1139
 GlyphClass: 2
 Flags: W
@@ -34446,7 +34446,7 @@ Refer: 116 180 N 1 0 0 1 313 0 2
 EndChar
 
 StartChar: Scircumflex
-Encoding: 348 348 284
+Encoding: 284 348 284
 Width: 1366
 GlyphClass: 2
 Flags: W
@@ -34478,7 +34478,7 @@ Refer: 662 -1 N 1 0 0 1 369 0 2
 EndChar
 
 StartChar: scircumflex
-Encoding: 349 349 285
+Encoding: 285 349 285
 Width: 1139
 GlyphClass: 2
 Flags: W
@@ -34510,7 +34510,7 @@ Refer: 327 710 N 1 0 0 1 198 0 2
 EndChar
 
 StartChar: Scedilla
-Encoding: 350 350 286
+Encoding: 286 350 286
 Width: 1366
 GlyphClass: 2
 Flags: W
@@ -34534,7 +34534,7 @@ Refer: 120 184 N 1 0 0 1 422 0 2
 EndChar
 
 StartChar: scedilla
-Encoding: 351 351 287
+Encoding: 287 351 287
 Width: 1139
 GlyphClass: 2
 Flags: W
@@ -34558,7 +34558,7 @@ Refer: 120 184 N 1 0 0 1 286 0 2
 EndChar
 
 StartChar: Scaron
-Encoding: 352 352 288
+Encoding: 288 352 288
 Width: 1366
 GlyphClass: 2
 Flags: W
@@ -34590,7 +34590,7 @@ Refer: 663 -1 N 1 0 0 1 346 0 2
 EndChar
 
 StartChar: scaron
-Encoding: 353 353 289
+Encoding: 289 353 289
 Width: 1139
 GlyphClass: 2
 Flags: W
@@ -34622,7 +34622,7 @@ Refer: 328 711 N 1 0 0 1 205 0 2
 EndChar
 
 StartChar: Tcommaaccent
-Encoding: 354 354 290
+Encoding: 290 354 290
 Width: 1251
 GlyphClass: 2
 Flags: W
@@ -34646,7 +34646,7 @@ Refer: 652 -1 N 1 0 0 1 406 0 2
 EndChar
 
 StartChar: tcommaaccent
-Encoding: 355 355 291
+Encoding: 291 355 291
 Width: 682
 GlyphClass: 2
 Flags: W
@@ -34670,7 +34670,7 @@ Refer: 652 -1 N 1 0 0 1 138 0 2
 EndChar
 
 StartChar: Tcaron
-Encoding: 356 356 292
+Encoding: 292 356 292
 Width: 1251
 GlyphClass: 2
 Flags: W
@@ -34702,7 +34702,7 @@ Refer: 663 -1 N 1 0 0 1 289 0 2
 EndChar
 
 StartChar: tcaron
-Encoding: 357 357 293
+Encoding: 293 357 293
 Width: 981
 GlyphClass: 2
 Flags: W
@@ -34735,7 +34735,7 @@ Refer: 658 -1 N 1 0 0 1 623 75 2
 EndChar
 
 StartChar: Tbar
-Encoding: 358 358 294
+Encoding: 294 358 294
 Width: 1251
 GlyphClass: 2
 Flags: W
@@ -35355,7 +35355,7 @@ EndSplineSet
 EndChar
 
 StartChar: tbar
-Encoding: 359 359 295
+Encoding: 295 359 295
 Width: 682
 GlyphClass: 2
 Flags: W
@@ -35510,7 +35510,7 @@ EndSplineSet
 EndChar
 
 StartChar: Utilde
-Encoding: 360 360 296
+Encoding: 296 360 296
 Width: 1479
 GlyphClass: 2
 Flags: W
@@ -35542,7 +35542,7 @@ Refer: 665 -1 N 1 0 0 1 397 0 2
 EndChar
 
 StartChar: utilde
-Encoding: 361 361 297
+Encoding: 297 361 297
 Width: 1251
 GlyphClass: 2
 Flags: W
@@ -35575,7 +35575,7 @@ Refer: 334 732 N 1 0 0 1 243 0 2
 EndChar
 
 StartChar: Umacron
-Encoding: 362 362 298
+Encoding: 298 362 298
 Width: 1479
 GlyphClass: 2
 Flags: W
@@ -35607,7 +35607,7 @@ Refer: 329 713 N 1 0 0 1 397 329 2
 EndChar
 
 StartChar: umacron
-Encoding: 363 363 299
+Encoding: 299 363 299
 Width: 1251
 GlyphClass: 2
 Flags: W
@@ -35640,7 +35640,7 @@ Refer: 329 713 N 1 0 0 1 276 0 2
 EndChar
 
 StartChar: Ubreve
-Encoding: 364 364 300
+Encoding: 300 364 300
 Width: 1479
 GlyphClass: 2
 Flags: W
@@ -35672,7 +35672,7 @@ Refer: 667 -1 N 1 0 0 1 390 0 2
 EndChar
 
 StartChar: ubreve
-Encoding: 365 365 301
+Encoding: 301 365 301
 Width: 1251
 GlyphClass: 2
 Flags: W
@@ -35704,7 +35704,7 @@ Refer: 330 728 N 1 0 0 1 327 0 2
 EndChar
 
 StartChar: Uring
-Encoding: 366 366 302
+Encoding: 302 366 302
 Width: 1479
 GlyphClass: 2
 Flags: W
@@ -35740,7 +35740,7 @@ Refer: 332 730 N 1 0 0 1 447 334 2
 EndChar
 
 StartChar: uring
-Encoding: 367 367 303
+Encoding: 303 367 303
 Width: 1251
 GlyphClass: 2
 Flags: W
@@ -35776,7 +35776,7 @@ Refer: 332 730 N 1 0 0 1 328 0 2
 EndChar
 
 StartChar: Uhungarumlaut
-Encoding: 368 368 304
+Encoding: 304 368 304
 Width: 1479
 GlyphClass: 2
 Flags: W
@@ -35812,7 +35812,7 @@ Refer: 666 -1 N 1 0 0 1 475 0 2
 EndChar
 
 StartChar: uhungarumlaut
-Encoding: 369 369 305
+Encoding: 305 369 305
 Width: 1251
 GlyphClass: 2
 Flags: W
@@ -35848,7 +35848,7 @@ Refer: 335 733 N 1 0 0 1 349 0 2
 EndChar
 
 StartChar: Uogonek
-Encoding: 370 370 306
+Encoding: 306 370 306
 Width: 1479
 GlyphClass: 2
 Flags: W
@@ -35882,7 +35882,7 @@ Refer: 333 731 N 1 0 0 1 544 0 2
 EndChar
 
 StartChar: uogonek
-Encoding: 371 371 307
+Encoding: 307 371 307
 Width: 1251
 GlyphClass: 2
 Flags: W
@@ -35906,7 +35906,7 @@ Refer: 333 731 N 1 0 0 1 645 0 2
 EndChar
 
 StartChar: Wcircumflex
-Encoding: 372 372 308
+Encoding: 308 372 308
 Width: 1933
 GlyphClass: 2
 Flags: W
@@ -35938,7 +35938,7 @@ Refer: 662 -1 N 1 0 0 1 627 0 2
 EndChar
 
 StartChar: wcircumflex
-Encoding: 373 373 309
+Encoding: 309 373 309
 Width: 1593
 GlyphClass: 2
 Flags: W
@@ -35970,7 +35970,7 @@ Refer: 327 710 N 1 0 0 1 429 0 2
 EndChar
 
 StartChar: Ycircumflex
-Encoding: 374 374 310
+Encoding: 310 374 310
 Width: 1366
 GlyphClass: 2
 Flags: W
@@ -36002,7 +36002,7 @@ Refer: 662 -1 N 1 0 0 1 343 0 2
 EndChar
 
 StartChar: ycircumflex
-Encoding: 375 375 311
+Encoding: 311 375 311
 Width: 1139
 GlyphClass: 2
 Flags: W
@@ -36034,7 +36034,7 @@ Refer: 327 710 N 1 0 0 1 212 0 2
 EndChar
 
 StartChar: Ydieresis
-Encoding: 376 376 312
+Encoding: 312 376 312
 Width: 1366
 GlyphClass: 2
 Flags: W
@@ -36071,7 +36071,7 @@ Refer: 664 -1 N 1 0 0 1 338 0 2
 EndChar
 
 StartChar: Zacute
-Encoding: 377 377 313
+Encoding: 313 377 313
 Width: 1251
 GlyphClass: 2
 Flags: W
@@ -36103,7 +36103,7 @@ Refer: 661 -1 N 1 0 0 1 386 0 2
 EndChar
 
 StartChar: zacute
-Encoding: 378 378 314
+Encoding: 314 378 314
 Width: 1024
 GlyphClass: 2
 Flags: W
@@ -36135,7 +36135,7 @@ Refer: 116 180 N 1 0 0 1 249 0 2
 EndChar
 
 StartChar: Zdotaccent
-Encoding: 379 379 315
+Encoding: 315 379 315
 Width: 1251
 GlyphClass: 2
 Flags: W
@@ -36167,7 +36167,7 @@ Refer: 331 729 N 1 0 0 1 296 270 2
 EndChar
 
 StartChar: zdotaccent
-Encoding: 380 380 316
+Encoding: 316 380 316
 Width: 1024
 GlyphClass: 2
 Flags: W
@@ -36191,7 +36191,7 @@ Refer: 331 729 N 1 0 0 1 189 0 2
 EndChar
 
 StartChar: Zcaron
-Encoding: 381 381 317
+Encoding: 317 381 317
 Width: 1251
 GlyphClass: 2
 Flags: W
@@ -36223,7 +36223,7 @@ Refer: 663 -1 N 1 0 0 1 301 0 2
 EndChar
 
 StartChar: zcaron
-Encoding: 382 382 318
+Encoding: 318 382 318
 Width: 1024
 GlyphClass: 2
 Flags: W
@@ -36256,7 +36256,7 @@ Refer: 328 711 N 1 0 0 1 143 0 2
 EndChar
 
 StartChar: longs
-Encoding: 383 383 319
+Encoding: 319 383 319
 Width: 569
 GlyphClass: 2
 Flags: W
@@ -36375,7 +36375,7 @@ EndSplineSet
 EndChar
 
 StartChar: florin
-Encoding: 402 402 320
+Encoding: 320 402 320
 Width: 1139
 GlyphClass: 2
 Flags: W
@@ -36488,7 +36488,7 @@ EndSplineSet
 EndChar
 
 StartChar: Aringacute
-Encoding: 506 506 321
+Encoding: 321 506 321
 Width: 1479
 GlyphClass: 2
 Flags: W
@@ -36553,7 +36553,7 @@ Refer: 661 -1 N 1 0 0 1 499 301 2
 EndChar
 
 StartChar: aringacute
-Encoding: 507 507 322
+Encoding: 322 507 322
 Width: 1139
 GlyphClass: 2
 Flags: W
@@ -36621,7 +36621,7 @@ Refer: 116 180 N 1 0 0 1 355 510 2
 EndChar
 
 StartChar: AEacute
-Encoding: 508 508 323
+Encoding: 323 508 323
 Width: 2048
 GlyphClass: 2
 Flags: W
@@ -36654,7 +36654,7 @@ Refer: 661 -1 N 1 0 0 1 996 0 2
 EndChar
 
 StartChar: aeacute
-Encoding: 509 509 324
+Encoding: 324 509 324
 Width: 1821
 GlyphClass: 2
 Flags: W
@@ -36686,7 +36686,7 @@ Refer: 116 180 N 1 0 0 1 687 0 2
 EndChar
 
 StartChar: Oslashacute
-Encoding: 510 510 325
+Encoding: 325 510 325
 Width: 1593
 GlyphClass: 2
 Flags: W
@@ -36718,7 +36718,7 @@ Refer: 661 -1 N 1 0 0 1 538 0 2
 EndChar
 
 StartChar: oslashacute
-Encoding: 511 511 326
+Encoding: 326 511 326
 Width: 1251
 GlyphClass: 2
 Flags: W
@@ -36750,7 +36750,7 @@ Refer: 116 180 N 1 0 0 1 378 0 2
 EndChar
 
 StartChar: circumflex
-Encoding: 710 710 327
+Encoding: 327 710 327
 Width: 682
 GlyphClass: 2
 Flags: W
@@ -36894,7 +36894,7 @@ EndSplineSet
 EndChar
 
 StartChar: caron
-Encoding: 711 711 328
+Encoding: 328 711 328
 Width: 682
 GlyphClass: 2
 Flags: W
@@ -37038,7 +37038,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni02C9
-Encoding: 713 713 329
+Encoding: 329 713 329
 Width: 682
 GlyphClass: 2
 Flags: W
@@ -37137,7 +37137,7 @@ EndSplineSet
 EndChar
 
 StartChar: breve
-Encoding: 728 728 330
+Encoding: 330 728 330
 Width: 682
 GlyphClass: 2
 Flags: W
@@ -37349,7 +37349,7 @@ EndSplineSet
 EndChar
 
 StartChar: dotaccent
-Encoding: 729 729 331
+Encoding: 331 729 331
 Width: 682
 GlyphClass: 2
 Flags: W
@@ -37390,7 +37390,7 @@ EndSplineSet
 EndChar
 
 StartChar: ring
-Encoding: 730 730 332
+Encoding: 332 730 332
 Width: 682
 GlyphClass: 2
 Flags: W
@@ -37510,7 +37510,7 @@ EndSplineSet
 EndChar
 
 StartChar: ogonek
-Encoding: 731 731 333
+Encoding: 333 731 333
 Width: 682
 GlyphClass: 2
 Flags: W
@@ -37690,7 +37690,7 @@ EndSplineSet
 EndChar
 
 StartChar: tilde
-Encoding: 732 732 334
+Encoding: 334 732 334
 Width: 682
 GlyphClass: 2
 Flags: W
@@ -37952,7 +37952,7 @@ EndSplineSet
 EndChar
 
 StartChar: hungarumlaut
-Encoding: 733 733 335
+Encoding: 335 733 335
 Width: 682
 GlyphClass: 2
 Flags: W
@@ -38040,7 +38040,7 @@ EndSplineSet
 EndChar
 
 StartChar: tonos
-Encoding: 900 900 336
+Encoding: 336 900 336
 Width: 682
 GlyphClass: 2
 Flags: W
@@ -38112,7 +38112,7 @@ EndSplineSet
 EndChar
 
 StartChar: dieresistonos
-Encoding: 901 901 337
+Encoding: 337 901 337
 Width: 952
 GlyphClass: 2
 Flags: W
@@ -38244,7 +38244,7 @@ EndSplineSet
 EndChar
 
 StartChar: Alphatonos
-Encoding: 902 902 338
+Encoding: 338 902 338
 Width: 1479
 GlyphClass: 2
 Flags: W
@@ -39713,7 +39713,7 @@ Kerns2: 400 -76 "'kern' Horizontal Kerning lookup 0 subtable"  390 -76 "'kern' H
 EndChar
 
 StartChar: anoteleia
-Encoding: 903 903 339
+Encoding: 339 903 339
 Width: 682
 GlyphClass: 2
 Flags: W
@@ -39723,7 +39723,7 @@ Refer: 651 -1 N 1 0 0 1 56 0 3
 EndChar
 
 StartChar: Epsilontonos
-Encoding: 904 904 340
+Encoding: 340 904 340
 Width: 1747
 GlyphClass: 2
 Flags: W
@@ -39779,7 +39779,7 @@ Refer: 336 900 N 1 0 0 1 -139 -98 2
 EndChar
 
 StartChar: Etatonos
-Encoding: 905 905 341
+Encoding: 341 905 341
 Width: 1855
 GlyphClass: 2
 Flags: W
@@ -39835,7 +39835,7 @@ Refer: 336 900 N 1 0 0 1 -149 -98 2
 EndChar
 
 StartChar: Iotatonos
-Encoding: 906 906 342
+Encoding: 342 906 342
 Width: 970
 GlyphClass: 2
 Flags: W
@@ -39907,7 +39907,7 @@ Refer: 336 900 N 1 0 0 1 -149 -98 2
 EndChar
 
 StartChar: Omicrontonos
-Encoding: 908 908 343
+Encoding: 343 908 343
 Width: 1689
 GlyphClass: 2
 Flags: W
@@ -39986,7 +39986,7 @@ Kerns2: 372 -57 "'kern' Horizontal Kerning lookup 0 subtable"  366 -57 "'kern' H
 EndChar
 
 StartChar: Upsilontonos
-Encoding: 910 910 344
+Encoding: 344 910 344
 Width: 1899
 GlyphClass: 2
 Flags: W
@@ -40075,7 +40075,7 @@ Kerns2: 405 -152 "'kern' Horizontal Kerning lookup 0 subtable"  403 92 "'kern' H
 EndChar
 
 StartChar: Omegatonos
-Encoding: 911 911 345
+Encoding: 345 911 345
 Width: 1716
 GlyphClass: 2
 Flags: W
@@ -40157,7 +40157,7 @@ Kerns2: 372 -57 "'kern' Horizontal Kerning lookup 0 subtable"  366 -57 "'kern' H
 EndChar
 
 StartChar: iotadieresistonos
-Encoding: 912 912 346
+Encoding: 346 912 346
 Width: 569
 GlyphClass: 2
 Flags: W
@@ -40187,7 +40187,7 @@ Refer: 337 901 N 1 0 0 1 -197 0 2
 EndChar
 
 StartChar: Alpha
-Encoding: 913 913 347
+Encoding: 347 913 347
 Width: 1479
 GlyphClass: 2
 Flags: W
@@ -40198,7 +40198,7 @@ Kerns2: 515 -113 "'kern' Horizontal Kerning lookup 0 subtable"  400 -76 "'kern' 
 EndChar
 
 StartChar: Beta
-Encoding: 914 914 348
+Encoding: 348 914 348
 Width: 1479
 GlyphClass: 2
 Flags: W
@@ -40208,7 +40208,7 @@ Refer: 37 66 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Gamma
-Encoding: 915 915 349
+Encoding: 349 915 349
 Width: 1231
 GlyphClass: 2
 Flags: W
@@ -40265,7 +40265,7 @@ Kerns2: 403 94 "'kern' Horizontal Kerning lookup 0 subtable"  386 -66 "'kern' Ho
 EndChar
 
 StartChar: Delta
-Encoding: 916 916 350
+Encoding: 350 916 350
 Width: 1472
 GlyphClass: 2
 Flags: W
@@ -40389,7 +40389,7 @@ Kerns2: 372 -186 "'kern' Horizontal Kerning lookup 0 subtable"  366 -186 "'kern'
 EndChar
 
 StartChar: Epsilon
-Encoding: 917 917 351
+Encoding: 351 917 351
 Width: 1366
 GlyphClass: 2
 Flags: W
@@ -40399,7 +40399,7 @@ Refer: 40 69 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Zeta
-Encoding: 918 918 352
+Encoding: 352 918 352
 Width: 1251
 GlyphClass: 2
 Flags: W
@@ -40409,7 +40409,7 @@ Refer: 61 90 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Eta
-Encoding: 919 919 353
+Encoding: 353 919 353
 Width: 1479
 GlyphClass: 2
 Flags: W
@@ -40419,7 +40419,7 @@ Refer: 43 72 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Theta
-Encoding: 920 920 354
+Encoding: 354 920 354
 Width: 1593
 GlyphClass: 2
 Flags: W
@@ -40606,7 +40606,7 @@ Kerns2: 372 -57 "'kern' Horizontal Kerning lookup 0 subtable"  366 -57 "'kern' H
 EndChar
 
 StartChar: Iota
-Encoding: 921 921 355
+Encoding: 355 921 355
 Width: 569
 GlyphClass: 2
 Flags: W
@@ -40616,7 +40616,7 @@ Refer: 44 73 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Kappa
-Encoding: 922 922 356
+Encoding: 356 922 356
 Width: 1479
 GlyphClass: 2
 Flags: W
@@ -40627,7 +40627,7 @@ Kerns2: 407 -47 "'kern' Horizontal Kerning lookup 0 subtable"  405 -47 "'kern' H
 EndChar
 
 StartChar: Lambda
-Encoding: 923 923 357
+Encoding: 357 923 357
 Width: 1366
 GlyphClass: 2
 Flags: W
@@ -40816,7 +40816,7 @@ Kerns2: 372 -186 "'kern' Horizontal Kerning lookup 0 subtable"  366 -186 "'kern'
 EndChar
 
 StartChar: Mu
-Encoding: 924 924 358
+Encoding: 358 924 358
 Width: 1706
 GlyphClass: 2
 Flags: W
@@ -40826,7 +40826,7 @@ Refer: 48 77 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Nu
-Encoding: 925 925 359
+Encoding: 359 925 359
 Width: 1479
 GlyphClass: 2
 Flags: W
@@ -40836,7 +40836,7 @@ Refer: 49 78 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Xi
-Encoding: 926 926 360
+Encoding: 360 926 360
 Width: 1318
 GlyphClass: 2
 Flags: W
@@ -40939,7 +40939,7 @@ EndSplineSet
 EndChar
 
 StartChar: Omicron
-Encoding: 927 927 361
+Encoding: 361 927 361
 Width: 1593
 GlyphClass: 2
 Flags: W
@@ -40950,7 +40950,7 @@ Kerns2: 372 -57 "'kern' Horizontal Kerning lookup 0 subtable"  366 -57 "'kern' H
 EndChar
 
 StartChar: Pi
-Encoding: 928 928 362
+Encoding: 362 928 362
 Width: 1479
 GlyphClass: 2
 Flags: W
@@ -41011,7 +41011,7 @@ EndSplineSet
 EndChar
 
 StartChar: Rho
-Encoding: 929 929 363
+Encoding: 363 929 363
 Width: 1366
 GlyphClass: 2
 Flags: W
@@ -41022,7 +41022,7 @@ Kerns2: 357 -152 "'kern' Horizontal Kerning lookup 0 subtable"  350 -152 "'kern'
 EndChar
 
 StartChar: Sigma
-Encoding: 931 931 364
+Encoding: 364 931 364
 Width: 1229
 GlyphClass: 2
 Flags: W
@@ -41127,7 +41127,7 @@ Kerns2: 397 -35 "'kern' Horizontal Kerning lookup 0 subtable"  393 -35 "'kern' H
 EndChar
 
 StartChar: Tau
-Encoding: 932 932 365
+Encoding: 365 932 365
 Width: 1251
 GlyphClass: 2
 Flags: W
@@ -41138,7 +41138,7 @@ Kerns2: 406 -152 "'kern' Horizontal Kerning lookup 0 subtable"  405 -152 "'kern'
 EndChar
 
 StartChar: Upsilon
-Encoding: 933 933 366
+Encoding: 366 933 366
 Width: 1366
 GlyphClass: 2
 Flags: W
@@ -41149,7 +41149,7 @@ Kerns2: 405 -152 "'kern' Horizontal Kerning lookup 0 subtable"  403 92 "'kern' H
 EndChar
 
 StartChar: Phi
-Encoding: 934 934 367
+Encoding: 367 934 367
 Width: 1681
 GlyphClass: 2
 Flags: W
@@ -41967,7 +41967,7 @@ Kerns2: 372 -57 "'kern' Horizontal Kerning lookup 0 subtable"  366 -57 "'kern' H
 EndChar
 
 StartChar: Chi
-Encoding: 935 935 368
+Encoding: 368 935 368
 Width: 1366
 GlyphClass: 2
 Flags: W
@@ -41978,7 +41978,7 @@ Kerns2: 407 -27 "'kern' Horizontal Kerning lookup 0 subtable"  402 -27 "'kern' H
 EndChar
 
 StartChar: Psi
-Encoding: 936 936 369
+Encoding: 369 936 369
 Width: 1657
 GlyphClass: 2
 Flags: W
@@ -42843,7 +42843,7 @@ Kerns2: 407 -37 "'kern' Horizontal Kerning lookup 0 subtable"  405 -37 "'kern' H
 EndChar
 
 StartChar: Omega
-Encoding: 937 937 370
+Encoding: 370 937 370
 Width: 1642
 GlyphClass: 2
 Flags: W
@@ -43011,7 +43011,7 @@ Kerns2: 372 -57 "'kern' Horizontal Kerning lookup 0 subtable"  366 -57 "'kern' H
 EndChar
 
 StartChar: Iotadieresis
-Encoding: 938 938 371
+Encoding: 371 938 371
 Width: 569
 GlyphClass: 2
 Flags: W
@@ -43047,7 +43047,7 @@ Refer: 664 -1 N 1 0 0 1 -56 0 2
 EndChar
 
 StartChar: Upsilondieresis
-Encoding: 939 939 372
+Encoding: 372 939 372
 Width: 1366
 GlyphClass: 2
 Flags: W
@@ -43085,7 +43085,7 @@ Kerns2: 405 -152 "'kern' Horizontal Kerning lookup 0 subtable"  403 92 "'kern' H
 EndChar
 
 StartChar: alphatonos
-Encoding: 940 940 373
+Encoding: 373 940 373
 Width: 1259
 GlyphClass: 2
 Flags: W
@@ -43117,7 +43117,7 @@ Refer: 336 900 N 1 0 0 1 334 0 2
 EndChar
 
 StartChar: epsilontonos
-Encoding: 941 941 374
+Encoding: 374 941 374
 Width: 924
 GlyphClass: 2
 Flags: W
@@ -44574,7 +44574,7 @@ Refer: 336 900 N 1 0 0 1 238 0 2
 EndChar
 
 StartChar: etatonos
-Encoding: 942 942 375
+Encoding: 375 942 375
 Width: 1251
 GlyphClass: 2
 Flags: W
@@ -44606,7 +44606,7 @@ Refer: 336 900 N 1 0 0 1 383 0 2
 EndChar
 
 StartChar: iotatonos
-Encoding: 943 943 376
+Encoding: 376 943 376
 Width: 569
 GlyphClass: 2
 Flags: W
@@ -44638,7 +44638,7 @@ Refer: 336 900 N 1 0 0 1 -9 0 2
 EndChar
 
 StartChar: upsilondieresistonos
-Encoding: 944 944 377
+Encoding: 377 944 377
 Width: 1192
 GlyphClass: 2
 Flags: W
@@ -44675,7 +44675,7 @@ Refer: 337 901 N 1 0 0 1 128 0 2
 EndChar
 
 StartChar: alpha
-Encoding: 945 945 378
+Encoding: 378 945 378
 Width: 1259
 GlyphClass: 2
 Flags: W
@@ -44825,7 +44825,7 @@ EndSplineSet
 EndChar
 
 StartChar: beta
-Encoding: 946 946 379
+Encoding: 379 946 379
 Width: 1250
 GlyphClass: 2
 Flags: W
@@ -44993,7 +44993,7 @@ EndSplineSet
 EndChar
 
 StartChar: gamma
-Encoding: 947 947 380
+Encoding: 380 947 380
 Width: 1139
 GlyphClass: 2
 Flags: W
@@ -45435,7 +45435,7 @@ EndSplineSet
 EndChar
 
 StartChar: delta
-Encoding: 948 948 381
+Encoding: 381 948 381
 Width: 1242
 GlyphClass: 2
 Flags: W
@@ -45615,7 +45615,7 @@ Kerns2: 400 -74 "'kern' Horizontal Kerning lookup 0 subtable"  397 -57 "'kern' H
 EndChar
 
 StartChar: epsilon
-Encoding: 949 949 382
+Encoding: 382 949 382
 Width: 972
 GlyphClass: 2
 Flags: W
@@ -45777,7 +45777,7 @@ EndSplineSet
 EndChar
 
 StartChar: zeta
-Encoding: 950 950 383
+Encoding: 383 950 383
 Width: 943
 GlyphClass: 2
 Flags: W
@@ -45973,7 +45973,7 @@ Kerns2: 407 -115 "'kern' Horizontal Kerning lookup 0 subtable"  405 -115 "'kern'
 EndChar
 
 StartChar: eta
-Encoding: 951 951 384
+Encoding: 384 951 384
 Width: 1251
 GlyphClass: 2
 Flags: W
@@ -46111,7 +46111,7 @@ EndSplineSet
 EndChar
 
 StartChar: theta
-Encoding: 952 952 385
+Encoding: 385 952 385
 Width: 1107
 GlyphClass: 2
 Flags: W
@@ -46223,7 +46223,7 @@ EndSplineSet
 EndChar
 
 StartChar: iota
-Encoding: 953 953 386
+Encoding: 386 953 386
 Width: 569
 GlyphClass: 2
 Flags: W
@@ -46368,7 +46368,7 @@ EndSplineSet
 EndChar
 
 StartChar: kappa
-Encoding: 954 954 387
+Encoding: 387 954 387
 Width: 1142
 GlyphClass: 2
 Flags: W
@@ -46517,7 +46517,7 @@ Kerns2: 407 -68 "'kern' Horizontal Kerning lookup 0 subtable"  405 -68 "'kern' H
 EndChar
 
 StartChar: lambda
-Encoding: 955 955 388
+Encoding: 388 955 388
 Width: 1139
 GlyphClass: 2
 Flags: W
@@ -46985,7 +46985,7 @@ Kerns2: 407 -25 "'kern' Horizontal Kerning lookup 0 subtable"  406 -31 "'kern' H
 EndChar
 
 StartChar: mu
-Encoding: 956 956 389
+Encoding: 389 956 389
 Width: 1253
 GlyphClass: 2
 Flags: W
@@ -47162,7 +47162,7 @@ EndSplineSet
 EndChar
 
 StartChar: nu
-Encoding: 957 957 390
+Encoding: 390 957 390
 Width: 1139
 GlyphClass: 2
 Flags: W
@@ -47784,7 +47784,7 @@ EndSplineSet
 EndChar
 
 StartChar: xi
-Encoding: 958 958 391
+Encoding: 391 958 391
 Width: 912
 GlyphClass: 2
 Flags: W
@@ -48030,7 +48030,7 @@ Kerns2: 405 -25 "'kern' Horizontal Kerning lookup 0 subtable"  399 -25 "'kern' H
 EndChar
 
 StartChar: omicron
-Encoding: 959 959 392
+Encoding: 392 959 392
 Width: 1251
 GlyphClass: 2
 Flags: W
@@ -48041,7 +48041,7 @@ Kerns2: 400 -74 "'kern' Horizontal Kerning lookup 0 subtable"  397 -57 "'kern' H
 EndChar
 
 StartChar: pi
-Encoding: 960 960 393
+Encoding: 393 960 393
 Width: 1568
 GlyphClass: 2
 Flags: W
@@ -48205,7 +48205,7 @@ Kerns2: 407 -57 "'kern' Horizontal Kerning lookup 0 subtable"  402 -57 "'kern' H
 EndChar
 
 StartChar: rho
-Encoding: 961 961 394
+Encoding: 394 961 394
 Width: 1267
 GlyphClass: 2
 Flags: W
@@ -48318,7 +48318,7 @@ Kerns2: 397 -57 "'kern' Horizontal Kerning lookup 0 subtable"  393 -57 "'kern' H
 EndChar
 
 StartChar: sigma1
-Encoding: 962 962 395
+Encoding: 395 962 395
 Width: 1065
 GlyphClass: 2
 Flags: W
@@ -48464,7 +48464,7 @@ EndSplineSet
 EndChar
 
 StartChar: sigma
-Encoding: 963 963 396
+Encoding: 396 963 396
 Width: 1401
 GlyphClass: 2
 Flags: W
@@ -48599,7 +48599,7 @@ EndSplineSet
 EndChar
 
 StartChar: tau
-Encoding: 964 964 397
+Encoding: 397 964 397
 Width: 914
 GlyphClass: 2
 Flags: W
@@ -48756,7 +48756,7 @@ Kerns2: 407 -57 "'kern' Horizontal Kerning lookup 0 subtable"  402 -57 "'kern' H
 EndChar
 
 StartChar: upsilon
-Encoding: 965 965 398
+Encoding: 398 965 398
 Width: 1192
 GlyphClass: 2
 Flags: W
@@ -48868,7 +48868,7 @@ EndSplineSet
 EndChar
 
 StartChar: phi
-Encoding: 966 966 399
+Encoding: 399 966 399
 Width: 1465
 GlyphClass: 2
 Flags: W
@@ -49488,7 +49488,7 @@ Kerns2: 400 -74 "'kern' Horizontal Kerning lookup 0 subtable"  397 -57 "'kern' H
 EndChar
 
 StartChar: chi
-Encoding: 967 967 400
+Encoding: 400 967 400
 Width: 1179
 GlyphClass: 2
 Flags: W
@@ -49686,7 +49686,7 @@ Kerns2: 407 -43 "'kern' Horizontal Kerning lookup 0 subtable"  405 -74 "'kern' H
 EndChar
 
 StartChar: psi
-Encoding: 968 968 401
+Encoding: 401 968 401
 Width: 1543
 GlyphClass: 2
 Flags: W
@@ -50373,7 +50373,7 @@ EndSplineSet
 EndChar
 
 StartChar: omega
-Encoding: 969 969 402
+Encoding: 402 969 402
 Width: 1730
 GlyphClass: 2
 Flags: W
@@ -51079,7 +51079,7 @@ Kerns2: 400 -43 "'kern' Horizontal Kerning lookup 0 subtable"  397 -57 "'kern' H
 EndChar
 
 StartChar: iotadieresis
-Encoding: 970 970 403
+Encoding: 403 970 403
 Width: 569
 GlyphClass: 2
 Flags: W
@@ -51116,7 +51116,7 @@ Refer: 105 168 N 1 0 0 1 -55 0 2
 EndChar
 
 StartChar: upsilondieresis
-Encoding: 971 971 404
+Encoding: 404 971 404
 Width: 1192
 GlyphClass: 2
 Flags: W
@@ -51153,7 +51153,7 @@ Refer: 105 168 N 1 0 0 1 242 0 2
 EndChar
 
 StartChar: omicrontonos
-Encoding: 972 972 405
+Encoding: 405 972 405
 Width: 1251
 GlyphClass: 2
 Flags: W
@@ -51186,7 +51186,7 @@ Kerns2: 400 -74 "'kern' Horizontal Kerning lookup 0 subtable"  397 -57 "'kern' H
 EndChar
 
 StartChar: upsilontonos
-Encoding: 973 973 406
+Encoding: 406 973 406
 Width: 1192
 GlyphClass: 2
 Flags: W
@@ -51218,7 +51218,7 @@ Refer: 336 900 N 1 0 0 1 280 0 2
 EndChar
 
 StartChar: omegatonos
-Encoding: 974 974 407
+Encoding: 407 974 407
 Width: 1730
 GlyphClass: 2
 Flags: W
@@ -51251,7 +51251,7 @@ Kerns2: 400 -43 "'kern' Horizontal Kerning lookup 0 subtable"  397 -57 "'kern' H
 EndChar
 
 StartChar: afii10023
-Encoding: 1025 1025 408
+Encoding: 408 1025 408
 Width: 1370
 GlyphClass: 2
 Flags: W
@@ -51775,7 +51775,7 @@ Refer: 664 -1 N 1 0 0 1 377 0 2
 EndChar
 
 StartChar: afii10051
-Encoding: 1026 1026 409
+Encoding: 409 1026 409
 Width: 1813
 GlyphClass: 2
 Flags: W
@@ -51949,7 +51949,7 @@ EndSplineSet
 EndChar
 
 StartChar: afii10052
-Encoding: 1027 1027 410
+Encoding: 410 1027 410
 Width: 1161
 GlyphClass: 2
 Flags: W
@@ -53530,7 +53530,7 @@ Kerns2: 123 -78 "'kern' Horizontal Kerning lookup 0 subtable"  108 -78 "'kern' H
 EndChar
 
 StartChar: afii10053
-Encoding: 1028 1028 411
+Encoding: 411 1028 411
 Width: 1457
 GlyphClass: 2
 Flags: W
@@ -53701,7 +53701,7 @@ EndSplineSet
 EndChar
 
 StartChar: afii10054
-Encoding: 1029 1029 412
+Encoding: 412 1029 412
 Width: 1366
 GlyphClass: 2
 Flags: W
@@ -53711,7 +53711,7 @@ Refer: 54 83 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: afii10055
-Encoding: 1030 1030 413
+Encoding: 413 1030 413
 Width: 569
 GlyphClass: 2
 Flags: W
@@ -53721,7 +53721,7 @@ Refer: 44 73 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: afii10056
-Encoding: 1031 1031 414
+Encoding: 414 1031 414
 Width: 565
 GlyphClass: 2
 Flags: W
@@ -54249,7 +54249,7 @@ Refer: 664 -1 N 1 0 0 1 -58 0 2
 EndChar
 
 StartChar: afii10057
-Encoding: 1032 1032 415
+Encoding: 415 1032 415
 Width: 1139
 GlyphClass: 2
 Flags: W
@@ -54259,7 +54259,7 @@ Refer: 45 74 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: afii10058
-Encoding: 1033 1033 416
+Encoding: 416 1033 416
 Width: 2240
 GlyphClass: 2
 Flags: W
@@ -54431,7 +54431,7 @@ Kerns2: 515 -205 "'kern' Horizontal Kerning lookup 0 subtable"
 EndChar
 
 StartChar: afii10059
-Encoding: 1034 1034 417
+Encoding: 417 1034 417
 Width: 2176
 GlyphClass: 2
 Flags: W
@@ -54550,7 +54550,7 @@ Kerns2: 515 -205 "'kern' Horizontal Kerning lookup 0 subtable"
 EndChar
 
 StartChar: afii10060
-Encoding: 1035 1035 418
+Encoding: 418 1035 418
 Width: 1792
 GlyphClass: 2
 Flags: W
@@ -54660,7 +54660,7 @@ EndSplineSet
 EndChar
 
 StartChar: afii10061
-Encoding: 1036 1036 419
+Encoding: 419 1036 419
 Width: 1250
 GlyphClass: 2
 Flags: W
@@ -54692,7 +54692,7 @@ Refer: 661 -1 N 1 0 0 1 428 0 2
 EndChar
 
 StartChar: afii10062
-Encoding: 1038 1038 420
+Encoding: 420 1038 420
 Width: 1274
 GlyphClass: 2
 Flags: W
@@ -54725,7 +54725,7 @@ Refer: 657 -1 N 1 0 0 1 287 330 2
 EndChar
 
 StartChar: afii10145
-Encoding: 1039 1039 421
+Encoding: 421 1039 421
 Width: 1472
 GlyphClass: 2
 Flags: W
@@ -55242,7 +55242,7 @@ EndSplineSet
 EndChar
 
 StartChar: afii10017
-Encoding: 1040 1040 422
+Encoding: 422 1040 422
 Width: 1479
 GlyphClass: 2
 Flags: W
@@ -55253,7 +55253,7 @@ Kerns2: 515 -104 "'kern' Horizontal Kerning lookup 0 subtable"  483 25 "'kern' H
 EndChar
 
 StartChar: afii10018
-Encoding: 1041 1041 423
+Encoding: 423 1041 423
 Width: 1472
 GlyphClass: 2
 Flags: W
@@ -55375,7 +55375,7 @@ Kerns2: 473 -27 "'kern' Horizontal Kerning lookup 0 subtable"  453 -51 "'kern' H
 EndChar
 
 StartChar: afii10019
-Encoding: 1042 1042 424
+Encoding: 424 1042 424
 Width: 1479
 GlyphClass: 2
 Flags: W
@@ -55386,7 +55386,7 @@ Kerns2: 477 -78 "'kern' Horizontal Kerning lookup 0 subtable"  475 -27 "'kern' H
 EndChar
 
 StartChar: afii10020
-Encoding: 1043 1043 425
+Encoding: 425 1043 425
 Width: 1161
 GlyphClass: 2
 Flags: W
@@ -55441,7 +55441,7 @@ Kerns2: 485 -78 "'kern' Horizontal Kerning lookup 0 subtable"  484 -78 "'kern' H
 EndChar
 
 StartChar: afii10021
-Encoding: 1044 1044 426
+Encoding: 426 1044 426
 Width: 1459
 GlyphClass: 2
 Flags: W
@@ -55558,7 +55558,7 @@ Kerns2: 473 25 "'kern' Horizontal Kerning lookup 0 subtable"  468 25 "'kern' Hor
 EndChar
 
 StartChar: afii10022
-Encoding: 1045 1045 427
+Encoding: 427 1045 427
 Width: 1366
 GlyphClass: 2
 Flags: W
@@ -55568,7 +55568,7 @@ Refer: 40 69 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: afii10024
-Encoding: 1046 1046 428
+Encoding: 428 1046 428
 Width: 1851
 GlyphClass: 2
 Flags: W
@@ -56383,7 +56383,7 @@ Kerns2: 468 -27 "'kern' Horizontal Kerning lookup 0 subtable"  454 25 "'kern' Ho
 EndChar
 
 StartChar: afii10025
-Encoding: 1047 1047 429
+Encoding: 429 1047 429
 Width: 1283
 GlyphClass: 2
 Flags: W
@@ -56582,7 +56582,7 @@ Kerns2: 453 -51 "'kern' Horizontal Kerning lookup 0 subtable"  445 -78 "'kern' H
 EndChar
 
 StartChar: afii10026
-Encoding: 1048 1048 430
+Encoding: 430 1048 430
 Width: 1472
 GlyphClass: 2
 Flags: W
@@ -56719,7 +56719,7 @@ EndSplineSet
 EndChar
 
 StartChar: afii10027
-Encoding: 1049 1049 431
+Encoding: 431 1049 431
 Width: 1472
 GlyphClass: 2
 Flags: W
@@ -56751,7 +56751,7 @@ Refer: 657 -1 N 1 0 0 1 402 330 2
 EndChar
 
 StartChar: afii10028
-Encoding: 1050 1050 432
+Encoding: 432 1050 432
 Width: 1250
 GlyphClass: 2
 Flags: W
@@ -56878,7 +56878,7 @@ Kerns2: 471 -27 "'kern' Horizontal Kerning lookup 0 subtable"  461 25 "'kern' Ho
 EndChar
 
 StartChar: afii10029
-Encoding: 1051 1051 433
+Encoding: 433 1051 433
 Width: 1437
 GlyphClass: 2
 Flags: W
@@ -56992,7 +56992,7 @@ Kerns2: 454 51 "'kern' Horizontal Kerning lookup 0 subtable"
 EndChar
 
 StartChar: afii10030
-Encoding: 1052 1052 434
+Encoding: 434 1052 434
 Width: 1706
 GlyphClass: 2
 Flags: W
@@ -57003,7 +57003,7 @@ Kerns2: 477 -27 "'kern' Horizontal Kerning lookup 0 subtable"  471 -27 "'kern' H
 EndChar
 
 StartChar: afii10031
-Encoding: 1053 1053 435
+Encoding: 435 1053 435
 Width: 1479
 GlyphClass: 2
 Flags: W
@@ -57013,7 +57013,7 @@ Refer: 43 72 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: afii10032
-Encoding: 1054 1054 436
+Encoding: 436 1054 436
 Width: 1593
 GlyphClass: 2
 Flags: W
@@ -57024,7 +57024,7 @@ Kerns2: 465 -27 "'kern' Horizontal Kerning lookup 0 subtable"  458 -51 "'kern' H
 EndChar
 
 StartChar: afii10033
-Encoding: 1055 1055 437
+Encoding: 437 1055 437
 Width: 1472
 GlyphClass: 2
 Flags: W
@@ -57081,7 +57081,7 @@ EndSplineSet
 EndChar
 
 StartChar: afii10034
-Encoding: 1056 1056 438
+Encoding: 438 1056 438
 Width: 1366
 GlyphClass: 2
 Flags: W
@@ -57092,7 +57092,7 @@ Kerns2: 485 -27 "'kern' Horizontal Kerning lookup 0 subtable"  468 -51 "'kern' H
 EndChar
 
 StartChar: afii10035
-Encoding: 1057 1057 439
+Encoding: 439 1057 439
 Width: 1479
 GlyphClass: 2
 Flags: W
@@ -57103,7 +57103,7 @@ Kerns2: 477 -27 "'kern' Horizontal Kerning lookup 0 subtable"  474 -27 "'kern' H
 EndChar
 
 StartChar: afii10036
-Encoding: 1058 1058 440
+Encoding: 440 1058 440
 Width: 1251
 GlyphClass: 2
 Flags: W
@@ -57114,7 +57114,7 @@ Kerns2: 485 -51 "'kern' Horizontal Kerning lookup 0 subtable"  484 -27 "'kern' H
 EndChar
 
 StartChar: afii10037
-Encoding: 1059 1059 441
+Encoding: 441 1059 441
 Width: 1274
 GlyphClass: 2
 Flags: W
@@ -57289,7 +57289,7 @@ Kerns2: 485 -102 "'kern' Horizontal Kerning lookup 0 subtable"  484 -78 "'kern' 
 EndChar
 
 StartChar: afii10038
-Encoding: 1060 1060 442
+Encoding: 442 1060 442
 Width: 1748
 GlyphClass: 2
 Flags: W
@@ -57954,7 +57954,7 @@ Kerns2: 465 -51 "'kern' Horizontal Kerning lookup 0 subtable"  453 -53 "'kern' H
 EndChar
 
 StartChar: afii10039
-Encoding: 1061 1061 443
+Encoding: 443 1061 443
 Width: 1366
 GlyphClass: 2
 Flags: W
@@ -57965,7 +57965,7 @@ Kerns2: 473 -27 "'kern' Horizontal Kerning lookup 0 subtable"  468 -27 "'kern' H
 EndChar
 
 StartChar: afii10040
-Encoding: 1062 1062 444
+Encoding: 444 1062 444
 Width: 1496
 GlyphClass: 2
 Flags: W
@@ -58072,7 +58072,7 @@ Kerns2: 468 25 "'kern' Horizontal Kerning lookup 0 subtable"  459 25 "'kern' Hor
 EndChar
 
 StartChar: afii10041
-Encoding: 1063 1063 445
+Encoding: 445 1063 445
 Width: 1439
 GlyphClass: 2
 Flags: W
@@ -58166,7 +58166,7 @@ EndSplineSet
 EndChar
 
 StartChar: afii10042
-Encoding: 1064 1064 446
+Encoding: 446 1064 446
 Width: 2058
 GlyphClass: 2
 Flags: W
@@ -58810,7 +58810,7 @@ EndSplineSet
 EndChar
 
 StartChar: afii10043
-Encoding: 1065 1065 447
+Encoding: 447 1065 447
 Width: 2087
 GlyphClass: 2
 Flags: W
@@ -59584,7 +59584,7 @@ Kerns2: 454 25 "'kern' Horizontal Kerning lookup 0 subtable"
 EndChar
 
 StartChar: afii10044
-Encoding: 1066 1066 448
+Encoding: 448 1066 448
 Width: 1781
 GlyphClass: 2
 Flags: W
@@ -59681,7 +59681,7 @@ Kerns2: 515 -205 "'kern' Horizontal Kerning lookup 0 subtable"  453 -78 "'kern' 
 EndChar
 
 StartChar: afii10045
-Encoding: 1067 1067 449
+Encoding: 449 1067 449
 Width: 2005
 GlyphClass: 2
 Flags: W
@@ -59794,7 +59794,7 @@ EndSplineSet
 EndChar
 
 StartChar: afii10046
-Encoding: 1068 1068 450
+Encoding: 450 1068 450
 Width: 1472
 GlyphClass: 2
 Flags: W
@@ -59909,7 +59909,7 @@ Kerns2: 515 -154 "'kern' Horizontal Kerning lookup 0 subtable"  453 -78 "'kern' 
 EndChar
 
 StartChar: afii10047
-Encoding: 1069 1069 451
+Encoding: 451 1069 451
 Width: 1457
 GlyphClass: 2
 Flags: W
@@ -60075,7 +60075,7 @@ Kerns2: 465 -51 "'kern' Horizontal Kerning lookup 0 subtable"  460 25 "'kern' Ho
 EndChar
 
 StartChar: afii10048
-Encoding: 1070 1070 452
+Encoding: 452 1070 452
 Width: 2112
 GlyphClass: 2
 Flags: W
@@ -60237,7 +60237,7 @@ Kerns2: 465 -51 "'kern' Horizontal Kerning lookup 0 subtable"  460 25 "'kern' Ho
 EndChar
 
 StartChar: afii10049
-Encoding: 1071 1071 453
+Encoding: 453 1071 453
 Width: 1472
 GlyphClass: 2
 Flags: W
@@ -60384,7 +60384,7 @@ EndSplineSet
 EndChar
 
 StartChar: afii10065
-Encoding: 1072 1072 454
+Encoding: 454 1072 454
 Width: 1139
 GlyphClass: 2
 Flags: W
@@ -60395,7 +60395,7 @@ Kerns2: 477 -51 "'kern' Horizontal Kerning lookup 0 subtable"  461 25 "'kern' Ho
 EndChar
 
 StartChar: afii10066
-Encoding: 1073 1073 455
+Encoding: 455 1073 455
 Width: 1265
 GlyphClass: 2
 Flags: W
@@ -60520,7 +60520,7 @@ Kerns2: 485 -27 "'kern' Horizontal Kerning lookup 0 subtable"  483 -27 "'kern' H
 EndChar
 
 StartChar: afii10067
-Encoding: 1074 1074 456
+Encoding: 456 1074 456
 Width: 1259
 GlyphClass: 2
 Flags: W
@@ -60667,7 +60667,7 @@ Kerns2: 485 -27 "'kern' Horizontal Kerning lookup 0 subtable"  480 -51 "'kern' H
 EndChar
 
 StartChar: afii10068
-Encoding: 1075 1075 457
+Encoding: 457 1075 457
 Width: 853
 GlyphClass: 2
 Flags: W
@@ -60742,7 +60742,7 @@ Kerns2: 471 -27 "'kern' Horizontal Kerning lookup 0 subtable"  468 -27 "'kern' H
 EndChar
 
 StartChar: afii10069
-Encoding: 1076 1076 458
+Encoding: 458 1076 458
 Width: 1300
 GlyphClass: 2
 Flags: W
@@ -60906,7 +60906,7 @@ Kerns2: 480 -27 "'kern' Horizontal Kerning lookup 0 subtable"  473 25 "'kern' Ho
 EndChar
 
 StartChar: afii10070
-Encoding: 1077 1077 459
+Encoding: 459 1077 459
 Width: 1139
 GlyphClass: 2
 Flags: W
@@ -60917,7 +60917,7 @@ Kerns2: 477 -51 "'kern' Horizontal Kerning lookup 0 subtable"  475 -27 "'kern' H
 EndChar
 
 StartChar: afii10072
-Encoding: 1078 1078 460
+Encoding: 460 1078 460
 Width: 1452
 GlyphClass: 2
 Flags: W
@@ -61471,7 +61471,7 @@ Kerns2: 477 -51 "'kern' Horizontal Kerning lookup 0 subtable"  471 -27 "'kern' H
 EndChar
 
 StartChar: afii10073
-Encoding: 1079 1079 461
+Encoding: 461 1079 461
 Width: 1018
 GlyphClass: 2
 Flags: W
@@ -61650,7 +61650,7 @@ Kerns2: 480 -51 "'kern' Horizontal Kerning lookup 0 subtable"  477 -78 "'kern' H
 EndChar
 
 StartChar: afii10074
-Encoding: 1080 1080 462
+Encoding: 462 1080 462
 Width: 1259
 GlyphClass: 2
 Flags: W
@@ -61773,7 +61773,7 @@ EndSplineSet
 EndChar
 
 StartChar: afii10075
-Encoding: 1081 1081 463
+Encoding: 463 1081 463
 Width: 1259
 GlyphClass: 2
 Flags: W
@@ -61805,7 +61805,7 @@ Refer: 657 -1 N 1 0 0 1 298 0 2
 EndChar
 
 StartChar: afii10076
-Encoding: 1082 1082 464
+Encoding: 464 1082 464
 Width: 1025
 GlyphClass: 2
 Flags: W
@@ -61935,7 +61935,7 @@ Kerns2: 483 -27 "'kern' Horizontal Kerning lookup 0 subtable"  477 -27 "'kern' H
 EndChar
 
 StartChar: afii10077
-Encoding: 1083 1083 465
+Encoding: 465 1083 465
 Width: 1301
 GlyphClass: 2
 Flags: W
@@ -62064,7 +62064,7 @@ Kerns2: 477 -51 "'kern' Horizontal Kerning lookup 0 subtable"  473 -27 "'kern' H
 EndChar
 
 StartChar: afii10078
-Encoding: 1084 1084 466
+Encoding: 466 1084 466
 Width: 1515
 GlyphClass: 2
 Flags: W
@@ -62575,7 +62575,7 @@ Kerns2: 483 -27 "'kern' Horizontal Kerning lookup 0 subtable"  474 -27 "'kern' H
 EndChar
 
 StartChar: afii10079
-Encoding: 1085 1085 467
+Encoding: 467 1085 467
 Width: 1237
 GlyphClass: 2
 Flags: W
@@ -62681,7 +62681,7 @@ EndSplineSet
 EndChar
 
 StartChar: afii10080
-Encoding: 1086 1086 468
+Encoding: 468 1086 468
 Width: 1251
 GlyphClass: 2
 Flags: W
@@ -62692,7 +62692,7 @@ Kerns2: 485 -27 "'kern' Horizontal Kerning lookup 0 subtable"  483 -27 "'kern' H
 EndChar
 
 StartChar: afii10081
-Encoding: 1087 1087 469
+Encoding: 469 1087 469
 Width: 1237
 GlyphClass: 2
 Flags: W
@@ -62774,7 +62774,7 @@ EndSplineSet
 EndChar
 
 StartChar: afii10082
-Encoding: 1088 1088 470
+Encoding: 470 1088 470
 Width: 1251
 GlyphClass: 2
 Flags: W
@@ -62785,7 +62785,7 @@ Kerns2: 485 -27 "'kern' Horizontal Kerning lookup 0 subtable"  483 -27 "'kern' H
 EndChar
 
 StartChar: afii10083
-Encoding: 1089 1089 471
+Encoding: 471 1089 471
 Width: 1139
 GlyphClass: 2
 Flags: W
@@ -62796,7 +62796,7 @@ Kerns2: 480 -27 "'kern' Horizontal Kerning lookup 0 subtable"  477 -53 "'kern' H
 EndChar
 
 StartChar: afii10084
-Encoding: 1090 1090 472
+Encoding: 472 1090 472
 Width: 1003
 GlyphClass: 2
 Flags: W
@@ -63571,7 +63571,7 @@ Kerns2: 473 51 "'kern' Horizontal Kerning lookup 0 subtable"  471 -27 "'kern' Ho
 EndChar
 
 StartChar: afii10085
-Encoding: 1091 1091 473
+Encoding: 473 1091 473
 Width: 1139
 GlyphClass: 2
 Flags: W
@@ -63582,7 +63582,7 @@ Kerns2: 485 -27 "'kern' Horizontal Kerning lookup 0 subtable"  483 -27 "'kern' H
 EndChar
 
 StartChar: afii10086
-Encoding: 1092 1092 474
+Encoding: 474 1092 474
 Width: 1792
 GlyphClass: 2
 Flags: W
@@ -64422,7 +64422,7 @@ Kerns2: 485 -27 "'kern' Horizontal Kerning lookup 0 subtable"  477 -51 "'kern' H
 EndChar
 
 StartChar: afii10087
-Encoding: 1093 1093 475
+Encoding: 475 1093 475
 Width: 1139
 GlyphClass: 2
 Flags: W
@@ -64433,7 +64433,7 @@ Kerns2: 483 -27 "'kern' Horizontal Kerning lookup 0 subtable"  477 -51 "'kern' H
 EndChar
 
 StartChar: afii10088
-Encoding: 1094 1094 476
+Encoding: 476 1094 476
 Width: 1259
 GlyphClass: 2
 Flags: W
@@ -64523,7 +64523,7 @@ Kerns2: 471 -27 "'kern' Horizontal Kerning lookup 0 subtable"  461 25 "'kern' Ho
 EndChar
 
 StartChar: afii10089
-Encoding: 1095 1095 477
+Encoding: 477 1095 477
 Width: 1189
 GlyphClass: 2
 Flags: W
@@ -64619,7 +64619,7 @@ EndSplineSet
 EndChar
 
 StartChar: afii10090
-Encoding: 1096 1096 478
+Encoding: 478 1096 478
 Width: 1707
 GlyphClass: 2
 Flags: W
@@ -65341,7 +65341,7 @@ EndSplineSet
 EndChar
 
 StartChar: afii10091
-Encoding: 1097 1097 479
+Encoding: 479 1097 479
 Width: 1728
 GlyphClass: 2
 Flags: W
@@ -66064,7 +66064,7 @@ Kerns2: 468 -27 "'kern' Horizontal Kerning lookup 0 subtable"  454 25 "'kern' Ho
 EndChar
 
 StartChar: afii10092
-Encoding: 1098 1098 480
+Encoding: 480 1098 480
 Width: 1493
 GlyphClass: 2
 Flags: W
@@ -66175,7 +66175,7 @@ EndSplineSet
 EndChar
 
 StartChar: afii10093
-Encoding: 1099 1099 481
+Encoding: 481 1099 481
 Width: 1749
 GlyphClass: 2
 Flags: W
@@ -66330,7 +66330,7 @@ EndSplineSet
 EndChar
 
 StartChar: afii10094
-Encoding: 1100 1100 482
+Encoding: 482 1100 482
 Width: 1259
 GlyphClass: 2
 Flags: W
@@ -66454,7 +66454,7 @@ Kerns2: 477 -180 "'kern' Horizontal Kerning lookup 0 subtable"  472 -180 "'kern'
 EndChar
 
 StartChar: afii10095
-Encoding: 1101 1101 483
+Encoding: 483 1101 483
 Width: 1131
 GlyphClass: 2
 Flags: W
@@ -66586,7 +66586,7 @@ Kerns2: 485 -27 "'kern' Horizontal Kerning lookup 0 subtable"  475 -27 "'kern' H
 EndChar
 
 StartChar: afii10096
-Encoding: 1102 1102 484
+Encoding: 484 1102 484
 Width: 1749
 GlyphClass: 2
 Flags: W
@@ -66730,7 +66730,7 @@ Kerns2: 483 -27 "'kern' Horizontal Kerning lookup 0 subtable"  477 -78 "'kern' H
 EndChar
 
 StartChar: afii10097
-Encoding: 1103 1103 485
+Encoding: 485 1103 485
 Width: 1195
 GlyphClass: 2
 Flags: W
@@ -66866,7 +66866,7 @@ EndSplineSet
 EndChar
 
 StartChar: afii10071
-Encoding: 1105 1105 486
+Encoding: 486 1105 486
 Width: 1139
 GlyphClass: 2
 Flags: W
@@ -66902,7 +66902,7 @@ Refer: 105 168 N 1 0 0 1 244 0 2
 EndChar
 
 StartChar: afii10099
-Encoding: 1106 1106 487
+Encoding: 487 1106 487
 Width: 1251
 GlyphClass: 2
 Flags: W
@@ -67129,7 +67129,7 @@ EndSplineSet
 EndChar
 
 StartChar: afii10100
-Encoding: 1107 1107 488
+Encoding: 488 1107 488
 Width: 853
 GlyphClass: 2
 Flags: W
@@ -67161,7 +67161,7 @@ Refer: 116 180 N 1 0 0 1 216 0 2
 EndChar
 
 StartChar: afii10101
-Encoding: 1108 1108 489
+Encoding: 489 1108 489
 Width: 1131
 GlyphClass: 2
 Flags: W
@@ -67294,7 +67294,7 @@ EndSplineSet
 EndChar
 
 StartChar: afii10102
-Encoding: 1109 1109 490
+Encoding: 490 1109 490
 Width: 1139
 GlyphClass: 2
 Flags: W
@@ -67304,7 +67304,7 @@ Refer: 86 115 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: afii10103
-Encoding: 1110 1110 491
+Encoding: 491 1110 491
 Width: 569
 GlyphClass: 2
 Flags: W
@@ -67411,7 +67411,7 @@ Refer: 331 729 N 1 0 0 1 -55 0 2
 EndChar
 
 StartChar: afii10104
-Encoding: 1111 1111 492
+Encoding: 492 1111 492
 Width: 576
 GlyphClass: 2
 Flags: W
@@ -68227,7 +68227,7 @@ Refer: 105 168 N 1 0 0 1 -54 0 2
 EndChar
 
 StartChar: afii10105
-Encoding: 1112 1112 493
+Encoding: 493 1112 493
 Width: 569
 GlyphClass: 2
 Flags: W
@@ -68237,7 +68237,7 @@ Refer: 77 106 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: afii10106
-Encoding: 1113 1113 494
+Encoding: 494 1113 494
 Width: 1984
 GlyphClass: 2
 Flags: W
@@ -68448,7 +68448,7 @@ EndSplineSet
 EndChar
 
 StartChar: afii10107
-Encoding: 1114 1114 495
+Encoding: 495 1114 495
 Width: 1856
 GlyphClass: 2
 Flags: W
@@ -68594,7 +68594,7 @@ EndSplineSet
 EndChar
 
 StartChar: afii10108
-Encoding: 1115 1115 496
+Encoding: 496 1115 496
 Width: 1251
 GlyphClass: 2
 Flags: W
@@ -68791,7 +68791,7 @@ EndSplineSet
 EndChar
 
 StartChar: afii10109
-Encoding: 1116 1116 497
+Encoding: 497 1116 497
 Width: 1025
 GlyphClass: 2
 Flags: W
@@ -68823,7 +68823,7 @@ Refer: 116 180 N 1 0 0 1 319 0 2
 EndChar
 
 StartChar: afii10110
-Encoding: 1118 1118 498
+Encoding: 498 1118 498
 Width: 1139
 GlyphClass: 2
 Flags: W
@@ -68857,7 +68857,7 @@ Kerns2: 108 -51 "'kern' Horizontal Kerning lookup 0 subtable"  30 -27 "'kern' Ho
 EndChar
 
 StartChar: afii10193
-Encoding: 1119 1119 499
+Encoding: 499 1119 499
 Width: 1237
 GlyphClass: 2
 Flags: W
@@ -69579,7 +69579,7 @@ EndSplineSet
 EndChar
 
 StartChar: afii10050
-Encoding: 1168 1168 500
+Encoding: 500 1168 500
 Width: 997
 GlyphClass: 2
 Flags: W
@@ -69653,7 +69653,7 @@ Kerns2: 123 -51 "'kern' Horizontal Kerning lookup 0 subtable"  108 -51 "'kern' H
 EndChar
 
 StartChar: afii10098
-Encoding: 1169 1169 501
+Encoding: 501 1169 501
 Width: 915
 GlyphClass: 2
 Flags: W
@@ -69742,7 +69742,7 @@ EndSplineSet
 EndChar
 
 StartChar: Wgrave
-Encoding: 7808 7808 502
+Encoding: 502 7808 502
 Width: 1933
 GlyphClass: 2
 Flags: W
@@ -69775,7 +69775,7 @@ Refer: 660 -1 N 1 0 0 1 577 0 2
 EndChar
 
 StartChar: wgrave
-Encoding: 7809 7809 503
+Encoding: 503 7809 503
 Width: 1593
 GlyphClass: 2
 Flags: W
@@ -69808,7 +69808,7 @@ Refer: 67 96 N 1 0 0 1 379 0 2
 EndChar
 
 StartChar: Wacute
-Encoding: 7810 7810 504
+Encoding: 504 7810 504
 Width: 1933
 GlyphClass: 2
 Flags: W
@@ -69840,7 +69840,7 @@ Refer: 661 -1 N 1 0 0 1 736 0 2
 EndChar
 
 StartChar: wacute
-Encoding: 7811 7811 505
+Encoding: 505 7811 505
 Width: 1593
 GlyphClass: 2
 Flags: W
@@ -69872,7 +69872,7 @@ Refer: 116 180 N 1 0 0 1 550 0 2
 EndChar
 
 StartChar: Wdieresis
-Encoding: 7812 7812 506
+Encoding: 506 7812 506
 Width: 1933
 GlyphClass: 2
 Flags: W
@@ -69908,7 +69908,7 @@ Refer: 664 -1 N 1 0 0 1 629 0 2
 EndChar
 
 StartChar: wdieresis
-Encoding: 7813 7813 507
+Encoding: 507 7813 507
 Width: 1593
 GlyphClass: 2
 Flags: W
@@ -69944,7 +69944,7 @@ Refer: 105 168 N 1 0 0 1 456 0 2
 EndChar
 
 StartChar: Ygrave
-Encoding: 7922 7922 508
+Encoding: 508 7922 508
 Width: 1366
 GlyphClass: 2
 Flags: W
@@ -69977,7 +69977,7 @@ Refer: 660 -1 N 1 0 0 1 290 0 2
 EndChar
 
 StartChar: ygrave
-Encoding: 7923 7923 509
+Encoding: 509 7923 509
 Width: 1139
 GlyphClass: 2
 Flags: W
@@ -70010,7 +70010,7 @@ Refer: 67 96 N 1 0 0 1 139 0 2
 EndChar
 
 StartChar: endash
-Encoding: 8211 8211 510
+Encoding: 510 8211 510
 Width: 1139
 GlyphClass: 2
 Flags: W
@@ -70043,7 +70043,7 @@ EndSplineSet
 EndChar
 
 StartChar: emdash
-Encoding: 8212 8212 511
+Encoding: 511 8212 511
 Width: 2048
 GlyphClass: 2
 Flags: W
@@ -70076,7 +70076,7 @@ EndSplineSet
 EndChar
 
 StartChar: afii00208
-Encoding: 8213 8213 512
+Encoding: 512 8213 512
 Width: 2048
 GlyphClass: 2
 Flags: W
@@ -70109,7 +70109,7 @@ EndSplineSet
 EndChar
 
 StartChar: underscoredbl
-Encoding: 8215 8215 513
+Encoding: 513 8215 513
 Width: 1131
 GlyphClass: 2
 Flags: W
@@ -70120,7 +70120,7 @@ Refer: 66 95 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: quoteleft
-Encoding: 8216 8216 514
+Encoding: 514 8216 514
 Width: 569
 GlyphClass: 2
 Flags: W
@@ -70213,7 +70213,7 @@ Kerns2: 514 -76 "'kern' Horizontal Kerning lookup 0 subtable"
 EndChar
 
 StartChar: quoteright
-Encoding: 8217 8217 515
+Encoding: 515 8217 515
 Width: 569
 GlyphClass: 2
 Flags: W
@@ -70284,7 +70284,7 @@ Kerns2: 515 -76 "'kern' Horizontal Kerning lookup 0 subtable"  86 -76 "'kern' Ho
 EndChar
 
 StartChar: quotesinglbase
-Encoding: 8218 8218 516
+Encoding: 516 8218 516
 Width: 569
 GlyphClass: 2
 Flags: W
@@ -70377,7 +70377,7 @@ EndSplineSet
 EndChar
 
 StartChar: quotereversed
-Encoding: 8219 8219 517
+Encoding: 517 8219 517
 Width: 569
 GlyphClass: 2
 Flags: W
@@ -70445,7 +70445,7 @@ EndSplineSet
 EndChar
 
 StartChar: quotedblleft
-Encoding: 8220 8220 518
+Encoding: 518 8220 518
 Width: 1024
 GlyphClass: 2
 Flags: W
@@ -70578,7 +70578,7 @@ EndSplineSet
 EndChar
 
 StartChar: quotedblright
-Encoding: 8221 8221 519
+Encoding: 519 8221 519
 Width: 1024
 GlyphClass: 2
 Flags: W
@@ -70702,7 +70702,7 @@ EndSplineSet
 EndChar
 
 StartChar: quotedblbase
-Encoding: 8222 8222 520
+Encoding: 520 8222 520
 Width: 1024
 GlyphClass: 2
 Flags: W
@@ -70868,7 +70868,7 @@ Kerns2: 448 -180 "'kern' Horizontal Kerning lookup 0 subtable"  445 -207 "'kern'
 EndChar
 
 StartChar: dagger
-Encoding: 8224 8224 521
+Encoding: 521 8224 521
 Width: 1139
 GlyphClass: 2
 Flags: W
@@ -70949,7 +70949,7 @@ EndSplineSet
 EndChar
 
 StartChar: daggerdbl
-Encoding: 8225 8225 522
+Encoding: 522 8225 522
 Width: 1139
 GlyphClass: 2
 Flags: W
@@ -71068,7 +71068,7 @@ EndSplineSet
 EndChar
 
 StartChar: bullet
-Encoding: 8226 8226 523
+Encoding: 523 8226 523
 Width: 717
 GlyphClass: 2
 Flags: W
@@ -71153,7 +71153,7 @@ EndSplineSet
 EndChar
 
 StartChar: ellipsis
-Encoding: 8230 8230 524
+Encoding: 524 8230 524
 Width: 2048
 GlyphClass: 2
 Flags: W
@@ -71253,7 +71253,7 @@ EndSplineSet
 EndChar
 
 StartChar: perthousand
-Encoding: 8240 8240 525
+Encoding: 525 8240 525
 Width: 2048
 GlyphClass: 2
 Flags: W
@@ -72338,7 +72338,7 @@ EndSplineSet
 EndChar
 
 StartChar: minute
-Encoding: 8242 8242 526
+Encoding: 526 8242 526
 Width: 491
 GlyphClass: 2
 Flags: W
@@ -72391,7 +72391,7 @@ EndSplineSet
 EndChar
 
 StartChar: second
-Encoding: 8243 8243 527
+Encoding: 527 8243 527
 Width: 981
 GlyphClass: 2
 Flags: W
@@ -72416,7 +72416,7 @@ Refer: 526 8242 N 1 0 0 1 489 0 2
 EndChar
 
 StartChar: guilsinglleft
-Encoding: 8249 8249 528
+Encoding: 528 8249 528
 Width: 682
 GlyphClass: 2
 Flags: W
@@ -72498,7 +72498,7 @@ EndSplineSet
 EndChar
 
 StartChar: guilsinglright
-Encoding: 8250 8250 529
+Encoding: 529 8250 529
 Width: 682
 GlyphClass: 2
 Flags: W
@@ -72580,7 +72580,7 @@ EndSplineSet
 EndChar
 
 StartChar: exclamdbl
-Encoding: 8252 8252 530
+Encoding: 530 8252 530
 Width: 1237
 GlyphClass: 2
 Flags: W
@@ -72608,7 +72608,7 @@ Refer: 4 33 N 1 0 0 1 557 0 2
 EndChar
 
 StartChar: uni203E
-Encoding: 8254 8254 531
+Encoding: 531 8254 531
 Width: 682
 GlyphClass: 2
 Flags: W
@@ -72640,7 +72640,7 @@ EndSplineSet
 EndChar
 
 StartChar: fraction
-Encoding: 8260 8260 532
+Encoding: 532 8260 532
 AltUni2: 002215.ffffffff.0
 Width: 342
 GlyphClass: 2
@@ -72698,7 +72698,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni207F
-Encoding: 8319 8319 533
+Encoding: 533 8319 533
 Width: 811
 GlyphClass: 2
 Flags: W
@@ -72792,7 +72792,7 @@ EndSplineSet
 EndChar
 
 StartChar: franc
-Encoding: 8355 8355 534
+Encoding: 534 8355 534
 Width: 1139
 GlyphClass: 2
 Flags: W
@@ -72936,7 +72936,7 @@ EndSplineSet
 EndChar
 
 StartChar: lira
-Encoding: 8356 8356 535
+Encoding: 535 8356 535
 Width: 1139
 GlyphClass: 2
 Flags: W
@@ -73190,7 +73190,7 @@ EndSplineSet
 EndChar
 
 StartChar: peseta
-Encoding: 8359 8359 536
+Encoding: 536 8359 536
 Width: 2240
 GlyphClass: 2
 Flags: W
@@ -74169,7 +74169,7 @@ EndSplineSet
 EndChar
 
 StartChar: Euro
-Encoding: 8364 8364 537
+Encoding: 537 8364 537
 Width: 1139
 GlyphClass: 2
 Flags: W
@@ -74408,7 +74408,7 @@ EndSplineSet
 EndChar
 
 StartChar: afii61248
-Encoding: 8453 8453 538
+Encoding: 538 8453 538
 Width: 1813
 GlyphClass: 2
 Flags: W
@@ -74713,7 +74713,7 @@ EndSplineSet
 EndChar
 
 StartChar: afii61289
-Encoding: 8467 8467 539
+Encoding: 539 8467 539
 Width: 1001
 GlyphClass: 2
 Flags: W
@@ -74889,7 +74889,7 @@ EndSplineSet
 EndChar
 
 StartChar: afii61352
-Encoding: 8470 8470 540
+Encoding: 540 8470 540
 Width: 2283
 GlyphClass: 2
 Flags: W
@@ -75129,7 +75129,7 @@ EndSplineSet
 EndChar
 
 StartChar: trademark
-Encoding: 8482 8482 541
+Encoding: 541 8482 541
 Width: 2048
 GlyphClass: 2
 Flags: W
@@ -75300,7 +75300,7 @@ EndSplineSet
 EndChar
 
 StartChar: u2126
-Encoding: 8486 8486 542
+Encoding: 542 8486 542
 Width: 1573
 GlyphClass: 2
 Flags: W
@@ -75471,7 +75471,7 @@ EndSplineSet
 EndChar
 
 StartChar: estimated
-Encoding: 8494 8494 543
+Encoding: 543 8494 543
 Width: 1229
 GlyphClass: 2
 Flags: W
@@ -75589,7 +75589,7 @@ EndSplineSet
 EndChar
 
 StartChar: oneeighth
-Encoding: 8539 8539 544
+Encoding: 544 8539 544
 Width: 1708
 GlyphClass: 2
 Flags: W
@@ -75635,7 +75635,7 @@ Refer: 656 -1 N 1 0 0 1 975 -692 2
 EndChar
 
 StartChar: threeeighths
-Encoding: 8540 8540 545
+Encoding: 545 8540 545
 Width: 1708
 GlyphClass: 2
 Flags: W
@@ -75677,7 +75677,7 @@ Refer: 115 179 N 1 0 0 1 40 0 2
 EndChar
 
 StartChar: fiveeighths
-Encoding: 8541 8541 546
+Encoding: 546 8541 546
 Width: 1708
 GlyphClass: 2
 Flags: W
@@ -75719,7 +75719,7 @@ Refer: 654 -1 N 1 0 0 1 50 0 2
 EndChar
 
 StartChar: seveneighths
-Encoding: 8542 8542 547
+Encoding: 547 8542 547
 Width: 1708
 GlyphClass: 2
 Flags: W
@@ -75777,7 +75777,7 @@ Refer: 655 -1 N 1 0 0 1 120 0 2
 EndChar
 
 StartChar: arrowleft
-Encoding: 8592 8592 548
+Encoding: 548 8592 548
 Width: 2048
 GlyphClass: 2
 Flags: W
@@ -75829,7 +75829,7 @@ EndSplineSet
 EndChar
 
 StartChar: arrowup
-Encoding: 8593 8593 549
+Encoding: 549 8593 549
 Width: 1024
 GlyphClass: 2
 Flags: W
@@ -75883,7 +75883,7 @@ EndSplineSet
 EndChar
 
 StartChar: arrowright
-Encoding: 8594 8594 550
+Encoding: 550 8594 550
 Width: 2048
 GlyphClass: 2
 Flags: W
@@ -75935,7 +75935,7 @@ EndSplineSet
 EndChar
 
 StartChar: arrowdown
-Encoding: 8595 8595 551
+Encoding: 551 8595 551
 Width: 1024
 GlyphClass: 2
 Flags: W
@@ -75989,7 +75989,7 @@ EndSplineSet
 EndChar
 
 StartChar: arrowboth
-Encoding: 8596 8596 552
+Encoding: 552 8596 552
 Width: 2048
 GlyphClass: 2
 Flags: W
@@ -76063,7 +76063,7 @@ EndSplineSet
 EndChar
 
 StartChar: arrowupdn
-Encoding: 8597 8597 553
+Encoding: 553 8597 553
 Width: 1024
 GlyphClass: 2
 Flags: W
@@ -76139,7 +76139,7 @@ EndSplineSet
 EndChar
 
 StartChar: arrowupdnbse
-Encoding: 8616 8616 554
+Encoding: 554 8616 554
 Width: 1024
 GlyphClass: 2
 Flags: W
@@ -76222,7 +76222,7 @@ EndSplineSet
 EndChar
 
 StartChar: partialdiff
-Encoding: 8706 8706 555
+Encoding: 555 8706 555
 Width: 1012
 GlyphClass: 2
 Flags: W
@@ -76386,7 +76386,7 @@ EndSplineSet
 EndChar
 
 StartChar: u2206
-Encoding: 8710 8710 556
+Encoding: 556 8710 556
 Width: 1253
 GlyphClass: 2
 Flags: W
@@ -76587,7 +76587,7 @@ EndSplineSet
 EndChar
 
 StartChar: product
-Encoding: 8719 8719 557
+Encoding: 557 8719 557
 Width: 1686
 GlyphClass: 2
 Flags: W
@@ -76645,7 +76645,7 @@ EndSplineSet
 EndChar
 
 StartChar: summation
-Encoding: 8721 8721 558
+Encoding: 558 8721 558
 Width: 1460
 GlyphClass: 2
 Flags: W
@@ -76808,7 +76808,7 @@ EndSplineSet
 EndChar
 
 StartChar: minus
-Encoding: 8722 8722 559
+Encoding: 559 8722 559
 Width: 1196
 GlyphClass: 2
 Flags: W
@@ -76848,7 +76848,7 @@ EndSplineSet
 EndChar
 
 StartChar: radical
-Encoding: 8730 8730 560
+Encoding: 560 8730 560
 Width: 1124
 GlyphClass: 2
 Flags: W
@@ -77037,7 +77037,7 @@ EndSplineSet
 EndChar
 
 StartChar: infinity
-Encoding: 8734 8734 561
+Encoding: 561 8734 561
 Width: 1460
 GlyphClass: 2
 Flags: W
@@ -77217,7 +77217,7 @@ EndSplineSet
 EndChar
 
 StartChar: orthogonal
-Encoding: 8735 8735 562
+Encoding: 562 8735 562
 Width: 2005
 GlyphClass: 2
 Flags: W
@@ -77250,7 +77250,7 @@ EndSplineSet
 EndChar
 
 StartChar: intersection
-Encoding: 8745 8745 563
+Encoding: 563 8745 563
 Width: 1479
 GlyphClass: 2
 Flags: W
@@ -77311,7 +77311,7 @@ EndSplineSet
 EndChar
 
 StartChar: integral
-Encoding: 8747 8747 564
+Encoding: 564 8747 564
 Width: 561
 GlyphClass: 2
 Flags: W
@@ -77433,7 +77433,7 @@ EndSplineSet
 EndChar
 
 StartChar: approxequal
-Encoding: 8776 8776 565
+Encoding: 565 8776 565
 Width: 1124
 GlyphClass: 2
 Flags: W
@@ -77629,7 +77629,7 @@ EndSplineSet
 EndChar
 
 StartChar: notequal
-Encoding: 8800 8800 566
+Encoding: 566 8800 566
 Width: 1124
 GlyphClass: 2
 Flags: W
@@ -77845,7 +77845,7 @@ EndSplineSet
 EndChar
 
 StartChar: equivalence
-Encoding: 8801 8801 567
+Encoding: 567 8801 567
 Width: 1195
 GlyphClass: 2
 Flags: W
@@ -77936,7 +77936,7 @@ EndSplineSet
 EndChar
 
 StartChar: lessequal
-Encoding: 8804 8804 568
+Encoding: 568 8804 568
 Width: 1124
 GlyphClass: 2
 Flags: W
@@ -78092,7 +78092,7 @@ EndSplineSet
 EndChar
 
 StartChar: greaterequal
-Encoding: 8805 8805 569
+Encoding: 569 8805 569
 Width: 1124
 GlyphClass: 2
 Flags: W
@@ -78246,7 +78246,7 @@ EndSplineSet
 EndChar
 
 StartChar: house
-Encoding: 8962 8962 570
+Encoding: 570 8962 570
 Width: 1237
 GlyphClass: 2
 Flags: W
@@ -78306,7 +78306,7 @@ EndSplineSet
 EndChar
 
 StartChar: revlogicalnot
-Encoding: 8976 8976 571
+Encoding: 571 8976 571
 Width: 1196
 GlyphClass: 2
 Flags: W
@@ -78370,7 +78370,7 @@ EndSplineSet
 EndChar
 
 StartChar: integraltp
-Encoding: 8992 8992 572
+Encoding: 572 8992 572
 Width: 1237
 GlyphClass: 2
 Flags: W
@@ -78427,7 +78427,7 @@ EndSplineSet
 EndChar
 
 StartChar: integralbt
-Encoding: 8993 8993 573
+Encoding: 573 8993 573
 Width: 1237
 GlyphClass: 2
 Flags: W
@@ -78490,7 +78490,7 @@ EndSplineSet
 EndChar
 
 StartChar: SF100000
-Encoding: 9472 9472 574
+Encoding: 574 9472 574
 Width: 1451
 GlyphClass: 2
 Flags: W
@@ -78529,7 +78529,7 @@ EndSplineSet
 EndChar
 
 StartChar: SF110000
-Encoding: 9474 9474 575
+Encoding: 575 9474 575
 Width: 1280
 GlyphClass: 2
 Flags: W
@@ -78567,7 +78567,7 @@ EndSplineSet
 EndChar
 
 StartChar: SF010000
-Encoding: 9484 9484 576
+Encoding: 576 9484 576
 Width: 1451
 GlyphClass: 2
 Flags: W
@@ -78617,7 +78617,7 @@ EndSplineSet
 EndChar
 
 StartChar: SF030000
-Encoding: 9488 9488 577
+Encoding: 577 9488 577
 Width: 1451
 GlyphClass: 2
 Flags: W
@@ -78666,7 +78666,7 @@ EndSplineSet
 EndChar
 
 StartChar: SF020000
-Encoding: 9492 9492 578
+Encoding: 578 9492 578
 Width: 1451
 GlyphClass: 2
 Flags: W
@@ -78714,7 +78714,7 @@ EndSplineSet
 EndChar
 
 StartChar: SF040000
-Encoding: 9496 9496 579
+Encoding: 579 9496 579
 Width: 1451
 GlyphClass: 2
 Flags: W
@@ -78763,7 +78763,7 @@ EndSplineSet
 EndChar
 
 StartChar: SF080000
-Encoding: 9500 9500 580
+Encoding: 580 9500 580
 Width: 1451
 GlyphClass: 2
 Flags: W
@@ -78820,7 +78820,7 @@ EndSplineSet
 EndChar
 
 StartChar: SF090000
-Encoding: 9508 9508 581
+Encoding: 581 9508 581
 Width: 1451
 GlyphClass: 2
 Flags: W
@@ -78877,7 +78877,7 @@ EndSplineSet
 EndChar
 
 StartChar: SF060000
-Encoding: 9516 9516 582
+Encoding: 582 9516 582
 Width: 1451
 GlyphClass: 2
 Flags: W
@@ -78935,7 +78935,7 @@ EndSplineSet
 EndChar
 
 StartChar: SF070000
-Encoding: 9524 9524 583
+Encoding: 583 9524 583
 Width: 1451
 GlyphClass: 2
 Flags: W
@@ -78993,7 +78993,7 @@ EndSplineSet
 EndChar
 
 StartChar: SF050000
-Encoding: 9532 9532 584
+Encoding: 584 9532 584
 Width: 1451
 GlyphClass: 2
 Flags: W
@@ -79065,7 +79065,7 @@ EndSplineSet
 EndChar
 
 StartChar: SF430000
-Encoding: 9552 9552 585
+Encoding: 585 9552 585
 Width: 1451
 GlyphClass: 2
 Flags: W
@@ -79123,7 +79123,7 @@ EndSplineSet
 EndChar
 
 StartChar: SF240000
-Encoding: 9553 9553 586
+Encoding: 586 9553 586
 Width: 1451
 GlyphClass: 2
 Flags: W
@@ -79179,7 +79179,7 @@ EndSplineSet
 EndChar
 
 StartChar: SF510000
-Encoding: 9554 9554 587
+Encoding: 587 9554 587
 Width: 1451
 GlyphClass: 2
 Flags: W
@@ -79247,7 +79247,7 @@ EndSplineSet
 EndChar
 
 StartChar: SF520000
-Encoding: 9555 9555 588
+Encoding: 588 9555 588
 Width: 1451
 GlyphClass: 2
 Flags: W
@@ -79313,7 +79313,7 @@ EndSplineSet
 EndChar
 
 StartChar: SF390000
-Encoding: 9556 9556 589
+Encoding: 589 9556 589
 Width: 1451
 GlyphClass: 2
 Flags: W
@@ -79391,7 +79391,7 @@ EndSplineSet
 EndChar
 
 StartChar: SF220000
-Encoding: 9557 9557 590
+Encoding: 590 9557 590
 Width: 1451
 GlyphClass: 2
 Flags: W
@@ -79459,7 +79459,7 @@ EndSplineSet
 EndChar
 
 StartChar: SF210000
-Encoding: 9558 9558 591
+Encoding: 591 9558 591
 Width: 1451
 GlyphClass: 2
 Flags: W
@@ -79525,7 +79525,7 @@ EndSplineSet
 EndChar
 
 StartChar: SF250000
-Encoding: 9559 9559 592
+Encoding: 592 9559 592
 Width: 1451
 GlyphClass: 2
 Flags: W
@@ -79603,7 +79603,7 @@ EndSplineSet
 EndChar
 
 StartChar: SF500000
-Encoding: 9560 9560 593
+Encoding: 593 9560 593
 Width: 1451
 GlyphClass: 2
 Flags: W
@@ -79669,7 +79669,7 @@ EndSplineSet
 EndChar
 
 StartChar: SF490000
-Encoding: 9561 9561 594
+Encoding: 594 9561 594
 Width: 1451
 GlyphClass: 2
 Flags: W
@@ -79734,7 +79734,7 @@ EndSplineSet
 EndChar
 
 StartChar: SF380000
-Encoding: 9562 9562 595
+Encoding: 595 9562 595
 Width: 1451
 GlyphClass: 2
 Flags: W
@@ -79812,7 +79812,7 @@ EndSplineSet
 EndChar
 
 StartChar: SF280000
-Encoding: 9563 9563 596
+Encoding: 596 9563 596
 Width: 1451
 GlyphClass: 2
 Flags: W
@@ -79879,7 +79879,7 @@ EndSplineSet
 EndChar
 
 StartChar: SF270000
-Encoding: 9564 9564 597
+Encoding: 597 9564 597
 Width: 1451
 GlyphClass: 2
 Flags: W
@@ -79945,7 +79945,7 @@ EndSplineSet
 EndChar
 
 StartChar: SF260000
-Encoding: 9565 9565 598
+Encoding: 598 9565 598
 Width: 1451
 GlyphClass: 2
 Flags: W
@@ -80024,7 +80024,7 @@ EndSplineSet
 EndChar
 
 StartChar: SF360000
-Encoding: 9566 9566 599
+Encoding: 599 9566 599
 Width: 1451
 GlyphClass: 2
 Flags: W
@@ -80099,7 +80099,7 @@ EndSplineSet
 EndChar
 
 StartChar: SF370000
-Encoding: 9567 9567 600
+Encoding: 600 9567 600
 Width: 1451
 GlyphClass: 2
 Flags: W
@@ -80175,7 +80175,7 @@ EndSplineSet
 EndChar
 
 StartChar: SF420000
-Encoding: 9568 9568 601
+Encoding: 601 9568 601
 Width: 1451
 GlyphClass: 2
 Flags: W
@@ -80267,7 +80267,7 @@ EndSplineSet
 EndChar
 
 StartChar: SF190000
-Encoding: 9569 9569 602
+Encoding: 602 9569 602
 Width: 1451
 GlyphClass: 2
 Flags: W
@@ -80344,7 +80344,7 @@ EndSplineSet
 EndChar
 
 StartChar: SF200000
-Encoding: 9570 9570 603
+Encoding: 603 9570 603
 Width: 1451
 GlyphClass: 2
 Flags: W
@@ -80419,7 +80419,7 @@ EndSplineSet
 EndChar
 
 StartChar: SF230000
-Encoding: 9571 9571 604
+Encoding: 604 9571 604
 Width: 1451
 GlyphClass: 2
 Flags: W
@@ -80511,7 +80511,7 @@ EndSplineSet
 EndChar
 
 StartChar: SF470000
-Encoding: 9572 9572 605
+Encoding: 605 9572 605
 Width: 1451
 GlyphClass: 2
 Flags: W
@@ -80590,7 +80590,7 @@ EndSplineSet
 EndChar
 
 StartChar: SF480000
-Encoding: 9573 9573 606
+Encoding: 606 9573 606
 Width: 1451
 GlyphClass: 2
 Flags: W
@@ -80665,7 +80665,7 @@ EndSplineSet
 EndChar
 
 StartChar: SF410000
-Encoding: 9574 9574 607
+Encoding: 607 9574 607
 Width: 1451
 GlyphClass: 2
 Flags: W
@@ -80761,7 +80761,7 @@ EndSplineSet
 EndChar
 
 StartChar: SF450000
-Encoding: 9575 9575 608
+Encoding: 608 9575 608
 Width: 1451
 GlyphClass: 2
 Flags: W
@@ -80839,7 +80839,7 @@ EndSplineSet
 EndChar
 
 StartChar: SF460000
-Encoding: 9576 9576 609
+Encoding: 609 9576 609
 Width: 1451
 GlyphClass: 2
 Flags: W
@@ -80914,7 +80914,7 @@ EndSplineSet
 EndChar
 
 StartChar: SF400000
-Encoding: 9577 9577 610
+Encoding: 610 9577 610
 Width: 1451
 GlyphClass: 2
 Flags: W
@@ -81010,7 +81010,7 @@ EndSplineSet
 EndChar
 
 StartChar: SF540000
-Encoding: 9578 9578 611
+Encoding: 611 9578 611
 Width: 1451
 GlyphClass: 2
 Flags: W
@@ -81116,7 +81116,7 @@ EndSplineSet
 EndChar
 
 StartChar: SF530000
-Encoding: 9579 9579 612
+Encoding: 612 9579 612
 Width: 1451
 GlyphClass: 2
 Flags: W
@@ -81218,7 +81218,7 @@ EndSplineSet
 EndChar
 
 StartChar: SF440000
-Encoding: 9580 9580 613
+Encoding: 613 9580 613
 Width: 1451
 GlyphClass: 2
 Flags: W
@@ -81342,7 +81342,7 @@ EndSplineSet
 EndChar
 
 StartChar: upblock
-Encoding: 9600 9600 614
+Encoding: 614 9600 614
 Width: 1451
 GlyphClass: 2
 Flags: W
@@ -81378,7 +81378,7 @@ EndSplineSet
 EndChar
 
 StartChar: dnblock
-Encoding: 9604 9604 615
+Encoding: 615 9604 615
 Width: 1451
 GlyphClass: 2
 Flags: W
@@ -81414,7 +81414,7 @@ EndSplineSet
 EndChar
 
 StartChar: block
-Encoding: 9608 9608 616
+Encoding: 616 9608 616
 Width: 1451
 GlyphClass: 2
 Flags: W
@@ -81451,7 +81451,7 @@ EndSplineSet
 EndChar
 
 StartChar: lfblock
-Encoding: 9612 9612 617
+Encoding: 617 9612 617
 Width: 1451
 GlyphClass: 2
 Flags: W
@@ -81486,7 +81486,7 @@ EndSplineSet
 EndChar
 
 StartChar: rtblock
-Encoding: 9616 9616 618
+Encoding: 618 9616 618
 Width: 1451
 GlyphClass: 2
 Flags: W
@@ -81521,7 +81521,7 @@ EndSplineSet
 EndChar
 
 StartChar: ltshade
-Encoding: 9617 9617 619
+Encoding: 619 9617 619
 Width: 1451
 GlyphClass: 2
 Flags: W
@@ -82286,7 +82286,7 @@ EndSplineSet
 EndChar
 
 StartChar: shade
-Encoding: 9618 9618 620
+Encoding: 620 9618 620
 Width: 1451
 GlyphClass: 2
 Flags: W
@@ -82717,7 +82717,7 @@ EndSplineSet
 EndChar
 
 StartChar: dkshade
-Encoding: 9619 9619 621
+Encoding: 621 9619 621
 Width: 1493
 GlyphClass: 2
 Flags: W
@@ -83133,7 +83133,7 @@ EndSplineSet
 EndChar
 
 StartChar: filledbox
-Encoding: 9632 9632 622
+Encoding: 622 9632 622
 Width: 1237
 GlyphClass: 2
 Flags: W
@@ -83149,7 +83149,7 @@ EndSplineSet
 EndChar
 
 StartChar: H22073
-Encoding: 9633 9633 623
+Encoding: 623 9633 623
 Width: 1237
 GlyphClass: 2
 Flags: W
@@ -83193,7 +83193,7 @@ EndSplineSet
 EndChar
 
 StartChar: H18543
-Encoding: 9642 9642 624
+Encoding: 624 9642 624
 Width: 726
 GlyphClass: 2
 Flags: W
@@ -83237,7 +83237,7 @@ EndSplineSet
 EndChar
 
 StartChar: H18551
-Encoding: 9643 9643 625
+Encoding: 625 9643 625
 Width: 726
 GlyphClass: 2
 Flags: W
@@ -83294,7 +83294,7 @@ EndSplineSet
 EndChar
 
 StartChar: filledrect
-Encoding: 9644 9644 626
+Encoding: 626 9644 626
 Width: 2048
 GlyphClass: 2
 Flags: W
@@ -83310,7 +83310,7 @@ EndSplineSet
 EndChar
 
 StartChar: triagup
-Encoding: 9650 9650 627
+Encoding: 627 9650 627
 Width: 2027
 GlyphClass: 2
 Flags: W
@@ -83325,7 +83325,7 @@ EndSplineSet
 EndChar
 
 StartChar: triagrt
-Encoding: 9658 9658 628
+Encoding: 628 9658 628
 Width: 2027
 GlyphClass: 2
 Flags: W
@@ -83340,7 +83340,7 @@ EndSplineSet
 EndChar
 
 StartChar: triagdn
-Encoding: 9660 9660 629
+Encoding: 629 9660 629
 Width: 2027
 GlyphClass: 2
 Flags: W
@@ -83355,7 +83355,7 @@ EndSplineSet
 EndChar
 
 StartChar: triaglf
-Encoding: 9668 9668 630
+Encoding: 630 9668 630
 Width: 2027
 GlyphClass: 2
 Flags: W
@@ -83370,7 +83370,7 @@ EndSplineSet
 EndChar
 
 StartChar: lozenge
-Encoding: 9674 9674 631
+Encoding: 631 9674 631
 Width: 1012
 GlyphClass: 2
 Flags: W
@@ -83485,7 +83485,7 @@ EndSplineSet
 EndChar
 
 StartChar: circle
-Encoding: 9675 9675 632
+Encoding: 632 9675 632
 Width: 1237
 GlyphClass: 2
 Flags: W
@@ -83578,7 +83578,7 @@ EndSplineSet
 EndChar
 
 StartChar: H18533
-Encoding: 9679 9679 633
+Encoding: 633 9679 633
 Width: 1237
 GlyphClass: 2
 Flags: W
@@ -83623,7 +83623,7 @@ EndSplineSet
 EndChar
 
 StartChar: invbullet
-Encoding: 9688 9688 634
+Encoding: 634 9688 634
 Width: 1237
 GlyphClass: 2
 Flags: W
@@ -83679,7 +83679,7 @@ EndSplineSet
 EndChar
 
 StartChar: invcircle
-Encoding: 9689 9689 635
+Encoding: 635 9689 635
 Width: 1237
 GlyphClass: 2
 Flags: W
@@ -83765,7 +83765,7 @@ EndSplineSet
 EndChar
 
 StartChar: openbullet
-Encoding: 9702 9702 636
+Encoding: 636 9702 636
 Width: 726
 GlyphClass: 2
 Flags: W
@@ -83820,7 +83820,7 @@ EndSplineSet
 EndChar
 
 StartChar: smileface
-Encoding: 9786 9786 637
+Encoding: 637 9786 637
 Width: 2091
 GlyphClass: 2
 Flags: W
@@ -84026,7 +84026,7 @@ EndSplineSet
 EndChar
 
 StartChar: invsmileface
-Encoding: 9787 9787 638
+Encoding: 638 9787 638
 Width: 2155
 GlyphClass: 2
 Flags: W
@@ -84172,7 +84172,7 @@ EndSplineSet
 EndChar
 
 StartChar: sun
-Encoding: 9788 9788 639
+Encoding: 639 9788 639
 Width: 1877
 GlyphClass: 2
 Flags: W
@@ -84377,7 +84377,7 @@ EndSplineSet
 EndChar
 
 StartChar: female
-Encoding: 9792 9792 640
+Encoding: 640 9792 640
 Width: 1536
 GlyphClass: 2
 Flags: W
@@ -84522,7 +84522,7 @@ EndSplineSet
 EndChar
 
 StartChar: male
-Encoding: 9794 9794 641
+Encoding: 641 9794 641
 Width: 1536
 GlyphClass: 2
 Flags: W
@@ -84655,7 +84655,7 @@ EndSplineSet
 EndChar
 
 StartChar: spade
-Encoding: 9824 9824 642
+Encoding: 642 9824 642
 Width: 1088
 GlyphClass: 2
 Flags: W
@@ -84739,7 +84739,7 @@ EndSplineSet
 EndChar
 
 StartChar: club
-Encoding: 9827 9827 643
+Encoding: 643 9827 643
 Width: 1344
 GlyphClass: 2
 Flags: W
@@ -84847,7 +84847,7 @@ EndSplineSet
 EndChar
 
 StartChar: heart
-Encoding: 9829 9829 644
+Encoding: 644 9829 644
 Width: 1216
 GlyphClass: 2
 Flags: W
@@ -84924,7 +84924,7 @@ EndSplineSet
 EndChar
 
 StartChar: diamond
-Encoding: 9830 9830 645
+Encoding: 645 9830 645
 Width: 1045
 GlyphClass: 2
 Flags: W
@@ -84974,7 +84974,7 @@ EndSplineSet
 EndChar
 
 StartChar: musicalnote
-Encoding: 9834 9834 646
+Encoding: 646 9834 646
 Width: 1024
 GlyphClass: 2
 Flags: W
@@ -85059,7 +85059,7 @@ EndSplineSet
 EndChar
 
 StartChar: musicalnotedbl
-Encoding: 9835 9835 647
+Encoding: 647 9835 647
 Width: 1536
 GlyphClass: 2
 Flags: W
@@ -85209,7 +85209,7 @@ EndSplineSet
 EndChar
 
 StartChar: uniF001
-Encoding: 61441 61441 648
+Encoding: 648 61441 648
 AltUni2: 00fb01.ffffffff.0
 Width: 1251
 GlyphClass: 2
@@ -85367,7 +85367,7 @@ EndSplineSet
 EndChar
 
 StartChar: uniF002
-Encoding: 61442 61442 649
+Encoding: 649 61442 649
 AltUni2: 00fb02.ffffffff.0
 Width: 1251
 GlyphClass: 2
@@ -85511,7 +85511,7 @@ EndSplineSet
 EndChar
 
 StartChar: uniF005
-Encoding: 61445 61445 650
+Encoding: 650 61445 650
 Width: 682
 GlyphClass: 2
 Flags: W
@@ -85608,7 +85608,7 @@ EndSplineSet
 EndChar
 
 StartChar: middot
-Encoding: 65539 -1 651
+Encoding: 651 -1 651
 Width: 682
 GlyphClass: 2
 Flags: W
@@ -85660,7 +85660,7 @@ EndSplineSet
 EndChar
 
 StartChar: commaaccent
-Encoding: 65540 -1 652
+Encoding: 652 -1 652
 Width: 682
 GlyphClass: 2
 Flags: W
@@ -85723,7 +85723,7 @@ EndSplineSet
 EndChar
 
 StartChar: foursuperior
-Encoding: 65541 -1 653
+Encoding: 653 -1 653
 Width: 682
 GlyphClass: 2
 Flags: W
@@ -85844,7 +85844,7 @@ EndSplineSet
 EndChar
 
 StartChar: fivesuperior
-Encoding: 65542 -1 654
+Encoding: 654 -1 654
 Width: 682
 GlyphClass: 2
 Flags: W
@@ -85999,7 +85999,7 @@ EndSplineSet
 EndChar
 
 StartChar: sevensuperior
-Encoding: 65543 -1 655
+Encoding: 655 -1 655
 Width: 682
 GlyphClass: 2
 Flags: W
@@ -86070,7 +86070,7 @@ EndSplineSet
 EndChar
 
 StartChar: eightsuperior
-Encoding: 65544 -1 656
+Encoding: 656 -1 656
 Width: 682
 GlyphClass: 2
 Flags: W
@@ -86235,7 +86235,7 @@ EndSplineSet
 EndChar
 
 StartChar: cyrillicbreve
-Encoding: 65545 -1 657
+Encoding: 657 -1 657
 Width: 682
 GlyphClass: 2
 Flags: W
@@ -86362,7 +86362,7 @@ EndSplineSet
 EndChar
 
 StartChar: caroncommaaccent
-Encoding: 65546 -1 658
+Encoding: 658 -1 658
 Width: 455
 GlyphClass: 2
 Flags: W
@@ -86422,7 +86422,7 @@ EndSplineSet
 EndChar
 
 StartChar: commaaccentrotate
-Encoding: 65547 -1 659
+Encoding: 659 -1 659
 Width: 455
 GlyphClass: 2
 Flags: W
@@ -86475,7 +86475,7 @@ EndSplineSet
 EndChar
 
 StartChar: grave.uc
-Encoding: 65548 -1 660
+Encoding: 660 -1 660
 Width: 682
 GlyphClass: 2
 Flags: W
@@ -86527,7 +86527,7 @@ EndSplineSet
 EndChar
 
 StartChar: acute.uc
-Encoding: 65549 -1 661
+Encoding: 661 -1 661
 Width: 682
 GlyphClass: 2
 Flags: W
@@ -86579,7 +86579,7 @@ EndSplineSet
 EndChar
 
 StartChar: circumflex.uc
-Encoding: 65550 -1 662
+Encoding: 662 -1 662
 Width: 682
 GlyphClass: 2
 Flags: W
@@ -86698,7 +86698,7 @@ EndSplineSet
 EndChar
 
 StartChar: caron.uc
-Encoding: 65551 -1 663
+Encoding: 663 -1 663
 Width: 682
 GlyphClass: 2
 Flags: W
@@ -86785,7 +86785,7 @@ EndSplineSet
 EndChar
 
 StartChar: dieresis.uc
-Encoding: 65552 -1 664
+Encoding: 664 -1 664
 Width: 682
 GlyphClass: 2
 Flags: W
@@ -86849,7 +86849,7 @@ EndSplineSet
 EndChar
 
 StartChar: tilde.uc
-Encoding: 65553 -1 665
+Encoding: 665 -1 665
 Width: 682
 GlyphClass: 2
 Flags: W
@@ -86975,7 +86975,7 @@ EndSplineSet
 EndChar
 
 StartChar: hungarumlaut.uc
-Encoding: 65554 -1 666
+Encoding: 666 -1 666
 Width: 682
 GlyphClass: 2
 Flags: W
@@ -87051,7 +87051,7 @@ EndSplineSet
 EndChar
 
 StartChar: breve.uc
-Encoding: 65555 -1 667
+Encoding: 667 -1 667
 Width: 682
 GlyphClass: 2
 Flags: W
