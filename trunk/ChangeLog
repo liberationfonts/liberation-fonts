@@ -1,4 +1,15 @@
-* Mon 27 May 2008 Caius Chance <cchance@redhat.com>
+* Thu 29 May 2008 Caius Chance <cchance@redhat.com>
+- Correct SFD version numbers in "TTF Info" categor for correct version 
+  number during export to TTFs.
+
+* Wed 28 May 2008 Caius Chance <cchance@redhat.com>
+- Reencoded with "Glyph Order" by FontForge.
+- Corrected font name for all Regular fonts.
+- Generated TTFs (experimantal, in "archive") with old stle kern and dummy 
+  DSIG table.
+- Updated README in 1.04b TTFs (experimental, in "archive").
+
+* Tue 27 May 2008 Caius Chance <cchance@redhat.com>
 - Fixed Unicode name mis-mapping of Sans and Serif TTF files.
 - Regenerate SFD files from Unicode name mis-mapping fixed Sans and Serif TTF 
   files.
