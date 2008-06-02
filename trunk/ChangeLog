@@ -1,3 +1,7 @@
+* Mon 03 Jun 2008 Caius Chance <cchance@redhat.com>
+- rhbz#440992: Created Romanian "T/t/S/s with comma below" (U+0218..021B) and 
+  fixed "T/s with cedilla below" (U+0162/0163) on Sans Regular.
+
 * Fri 30 May 2008 Caius Chance <cchance@redhat.com>
 - Release Version 1.04.beta (liberation-fonts-1_04_beta).
 
