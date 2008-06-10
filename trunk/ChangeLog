@@ -1,3 +1,8 @@
+* Wed 11 Jun 2008 Caius Chance <cchance@redhat.com>
+- Added last Version 1.03 from original manufacturer.
+- Renamed directory 'archive' to 'sandbox'.
+- Added directory description in hosting home directory.
+
 * Tue 04 Jun 2008 Caius Chance <cchance@redhat.com>
 - rhbz#440992:
   - Created "Hyphen" and "Non-Breaking Hyphen" (U+2010..2011) on Sans Regular.
