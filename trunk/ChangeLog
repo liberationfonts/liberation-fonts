@@ -1,3 +1,9 @@
+* Thu 12 Jun 2008 Caius Chance <cchance@redhat.com>
+- rhbz#440992:
+  - Created Romanian "T/t/S/s with comma below" (U+0218..021B) on all fonts.
+  - Fixed "T/s with cedilla below" (U+0162/0163) on all fonts.
+  - Created "Hyphen" and "Non-Breaking Hyphen" (U+2010..2011) on all fonts.
+
 * Wed 11 Jun 2008 Caius Chance <cchance@redhat.com>
 - Added last Version 1.03 from original manufacturer.
 - Renamed directory 'archive' to 'sandbox'.
