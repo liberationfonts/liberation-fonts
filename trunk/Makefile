@@ -25,7 +25,10 @@ dist: clean-build build
 	mkdir -p build-area/liberation-fonts-$(VER)
 	cp $(TTFFILES) $(BINDOCS) build-area/liberation-fonts-$(VER)
 	mkdir -p dist
-	cd build-area && tar czvf  ../dist/liberation-fonts-$(VER).tar.gz  liberation-fonts-$(VER)/
+	cd build-area && \
+	tar czvf ../dist/liberation-fonts-$(VER).tar.gz \
+	  liberation-fonts-$(VER)/ && \
+	zip -r ../dist/liberation-fonts-$(VER).zip liberation-fonts-$(VER)/
 
 src: clean-build
 	mkdir -p build-area/liberation-fonts-$(VER)

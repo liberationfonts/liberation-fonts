@@ -1,5 +1,6 @@
 * Thu 12 Jun 2008 Caius Chance <cchance@redhat.com>
 - Released as version 1.04.beta2.
+- Added ZIP package building for non-tar users.
 - rhbz#440992:
   - Created Romanian "T/t/S/s with comma below" (U+0218..021B) on all fonts.
   - Fixed "T/s with cedilla below" (U+0162/0163) on all fonts.
