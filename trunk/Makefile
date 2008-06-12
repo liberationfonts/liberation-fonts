@@ -1,4 +1,4 @@
-VER = 1.04.beta
+VER = 1.04.beta2
 FONTFORGE = /usr/bin/env fontforge
 
 SRCDIRS = $(shell find -type d | grep -v .git)
