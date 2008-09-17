@@ -1,6 +1,7 @@
 * Wed 17 Sep 2008 Caius Chance <cchance@redhat.com>
 - Fixed missing hinting instructions for all Mono fonts (rhbz#460090).
 - Fixed missing hinting instructions for all Sans fonts (rhbz#460090).
+- Fixed missing hinting instructions for all Serif fonts (rhbz#460090).
 
 * Tue 09 Sep 2008 Caius Chance <cchance@redhat.com>
 - Backed up all released files in ./dist directory.
