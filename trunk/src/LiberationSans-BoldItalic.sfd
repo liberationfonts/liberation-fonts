@@ -11,8 +11,8 @@ UnderlineWidth: 215
 Ascent: 1638
 Descent: 410
 LayerCount: 2
-Layer: 0 1 "Back" 
-Layer: 1 1 "Fore" 
+Layer: 0 1 "Back"  1
+Layer: 1 1 "Fore"  0
 NeedsXUIDChange: 1
 XUID: [1021 682 1963032581 10859721]
 FSType: 8
@@ -20,7 +20,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1123372800
-ModificationTime: 1213250061
+ModificationTime: 1221611043
 PfmFamily: 17
 TTFWeight: 700
 TTFWidth: 5
@@ -55,7 +55,7 @@ OS2Vendor: '1ASC'
 OS2CodePages: 6000009f.dfd70000
 OS2UnicodeRanges: a00002af.500078fb.00000000.00000000
 Lookup: 258 0 0 "'kern' Horizontal Kerning lookup 0"  {"'kern' Horizontal Kerning lookup 0 subtable"  } ['kern' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > ) ]
-DEI: 0
+DEI: 91125
 TtTable: prep
 PUSHW_8
  80
@@ -2995,7 +2995,7 @@ NameList: Adobe Glyph List
 DisplaySize: -24
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 8180 20 22
+WinInfo: 7920 20 22
 BeginChars: 1114132 675
 
 StartChar: .notdef
@@ -82548,7 +82548,44 @@ EndChar
 StartChar: uni2010
 Encoding: 8208 8208 668
 Width: 682
-Flags: W
+Flags: HW
+TtInstrs:
+NPUSHB
+ 22
+ 16
+ 2
+ 80
+ 2
+ 128
+ 2
+ 3
+ 2
+ 5
+ 15
+ 0
+ 47
+ 0
+ 63
+ 0
+ 79
+ 0
+ 4
+ 0
+ 0
+ 185
+ 1
+SVTCA[y-axis]
+MDAP[rnd]
+MIRP[min,rnd,black]
+SVTCA[x-axis]
+MDAP[rnd]
+DELTAP1
+SRP0
+MDRP[rnd,white]
+DELTAP1
+IUP[x]
+IUP[y]
+EndTTInstrs
 LayerCount: 2
 Fore
 SplineSet
@@ -82563,7 +82600,44 @@ EndChar
 StartChar: uni2011
 Encoding: 8209 8209 669
 Width: 682
-Flags: W
+Flags: HW
+TtInstrs:
+NPUSHB
+ 22
+ 16
+ 2
+ 80
+ 2
+ 128
+ 2
+ 3
+ 2
+ 5
+ 15
+ 0
+ 47
+ 0
+ 63
+ 0
+ 79
+ 0
+ 4
+ 0
+ 0
+ 185
+ 1
+SVTCA[y-axis]
+MDAP[rnd]
+MIRP[min,rnd,black]
+SVTCA[x-axis]
+MDAP[rnd]
+DELTAP1
+SRP0
+MDRP[rnd,white]
+DELTAP1
+IUP[x]
+IUP[y]
+EndTTInstrs
 LayerCount: 2
 Fore
 SplineSet
@@ -82578,7 +82652,44 @@ EndChar
 StartChar: figuredash
 Encoding: 8210 8210 670
 Width: 682
-Flags: W
+Flags: HW
+TtInstrs:
+NPUSHB
+ 22
+ 16
+ 2
+ 80
+ 2
+ 128
+ 2
+ 3
+ 2
+ 5
+ 15
+ 0
+ 47
+ 0
+ 63
+ 0
+ 79
+ 0
+ 4
+ 0
+ 0
+ 185
+ 1
+SVTCA[y-axis]
+MDAP[rnd]
+MIRP[min,rnd,black]
+SVTCA[x-axis]
+MDAP[rnd]
+DELTAP1
+SRP0
+MDRP[rnd,white]
+DELTAP1
+IUP[x]
+IUP[y]
+EndTTInstrs
 LayerCount: 2
 Fore
 SplineSet
@@ -82593,7 +82704,7 @@ EndChar
 StartChar: Scommaaccent
 Encoding: 536 536 671
 Width: 1366
-Flags: HW
+Flags: W
 LayerCount: 2
 Fore
 Refer: 652 -1 S 1 0 0 1 224 0 2
@@ -82603,7 +82714,7 @@ EndChar
 StartChar: scommaaccent
 Encoding: 537 537 672
 Width: 1139
-Flags: HW
+Flags: W
 LayerCount: 2
 Fore
 Refer: 652 -1 S 1 0 0 1 128 0 2
