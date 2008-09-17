@@ -11,8 +11,8 @@ UnderlineWidth: 84
 Ascent: 1638
 Descent: 410
 LayerCount: 2
-Layer: 0 1 "Back"  1
-Layer: 1 1 "Fore"  0
+Layer: 0 1 "Back" 
+Layer: 1 1 "Fore" 
 NeedsXUIDChange: 1
 XUID: [1021 682 1963032581 3939538]
 FSType: 8
@@ -20,7 +20,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1095817380
-ModificationTime: 1221609388
+ModificationTime: 1213248462
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -54,7 +54,7 @@ OS2FamilyClass: 2053
 OS2Vendor: '1ASC'
 OS2CodePages: 6000009f.dfd70000
 OS2UnicodeRanges: a00002af.400078fb.00000000.00000000
-DEI: 91125
+DEI: 0
 TtTable: prep
 NPUSHB
  100
@@ -3206,7 +3206,7 @@ NameList: Adobe Glyph List
 DisplaySize: -24
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 7780 20 22
+WinInfo: 140 20 22
 BeginChars: 1114127 670
 
 StartChar: .notdef
@@ -30932,7 +30932,7 @@ StartChar: Tcommaaccent
 Encoding: 354 354 289
 Width: 1229
 GlyphClass: 2
-Flags: W
+Flags: HW
 TtInstrs:
 PUSHW_2
  1
@@ -30957,7 +30957,7 @@ StartChar: tcommaaccent
 Encoding: 355 355 290
 Width: 1229
 GlyphClass: 2
-Flags: W
+Flags: HW
 TtInstrs:
 PUSHB_7
  1
@@ -68154,37 +68154,6 @@ StartChar: uni2010
 Encoding: 8208 8208 663
 Width: 1229
 Flags: HW
-TtInstrs:
-NPUSHB
- 15
- 3
- 3
- 5
- 0
- 0
- 16
- 0
- 2
- 0
- 0
- 186
- 47
- 1
- 1
- 1
-SVTCA[y-axis]
-MDAP[rnd]
-DELTAP1
-MIRP[min,rnd,black]
-SVTCA[x-axis]
-MDAP[rnd]
-DELTAP1
-SRP2
-IP
-MDAP[rnd]
-IUP[x]
-IUP[y]
-EndTTInstrs
 LayerCount: 2
 Fore
 SplineSet
@@ -68200,37 +68169,6 @@ StartChar: uni2011
 Encoding: 8209 8209 664
 Width: 1229
 Flags: HW
-TtInstrs:
-NPUSHB
- 15
- 3
- 3
- 5
- 0
- 0
- 16
- 0
- 2
- 0
- 0
- 186
- 47
- 1
- 1
- 1
-SVTCA[y-axis]
-MDAP[rnd]
-DELTAP1
-MIRP[min,rnd,black]
-SVTCA[x-axis]
-MDAP[rnd]
-DELTAP1
-SRP2
-IP
-MDAP[rnd]
-IUP[x]
-IUP[y]
-EndTTInstrs
 LayerCount: 2
 Fore
 SplineSet
@@ -68246,37 +68184,6 @@ StartChar: figuredash
 Encoding: 8210 8210 665
 Width: 1229
 Flags: HW
-TtInstrs:
-NPUSHB
- 15
- 3
- 3
- 5
- 0
- 0
- 16
- 0
- 2
- 0
- 0
- 186
- 47
- 1
- 1
- 1
-SVTCA[y-axis]
-MDAP[rnd]
-DELTAP1
-MIRP[min,rnd,black]
-SVTCA[x-axis]
-MDAP[rnd]
-DELTAP1
-SRP2
-IP
-MDAP[rnd]
-IUP[x]
-IUP[y]
-EndTTInstrs
 LayerCount: 2
 Fore
 SplineSet
@@ -68291,7 +68198,7 @@ EndChar
 StartChar: Scommaaccent
 Encoding: 536 536 666
 Width: 1229
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 651 -1 S 1 0 0 1 -29 0 2
@@ -68301,7 +68208,7 @@ EndChar
 StartChar: scommaaccent
 Encoding: 537 537 667
 Width: 1229
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 651 -1 S 1 0 0 1 5 0 2
@@ -68311,7 +68218,7 @@ EndChar
 StartChar: uni021A
 Encoding: 538 538 668
 Width: 1229
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 651 -1 S 1 0 0 1 -29 0 2
@@ -68321,7 +68228,7 @@ EndChar
 StartChar: uni021B
 Encoding: 539 539 669
 Width: 1229
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 651 -1 S 1 0 0 1 5 0 2

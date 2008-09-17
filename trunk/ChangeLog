@@ -1,6 +1,17 @@
+* Wed 17 Sep 2008 Caius Chance <cchance@redhat.com>
+- Fixed missing hinting instructions for all Mono fonts (rhbz#460090).
+
+* Tue 09 Sep 2008 Caius Chance <cchance@redhat.com>
+- Backed up all released files in ./dist directory.
+
+* Fri 05 Sep 2008 Caius Chance <cchance@redhat.com>
+- Fixed incorrect glyph points and missing hinting instructions for:
+  Mono Bold Italic (up to U+2012) (rhbz#460090).
+
 * Mon 25 Aug 2008 Caius Chance <cchance@redhat.com>
 - Fixed incorrect glyph points and missing hinting instructions for:
   U+0079, U+03BC, U+0431, U+2010..2012, U+1114117 (rhbz#458592).
+- Released as version 1.04.90.
 
 * Thu 13 Jul 2008 Caius Chance <cchance@redhat.com>
 - Released as version 1.04.
