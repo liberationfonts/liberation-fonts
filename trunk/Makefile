@@ -1,4 +1,4 @@
-VER = 1.04.91
+VER = 1.04.92
 FONTFORGE = /usr/bin/env fontforge
 
 SRCDIRS = $(shell find -type d | grep -v .git)
@@ -32,8 +32,8 @@ dist: clean-build build
 
 src: clean-build
 	mkdir -p build-area/liberation-fonts-$(VER)
-	$(foreach tardir, $(SRCDIRS), mkdir -p build-area/liberation-fonts/liberation-fonts-$(VER)/$(tardir);)
-	$(foreach srcfile, $(SRCFILES), cp $(srcfile) build-area/liberation-fonts/liberation-fonts-$(VER)/$(shell dirname $(srcfile))/;)
+	$(foreach tardir, $(SRCDIRS), mkdir -p build-area/liberation-fonts-$(VER)/$(tardir);)
+	$(foreach srcfile, $(SRCFILES), cp $(srcfile) build-area/liberation-fonts-$(VER)/$(shell dirname $(srcfile))/;)
 	mkdir -p dist
 	cd build-area && tar czvf \
 	  ../dist/liberation-fonts-$(VER).src.tar.gz \
