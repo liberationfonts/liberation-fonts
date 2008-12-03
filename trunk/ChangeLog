@@ -1,5 +1,7 @@
 * Wed 03 Dec 2008 Caius Chance <cchance@redhat.com>
+- Started 1.04.93.devel.
 - Fixed blurriness of U+03BC for Sans Regular font (rhbz#473481).
+- Fixed src tarball mis-inclusion of dist files in Makefile.
 
 * Fri 28 Nov 2008 Caius Chance <cchance@redhat.com>
 - Corrected version number in Makefile.
