@@ -1,3 +1,6 @@
+* Wed 03 Dec 2008 Caius Chance <cchance@redhat.com>
+- Fixed blurriness of U+03BC for Sans Regular font (rhbz#473481).
+
 * Fri 28 Nov 2008 Caius Chance <cchance@redhat.com>
 - Corrected version number in Makefile.
 - Fixed make target of source tarball.

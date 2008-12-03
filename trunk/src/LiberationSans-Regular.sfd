@@ -11,15 +11,16 @@ UnderlineWidth: 150
 Ascent: 1638
 Descent: 410
 LayerCount: 2
-Layer: 0 1 "Back" 
-Layer: 1 1 "Fore" 
+Layer: 0 1 "Back"  1
+Layer: 1 1 "Fore"  0
+NeedsXUIDChange: 1
 XUID: [1021 682 1963032581 14363267]
 FSType: 8
 OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1123372800
-ModificationTime: 1219646163
+ModificationTime: 1228264466
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -54,7 +55,7 @@ OS2Vendor: '1ASC'
 OS2CodePages: 6000009f.dfd70000
 OS2UnicodeRanges: a00002af.500078fb.00000000.00000000
 Lookup: 258 0 0 "'kern' Horizontal Kerning lookup 0"  {"'kern' Horizontal Kerning lookup 0 subtable"  } ['kern' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > ) ]
-DEI: 0
+DEI: 91125
 TtTable: prep
 PUSHB_2
  9
@@ -24334,7 +24335,7 @@ StartChar: y
 Encoding: 121 121 92
 Width: 1024
 GlyphClass: 2
-Flags: HW
+Flags: W
 TtInstrs:
 NPUSHB
  59
@@ -31685,7 +31686,7 @@ StartChar: onequarter
 Encoding: 188 188 124
 Width: 1708
 GlyphClass: 2
-Flags: HW
+Flags: W
 LayerCount: 2
 Fore
 Refer: 121 185 N 1 0 0 1 -24 0 2
@@ -31759,7 +31760,7 @@ StartChar: threequarters
 Encoding: 190 190 126
 Width: 1708
 GlyphClass: 2
-Flags: HW
+Flags: W
 LayerCount: 2
 Fore
 Refer: 532 8260 N 1 0 0 1 781 0 2
@@ -35778,7 +35779,7 @@ StartChar: yacute
 Encoding: 253 253 189
 Width: 1024
 GlyphClass: 2
-Flags: HW
+Flags: W
 LayerCount: 2
 Fore
 Refer: 92 121 N 1 0 0 1 0 0 3
@@ -35959,7 +35960,7 @@ StartChar: ydieresis
 Encoding: 255 255 191
 Width: 1024
 GlyphClass: 2
-Flags: HW
+Flags: W
 LayerCount: 2
 Fore
 Refer: 92 121 N 1 0 0 1 0 0 3
@@ -43151,7 +43152,7 @@ StartChar: ycircumflex
 Encoding: 375 375 311
 Width: 1024
 GlyphClass: 2
-Flags: HW
+Flags: W
 LayerCount: 2
 Fore
 Refer: 92 121 N 1 0 0 1 0 0 3
@@ -54723,42 +54724,42 @@ EndTTInstrs
 LayerCount: 2
 Fore
 SplineSet
-862 0 m 1,0,1
+862 0 m 5,0,1
  861 6 861 6 859.5 29 c 128,-1,2
- 858 52 858 52 856.5 81.5 c 0,3,-1
- 853.5 140.5 l 0,4,5
- 852 170 852 170 852 190 c 1,6,-1
- 848 190 l 1,7,8
- 822 139 822 139 794 99.5 c 128,-1,9
- 766 60 766 60 731.5 33.5 c 128,-1,10
- 697 7 697 7 654 -6.5 c 128,-1,11
- 611 -20 611 -20 554 -20 c 0,12,13
- 472 -20 472 -20 412 12 c 128,-1,14
- 352 44 352 44 320 102 c 1,15,-1
- 316 102 l 1,16,17
- 319 70 319 70 319.5 38.5 c 128,-1,18
- 320 7 320 7 320 -20 c 2,19,-1
- 320 -393 l 1,20,-1
- 138 -393 l 1,21,-1
- 138 1082 l 1,22,-1
- 320 1082 l 1,23,-1
- 320 438 l 2,24,25
- 320 369 320 369 332.5 311 c 128,-1,26
- 345 253 345 253 374.5 210.5 c 128,-1,27
- 404 168 404 168 453 144.5 c 128,-1,28
- 502 121 502 121 576 121 c 0,29,30
- 643 121 643 121 693 147 c 128,-1,31
- 743 173 743 173 776.5 218.5 c 128,-1,32
- 810 264 810 264 826.5 327 c 128,-1,33
- 843 390 843 390 843 465 c 2,34,-1
- 843 1082 l 1,35,-1
- 1024 1082 l 1,36,-1
- 1024 233 l 2,37,38
- 1024 199 1024 199 1024.5 161 c 128,-1,39
- 1025 123 1025 123 1026 89.5 c 128,-1,40
- 1027 56 1027 56 1028 31.5 c 128,-1,41
- 1029 7 1029 7 1030 0 c 1,42,-1
- 862 0 l 1,0,1
+ 858 52 858 52 856.5 81.5 c 128,-1,3
+ 855 111 855 111 853.5 140.5 c 128,-1,4
+ 852 170 852 170 852 190 c 1,5,-1
+ 848 190 l 1,6,7
+ 822 139 822 139 794 99.5 c 128,-1,8
+ 766 60 766 60 731.5 33.5 c 128,-1,9
+ 697 7 697 7 654 -6.5 c 128,-1,10
+ 611 -20 611 -20 554 -20 c 0,11,12
+ 472 -20 472 -20 412 12 c 128,-1,13
+ 352 44 352 44 320 102 c 1,14,-1
+ 316 102 l 1,15,16
+ 319 70 319 70 319.5 38.5 c 128,-1,17
+ 320 7 320 7 320 -20 c 2,18,-1
+ 320 -393 l 1,19,-1
+ 138 -393 l 1,20,-1
+ 138 1082 l 1,21,-1
+ 320 1082 l 1,22,-1
+ 320 438 l 2,23,24
+ 320 369 320 369 332.5 311 c 128,-1,25
+ 345 253 345 253 374.5 210.5 c 128,-1,26
+ 404 168 404 168 453 144.5 c 128,-1,27
+ 502 121 502 121 576 121 c 0,28,29
+ 643 121 643 121 693 147 c 128,-1,30
+ 743 173 743 173 776.5 218.5 c 128,-1,31
+ 810 264 810 264 826.5 327 c 128,-1,32
+ 843 390 843 390 843 465 c 2,33,-1
+ 843 1082 l 1,34,-1
+ 1024 1082 l 1,35,-1
+ 1024 233 l 2,36,37
+ 1024 199 1024 199 1024.5 161 c 128,-1,38
+ 1025 123 1025 123 1026 89.5 c 128,-1,39
+ 1027 56 1027 56 1028 31.5 c 128,-1,40
+ 1029 7 1029 7 1030 0 c 1,41,-1
+ 862 0 l 5,0,1
 EndSplineSet
 EndChar
 
@@ -63521,7 +63522,7 @@ StartChar: afii10066
 Encoding: 1073 1073 455
 Width: 1173
 GlyphClass: 2
-Flags: HW
+Flags: W
 TtInstrs:
 NPUSHB
  69
@@ -66297,7 +66298,7 @@ StartChar: afii10085
 Encoding: 1091 1091 473
 Width: 1024
 GlyphClass: 2
-Flags: HW
+Flags: W
 LayerCount: 2
 Fore
 Refer: 92 121 N 1 0 0 1 0 0 3
@@ -69759,7 +69760,7 @@ StartChar: afii10110
 Encoding: 1118 1118 498
 Width: 1024
 GlyphClass: 2
-Flags: HW
+Flags: W
 LayerCount: 2
 Fore
 Refer: 92 121 N 1 0 0 1 0 0 3
@@ -70324,7 +70325,7 @@ StartChar: ygrave
 Encoding: 7923 7923 509
 Width: 1024
 GlyphClass: 2
-Flags: HW
+Flags: W
 LayerCount: 2
 Fore
 Refer: 92 121 N 1 0 0 1 0 0 3
@@ -87081,7 +87082,7 @@ StartChar: uni2074
 Encoding: 1114117 -1 653
 Width: 682
 GlyphClass: 2
-Flags: HW
+Flags: W
 TtInstrs:
 NPUSHB
  74
@@ -88653,7 +88654,7 @@ EndChar
 StartChar: uni2011
 Encoding: 8209 8209 672
 Width: 682
-Flags: HW
+Flags: W
 TtInstrs:
 NPUSHB
  20
@@ -88704,7 +88705,7 @@ EndChar
 StartChar: uni2010
 Encoding: 8208 8208 673
 Width: 682
-Flags: HW
+Flags: W
 TtInstrs:
 NPUSHB
  20
@@ -88755,7 +88756,7 @@ EndChar
 StartChar: figuredash
 Encoding: 8210 8210 674
 Width: 682
-Flags: HW
+Flags: W
 TtInstrs:
 NPUSHB
  20
