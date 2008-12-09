@@ -1,3 +1,7 @@
+* Tue 09 Dec 2008 Caius Chance <cchance@redhat.com>
+- Changed cent sign glyph (U+00A2) to be coressed in Sans and Mono
+  (rhbz#474522).
+
 * Wed 03 Dec 2008 Caius Chance <cchance@redhat.com>
 - Started 1.04.93.devel.
 - Fixed blurriness of U+03BC for Sans Regular font (rhbz#473481).
