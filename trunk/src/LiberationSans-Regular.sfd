@@ -13,14 +13,13 @@ Descent: 410
 LayerCount: 2
 Layer: 0 1 "Back"  1
 Layer: 1 1 "Fore"  0
-NeedsXUIDChange: 1
 XUID: [1021 682 1963032581 14363267]
 FSType: 8
 OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1123372800
-ModificationTime: 1228803259
+ModificationTime: 1231756374
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -2830,7 +2829,7 @@ ShortTable: maxp 16
   3
   1
 EndShort
-LangName: 1033 "" "" "" "" "" "" "" "Liberation is a trademark of Red Ht, Inc. registered in U.S. Patent and Trademark Office and certain other jurisdictions." "Ascender Corporation" "Steve Matteson" "" "http://www.ascendercorp.com/" "http://www.ascendercorp.com/typedesigners.html" "Use of this Liberation font software is subject to the license agreement under which you accepted the Liberation font software." "http://www.ascendercorp.com/liberation.html" 
+LangName: 1033 "" "" "" "" "" "" "" "Liberation is a trademark of Red Hat, Inc. registered in U.S. Patent and Trademark Office and certain other jurisdictions." "Ascender Corporation" "Steve Matteson" "" "http://www.ascendercorp.com/" "http://www.ascendercorp.com/typedesigners.html" "Use of this Liberation font software is subject to the license agreement under which you accepted the Liberation font software." "http://www.ascendercorp.com/liberation.html" 
 GaspTable: 3 8 2 17 1 65535 3
 Encoding: UnicodeFull
 UnicodeInterp: none
@@ -2838,7 +2837,7 @@ NameList: Adobe Glyph List
 DisplaySize: -24
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 0 20 22
+WinInfo: 60 20 11
 TeXData: 1 0 0 291328 145664 97109 553984 -1048576 97109 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
 BeginChars: 1114132 675
 
@@ -26874,7 +26873,7 @@ StartChar: cent
 Encoding: 162 162 99
 Width: 1139
 GlyphClass: 2
-Flags: HWO
+Flags: W
 TtInstrs:
 NPUSHB
  31
