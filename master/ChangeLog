@@ -1,6 +1,7 @@
 * Wed 24 Jun 2009 Caius 'kaio' Chance <me AT kaio.me>
+- Makefile: pack SFD files as source tarball.
+- Makefile: pack TTF files as ttf packs.
 - Tidy up repository.
-- Modify Makefile to generate only SFDs as source release.
 - Updated documents.
 
 * Mon 12 Jan 2009 Caius Chance <cchance@redhat.com>

@@ -1,47 +1,34 @@
-VER = 1.04.93.devel
-FONTFORGE = /usr/bin/env fontforge
+VER = 1.04.94.$(shell date +%Y%m%d)
+FONTFORGE = fontforge
 
-SRCDIRS = $(shell find -type d | grep -v .git)
-BINDIRS = $(shell find -type d | grep -v .git | grep -v src)
-SRCFILES = $(shell find -type f | grep -v .git)
-SFDFILES = $(shell ls ./src/*.sfd)
-TTFFILES = $(shell ls ./build-area/ttf/*.ttf)
-BINDOCS = AUTHORS ChangeLog COPYING License.txt README 
+TMPDIR := $(shell mktemp -d)
+SFDFILES := src/LiberationMono-Bold.sfd src/LiberationMono-BoldItalic.sfd src/LiberationMono-Italic.sfd src/LiberationMono-Regular.sfd src/LiberationSans-Bold.sfd src/LiberationSans-BoldItalic.sfd src/LiberationSans-Italic.sfd src/LiberationSans-Regular.sfd src/LiberationSerif-Bold.sfd src/LiberationSerif-BoldItalic.sfd src/LiberationSerif-Italic.sfd src/LiberationSerif-Regular.sfd 
+SCRIPTS := scripts/sfd2ttf.pe scripts/ttf2sfd.pe
+MISCFILES := AUTHORS ChangeLog COPYING License.txt README 
 
-all: dist
-
+all: build
 
 build:
 	$(foreach sfdfile, $(SFDFILES), $(FONTFORGE) -script ./scripts/sfd2ttf.pe $(sfdfile);)
-	mkdir -p build-area/ttf && mv ./src/*.ttf ./build-area/ttf/
+	mkdir -p ttf
+	mv src/*.ttf ttf/	
 
+dist: dist-sfd
 
-sfd:
-	$(foreach ttffile, $(TTFFILES), $(FONTFORGE) -script ./scripts/ttf2sfd.pe $(ttffile);)
-	mkdir -p build-area/sfd && mv ./build-area/ttf/*.sfd ./build-area/sfd/
-
-
-dist: clean-build build
-	mkdir -p build-area/liberation-fonts-$(VER)
-	cp $(TTFFILES) $(BINDOCS) build-area/liberation-fonts-$(VER)
-	mkdir -p dist
-	cd build-area && \
-	tar czvf ../dist/liberation-fonts-$(VER).tar.gz \
-	  liberation-fonts-$(VER)/ && \
-	zip -r ../dist/liberation-fonts-$(VER).zip liberation-fonts-$(VER)/
-
-src: clean
-	mkdir -p build-area/liberation-fonts-$(VER)
-	$(foreach tardir, $(SRCDIRS), mkdir -p build-area/liberation-fonts-$(VER)/$(tardir);)
-	$(foreach srcfile, $(SRCFILES), cp $(srcfile) build-area/liberation-fonts-$(VER)/$(shell dirname $(srcfile))/;)
-	mkdir -p dist
-	cd build-area && tar czvf \
-	  ../dist/liberation-fonts-$(VER).src.tar.gz \
+dist-sfd:
+	mkdir -p $(TMPDIR)/liberation-fonts-$(VER)/{src,scripts}
+	cp $(MISCFILES) $(TMPDIR)/liberation-fonts-$(VER)/
+	cp $(SFDFILES) $(TMPDIR)/liberation-fonts-$(VER)/src/
+	cp $(SCRIPTS) $(TMPDIR)/liberation-fonts-$(VER)/scripts/
+	tar Cczvf $(TMPDIR)/ liberation-fonts-$(VER).tar.gz \
 	  liberation-fonts-$(VER)/
 
+dist-ttf: clean-ttf build
+	tar cvf liberation-fonts-ttf-$(VER).tar ttf/*.ttf
+	tar Avf liberation-fonts-ttf-$(VER).tar $(MISCFILES)
+	gzip liberation-fonts-ttf-$(VER).tar
+	zip -j test.zip ttf/*.ttf $(MISCFILES)
 
-clean: clean-build
-	rm -rf dist
-
-clean-build:
-	rm -rf build-area
+clean-ttf:
+	rm -rf ttf liberation-fonts-ttf-*
+ 
