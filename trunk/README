@@ -51,6 +51,26 @@ The fonts should be installed and detected by the system after installation.
 Read the GPL v2 file 'COPYING' and the Liberation Fonts EULA file 'License.txt'
 for more information.
 
+ Supplement Information to Maintainers
+=======================================
+
+    README covers general information.
+
+    Before packaging a new release based on a new source tarball, you have to
+    update the version number in the Makefile:
+
+    VER = [VERSION]
+
+    Make sure that the defined version corresponds to the font software metadata
+which you can check with ftinfo/otfinfo or fontforge itself. It is highly recommended that file 'ChangeLog' is updated to reflect
+changes.
+
+Create a tarball with the following command:
+$ make dist
+
+The new versionned tarball will be available in the dist/ folder as
+'liberation-fonts-[NEW_VERSION].tar.gz'.
+
 6. Credits
 ==========
 
