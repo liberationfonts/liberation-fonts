@@ -1,61 +1,62 @@
-1. What's this?
-===============
+ 1. What's this?
+=================
 
-The Liberation Fonts are intended to be open font replacements for the three
-most commonly used fonts on Microsoft systems: Times New Roman, Arial, and
-Courier New.
-
-
-2. Requirements
-===============
-
-  * fontforge.
-    - http://fontforge.sourceforge.net
+  The Liberation Fonts is font collection which aims display compatibility to 
+  document files that used Times New Roman, Arial, Courier New as fonts.
 
 
-3. Install
+ 2. Requirements
+=================
+
+  * fontforge to be installed.
+    (http://fontforge.sourceforge.net)
+
+
+ 3. Install
+============
+
+  3.1 Decompress tarball
+
+    You can extract the files by following command:
+
+      $ tar zxvf liberation-fonts-[VERSION].tar.gz
+
+  3.2 Build from the source
+
+    Change into directory liberation-fonts-[VERSION]/ and build from sources by 
+    following commands:
+
+      $ cd liberation-fonts-[VERSION]
+      $ make
+
+    The built font files will be available in 'build' directory.
+
+  3.3 Install to system
+
+    You can manually install the fonts by copying the TTFs to ~/.fonts for user
+    wide usage, or to /usr/share/fonts/truetype/liberation for system-wide
+    availability.
+
+
+ 4. Usage
 ==========
 
-3.1 Decompress tarball
-
-  You can extract the files by following command:
-
-    $ tar zxvf liberation-fonts-[VERSION].tar.gz
-
-3.2 Build from the source
-
-  Change into directory liberation-fonts-[VERSION]/ and build from sources by 
-  following commands:
-
-    $ cd liberation-fonts-[VERSION]
-    $ make
-
-  The built font files will be available in 'build' directory.
-
-3.3 Install to system
-
-  You can manually install the fonts by copying them to ~/.fonts for a
-  particular user, or to /usr/share/fonts/truetype/liberation for system-wide
-  availability
+  The fonts should be installed and detected by the system after installation. 
+  Simply select preferred liberation font in applications and start using.
 
 
-4. Usage
-========
+ 5. License
+============
 
-The fonts should be installed and detected by the system after installation. 
+  For redistribution information, please read the GPL license file 'COPYING'.
+
+  For EULA information, please read file 'License.txt'.
 
 
-5. License
-==========
+ 6. Maintainers
+================
 
-Read the GPL v2 file 'COPYING' and the Liberation Fonts EULA file 'License.txt'
-for more information.
-
- Supplement Information to Maintainers
-=======================================
-
-    README covers general information.
-
+  (FIXME)
     Before packaging a new release based on a new source tarball, you have to
     update the version number in the Makefile:
 
@@ -70,19 +71,20 @@ $ make dist
 
 The new versionned tarball will be available in the dist/ folder as
 'liberation-fonts-[NEW_VERSION].tar.gz'.
+  (FIXME)
 
-6. Credits
-==========
+ 7. Credits
+============
 
-Special thanks to all liberation-fonts developers and users!
+Special thanks to all involved to the proejct of Liberation Fonts!
 
- * Caius Chance <cchance at redhat.com>
+ * Caius 'kaio' Chance <k AT kaio.me>
    - Current project maintainer.
 
- * Mark Webbink <mwebbink at redhat.com>
-   - Coordinator.
+ * Mark Webbink <mwebbink AT redhat.com>
+   - Release coordinator, Red Hat Inc.
 
  * Steve Matteson
-   - Ascender Corporation <http://www.ascendercorp.com>
+   - Designer, Ascender Corp.
 
- * And, all other contributors.
+ * And, all other anonymous participants.
