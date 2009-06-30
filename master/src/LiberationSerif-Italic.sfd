@@ -4,23 +4,22 @@ FullName: Liberation Serif Italic
 FamilyName: Liberation Serif
 Weight: Book
 Copyright: Digitized data © 2007 Ascender Corporation. All rights reserved.
-Version: 1.04
+Version: 1.02
 ItalicAngle: -16.333
-UnderlinePosition: -273
+UnderlinePosition: -173
 UnderlineWidth: 100
 Ascent: 1638
 Descent: 410
 LayerCount: 2
-Layer: 0 1 "Back"  1
-Layer: 1 1 "Fore"  0
-NeedsXUIDChange: 1
-XUID: [1021 682 1963032581 5327889]
+Layer: 0 1 "+gMyXYgAA"  1
+Layer: 1 1 "+Uk2XYgAA"  0
+XUID: [1021 131 222397055 15460992]
 FSType: 8
 OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1123398000
-ModificationTime: 1221612039
+ModificationTime: 1205763870
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -54,7 +53,7 @@ OS2FamilyClass: 261
 OS2Vendor: '1ASC'
 OS2CodePages: 6000009f.dfd70000
 OS2UnicodeRanges: a00002af.500078fb.00000000.00000000
-Lookup: 258 0 0 "'kern' Horizontal Kerning lookup 0"  {"'kern' Horizontal Kerning lookup 0 subtable"  } ['kern' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 258 0 0 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0"  {"'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  } ['kern' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > ) ]
 DEI: 91125
 TtTable: prep
 PUSHW_8
@@ -2783,7 +2782,7 @@ MIRP[rp0,rnd,black]
 RTG
 ENDF
 EndTTInstrs
-ShortTable: cvt  286
+ShortTable: cvt  287
   1421
   21
   0
@@ -3070,11 +3069,12 @@ ShortTable: cvt  286
   -356
   106
   426
+  1297
 EndShort
 ShortTable: maxp 16
   1
   0
-  661
+  664
   338
   84
   121
@@ -3085,11 +3085,11 @@ ShortTable: maxp 16
   90
   0
   977
-  1797
+  1183
   3
   1
 EndShort
-LangName: 1033 "" "" "" "Ascender - Liberation Serif Italic" "" "Version 1.04" "" "Liberation is a trademark of Red Hat, Inc. registered in U.S. Patent and Trademark Office and certain other jurisdictions." "Ascender Corporation" "Steve Matteson" "" "http://www.ascendercorp.com/" "http://www.ascendercorp.com/typedesigners.html" "Use of this Liberation font software is subject to the license agreement under which you accepted the Liberation font software." "http://www.ascendercorp.com/liberation.html" 
+LangName: 1033 "" "" "" "Ascender - Liberation Serif Italic" "" "Version 1.02" "" "Liberation is a trademark of Red Hat, Inc. registered in U.S. Patent and Trademark Office and certain other jurisdictions." "Ascender Corporation" "Steve Matteson" "" "http://www.ascendercorp.com/" "http://www.ascendercorp.com/typedesigners.html" "Use of this Liberation font software is subject to the license agreement under which you accepted the Liberation font software." "http://www.ascendercorp.com/liberation.html" 
 GaspTable: 3 8 2 20 1 65535 3
 Encoding: UnicodeFull
 UnicodeInterp: none
@@ -3097,40 +3097,99 @@ NameList: Adobe Glyph List
 DisplaySize: -24
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 7800 20 22
-BeginChars: 1114124 668
+WinInfo: 63 21 15
+BeginChars: 1114115 664
 
 StartChar: .notdef
 Encoding: 1114112 -1 0
-Width: 1593
+Width: 748
 Flags: W
+TtInstrs:
+PUSHB_2
+ 1
+ 0
+MDAP[rnd]
+ALIGNRP
+PUSHB_3
+ 7
+ 4
+ 230
+MIRP[min,rnd,black]
+SHP[rp2]
+PUSHB_2
+ 6
+ 5
+MDRP[rp0,min,rnd,grey]
+ALIGNRP
+PUSHB_3
+ 3
+ 2
+ 230
+MIRP[min,rnd,black]
+SHP[rp2]
+SVTCA[y-axis]
+PUSHB_2
+ 3
+ 0
+MDAP[rnd]
+ALIGNRP
+PUSHB_3
+ 5
+ 4
+ 230
+MIRP[min,rnd,black]
+SHP[rp2]
+PUSHB_3
+ 7
+ 6
+ 30
+MIRP[rp0,min,rnd,grey]
+ALIGNRP
+PUSHB_3
+ 1
+ 2
+ 230
+MIRP[min,rnd,black]
+SHP[rp2]
+EndTTInstrs
 LayerCount: 2
+Fore
+SplineSet
+68 0 m 1,0,-1
+ 68 1365 l 1,1,-1
+ 612 1365 l 1,2,-1
+ 612 0 l 1,3,-1
+ 68 0 l 1,0,-1
+136 68 m 1,4,-1
+ 544 68 l 1,5,-1
+ 544 1297 l 1,6,-1
+ 136 1297 l 1,7,-1
+ 136 68 l 1,4,-1
+EndSplineSet
 EndChar
 
 StartChar: .null
 Encoding: 1114113 -1 1
 Width: 0
-GlyphClass: 2
 Flags: W
 LayerCount: 2
 EndChar
 
 StartChar: nonmarkingreturn
 Encoding: 1114114 -1 2
-Width: 512
-GlyphClass: 2
+Width: 682
 Flags: W
 LayerCount: 2
 EndChar
 
-StartChar: space
-Encoding: 32 32 3
-AltUni2: 0000a0.ffffffff.0
+StartChar: uni00A0
+Encoding: 160 160 3
+AltUni2: 000020.ffffffff.0
 Width: 512
 GlyphClass: 2
 Flags: W
 LayerCount: 2
-Kerns2: 357 -37 "'kern' Horizontal Kerning lookup 0 subtable"  350 -37 "'kern' Horizontal Kerning lookup 0 subtable"  347 -37 "'kern' Horizontal Kerning lookup 0 subtable"  338 -37 "'kern' Horizontal Kerning lookup 0 subtable"  36 -37 "'kern' Horizontal Kerning lookup 0 subtable" 
+Kerns2: 357 -37 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  350 -37 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  347 -37 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  338 -37 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  36 -37 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable" 
 EndChar
 
 StartChar: exclam
@@ -8656,9 +8715,9 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: hyphen
-Encoding: 45 45 16
-AltUni2: 0000ad.ffffffff.0
+StartChar: uni00AD
+Encoding: 173 173 16
+AltUni2: 00002d.ffffffff.0
 Width: 682
 GlyphClass: 2
 Flags: W
@@ -9025,7 +9084,7 @@ SplineSet
  759 1352 l 1,10,-1
  534 80 l 1,0,-1
 EndSplineSet
-Kerns2: 20 -152 "'kern' Horizontal Kerning lookup 0 subtable" 
+Kerns2: 20 -152 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable" 
 EndChar
 
 StartChar: two
@@ -10489,9 +10548,9 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: semicolon
-Encoding: 59 59 30
-AltUni2: 00037e.ffffffff.0
+StartChar: uni037E
+Encoding: 894 894 30
+AltUni2: 00003b.ffffffff.0
 Width: 682
 GlyphClass: 2
 Flags: W
@@ -11609,7 +11668,7 @@ SplineSet
  846 557 l 1,18,-1
  723 1208 l 1,16,-1
 EndSplineSet
-Kerns2: 515 -76 "'kern' Horizontal Kerning lookup 0 subtable"  92 -113 "'kern' Horizontal Kerning lookup 0 subtable"  90 -113 "'kern' Horizontal Kerning lookup 0 subtable"  89 -113 "'kern' Horizontal Kerning lookup 0 subtable"  60 -113 "'kern' Horizontal Kerning lookup 0 subtable"  58 -76 "'kern' Horizontal Kerning lookup 0 subtable"  57 -102 "'kern' Horizontal Kerning lookup 0 subtable"  55 -76 "'kern' Horizontal Kerning lookup 0 subtable"  3 -37 "'kern' Horizontal Kerning lookup 0 subtable" 
+Kerns2: 515 -76 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  92 -113 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  90 -113 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  89 -113 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  60 -113 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  58 -76 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  57 -102 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  55 -76 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  3 -37 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable" 
 EndChar
 
 StartChar: B
@@ -11793,7 +11852,7 @@ SplineSet
  810 664 810 664 643 664 c 2,19,-1
  457 664 l 1,20,-1
  357 90 l 1,21,22
- 408 88 408 88 456 87 c 0,23,24
+ 408 88 408 88 456 87 c 1,23,24
  497 85 497 85 541 84.5 c 128,-1,25
  585 84 585 84 615 84 c 0,11,12
 19 0 m 1,26,-1
@@ -12537,7 +12596,7 @@ SplineSet
  891 602 l 1,26,-1
  446 602 l 1,0,-1
 EndSplineSet
-Kerns2: 36 -264 "'kern' Horizontal Kerning lookup 0 subtable"  17 -264 "'kern' Horizontal Kerning lookup 0 subtable"  15 -264 "'kern' Horizontal Kerning lookup 0 subtable" 
+Kerns2: 36 -264 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  17 -264 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  15 -264 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable" 
 EndChar
 
 StartChar: G
@@ -13455,7 +13514,7 @@ SplineSet
  784 1341 l 1,16,-1
  774 1288 l 1,0,-1
 EndSplineSet
-Kerns2: 515 -76 "'kern' Horizontal Kerning lookup 0 subtable"  92 -61 "'kern' Horizontal Kerning lookup 0 subtable"  60 -41 "'kern' Horizontal Kerning lookup 0 subtable"  58 -76 "'kern' Horizontal Kerning lookup 0 subtable"  57 -76 "'kern' Horizontal Kerning lookup 0 subtable"  55 -41 "'kern' Horizontal Kerning lookup 0 subtable"  3 -37 "'kern' Horizontal Kerning lookup 0 subtable" 
+Kerns2: 515 -76 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  92 -61 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  60 -41 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  58 -76 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  57 -76 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  55 -41 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  3 -37 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable" 
 EndChar
 
 StartChar: M
@@ -14202,7 +14261,7 @@ SplineSet
  784 526 784 526 634 526 c 2,29,-1
  433 526 l 1,9,-1
 EndSplineSet
-Kerns2: 36 -264 "'kern' Horizontal Kerning lookup 0 subtable"  17 -264 "'kern' Horizontal Kerning lookup 0 subtable"  15 -264 "'kern' Horizontal Kerning lookup 0 subtable"  3 -37 "'kern' Horizontal Kerning lookup 0 subtable" 
+Kerns2: 36 -264 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  17 -264 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  15 -264 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  3 -37 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable" 
 EndChar
 
 StartChar: Q
@@ -14684,7 +14743,7 @@ SplineSet
  460 678 l 1,36,-1
  616 678 l 2,26,27
 EndSplineSet
-Kerns2: 92 -37 "'kern' Horizontal Kerning lookup 0 subtable"  60 -37 "'kern' Horizontal Kerning lookup 0 subtable"  58 -37 "'kern' Horizontal Kerning lookup 0 subtable"  57 -37 "'kern' Horizontal Kerning lookup 0 subtable" 
+Kerns2: 92 -37 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  60 -37 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  58 -37 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  57 -37 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable" 
 EndChar
 
 StartChar: S
@@ -15032,7 +15091,7 @@ SplineSet
  795 0 l 1,23,-1
  176 0 l 1,0,-1
 EndSplineSet
-Kerns2: 92 -152 "'kern' Horizontal Kerning lookup 0 subtable"  90 -152 "'kern' Horizontal Kerning lookup 0 subtable"  88 -113 "'kern' Horizontal Kerning lookup 0 subtable"  86 -188 "'kern' Horizontal Kerning lookup 0 subtable"  85 -113 "'kern' Horizontal Kerning lookup 0 subtable"  82 -188 "'kern' Horizontal Kerning lookup 0 subtable"  76 -113 "'kern' Horizontal Kerning lookup 0 subtable"  72 -188 "'kern' Horizontal Kerning lookup 0 subtable"  70 -188 "'kern' Horizontal Kerning lookup 0 subtable"  68 -188 "'kern' Horizontal Kerning lookup 0 subtable"  50 -37 "'kern' Horizontal Kerning lookup 0 subtable"  36 -152 "'kern' Horizontal Kerning lookup 0 subtable"  30 -133 "'kern' Horizontal Kerning lookup 0 subtable"  29 -113 "'kern' Horizontal Kerning lookup 0 subtable"  17 -152 "'kern' Horizontal Kerning lookup 0 subtable"  16 -152 "'kern' Horizontal Kerning lookup 0 subtable"  15 -152 "'kern' Horizontal Kerning lookup 0 subtable"  3 -37 "'kern' Horizontal Kerning lookup 0 subtable" 
+Kerns2: 92 -152 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  90 -152 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  88 -113 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  86 -188 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  85 -113 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  82 -188 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  76 -113 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  72 -188 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  70 -188 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  68 -188 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  50 -37 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  36 -152 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  30 -133 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  29 -113 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  17 -152 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  16 -152 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  15 -152 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  3 -37 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable" 
 EndChar
 
 StartChar: U
@@ -15446,7 +15505,7 @@ SplineSet
  1045 1341 l 1,14,-1
  1448 1341 l 1,0,-1
 EndSplineSet
-Kerns2: 92 -188 "'kern' Horizontal Kerning lookup 0 subtable"  88 -152 "'kern' Horizontal Kerning lookup 0 subtable"  85 -152 "'kern' Horizontal Kerning lookup 0 subtable"  82 -227 "'kern' Horizontal Kerning lookup 0 subtable"  76 -152 "'kern' Horizontal Kerning lookup 0 subtable"  72 -227 "'kern' Horizontal Kerning lookup 0 subtable"  68 -227 "'kern' Horizontal Kerning lookup 0 subtable"  50 -61 "'kern' Horizontal Kerning lookup 0 subtable"  36 -152 "'kern' Horizontal Kerning lookup 0 subtable"  30 -152 "'kern' Horizontal Kerning lookup 0 subtable"  29 -133 "'kern' Horizontal Kerning lookup 0 subtable"  17 -264 "'kern' Horizontal Kerning lookup 0 subtable"  16 -113 "'kern' Horizontal Kerning lookup 0 subtable"  15 -264 "'kern' Horizontal Kerning lookup 0 subtable"  3 -37 "'kern' Horizontal Kerning lookup 0 subtable" 
+Kerns2: 92 -188 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  88 -152 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  85 -152 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  82 -227 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  76 -152 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  72 -227 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  68 -227 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  50 -61 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  36 -152 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  30 -152 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  29 -133 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  17 -264 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  16 -113 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  15 -264 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  3 -37 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable" 
 EndChar
 
 StartChar: W
@@ -16272,7 +16331,7 @@ SplineSet
  1852 1288 l 1,20,-1
  1731 1262 l 1,0,-1
 EndSplineSet
-Kerns2: 92 -188 "'kern' Horizontal Kerning lookup 0 subtable"  88 -113 "'kern' Horizontal Kerning lookup 0 subtable"  85 -113 "'kern' Horizontal Kerning lookup 0 subtable"  82 -188 "'kern' Horizontal Kerning lookup 0 subtable"  76 -113 "'kern' Horizontal Kerning lookup 0 subtable"  72 -188 "'kern' Horizontal Kerning lookup 0 subtable"  68 -188 "'kern' Horizontal Kerning lookup 0 subtable"  36 -143 "'kern' Horizontal Kerning lookup 0 subtable"  30 -133 "'kern' Horizontal Kerning lookup 0 subtable"  29 -133 "'kern' Horizontal Kerning lookup 0 subtable"  17 -188 "'kern' Horizontal Kerning lookup 0 subtable"  16 -76 "'kern' Horizontal Kerning lookup 0 subtable"  15 -188 "'kern' Horizontal Kerning lookup 0 subtable" 
+Kerns2: 92 -188 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  88 -113 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  85 -113 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  82 -188 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  76 -113 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  72 -188 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  68 -188 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  36 -143 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  30 -133 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  29 -133 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  17 -188 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  16 -76 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  15 -188 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable" 
 EndChar
 
 StartChar: X
@@ -17115,7 +17174,7 @@ SplineSet
  1160 1262 l 1,20,-1
  688 528 l 1,0,-1
 EndSplineSet
-Kerns2: 89 -188 "'kern' Horizontal Kerning lookup 0 subtable"  88 -188 "'kern' Horizontal Kerning lookup 0 subtable"  84 -227 "'kern' Horizontal Kerning lookup 0 subtable"  83 -188 "'kern' Horizontal Kerning lookup 0 subtable"  82 -188 "'kern' Horizontal Kerning lookup 0 subtable"  76 -152 "'kern' Horizontal Kerning lookup 0 subtable"  72 -188 "'kern' Horizontal Kerning lookup 0 subtable"  68 -188 "'kern' Horizontal Kerning lookup 0 subtable"  36 -143 "'kern' Horizontal Kerning lookup 0 subtable"  30 -133 "'kern' Horizontal Kerning lookup 0 subtable"  29 -133 "'kern' Horizontal Kerning lookup 0 subtable"  17 -188 "'kern' Horizontal Kerning lookup 0 subtable"  16 -152 "'kern' Horizontal Kerning lookup 0 subtable"  15 -188 "'kern' Horizontal Kerning lookup 0 subtable" 
+Kerns2: 89 -188 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  88 -188 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  84 -227 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  83 -188 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  82 -188 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  76 -152 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  72 -188 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  68 -188 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  36 -143 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  30 -133 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  29 -133 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  17 -188 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  16 -152 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  15 -188 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable" 
 EndChar
 
 StartChar: Z
@@ -20391,7 +20450,7 @@ SplineSet
  414 856 l 1,26,-1
  189 -436 l 1,0,-1
 EndSplineSet
-Kerns2: 515 188 "'kern' Horizontal Kerning lookup 0 subtable" 
+Kerns2: 515 188 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable" 
 EndChar
 
 StartChar: g
@@ -22422,7 +22481,7 @@ SplineSet
  591 936 591 936 636.5 950.5 c 128,-1,22
  682 965 682 965 724 965 c 0,0,1
 EndSplineSet
-Kerns2: 515 76 "'kern' Horizontal Kerning lookup 0 subtable"  84 -76 "'kern' Horizontal Kerning lookup 0 subtable"  82 -76 "'kern' Horizontal Kerning lookup 0 subtable"  75 -37 "'kern' Horizontal Kerning lookup 0 subtable"  74 -76 "'kern' Horizontal Kerning lookup 0 subtable"  72 -76 "'kern' Horizontal Kerning lookup 0 subtable"  71 -76 "'kern' Horizontal Kerning lookup 0 subtable"  70 -76 "'kern' Horizontal Kerning lookup 0 subtable"  17 -227 "'kern' Horizontal Kerning lookup 0 subtable"  16 -41 "'kern' Horizontal Kerning lookup 0 subtable"  15 -227 "'kern' Horizontal Kerning lookup 0 subtable" 
+Kerns2: 515 76 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  84 -76 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  82 -76 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  75 -37 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  74 -76 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  72 -76 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  71 -76 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  70 -76 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  17 -227 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  16 -41 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  15 -227 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable" 
 EndChar
 
 StartChar: s
@@ -23131,7 +23190,7 @@ SplineSet
  438 208 l 1,21,-1
  687 614 l 2,0,1
 EndSplineSet
-Kerns2: 17 -152 "'kern' Horizontal Kerning lookup 0 subtable"  15 -152 "'kern' Horizontal Kerning lookup 0 subtable" 
+Kerns2: 17 -152 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  15 -152 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable" 
 EndChar
 
 StartChar: w
@@ -23494,7 +23553,7 @@ SplineSet
  1314 741 1314 741 1268 657 c 2,27,-1
  900 -20 l 1,0,-1
 EndSplineSet
-Kerns2: 17 -152 "'kern' Horizontal Kerning lookup 0 subtable"  15 -152 "'kern' Horizontal Kerning lookup 0 subtable" 
+Kerns2: 17 -152 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  15 -152 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable" 
 EndChar
 
 StartChar: x
@@ -23741,7 +23800,7 @@ SplineSet
  873 940 l 1,35,36
  882 933 882 933 888 922.5 c 128,-1,37
  894 912 894 912 894 897 c 0,38,39
- 894 838 894 838 756 707 c 2,40,-1
+ 894 838 894 838 756 707 c 1,40,-1
  542 506 l 1,41,-1
  734 66 l 1,42,-1
  850 45 l 1,43,-1
@@ -23978,7 +24037,7 @@ SplineSet
  44 895 l 1,41,-1
  52 940 l 1,0,-1
 EndSplineSet
-Kerns2: 17 -113 "'kern' Horizontal Kerning lookup 0 subtable"  15 -113 "'kern' Horizontal Kerning lookup 0 subtable" 
+Kerns2: 17 -113 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  15 -113 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable" 
 EndChar
 
 StartChar: z
@@ -30929,7 +30988,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u00B5
+StartChar: uni00B5
 Encoding: 181 181 117
 Width: 1180
 GlyphClass: 2
@@ -31220,9 +31279,9 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: periodcentered
-Encoding: 183 183 119
-AltUni2: 002219.ffffffff.0
+StartChar: uni2219
+Encoding: 8729 8729 119
+AltUni2: 0000b7.ffffffff.0
 Width: 512
 GlyphClass: 2
 Flags: W
@@ -31786,9 +31845,9 @@ SHC[rp1]
 EndTTInstrs
 LayerCount: 2
 Fore
-Refer: 532 8260 N 1 0 0 1 673 0 2
+Refer: 532 8725 N 1 0 0 1 673 0 2
 Refer: 121 185 N 1 0 0 1 3 0 2
-Refer: 654 -1 N 1 0 0 1 802 -534 2
+Refer: 657 65541 N 1 0 0 1 802 -534 2
 EndChar
 
 StartChar: onehalf
@@ -31807,7 +31866,7 @@ SHC[rp1]
 EndTTInstrs
 LayerCount: 2
 Fore
-Refer: 532 8260 N 1 0 0 1 618 0 2
+Refer: 532 8725 N 1 0 0 1 618 0 2
 Refer: 121 185 N 1 0 0 1 3 0 2
 Refer: 114 178 N 1 0 0 1 839 -534 2
 EndChar
@@ -31857,9 +31916,9 @@ SHC[rp1]
 EndTTInstrs
 LayerCount: 2
 Fore
-Refer: 532 8260 N 1 0 0 1 673 0 2
+Refer: 532 8725 N 1 0 0 1 673 0 2
 Refer: 115 179 N 1 0 0 1 78 0 2
-Refer: 654 -1 N 1 0 0 1 803 -534 2
+Refer: 657 65541 N 1 0 0 1 803 -534 2
 EndChar
 
 StartChar: questiondown
@@ -37844,7 +37903,7 @@ EndTTInstrs
 LayerCount: 2
 Fore
 Refer: 71 100 N 1 0 0 1 0 0 2
-Refer: 659 -1 N 1 0 0 1 1019 80 2
+Refer: 662 65546 N 1 0 0 1 1019 80 2
 EndChar
 
 StartChar: Dcroat
@@ -38584,7 +38643,7 @@ EndTTInstrs
 LayerCount: 2
 Fore
 Refer: 74 103 N 1 0 0 1 0 0 3
-Refer: 660 -1 N 1 0 0 1 520 0 2
+Refer: 663 65547 N 1 0 0 1 520 0 2
 EndChar
 
 StartChar: Hcircumflex
@@ -40333,7 +40392,7 @@ EndTTInstrs
 LayerCount: 2
 Fore
 Refer: 47 76 N 1 0 0 1 0 0 3
-Refer: 659 -1 N 1 0 0 1 815 0 2
+Refer: 662 65546 N 1 0 0 1 815 0 2
 EndChar
 
 StartChar: lcaron
@@ -40364,7 +40423,7 @@ EndTTInstrs
 LayerCount: 2
 Fore
 Refer: 79 108 N 1 0 0 1 0 0 2
-Refer: 659 -1 N 1 0 0 1 518 80 2
+Refer: 662 65546 N 1 0 0 1 518 80 2
 EndChar
 
 StartChar: Ldot
@@ -41573,7 +41632,7 @@ SplineSet
  743 88 743 88 762 81 c 128,-1,14
  781 74 781 74 802 70 c 128,-1,15
  823 66 823 66 844 66 c 0,16,17
- 984 66 984 66 1017 256 c 2,18,-1
+ 984 66 984 66 1017 256 c 1,18,-1
  1129 879 l 2,19,20
  1132 898 1132 898 1136 920.5 c 128,-1,21
  1140 943 1140 943 1143 966.5 c 128,-1,22
@@ -42260,7 +42319,7 @@ SplineSet
  1744 354 l 1,41,-1
  1810 354 l 1,42,-1
  1728 0 l 1,43,-1
- 917 0 l 2,44,45
+ 917 0 l 1,44,45
  904 -1 904 -1 872.5 -2 c 128,-1,46
  841 -3 841 -3 801.5 -4 c 128,-1,47
  762 -5 762 -5 719.5 -5.5 c 128,-1,48
@@ -42895,7 +42954,7 @@ EndTTInstrs
 LayerCount: 2
 Fore
 Refer: 54 83 N 1 0 0 1 0 0 3
-Refer: 120 184 S 1 0 0 1 66 0 2
+Refer: 120 184 N 1 0 0 1 66 0 2
 EndChar
 
 StartChar: scedilla
@@ -42920,7 +42979,7 @@ EndTTInstrs
 LayerCount: 2
 Fore
 Refer: 86 115 N 1 0 0 1 0 0 3
-Refer: 120 184 S 1 0 0 1 -28 0 2
+Refer: 120 184 N 1 0 0 1 -28 0 2
 EndChar
 
 StartChar: Scaron
@@ -43005,8 +43064,8 @@ SHC[rp1]
 EndTTInstrs
 LayerCount: 2
 Fore
-Refer: 120 184 S 1 0 0 1 120 0 2
 Refer: 55 84 N 1 0 0 1 0 0 3
+Refer: 650 61444 N 1 0 0 1 283 0 2
 EndChar
 
 StartChar: tcommaaccent
@@ -43030,8 +43089,8 @@ SHC[rp1]
 EndTTInstrs
 LayerCount: 2
 Fore
-Refer: 120 184 S 1 0 0 1 -106 0 2
 Refer: 87 116 N 1 0 0 1 0 0 2
+Refer: 650 61444 N 1 0 0 1 67 0 2
 EndChar
 
 StartChar: Tcaron
@@ -43092,7 +43151,7 @@ EndTTInstrs
 LayerCount: 2
 Fore
 Refer: 87 116 N 1 0 0 1 -11 0 2
-Refer: 659 -1 N 1 0 0 1 558 80 2
+Refer: 662 65546 N 1 0 0 1 558 80 2
 EndChar
 
 StartChar: Tbar
@@ -47144,7 +47203,7 @@ LayerCount: 2
 Fore
 Refer: 36 65 N 1 0 0 1 0 0 2
 Refer: 336 900 N 1 0 0 1 -123 -90 2
-Kerns2: 400 -92 "'kern' Horizontal Kerning lookup 0 subtable"  390 -113 "'kern' Horizontal Kerning lookup 0 subtable"  380 -92 "'kern' Horizontal Kerning lookup 0 subtable"  372 -168 "'kern' Horizontal Kerning lookup 0 subtable"  367 -90 "'kern' Horizontal Kerning lookup 0 subtable"  366 -168 "'kern' Horizontal Kerning lookup 0 subtable"  365 -76 "'kern' Horizontal Kerning lookup 0 subtable"  361 -90 "'kern' Horizontal Kerning lookup 0 subtable"  354 -90 "'kern' Horizontal Kerning lookup 0 subtable"  3 -37 "'kern' Horizontal Kerning lookup 0 subtable" 
+Kerns2: 400 -92 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  390 -113 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  380 -92 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  372 -168 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  367 -90 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  366 -168 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  365 -76 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  361 -90 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  354 -90 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  3 -37 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable" 
 EndChar
 
 StartChar: anoteleia
@@ -47154,7 +47213,7 @@ GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
-Refer: 652 -1 N 1 0 0 1 51 0 2
+Refer: 655 65539 N 1 0 0 1 51 0 2
 EndChar
 
 StartChar: Epsilontonos
@@ -47364,7 +47423,7 @@ LayerCount: 2
 Fore
 Refer: 50 79 N 1 0 0 1 0 0 2
 Refer: 336 900 N 1 0 0 1 -233 -101 2
-Kerns2: 366 -84 "'kern' Horizontal Kerning lookup 0 subtable" 
+Kerns2: 366 -84 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable" 
 EndChar
 
 StartChar: Upsilontonos
@@ -48009,7 +48068,7 @@ LayerCount: 2
 Fore
 Refer: 60 89 N 1 0 0 1 213 0 2
 Refer: 336 900 N 1 0 0 1 -272 -101 2
-Kerns2: 405 -186 "'kern' Horizontal Kerning lookup 0 subtable"  403 59 "'kern' Horizontal Kerning lookup 0 subtable"  399 -186 "'kern' Horizontal Kerning lookup 0 subtable"  396 -186 "'kern' Horizontal Kerning lookup 0 subtable"  392 -186 "'kern' Horizontal Kerning lookup 0 subtable"  389 -152 "'kern' Horizontal Kerning lookup 0 subtable"  387 -96 "'kern' Horizontal Kerning lookup 0 subtable"  386 -104 "'kern' Horizontal Kerning lookup 0 subtable"  384 -96 "'kern' Horizontal Kerning lookup 0 subtable"  381 -139 "'kern' Horizontal Kerning lookup 0 subtable"  378 -186 "'kern' Horizontal Kerning lookup 0 subtable"  376 -104 "'kern' Horizontal Kerning lookup 0 subtable"  375 -96 "'kern' Horizontal Kerning lookup 0 subtable"  373 -186 "'kern' Horizontal Kerning lookup 0 subtable"  367 -121 "'kern' Horizontal Kerning lookup 0 subtable"  361 -74 "'kern' Horizontal Kerning lookup 0 subtable"  357 -199 "'kern' Horizontal Kerning lookup 0 subtable"  354 -74 "'kern' Horizontal Kerning lookup 0 subtable"  350 -141 "'kern' Horizontal Kerning lookup 0 subtable"  347 -199 "'kern' Horizontal Kerning lookup 0 subtable"  346 59 "'kern' Horizontal Kerning lookup 0 subtable"  150 -74 "'kern' Horizontal Kerning lookup 0 subtable" 
+Kerns2: 405 -186 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  403 59 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  399 -186 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  396 -186 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  392 -186 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  389 -152 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  387 -96 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  386 -104 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  384 -96 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  381 -139 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  378 -186 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  376 -104 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  375 -96 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  373 -186 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  367 -121 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  361 -74 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  357 -199 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  354 -74 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  350 -141 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  347 -199 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  346 59 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  150 -74 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable" 
 EndChar
 
 StartChar: Omegatonos
@@ -48081,7 +48140,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 36 65 N 1 0 0 1 0 0 3
-Kerns2: 515 -76 "'kern' Horizontal Kerning lookup 0 subtable"  400 -92 "'kern' Horizontal Kerning lookup 0 subtable"  390 -113 "'kern' Horizontal Kerning lookup 0 subtable"  380 -92 "'kern' Horizontal Kerning lookup 0 subtable"  372 -168 "'kern' Horizontal Kerning lookup 0 subtable"  367 -90 "'kern' Horizontal Kerning lookup 0 subtable"  366 -168 "'kern' Horizontal Kerning lookup 0 subtable"  365 -76 "'kern' Horizontal Kerning lookup 0 subtable"  361 -90 "'kern' Horizontal Kerning lookup 0 subtable"  354 -90 "'kern' Horizontal Kerning lookup 0 subtable"  3 -37 "'kern' Horizontal Kerning lookup 0 subtable" 
+Kerns2: 515 -76 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  400 -92 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  390 -113 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  380 -92 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  372 -168 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  367 -90 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  366 -168 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  365 -76 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  361 -90 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  354 -90 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  3 -37 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable" 
 EndChar
 
 StartChar: Beta
@@ -48184,7 +48243,7 @@ SplineSet
  562 53 l 1,18,-1
  553 0 l 1,0,-1
 EndSplineSet
-Kerns2: 386 -113 "'kern' Horizontal Kerning lookup 0 subtable"  357 -291 "'kern' Horizontal Kerning lookup 0 subtable"  350 -291 "'kern' Horizontal Kerning lookup 0 subtable"  347 -291 "'kern' Horizontal Kerning lookup 0 subtable"  346 86 "'kern' Horizontal Kerning lookup 0 subtable"  17 -262 "'kern' Horizontal Kerning lookup 0 subtable"  15 -262 "'kern' Horizontal Kerning lookup 0 subtable" 
+Kerns2: 386 -113 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  357 -291 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  350 -291 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  347 -291 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  346 86 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  17 -262 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  15 -262 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable" 
 EndChar
 
 StartChar: Delta
@@ -48308,7 +48367,7 @@ SplineSet
  890 109 l 1,8,-1
  734 1208 l 1,6,-1
 EndSplineSet
-Kerns2: 372 -141 "'kern' Horizontal Kerning lookup 0 subtable"  366 -141 "'kern' Horizontal Kerning lookup 0 subtable"  365 -39 "'kern' Horizontal Kerning lookup 0 subtable"  361 -39 "'kern' Horizontal Kerning lookup 0 subtable"  354 -39 "'kern' Horizontal Kerning lookup 0 subtable"  3 -37 "'kern' Horizontal Kerning lookup 0 subtable" 
+Kerns2: 372 -141 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  366 -141 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  365 -39 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  361 -39 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  354 -39 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  3 -37 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable" 
 EndChar
 
 StartChar: Epsilon
@@ -48641,7 +48700,7 @@ SplineSet
  1016 51 1016 51 907 15.5 c 128,-1,59
  798 -20 798 -20 663 -20 c 0,36,37
 EndSplineSet
-Kerns2: 372 -84 "'kern' Horizontal Kerning lookup 0 subtable"  366 -84 "'kern' Horizontal Kerning lookup 0 subtable"  365 -37 "'kern' Horizontal Kerning lookup 0 subtable"  357 -90 "'kern' Horizontal Kerning lookup 0 subtable"  350 -51 "'kern' Horizontal Kerning lookup 0 subtable"  347 -90 "'kern' Horizontal Kerning lookup 0 subtable" 
+Kerns2: 372 -84 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  366 -84 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  365 -37 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  357 -90 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  350 -51 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  347 -90 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable" 
 EndChar
 
 StartChar: Iota
@@ -48876,7 +48935,7 @@ SplineSet
  1034 1341 l 1,25,-1
  1454 1341 l 1,0,-1
 EndSplineSet
-Kerns2: 407 -59 "'kern' Horizontal Kerning lookup 0 subtable"  405 -59 "'kern' Horizontal Kerning lookup 0 subtable"  402 -59 "'kern' Horizontal Kerning lookup 0 subtable"  399 -59 "'kern' Horizontal Kerning lookup 0 subtable"  396 -59 "'kern' Horizontal Kerning lookup 0 subtable"  392 -59 "'kern' Horizontal Kerning lookup 0 subtable"  391 -59 "'kern' Horizontal Kerning lookup 0 subtable"  385 -59 "'kern' Horizontal Kerning lookup 0 subtable"  383 -59 "'kern' Horizontal Kerning lookup 0 subtable"  381 -59 "'kern' Horizontal Kerning lookup 0 subtable"  378 -59 "'kern' Horizontal Kerning lookup 0 subtable"  373 -59 "'kern' Horizontal Kerning lookup 0 subtable"  367 -168 "'kern' Horizontal Kerning lookup 0 subtable"  361 -113 "'kern' Horizontal Kerning lookup 0 subtable"  354 -113 "'kern' Horizontal Kerning lookup 0 subtable" 
+Kerns2: 407 -59 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  405 -59 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  402 -59 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  399 -59 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  396 -59 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  392 -59 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  391 -59 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  385 -59 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  383 -59 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  381 -59 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  378 -59 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  373 -59 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  367 -168 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  361 -113 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  354 -113 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable" 
 EndChar
 
 StartChar: Lambda
@@ -49016,7 +49075,7 @@ SplineSet
  740 1197 l 1,14,-1
  122 80 l 1,0,-1
 EndSplineSet
-Kerns2: 372 -168 "'kern' Horizontal Kerning lookup 0 subtable"  366 -168 "'kern' Horizontal Kerning lookup 0 subtable"  365 -76 "'kern' Horizontal Kerning lookup 0 subtable"  361 -90 "'kern' Horizontal Kerning lookup 0 subtable"  354 -90 "'kern' Horizontal Kerning lookup 0 subtable"  3 -37 "'kern' Horizontal Kerning lookup 0 subtable" 
+Kerns2: 372 -168 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  366 -168 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  365 -76 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  361 -90 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  354 -90 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  3 -37 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable" 
 EndChar
 
 StartChar: Mu
@@ -49296,7 +49355,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 50 79 N 1 0 0 1 0 0 3
-Kerns2: 372 -84 "'kern' Horizontal Kerning lookup 0 subtable"  366 -84 "'kern' Horizontal Kerning lookup 0 subtable"  357 -90 "'kern' Horizontal Kerning lookup 0 subtable"  350 -51 "'kern' Horizontal Kerning lookup 0 subtable"  347 -90 "'kern' Horizontal Kerning lookup 0 subtable" 
+Kerns2: 372 -84 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  366 -84 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  357 -90 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  350 -51 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  347 -90 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable" 
 EndChar
 
 StartChar: Pi
@@ -49424,7 +49483,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 51 80 N 1 0 0 1 0 0 3
-Kerns2: 357 -262 "'kern' Horizontal Kerning lookup 0 subtable"  350 -180 "'kern' Horizontal Kerning lookup 0 subtable"  347 -262 "'kern' Horizontal Kerning lookup 0 subtable"  17 -262 "'kern' Horizontal Kerning lookup 0 subtable"  15 -262 "'kern' Horizontal Kerning lookup 0 subtable" 
+Kerns2: 357 -262 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  350 -180 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  347 -262 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  17 -262 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  15 -262 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable" 
 EndChar
 
 StartChar: Sigma
@@ -49553,7 +49612,7 @@ SplineSet
  472 1251 l 1,26,-1
  736 728 l 1,0,-1
 EndSplineSet
-Kerns2: 397 -70 "'kern' Horizontal Kerning lookup 0 subtable" 
+Kerns2: 397 -70 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable" 
 EndChar
 
 StartChar: Tau
@@ -49564,7 +49623,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 55 84 N 1 0 0 1 0 0 3
-Kerns2: 406 -113 "'kern' Horizontal Kerning lookup 0 subtable"  405 -186 "'kern' Horizontal Kerning lookup 0 subtable"  401 -113 "'kern' Horizontal Kerning lookup 0 subtable"  400 -152 "'kern' Horizontal Kerning lookup 0 subtable"  399 -186 "'kern' Horizontal Kerning lookup 0 subtable"  396 -186 "'kern' Horizontal Kerning lookup 0 subtable"  392 -186 "'kern' Horizontal Kerning lookup 0 subtable"  390 -152 "'kern' Horizontal Kerning lookup 0 subtable"  389 -113 "'kern' Horizontal Kerning lookup 0 subtable"  386 -113 "'kern' Horizontal Kerning lookup 0 subtable"  384 -113 "'kern' Horizontal Kerning lookup 0 subtable"  382 -186 "'kern' Horizontal Kerning lookup 0 subtable"  381 -186 "'kern' Horizontal Kerning lookup 0 subtable"  380 -152 "'kern' Horizontal Kerning lookup 0 subtable"  378 -186 "'kern' Horizontal Kerning lookup 0 subtable"  374 -98 "'kern' Horizontal Kerning lookup 0 subtable"  373 -186 "'kern' Horizontal Kerning lookup 0 subtable"  370 -37 "'kern' Horizontal Kerning lookup 0 subtable"  367 -37 "'kern' Horizontal Kerning lookup 0 subtable"  361 -37 "'kern' Horizontal Kerning lookup 0 subtable"  357 -152 "'kern' Horizontal Kerning lookup 0 subtable"  354 -37 "'kern' Horizontal Kerning lookup 0 subtable"  350 -90 "'kern' Horizontal Kerning lookup 0 subtable"  347 -152 "'kern' Horizontal Kerning lookup 0 subtable"  346 90 "'kern' Horizontal Kerning lookup 0 subtable"  30 -113 "'kern' Horizontal Kerning lookup 0 subtable"  29 -113 "'kern' Horizontal Kerning lookup 0 subtable"  17 -152 "'kern' Horizontal Kerning lookup 0 subtable"  16 -152 "'kern' Horizontal Kerning lookup 0 subtable"  3 -37 "'kern' Horizontal Kerning lookup 0 subtable" 
+Kerns2: 406 -113 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  405 -186 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  401 -113 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  400 -152 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  399 -186 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  396 -186 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  392 -186 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  390 -152 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  389 -113 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  386 -113 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  384 -113 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  382 -186 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  381 -186 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  380 -152 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  378 -186 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  374 -98 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  373 -186 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  370 -37 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  367 -37 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  361 -37 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  357 -152 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  354 -37 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  350 -90 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  347 -152 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  346 90 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  30 -113 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  29 -113 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  17 -152 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  16 -152 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  3 -37 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable" 
 EndChar
 
 StartChar: Upsilon
@@ -49575,7 +49634,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 60 89 N 1 0 0 1 0 0 3
-Kerns2: 405 -186 "'kern' Horizontal Kerning lookup 0 subtable"  403 59 "'kern' Horizontal Kerning lookup 0 subtable"  399 -186 "'kern' Horizontal Kerning lookup 0 subtable"  396 -186 "'kern' Horizontal Kerning lookup 0 subtable"  392 -186 "'kern' Horizontal Kerning lookup 0 subtable"  389 -152 "'kern' Horizontal Kerning lookup 0 subtable"  387 -96 "'kern' Horizontal Kerning lookup 0 subtable"  386 -104 "'kern' Horizontal Kerning lookup 0 subtable"  384 -96 "'kern' Horizontal Kerning lookup 0 subtable"  381 -139 "'kern' Horizontal Kerning lookup 0 subtable"  380 -94 "'kern' Horizontal Kerning lookup 0 subtable"  378 -186 "'kern' Horizontal Kerning lookup 0 subtable"  376 -104 "'kern' Horizontal Kerning lookup 0 subtable"  375 -96 "'kern' Horizontal Kerning lookup 0 subtable"  373 -186 "'kern' Horizontal Kerning lookup 0 subtable"  367 -121 "'kern' Horizontal Kerning lookup 0 subtable"  361 -37 "'kern' Horizontal Kerning lookup 0 subtable"  357 -199 "'kern' Horizontal Kerning lookup 0 subtable"  354 -37 "'kern' Horizontal Kerning lookup 0 subtable"  350 -141 "'kern' Horizontal Kerning lookup 0 subtable"  347 -199 "'kern' Horizontal Kerning lookup 0 subtable"  346 59 "'kern' Horizontal Kerning lookup 0 subtable"  30 -131 "'kern' Horizontal Kerning lookup 0 subtable"  29 -131 "'kern' Horizontal Kerning lookup 0 subtable"  17 -186 "'kern' Horizontal Kerning lookup 0 subtable"  16 -152 "'kern' Horizontal Kerning lookup 0 subtable"  15 -186 "'kern' Horizontal Kerning lookup 0 subtable" 
+Kerns2: 405 -186 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  403 59 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  399 -186 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  396 -186 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  392 -186 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  389 -152 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  387 -96 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  386 -104 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  384 -96 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  381 -139 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  380 -94 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  378 -186 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  376 -104 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  375 -96 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  373 -186 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  367 -121 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  361 -37 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  357 -199 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  354 -37 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  350 -141 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  347 -199 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  346 59 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  30 -131 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  29 -131 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  17 -186 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  16 -152 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  15 -186 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable" 
 EndChar
 
 StartChar: Phi
@@ -49880,7 +49939,7 @@ SplineSet
  608 80 l 1,59,-1
  632 222 l 1,22,-1
 EndSplineSet
-Kerns2: 372 -158 "'kern' Horizontal Kerning lookup 0 subtable"  366 -158 "'kern' Horizontal Kerning lookup 0 subtable"  347 -90 "'kern' Horizontal Kerning lookup 0 subtable" 
+Kerns2: 372 -158 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  366 -158 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  347 -90 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable" 
 EndChar
 
 StartChar: Chi
@@ -49891,7 +49950,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 59 88 N 1 0 0 1 0 0 3
-Kerns2: 407 -51 "'kern' Horizontal Kerning lookup 0 subtable"  402 -51 "'kern' Horizontal Kerning lookup 0 subtable" 
+Kerns2: 407 -51 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  402 -51 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable" 
 EndChar
 
 StartChar: Psi
@@ -50164,7 +50223,7 @@ SplineSet
  951 506 951 506 816 506 c 1,46,-1
  741 80 l 1,0,-1
 EndSplineSet
-Kerns2: 407 -90 "'kern' Horizontal Kerning lookup 0 subtable"  405 -90 "'kern' Horizontal Kerning lookup 0 subtable"  402 -90 "'kern' Horizontal Kerning lookup 0 subtable"  399 -90 "'kern' Horizontal Kerning lookup 0 subtable"  396 -90 "'kern' Horizontal Kerning lookup 0 subtable"  392 -90 "'kern' Horizontal Kerning lookup 0 subtable"  385 -51 "'kern' Horizontal Kerning lookup 0 subtable"  381 -90 "'kern' Horizontal Kerning lookup 0 subtable"  378 -90 "'kern' Horizontal Kerning lookup 0 subtable"  373 -90 "'kern' Horizontal Kerning lookup 0 subtable" 
+Kerns2: 407 -90 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  405 -90 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  402 -90 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  399 -90 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  396 -90 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  392 -90 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  385 -51 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  381 -90 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  378 -90 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  373 -90 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable" 
 EndChar
 
 StartChar: Omega
@@ -50428,7 +50487,7 @@ SplineSet
  1060 1232 1060 1232 998 1254 c 128,-1,61
  936 1276 936 1276 863 1276 c 0,0,1
 EndSplineSet
-Kerns2: 372 -47 "'kern' Horizontal Kerning lookup 0 subtable"  366 -47 "'kern' Horizontal Kerning lookup 0 subtable" 
+Kerns2: 372 -47 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  366 -47 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable" 
 EndChar
 
 StartChar: Iotadieresis
@@ -50501,7 +50560,7 @@ LayerCount: 2
 Fore
 Refer: 60 89 N 1 0 0 1 0 0 3
 Refer: 105 168 N 1 0 0 1 299 365 2
-Kerns2: 405 -186 "'kern' Horizontal Kerning lookup 0 subtable"  403 59 "'kern' Horizontal Kerning lookup 0 subtable"  399 -186 "'kern' Horizontal Kerning lookup 0 subtable"  396 -186 "'kern' Horizontal Kerning lookup 0 subtable"  392 -186 "'kern' Horizontal Kerning lookup 0 subtable"  389 -152 "'kern' Horizontal Kerning lookup 0 subtable"  387 -96 "'kern' Horizontal Kerning lookup 0 subtable"  386 -104 "'kern' Horizontal Kerning lookup 0 subtable"  384 -96 "'kern' Horizontal Kerning lookup 0 subtable"  381 -139 "'kern' Horizontal Kerning lookup 0 subtable"  378 -186 "'kern' Horizontal Kerning lookup 0 subtable"  376 -104 "'kern' Horizontal Kerning lookup 0 subtable"  375 -96 "'kern' Horizontal Kerning lookup 0 subtable"  373 -186 "'kern' Horizontal Kerning lookup 0 subtable"  367 -121 "'kern' Horizontal Kerning lookup 0 subtable"  361 -37 "'kern' Horizontal Kerning lookup 0 subtable"  357 -199 "'kern' Horizontal Kerning lookup 0 subtable"  354 -37 "'kern' Horizontal Kerning lookup 0 subtable"  350 -141 "'kern' Horizontal Kerning lookup 0 subtable"  347 -199 "'kern' Horizontal Kerning lookup 0 subtable"  346 59 "'kern' Horizontal Kerning lookup 0 subtable" 
+Kerns2: 405 -186 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  403 59 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  399 -186 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  396 -186 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  392 -186 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  389 -152 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  387 -96 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  386 -104 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  384 -96 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  381 -139 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  378 -186 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  376 -104 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  375 -96 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  373 -186 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  367 -121 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  361 -37 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  357 -199 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  354 -37 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  350 -141 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  347 -199 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  346 59 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable" 
 EndChar
 
 StartChar: alphatonos
@@ -50841,7 +50900,7 @@ SplineSet
  315 914 315 914 389.5 940 c 128,-1,30
  464 966 464 966 542 966 c 0,31,32
  662 966 662 966 726.5 898.5 c 128,-1,33
- 791 831 791 831 810 703 c 2,34,-1
+ 791 831 791 831 810 703 c 1,34,-1
  811 674 l 1,35,-1
  825 704 l 1,36,-1
  952 940 l 1,37,-1
@@ -51510,7 +51569,7 @@ SplineSet
  231 190 231 190 281.5 124.5 c 128,-1,69
  332 59 332 59 429 59 c 0,49,50
 EndSplineSet
-Kerns2: 400 -41 "'kern' Horizontal Kerning lookup 0 subtable" 
+Kerns2: 400 -41 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable" 
 EndChar
 
 StartChar: epsilon
@@ -51878,7 +51937,7 @@ SplineSet
  565 -62 565 -62 519 -33 c 128,-1,49
  473 -4 473 -4 382 14 c 0,0,1
 EndSplineSet
-Kerns2: 407 -117 "'kern' Horizontal Kerning lookup 0 subtable"  405 -117 "'kern' Horizontal Kerning lookup 0 subtable"  402 -117 "'kern' Horizontal Kerning lookup 0 subtable"  399 -117 "'kern' Horizontal Kerning lookup 0 subtable"  397 -141 "'kern' Horizontal Kerning lookup 0 subtable"  396 -117 "'kern' Horizontal Kerning lookup 0 subtable"  393 -70 "'kern' Horizontal Kerning lookup 0 subtable"  392 -117 "'kern' Horizontal Kerning lookup 0 subtable"  390 -102 "'kern' Horizontal Kerning lookup 0 subtable"  387 -66 "'kern' Horizontal Kerning lookup 0 subtable"  386 -66 "'kern' Horizontal Kerning lookup 0 subtable"  385 -88 "'kern' Horizontal Kerning lookup 0 subtable"  384 -66 "'kern' Horizontal Kerning lookup 0 subtable"  381 -88 "'kern' Horizontal Kerning lookup 0 subtable"  380 -102 "'kern' Horizontal Kerning lookup 0 subtable"  378 -117 "'kern' Horizontal Kerning lookup 0 subtable"  375 -66 "'kern' Horizontal Kerning lookup 0 subtable"  373 -117 "'kern' Horizontal Kerning lookup 0 subtable" 
+Kerns2: 407 -117 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  405 -117 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  402 -117 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  399 -117 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  397 -141 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  396 -117 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  393 -70 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  392 -117 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  390 -102 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  387 -66 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  386 -66 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  385 -88 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  384 -66 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  381 -88 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  380 -102 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  378 -117 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  375 -66 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  373 -117 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable" 
 EndChar
 
 StartChar: eta
@@ -52676,7 +52735,7 @@ SplineSet
  509 952 l 1,37,-1
  484 1124 l 2,0,1
 EndSplineSet
-Kerns2: 398 -35 "'kern' Horizontal Kerning lookup 0 subtable" 
+Kerns2: 398 -35 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable" 
 EndChar
 
 StartChar: mu
@@ -53096,7 +53155,7 @@ SplineSet
  390 176 390 176 445 159.5 c 128,-1,82
  500 143 500 143 564 128 c 0,0,1
 EndSplineSet
-Kerns2: 405 -86 "'kern' Horizontal Kerning lookup 0 subtable"  399 -86 "'kern' Horizontal Kerning lookup 0 subtable"  396 -86 "'kern' Horizontal Kerning lookup 0 subtable"  395 -86 "'kern' Horizontal Kerning lookup 0 subtable"  392 -86 "'kern' Horizontal Kerning lookup 0 subtable"  391 -86 "'kern' Horizontal Kerning lookup 0 subtable"  383 -86 "'kern' Horizontal Kerning lookup 0 subtable"  381 -86 "'kern' Horizontal Kerning lookup 0 subtable"  378 -86 "'kern' Horizontal Kerning lookup 0 subtable"  373 -86 "'kern' Horizontal Kerning lookup 0 subtable" 
+Kerns2: 405 -86 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  399 -86 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  396 -86 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  395 -86 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  392 -86 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  391 -86 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  383 -86 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  381 -86 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  378 -86 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  373 -86 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable" 
 EndChar
 
 StartChar: omicron
@@ -53107,7 +53166,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 82 111 N 1 0 0 1 0 0 3
-Kerns2: 400 -41 "'kern' Horizontal Kerning lookup 0 subtable" 
+Kerns2: 400 -41 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable" 
 EndChar
 
 StartChar: pi
@@ -53326,7 +53385,7 @@ SplineSet
  870 856 l 1,44,-1
  774 307 l 2,0,1
 EndSplineSet
-Kerns2: 383 33 "'kern' Horizontal Kerning lookup 0 subtable" 
+Kerns2: 383 33 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable" 
 EndChar
 
 StartChar: rho
@@ -53973,7 +54032,7 @@ SplineSet
  509 856 l 1,29,-1
  412 307 l 2,0,1
 EndSplineSet
-Kerns2: 383 33 "'kern' Horizontal Kerning lookup 0 subtable" 
+Kerns2: 383 33 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable" 
 EndChar
 
 StartChar: upsilon
@@ -54354,7 +54413,7 @@ SplineSet
  900 778 900 778 871.5 831.5 c 128,-1,51
  843 885 843 885 796 885 c 0,38,39
 EndSplineSet
-Kerns2: 400 -41 "'kern' Horizontal Kerning lookup 0 subtable"  388 -43 "'kern' Horizontal Kerning lookup 0 subtable" 
+Kerns2: 400 -41 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  388 -43 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable" 
 EndChar
 
 StartChar: chi
@@ -54587,7 +54646,7 @@ SplineSet
  -129 -363 -129 -363 -90 -308 c 128,-1,2
  -51 -253 -51 -253 -6.5 -190 c 128,-1,3
  38 -127 38 -127 85.5 -59 c 128,-1,4
- 180.5 77 l 128,-1,5
+ 133 9 133 9 180.5 77 c 128,-1,5
  228 145 228 145 272.5 209 c 128,-1,6
  317 273 317 273 355 327 c 1,7,-1
  210 807 l 2,8,9
@@ -54625,7 +54684,7 @@ SplineSet
  -164 -436 l 1,47,-1
  -158 -403 l 1,0,1
 EndSplineSet
-Kerns2: 407 -43 "'kern' Horizontal Kerning lookup 0 subtable"  405 -43 "'kern' Horizontal Kerning lookup 0 subtable"  402 -43 "'kern' Horizontal Kerning lookup 0 subtable"  399 -43 "'kern' Horizontal Kerning lookup 0 subtable"  396 -43 "'kern' Horizontal Kerning lookup 0 subtable"  395 -43 "'kern' Horizontal Kerning lookup 0 subtable"  392 -43 "'kern' Horizontal Kerning lookup 0 subtable"  383 -43 "'kern' Horizontal Kerning lookup 0 subtable"  381 -43 "'kern' Horizontal Kerning lookup 0 subtable"  378 -43 "'kern' Horizontal Kerning lookup 0 subtable"  373 -43 "'kern' Horizontal Kerning lookup 0 subtable" 
+Kerns2: 407 -43 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  405 -43 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  402 -43 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  399 -43 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  396 -43 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  395 -43 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  392 -43 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  383 -43 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  381 -43 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  378 -43 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  373 -43 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable" 
 EndChar
 
 StartChar: psi
@@ -55078,7 +55137,7 @@ SplineSet
  668 608 l 1,80,-1
  834 608 l 1,0,-1
 EndSplineSet
-Kerns2: 400 -41 "'kern' Horizontal Kerning lookup 0 subtable" 
+Kerns2: 400 -41 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable" 
 EndChar
 
 StartChar: iotadieresis
@@ -55155,7 +55214,7 @@ LayerCount: 2
 Fore
 Refer: 82 111 N 1 0 0 1 0 0 3
 Refer: 336 900 N 1 0 0 1 333 0 2
-Kerns2: 400 -41 "'kern' Horizontal Kerning lookup 0 subtable" 
+Kerns2: 400 -41 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable" 
 EndChar
 
 StartChar: upsilontonos
@@ -56294,7 +56353,7 @@ LayerCount: 2
 Fore
 Refer: 402 969 N 1 0 0 1 0 0 2
 Refer: 336 900 N 1 0 0 1 509 0 2
-Kerns2: 400 -41 "'kern' Horizontal Kerning lookup 0 subtable" 
+Kerns2: 400 -41 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable" 
 EndChar
 
 StartChar: afii10023
@@ -56629,7 +56688,7 @@ LayerCount: 2
 Fore
 Refer: 349 915 N 1 0 0 1 -41 0 3
 Refer: 116 180 N 1 0 0 1 350 381 2
-Kerns2: 29 51 "'kern' Horizontal Kerning lookup 0 subtable"  17 -154 "'kern' Horizontal Kerning lookup 0 subtable"  15 -129 "'kern' Horizontal Kerning lookup 0 subtable" 
+Kerns2: 29 51 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  17 -154 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  15 -129 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable" 
 EndChar
 
 StartChar: afii10053
@@ -57108,7 +57167,7 @@ SplineSet
  1394 655 1394 655 1314 655 c 2,55,-1
  1200 655 l 1,43,-1
 EndSplineSet
-Kerns2: 515 -248 "'kern' Horizontal Kerning lookup 0 subtable" 
+Kerns2: 515 -248 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable" 
 EndChar
 
 StartChar: afii10059
@@ -57372,7 +57431,7 @@ SplineSet
  1381 655 1381 655 1301 655 c 2,49,-1
  1187 655 l 1,37,-1
 EndSplineSet
-Kerns2: 515 -180 "'kern' Horizontal Kerning lookup 0 subtable" 
+Kerns2: 515 -180 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable" 
 EndChar
 
 StartChar: afii10060
@@ -57685,7 +57744,7 @@ EndTTInstrs
 LayerCount: 2
 Fore
 Refer: 441 1059 N 1 0 0 1 0 0 3
-Refer: 658 -1 N 1 0 0 1 506 334 2
+Refer: 661 65545 N 1 0 0 1 506 334 2
 EndChar
 
 StartChar: afii10145
@@ -57865,7 +57924,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 36 65 N 1 0 0 1 0 0 3
-Kerns2: 515 -207 "'kern' Horizontal Kerning lookup 0 subtable"  483 -31 "'kern' Horizontal Kerning lookup 0 subtable"  474 -31 "'kern' Horizontal Kerning lookup 0 subtable"  473 -68 "'kern' Horizontal Kerning lookup 0 subtable"  471 -31 "'kern' Horizontal Kerning lookup 0 subtable"  468 -31 "'kern' Horizontal Kerning lookup 0 subtable"  459 -31 "'kern' Horizontal Kerning lookup 0 subtable"  455 -31 "'kern' Horizontal Kerning lookup 0 subtable"  454 -31 "'kern' Horizontal Kerning lookup 0 subtable"  451 -102 "'kern' Horizontal Kerning lookup 0 subtable"  445 -129 "'kern' Horizontal Kerning lookup 0 subtable"  442 -104 "'kern' Horizontal Kerning lookup 0 subtable"  441 -129 "'kern' Horizontal Kerning lookup 0 subtable"  440 -78 "'kern' Horizontal Kerning lookup 0 subtable"  439 -51 "'kern' Horizontal Kerning lookup 0 subtable"  437 -51 "'kern' Horizontal Kerning lookup 0 subtable"  436 -78 "'kern' Horizontal Kerning lookup 0 subtable"  433 -41 "'kern' Horizontal Kerning lookup 0 subtable"  429 -27 "'kern' Horizontal Kerning lookup 0 subtable"  426 29 "'kern' Horizontal Kerning lookup 0 subtable" 
+Kerns2: 515 -207 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  483 -31 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  474 -31 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  473 -68 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  471 -31 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  468 -31 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  459 -31 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  455 -31 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  454 -31 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  451 -102 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  445 -129 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  442 -104 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  441 -129 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  440 -78 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  439 -51 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  437 -51 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  436 -78 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  433 -41 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  429 -27 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  426 29 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable" 
 EndChar
 
 StartChar: afii10018
@@ -58052,7 +58111,7 @@ SplineSet
  700 655 700 655 620 655 c 2,40,-1
  456 655 l 1,28,-1
 EndSplineSet
-Kerns2: 485 47 "'kern' Horizontal Kerning lookup 0 subtable"  473 -25 "'kern' Horizontal Kerning lookup 0 subtable"  458 25 "'kern' Horizontal Kerning lookup 0 subtable"  451 -29 "'kern' Horizontal Kerning lookup 0 subtable"  445 -55 "'kern' Horizontal Kerning lookup 0 subtable"  443 -27 "'kern' Horizontal Kerning lookup 0 subtable"  442 -55 "'kern' Horizontal Kerning lookup 0 subtable"  441 -82 "'kern' Horizontal Kerning lookup 0 subtable"  429 76 "'kern' Horizontal Kerning lookup 0 subtable"  428 51 "'kern' Horizontal Kerning lookup 0 subtable"  426 25 "'kern' Horizontal Kerning lookup 0 subtable"  422 -55 "'kern' Horizontal Kerning lookup 0 subtable" 
+Kerns2: 485 47 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  473 -25 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  458 25 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  451 -29 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  445 -55 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  443 -27 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  442 -55 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  441 -82 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  429 76 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  428 51 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  426 25 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  422 -55 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable" 
 EndChar
 
 StartChar: afii10019
@@ -58063,7 +58122,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 37 66 N 1 0 0 1 0 0 3
-Kerns2: 485 25 "'kern' Horizontal Kerning lookup 0 subtable"  477 25 "'kern' Horizontal Kerning lookup 0 subtable"  475 -29 "'kern' Horizontal Kerning lookup 0 subtable"  473 -29 "'kern' Horizontal Kerning lookup 0 subtable"  472 25 "'kern' Horizontal Kerning lookup 0 subtable"  466 -27 "'kern' Horizontal Kerning lookup 0 subtable"  458 25 "'kern' Horizontal Kerning lookup 0 subtable"  453 -96 "'kern' Horizontal Kerning lookup 0 subtable"  448 -98 "'kern' Horizontal Kerning lookup 0 subtable"  445 -123 "'kern' Horizontal Kerning lookup 0 subtable"  443 -51 "'kern' Horizontal Kerning lookup 0 subtable"  442 -111 "'kern' Horizontal Kerning lookup 0 subtable"  441 -174 "'kern' Horizontal Kerning lookup 0 subtable"  440 -117 "'kern' Horizontal Kerning lookup 0 subtable"  439 -96 "'kern' Horizontal Kerning lookup 0 subtable"  436 -96 "'kern' Horizontal Kerning lookup 0 subtable"  429 -70 "'kern' Horizontal Kerning lookup 0 subtable"  428 -82 "'kern' Horizontal Kerning lookup 0 subtable"  426 -109 "'kern' Horizontal Kerning lookup 0 subtable"  422 -78 "'kern' Horizontal Kerning lookup 0 subtable" 
+Kerns2: 485 25 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  477 25 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  475 -29 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  473 -29 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  472 25 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  466 -27 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  458 25 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  453 -96 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  448 -98 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  445 -123 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  443 -51 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  442 -111 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  441 -174 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  440 -117 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  439 -96 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  436 -96 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  429 -70 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  428 -82 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  426 -109 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  422 -78 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable" 
 EndChar
 
 StartChar: afii10020
@@ -58074,7 +58133,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 349 915 N 1 0 0 1 0 0 3
-Kerns2: 485 -82 "'kern' Horizontal Kerning lookup 0 subtable"  484 -133 "'kern' Horizontal Kerning lookup 0 subtable"  482 -102 "'kern' Horizontal Kerning lookup 0 subtable"  481 -109 "'kern' Horizontal Kerning lookup 0 subtable"  473 -88 "'kern' Horizontal Kerning lookup 0 subtable"  470 -57 "'kern' Horizontal Kerning lookup 0 subtable"  468 -106 "'kern' Horizontal Kerning lookup 0 subtable"  467 -61 "'kern' Horizontal Kerning lookup 0 subtable"  466 -82 "'kern' Horizontal Kerning lookup 0 subtable"  465 -109 "'kern' Horizontal Kerning lookup 0 subtable"  462 -39 "'kern' Horizontal Kerning lookup 0 subtable"  459 -61 "'kern' Horizontal Kerning lookup 0 subtable"  458 -37 "'kern' Horizontal Kerning lookup 0 subtable"  456 -78 "'kern' Horizontal Kerning lookup 0 subtable"  454 -51 "'kern' Horizontal Kerning lookup 0 subtable"  453 -27 "'kern' Horizontal Kerning lookup 0 subtable"  436 -27 "'kern' Horizontal Kerning lookup 0 subtable"  434 -51 "'kern' Horizontal Kerning lookup 0 subtable"  433 -27 "'kern' Horizontal Kerning lookup 0 subtable"  429 39 "'kern' Horizontal Kerning lookup 0 subtable"  422 -154 "'kern' Horizontal Kerning lookup 0 subtable"  29 51 "'kern' Horizontal Kerning lookup 0 subtable"  17 -154 "'kern' Horizontal Kerning lookup 0 subtable"  15 -129 "'kern' Horizontal Kerning lookup 0 subtable" 
+Kerns2: 485 -82 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  484 -133 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  482 -102 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  481 -109 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  473 -88 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  470 -57 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  468 -106 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  467 -61 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  466 -82 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  465 -109 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  462 -39 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  459 -61 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  458 -37 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  456 -78 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  454 -51 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  453 -27 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  436 -27 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  434 -51 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  433 -27 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  429 39 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  422 -154 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  29 51 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  17 -154 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  15 -129 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable" 
 EndChar
 
 StartChar: afii10021
@@ -58229,7 +58288,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 40 69 N 1 0 0 1 0 0 3
-Kerns2: 429 -29 "'kern' Horizontal Kerning lookup 0 subtable" 
+Kerns2: 429 -29 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable" 
 EndChar
 
 StartChar: afii10024
@@ -58569,7 +58628,7 @@ SplineSet
  778 80 l 1,39,-1
  856 523 l 1,0,-1
 EndSplineSet
-Kerns2: 473 -61 "'kern' Horizontal Kerning lookup 0 subtable"  468 -27 "'kern' Horizontal Kerning lookup 0 subtable"  445 -70 "'kern' Horizontal Kerning lookup 0 subtable"  441 -70 "'kern' Horizontal Kerning lookup 0 subtable"  439 -109 "'kern' Horizontal Kerning lookup 0 subtable"  436 -109 "'kern' Horizontal Kerning lookup 0 subtable" 
+Kerns2: 473 -61 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  468 -27 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  445 -70 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  441 -70 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  439 -109 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  436 -109 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable" 
 EndChar
 
 StartChar: afii10025
@@ -58791,7 +58850,7 @@ SplineSet
  663 29 663 29 561 4.5 c 128,-1,66
  459 -20 459 -20 337 -20 c 0,0,1
 EndSplineSet
-Kerns2: 458 27 "'kern' Horizontal Kerning lookup 0 subtable"  445 -102 "'kern' Horizontal Kerning lookup 0 subtable"  441 -27 "'kern' Horizontal Kerning lookup 0 subtable"  440 25 "'kern' Horizontal Kerning lookup 0 subtable" 
+Kerns2: 458 27 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  445 -102 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  441 -27 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  440 25 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable" 
 EndChar
 
 StartChar: afii10026
@@ -58990,7 +59049,7 @@ EndTTInstrs
 LayerCount: 2
 Fore
 Refer: 430 1048 N 1 0 0 1 0 0 3
-Refer: 658 -1 N 1 0 0 1 459 334 2
+Refer: 661 65545 N 1 0 0 1 459 334 2
 EndChar
 
 StartChar: afii10028
@@ -59208,7 +59267,7 @@ SplineSet
  1034 1341 l 1,25,-1
  1454 1341 l 1,0,-1
 EndSplineSet
-Kerns2: 483 -51 "'kern' Horizontal Kerning lookup 0 subtable"  473 -88 "'kern' Horizontal Kerning lookup 0 subtable"  471 -51 "'kern' Horizontal Kerning lookup 0 subtable"  468 -78 "'kern' Horizontal Kerning lookup 0 subtable"  459 -51 "'kern' Horizontal Kerning lookup 0 subtable"  451 -27 "'kern' Horizontal Kerning lookup 0 subtable"  442 -164 "'kern' Horizontal Kerning lookup 0 subtable"  441 -27 "'kern' Horizontal Kerning lookup 0 subtable"  439 -96 "'kern' Horizontal Kerning lookup 0 subtable"  436 -96 "'kern' Horizontal Kerning lookup 0 subtable" 
+Kerns2: 483 -51 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  473 -88 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  471 -51 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  468 -78 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  459 -51 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  451 -27 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  442 -164 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  441 -27 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  439 -96 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  436 -96 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable" 
 EndChar
 
 StartChar: afii10029
@@ -59358,7 +59417,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 48 77 N 1 0 0 1 0 0 3
-Kerns2: 471 -29 "'kern' Horizontal Kerning lookup 0 subtable"  468 -29 "'kern' Horizontal Kerning lookup 0 subtable"  459 -29 "'kern' Horizontal Kerning lookup 0 subtable"  454 -29 "'kern' Horizontal Kerning lookup 0 subtable"  442 -51 "'kern' Horizontal Kerning lookup 0 subtable" 
+Kerns2: 471 -29 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  468 -29 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  459 -29 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  454 -29 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  442 -51 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable" 
 EndChar
 
 StartChar: afii10031
@@ -59379,7 +59438,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 50 79 N 1 0 0 1 0 0 3
-Kerns2: 453 -78 "'kern' Horizontal Kerning lookup 0 subtable"  445 -78 "'kern' Horizontal Kerning lookup 0 subtable"  443 -102 "'kern' Horizontal Kerning lookup 0 subtable"  442 25 "'kern' Horizontal Kerning lookup 0 subtable"  441 -119 "'kern' Horizontal Kerning lookup 0 subtable"  433 -51 "'kern' Horizontal Kerning lookup 0 subtable"  428 -78 "'kern' Horizontal Kerning lookup 0 subtable"  426 -51 "'kern' Horizontal Kerning lookup 0 subtable"  422 -98 "'kern' Horizontal Kerning lookup 0 subtable" 
+Kerns2: 453 -78 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  445 -78 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  443 -102 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  442 25 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  441 -119 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  433 -51 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  428 -78 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  426 -51 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  422 -98 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable" 
 EndChar
 
 StartChar: afii10033
@@ -59400,7 +59459,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 51 80 N 1 0 0 1 0 0 3
-Kerns2: 485 -51 "'kern' Horizontal Kerning lookup 0 subtable"  483 -29 "'kern' Horizontal Kerning lookup 0 subtable"  468 -74 "'kern' Horizontal Kerning lookup 0 subtable"  459 -74 "'kern' Horizontal Kerning lookup 0 subtable"  458 -74 "'kern' Horizontal Kerning lookup 0 subtable"  454 -78 "'kern' Horizontal Kerning lookup 0 subtable"  453 -160 "'kern' Horizontal Kerning lookup 0 subtable"  443 -129 "'kern' Horizontal Kerning lookup 0 subtable"  442 -55 "'kern' Horizontal Kerning lookup 0 subtable"  441 -145 "'kern' Horizontal Kerning lookup 0 subtable"  436 -27 "'kern' Horizontal Kerning lookup 0 subtable"  434 -51 "'kern' Horizontal Kerning lookup 0 subtable"  433 -160 "'kern' Horizontal Kerning lookup 0 subtable"  429 -68 "'kern' Horizontal Kerning lookup 0 subtable"  428 -106 "'kern' Horizontal Kerning lookup 0 subtable"  426 -203 "'kern' Horizontal Kerning lookup 0 subtable"  422 -180 "'kern' Horizontal Kerning lookup 0 subtable"  29 51 "'kern' Horizontal Kerning lookup 0 subtable"  17 -205 "'kern' Horizontal Kerning lookup 0 subtable"  15 -180 "'kern' Horizontal Kerning lookup 0 subtable" 
+Kerns2: 485 -51 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  483 -29 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  468 -74 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  459 -74 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  458 -74 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  454 -78 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  453 -160 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  443 -129 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  442 -55 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  441 -145 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  436 -27 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  434 -51 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  433 -160 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  429 -68 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  428 -106 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  426 -203 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  422 -180 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  29 51 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  17 -205 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  15 -180 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable" 
 EndChar
 
 StartChar: afii10035
@@ -59411,7 +59470,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 38 67 N 1 0 0 1 0 0 3
-Kerns2: 483 14 "'kern' Horizontal Kerning lookup 0 subtable"  474 14 "'kern' Horizontal Kerning lookup 0 subtable"  472 29 "'kern' Horizontal Kerning lookup 0 subtable"  471 14 "'kern' Horizontal Kerning lookup 0 subtable"  468 14 "'kern' Horizontal Kerning lookup 0 subtable"  461 14 "'kern' Horizontal Kerning lookup 0 subtable"  460 14 "'kern' Horizontal Kerning lookup 0 subtable"  459 14 "'kern' Horizontal Kerning lookup 0 subtable"  455 14 "'kern' Horizontal Kerning lookup 0 subtable"  454 14 "'kern' Horizontal Kerning lookup 0 subtable"  445 -27 "'kern' Horizontal Kerning lookup 0 subtable"  443 -27 "'kern' Horizontal Kerning lookup 0 subtable"  441 -27 "'kern' Horizontal Kerning lookup 0 subtable"  433 25 "'kern' Horizontal Kerning lookup 0 subtable"  422 -78 "'kern' Horizontal Kerning lookup 0 subtable" 
+Kerns2: 483 14 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  474 14 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  472 29 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  471 14 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  468 14 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  461 14 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  460 14 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  459 14 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  455 14 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  454 14 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  445 -27 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  443 -27 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  441 -27 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  433 25 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  422 -78 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable" 
 EndChar
 
 StartChar: afii10036
@@ -59422,7 +59481,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 55 84 N 1 0 0 1 0 0 3
-Kerns2: 485 -49 "'kern' Horizontal Kerning lookup 0 subtable"  484 -74 "'kern' Horizontal Kerning lookup 0 subtable"  482 -74 "'kern' Horizontal Kerning lookup 0 subtable"  481 -74 "'kern' Horizontal Kerning lookup 0 subtable"  479 -49 "'kern' Horizontal Kerning lookup 0 subtable"  475 -49 "'kern' Horizontal Kerning lookup 0 subtable"  473 -49 "'kern' Horizontal Kerning lookup 0 subtable"  471 -74 "'kern' Horizontal Kerning lookup 0 subtable"  470 -51 "'kern' Horizontal Kerning lookup 0 subtable"  469 -49 "'kern' Horizontal Kerning lookup 0 subtable"  468 -74 "'kern' Horizontal Kerning lookup 0 subtable"  466 -74 "'kern' Horizontal Kerning lookup 0 subtable"  465 -74 "'kern' Horizontal Kerning lookup 0 subtable"  464 -74 "'kern' Horizontal Kerning lookup 0 subtable"  462 -49 "'kern' Horizontal Kerning lookup 0 subtable"  459 -74 "'kern' Horizontal Kerning lookup 0 subtable"  456 -74 "'kern' Horizontal Kerning lookup 0 subtable"  454 -74 "'kern' Horizontal Kerning lookup 0 subtable"  442 -55 "'kern' Horizontal Kerning lookup 0 subtable"  426 51 "'kern' Horizontal Kerning lookup 0 subtable"  422 -129 "'kern' Horizontal Kerning lookup 0 subtable"  123 51 "'kern' Horizontal Kerning lookup 0 subtable"  108 51 "'kern' Horizontal Kerning lookup 0 subtable"  30 25 "'kern' Horizontal Kerning lookup 0 subtable"  29 76 "'kern' Horizontal Kerning lookup 0 subtable"  17 -129 "'kern' Horizontal Kerning lookup 0 subtable"  15 -102 "'kern' Horizontal Kerning lookup 0 subtable" 
+Kerns2: 485 -49 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  484 -74 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  482 -74 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  481 -74 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  479 -49 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  475 -49 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  473 -49 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  471 -74 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  470 -51 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  469 -49 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  468 -74 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  466 -74 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  465 -74 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  464 -74 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  462 -49 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  459 -74 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  456 -74 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  454 -74 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  442 -55 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  426 51 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  422 -129 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  123 51 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  108 51 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  30 25 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  29 76 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  17 -129 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  15 -102 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable" 
 EndChar
 
 StartChar: afii10037
@@ -59679,7 +59738,7 @@ SplineSet
  658 313 658 313 707 383 c 1,34,-1
  350 1262 l 1,0,-1
 EndSplineSet
-Kerns2: 485 -96 "'kern' Horizontal Kerning lookup 0 subtable"  484 -57 "'kern' Horizontal Kerning lookup 0 subtable"  479 -27 "'kern' Horizontal Kerning lookup 0 subtable"  478 -27 "'kern' Horizontal Kerning lookup 0 subtable"  476 -27 "'kern' Horizontal Kerning lookup 0 subtable"  475 -96 "'kern' Horizontal Kerning lookup 0 subtable"  471 -96 "'kern' Horizontal Kerning lookup 0 subtable"  470 -82 "'kern' Horizontal Kerning lookup 0 subtable"  469 -57 "'kern' Horizontal Kerning lookup 0 subtable"  468 -96 "'kern' Horizontal Kerning lookup 0 subtable"  467 -51 "'kern' Horizontal Kerning lookup 0 subtable"  466 -102 "'kern' Horizontal Kerning lookup 0 subtable"  465 -102 "'kern' Horizontal Kerning lookup 0 subtable"  464 -51 "'kern' Horizontal Kerning lookup 0 subtable"  463 -27 "'kern' Horizontal Kerning lookup 0 subtable"  462 -31 "'kern' Horizontal Kerning lookup 0 subtable"  461 -102 "'kern' Horizontal Kerning lookup 0 subtable"  460 -102 "'kern' Horizontal Kerning lookup 0 subtable"  459 -96 "'kern' Horizontal Kerning lookup 0 subtable"  458 -27 "'kern' Horizontal Kerning lookup 0 subtable"  457 -102 "'kern' Horizontal Kerning lookup 0 subtable"  456 -96 "'kern' Horizontal Kerning lookup 0 subtable"  455 -27 "'kern' Horizontal Kerning lookup 0 subtable"  453 -109 "'kern' Horizontal Kerning lookup 0 subtable"  442 -109 "'kern' Horizontal Kerning lookup 0 subtable"  436 -55 "'kern' Horizontal Kerning lookup 0 subtable"  433 -133 "'kern' Horizontal Kerning lookup 0 subtable"  426 -82 "'kern' Horizontal Kerning lookup 0 subtable"  422 -154 "'kern' Horizontal Kerning lookup 0 subtable"  123 51 "'kern' Horizontal Kerning lookup 0 subtable"  108 25 "'kern' Horizontal Kerning lookup 0 subtable"  29 51 "'kern' Horizontal Kerning lookup 0 subtable"  17 -129 "'kern' Horizontal Kerning lookup 0 subtable"  15 -104 "'kern' Horizontal Kerning lookup 0 subtable" 
+Kerns2: 485 -96 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  484 -57 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  479 -27 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  478 -27 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  476 -27 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  475 -96 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  471 -96 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  470 -82 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  469 -57 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  468 -96 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  467 -51 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  466 -102 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  465 -102 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  464 -51 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  463 -27 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  462 -31 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  461 -102 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  460 -102 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  459 -96 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  458 -27 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  457 -102 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  456 -96 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  455 -27 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  453 -109 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  442 -109 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  436 -55 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  433 -133 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  426 -82 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  422 -154 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  123 51 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  108 25 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  29 51 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  17 -129 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  15 -104 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable" 
 EndChar
 
 StartChar: afii10038
@@ -60000,7 +60059,7 @@ SplineSet
  661 80 l 1,59,-1
  685 222 l 1,22,-1
 EndSplineSet
-Kerns2: 465 -31 "'kern' Horizontal Kerning lookup 0 subtable"  453 -27 "'kern' Horizontal Kerning lookup 0 subtable"  445 -70 "'kern' Horizontal Kerning lookup 0 subtable"  441 -158 "'kern' Horizontal Kerning lookup 0 subtable"  440 -27 "'kern' Horizontal Kerning lookup 0 subtable"  436 25 "'kern' Horizontal Kerning lookup 0 subtable"  434 -12 "'kern' Horizontal Kerning lookup 0 subtable"  433 -27 "'kern' Horizontal Kerning lookup 0 subtable"  426 -96 "'kern' Horizontal Kerning lookup 0 subtable"  422 -102 "'kern' Horizontal Kerning lookup 0 subtable" 
+Kerns2: 465 -31 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  453 -27 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  445 -70 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  441 -158 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  440 -27 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  436 25 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  434 -12 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  433 -27 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  426 -96 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  422 -102 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable" 
 EndChar
 
 StartChar: afii10039
@@ -60011,7 +60070,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 59 88 N 1 0 0 1 0 0 3
-Kerns2: 473 -41 "'kern' Horizontal Kerning lookup 0 subtable"  468 -41 "'kern' Horizontal Kerning lookup 0 subtable"  442 -51 "'kern' Horizontal Kerning lookup 0 subtable"  439 -78 "'kern' Horizontal Kerning lookup 0 subtable"  436 -104 "'kern' Horizontal Kerning lookup 0 subtable" 
+Kerns2: 473 -41 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  468 -41 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  442 -51 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  439 -78 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  436 -104 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable" 
 EndChar
 
 StartChar: afii10040
@@ -61099,7 +61158,7 @@ SplineSet
  220 53 l 1,13,-1
  395 79 l 1,14,-1
  602 1255 l 1,15,-1
- 551 1255 l 2,16,17
+ 551 1255 l 1,16,17
  420 1253 420 1253 330 1248 c 128,-1,18
  240 1243 240 1243 202 1235 c 1,19,-1
  138 1026 l 1,20,-1
@@ -61122,7 +61181,7 @@ SplineSet
  934 655 934 655 854 655 c 2,38,-1
  690 655 l 1,26,-1
 EndSplineSet
-Kerns2: 515 -248 "'kern' Horizontal Kerning lookup 0 subtable"  453 -59 "'kern' Horizontal Kerning lookup 0 subtable" 
+Kerns2: 515 -248 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  453 -59 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable" 
 EndChar
 
 StartChar: afii10045
@@ -61513,7 +61572,7 @@ SplineSet
  703 655 703 655 623 655 c 2,33,-1
  459 655 l 1,21,-1
 EndSplineSet
-Kerns2: 515 -248 "'kern' Horizontal Kerning lookup 0 subtable"  453 -27 "'kern' Horizontal Kerning lookup 0 subtable"  451 -78 "'kern' Horizontal Kerning lookup 0 subtable"  445 -229 "'kern' Horizontal Kerning lookup 0 subtable"  443 -82 "'kern' Horizontal Kerning lookup 0 subtable"  440 -104 "'kern' Horizontal Kerning lookup 0 subtable"  439 -41 "'kern' Horizontal Kerning lookup 0 subtable"  436 -51 "'kern' Horizontal Kerning lookup 0 subtable"  434 -41 "'kern' Horizontal Kerning lookup 0 subtable"  429 -27 "'kern' Horizontal Kerning lookup 0 subtable"  428 -57 "'kern' Horizontal Kerning lookup 0 subtable"  426 -27 "'kern' Horizontal Kerning lookup 0 subtable"  422 -70 "'kern' Horizontal Kerning lookup 0 subtable" 
+Kerns2: 515 -248 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  453 -27 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  451 -78 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  445 -229 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  443 -82 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  440 -104 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  439 -41 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  436 -51 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  434 -41 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  429 -27 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  428 -57 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  426 -27 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  422 -70 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable" 
 EndChar
 
 StartChar: afii10047
@@ -61673,7 +61732,7 @@ SplineSet
  506 645 l 1,45,-1
  523 735 l 1,0,-1
 EndSplineSet
-Kerns2: 485 29 "'kern' Horizontal Kerning lookup 0 subtable"  466 -29 "'kern' Horizontal Kerning lookup 0 subtable"  465 -14 "'kern' Horizontal Kerning lookup 0 subtable"  460 29 "'kern' Horizontal Kerning lookup 0 subtable"  458 29 "'kern' Horizontal Kerning lookup 0 subtable"  453 -27 "'kern' Horizontal Kerning lookup 0 subtable"  443 -78 "'kern' Horizontal Kerning lookup 0 subtable"  433 -27 "'kern' Horizontal Kerning lookup 0 subtable"  429 51 "'kern' Horizontal Kerning lookup 0 subtable"  428 -27 "'kern' Horizontal Kerning lookup 0 subtable" 
+Kerns2: 485 29 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  466 -29 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  465 -14 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  460 29 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  458 29 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  453 -27 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  443 -78 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  433 -27 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  429 51 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  428 -27 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable" 
 EndChar
 
 StartChar: afii10048
@@ -61916,7 +61975,7 @@ SplineSet
  1836 563 1836 563 1851 651 c 128,-1,63
  1866 739 1866 739 1866 822 c 0,40,41
 EndSplineSet
-Kerns2: 460 14 "'kern' Horizontal Kerning lookup 0 subtable"  458 14 "'kern' Horizontal Kerning lookup 0 subtable"  445 -51 "'kern' Horizontal Kerning lookup 0 subtable"  443 -104 "'kern' Horizontal Kerning lookup 0 subtable"  440 -27 "'kern' Horizontal Kerning lookup 0 subtable"  436 -27 "'kern' Horizontal Kerning lookup 0 subtable"  433 -51 "'kern' Horizontal Kerning lookup 0 subtable"  428 -51 "'kern' Horizontal Kerning lookup 0 subtable"  426 -27 "'kern' Horizontal Kerning lookup 0 subtable"  422 -115 "'kern' Horizontal Kerning lookup 0 subtable" 
+Kerns2: 460 14 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  458 14 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  445 -51 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  443 -104 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  440 -27 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  436 -27 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  433 -51 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  428 -51 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  426 -27 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  422 -115 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable" 
 EndChar
 
 StartChar: afii10049
@@ -62139,7 +62198,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 68 97 N 1 0 0 1 0 0 3
-Kerns2: 477 -27 "'kern' Horizontal Kerning lookup 0 subtable"  473 -27 "'kern' Horizontal Kerning lookup 0 subtable" 
+Kerns2: 477 -27 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  473 -27 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable" 
 EndChar
 
 StartChar: afii10066
@@ -62335,7 +62394,7 @@ SplineSet
  137 164 137 164 113.5 247 c 128,-1,59
  90 330 90 330 90 429 c 0,16,17
 EndSplineSet
-Kerns2: 485 -51 "'kern' Horizontal Kerning lookup 0 subtable"  483 -27 "'kern' Horizontal Kerning lookup 0 subtable"  480 -51 "'kern' Horizontal Kerning lookup 0 subtable"  477 -27 "'kern' Horizontal Kerning lookup 0 subtable"  475 -41 "'kern' Horizontal Kerning lookup 0 subtable"  474 -27 "'kern' Horizontal Kerning lookup 0 subtable"  473 -27 "'kern' Horizontal Kerning lookup 0 subtable"  471 -27 "'kern' Horizontal Kerning lookup 0 subtable"  468 -27 "'kern' Horizontal Kerning lookup 0 subtable"  466 -78 "'kern' Horizontal Kerning lookup 0 subtable"  465 -51 "'kern' Horizontal Kerning lookup 0 subtable"  461 -27 "'kern' Horizontal Kerning lookup 0 subtable"  460 -27 "'kern' Horizontal Kerning lookup 0 subtable" 
+Kerns2: 485 -51 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  483 -27 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  480 -51 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  477 -27 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  475 -41 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  474 -27 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  473 -27 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  471 -27 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  468 -27 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  466 -78 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  465 -51 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  461 -27 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  460 -27 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable" 
 EndChar
 
 StartChar: afii10067
@@ -62544,7 +62603,7 @@ SplineSet
  322 716 322 716 294.5 647.5 c 128,-1,59
  267 579 267 579 255 507 c 1,49,50
 EndSplineSet
-Kerns2: 485 -27 "'kern' Horizontal Kerning lookup 0 subtable"  480 -27 "'kern' Horizontal Kerning lookup 0 subtable"  474 -14 "'kern' Horizontal Kerning lookup 0 subtable"  471 -27 "'kern' Horizontal Kerning lookup 0 subtable"  468 -27 "'kern' Horizontal Kerning lookup 0 subtable"  461 -27 "'kern' Horizontal Kerning lookup 0 subtable"  458 -39 "'kern' Horizontal Kerning lookup 0 subtable"  455 -27 "'kern' Horizontal Kerning lookup 0 subtable"  454 -14 "'kern' Horizontal Kerning lookup 0 subtable" 
+Kerns2: 485 -27 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  480 -27 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  474 -14 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  471 -27 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  468 -27 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  461 -27 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  458 -39 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  455 -27 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  454 -14 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable" 
 EndChar
 
 StartChar: afii10068
@@ -62739,7 +62798,7 @@ SplineSet
  612 960 612 960 682.5 907 c 128,-1,53
  753 854 753 854 753 748 c 0,0,1
 EndSplineSet
-Kerns2: 465 -27 "'kern' Horizontal Kerning lookup 0 subtable"  17 -27 "'kern' Horizontal Kerning lookup 0 subtable" 
+Kerns2: 465 -27 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  17 -27 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable" 
 EndChar
 
 StartChar: afii10069
@@ -62880,7 +62939,7 @@ SplineSet
  487 1338 487 1338 419 1338 c 0,12,13
  410 1338 410 1338 395.5 1337 c 128,-1,14
  381 1336 381 1336 366 1334 c 128,-1,15
- 336 1330 l 128,-1,16
+ 351 1332 351 1332 336 1330 c 128,-1,16
  321 1328 321 1328 310 1325 c 1,17,-1
  294 1401 l 1,18,19
  306 1405 306 1405 324 1409 c 128,-1,20
@@ -62917,7 +62976,7 @@ SplineSet
  785 713 785 713 732.5 785.5 c 128,-1,58
  680 858 680 858 579 858 c 0,43,44
 EndSplineSet
-Kerns2: 483 -27 "'kern' Horizontal Kerning lookup 0 subtable"  480 -27 "'kern' Horizontal Kerning lookup 0 subtable"  473 -27 "'kern' Horizontal Kerning lookup 0 subtable"  459 25 "'kern' Horizontal Kerning lookup 0 subtable" 
+Kerns2: 483 -27 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  480 -27 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  473 -27 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  459 25 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable" 
 EndChar
 
 StartChar: afii10070
@@ -62928,7 +62987,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 72 101 N 1 0 0 1 0 0 3
-Kerns2: 477 -27 "'kern' Horizontal Kerning lookup 0 subtable"  475 -27 "'kern' Horizontal Kerning lookup 0 subtable"  474 -51 "'kern' Horizontal Kerning lookup 0 subtable"  472 -27 "'kern' Horizontal Kerning lookup 0 subtable"  471 -27 "'kern' Horizontal Kerning lookup 0 subtable"  468 -27 "'kern' Horizontal Kerning lookup 0 subtable"  466 -51 "'kern' Horizontal Kerning lookup 0 subtable"  465 -51 "'kern' Horizontal Kerning lookup 0 subtable"  461 -27 "'kern' Horizontal Kerning lookup 0 subtable"  460 -51 "'kern' Horizontal Kerning lookup 0 subtable"  458 -51 "'kern' Horizontal Kerning lookup 0 subtable"  455 -27 "'kern' Horizontal Kerning lookup 0 subtable"  454 -27 "'kern' Horizontal Kerning lookup 0 subtable" 
+Kerns2: 477 -27 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  475 -27 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  474 -51 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  472 -27 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  471 -27 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  468 -27 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  466 -51 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  465 -51 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  461 -27 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  460 -51 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  458 -51 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  455 -27 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  454 -27 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable" 
 EndChar
 
 StartChar: afii10072
@@ -63302,7 +63361,7 @@ SplineSet
  229 804 229 804 180 762 c 1,89,-1
  150 804 l 1,0,1
 EndSplineSet
-Kerns2: 480 -27 "'kern' Horizontal Kerning lookup 0 subtable"  477 -27 "'kern' Horizontal Kerning lookup 0 subtable"  471 -51 "'kern' Horizontal Kerning lookup 0 subtable"  468 -51 "'kern' Horizontal Kerning lookup 0 subtable"  461 -27 "'kern' Horizontal Kerning lookup 0 subtable"  459 -27 "'kern' Horizontal Kerning lookup 0 subtable"  455 -27 "'kern' Horizontal Kerning lookup 0 subtable"  454 -27 "'kern' Horizontal Kerning lookup 0 subtable" 
+Kerns2: 480 -27 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  477 -27 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  471 -51 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  468 -51 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  461 -27 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  459 -27 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  455 -27 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  454 -27 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable" 
 EndChar
 
 StartChar: afii10073
@@ -63480,7 +63539,7 @@ SplineSet
  576 496 576 496 527 486 c 1,53,-1
  526 480 l 1,0,1
 EndSplineSet
-Kerns2: 480 -27 "'kern' Horizontal Kerning lookup 0 subtable"  477 -27 "'kern' Horizontal Kerning lookup 0 subtable"  473 -14 "'kern' Horizontal Kerning lookup 0 subtable"  471 -27 "'kern' Horizontal Kerning lookup 0 subtable"  468 -27 "'kern' Horizontal Kerning lookup 0 subtable"  466 -51 "'kern' Horizontal Kerning lookup 0 subtable"  465 -51 "'kern' Horizontal Kerning lookup 0 subtable"  461 -27 "'kern' Horizontal Kerning lookup 0 subtable"  460 -27 "'kern' Horizontal Kerning lookup 0 subtable"  458 -27 "'kern' Horizontal Kerning lookup 0 subtable" 
+Kerns2: 480 -27 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  477 -27 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  473 -14 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  471 -27 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  468 -27 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  466 -51 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  465 -51 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  461 -27 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  460 -27 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  458 -27 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable" 
 EndChar
 
 StartChar: afii10074
@@ -63514,7 +63573,7 @@ EndTTInstrs
 LayerCount: 2
 Fore
 Refer: 88 117 N 1 0 0 1 0 0 3
-Refer: 658 -1 N 1 0 0 1 147 0 2
+Refer: 661 65545 N 1 0 0 1 147 0 2
 EndChar
 
 StartChar: afii10076
@@ -63751,7 +63810,7 @@ SplineSet
  59 0 l 1,19,-1
  214 871 l 1,0,-1
 EndSplineSet
-Kerns2: 483 -27 "'kern' Horizontal Kerning lookup 0 subtable"  477 -27 "'kern' Horizontal Kerning lookup 0 subtable"  474 -51 "'kern' Horizontal Kerning lookup 0 subtable"  472 -27 "'kern' Horizontal Kerning lookup 0 subtable"  471 -78 "'kern' Horizontal Kerning lookup 0 subtable"  468 -78 "'kern' Horizontal Kerning lookup 0 subtable"  465 41 "'kern' Horizontal Kerning lookup 0 subtable"  461 -27 "'kern' Horizontal Kerning lookup 0 subtable"  459 -51 "'kern' Horizontal Kerning lookup 0 subtable"  455 -51 "'kern' Horizontal Kerning lookup 0 subtable"  454 -51 "'kern' Horizontal Kerning lookup 0 subtable"  108 -55 "'kern' Horizontal Kerning lookup 0 subtable" 
+Kerns2: 483 -27 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  477 -27 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  474 -51 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  472 -27 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  471 -78 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  468 -78 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  465 41 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  461 -27 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  459 -51 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  455 -51 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  454 -51 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  108 -55 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable" 
 EndChar
 
 StartChar: afii10077
@@ -63889,7 +63948,7 @@ SplineSet
  163 61 163 61 116.5 21 c 128,-1,39
  70 -19 70 -19 0 -19 c 0,0,1
 EndSplineSet
-Kerns2: 477 -27 "'kern' Horizontal Kerning lookup 0 subtable"  474 25 "'kern' Horizontal Kerning lookup 0 subtable"  473 -27 "'kern' Horizontal Kerning lookup 0 subtable"  471 25 "'kern' Horizontal Kerning lookup 0 subtable"  468 25 "'kern' Horizontal Kerning lookup 0 subtable"  461 25 "'kern' Horizontal Kerning lookup 0 subtable"  459 51 "'kern' Horizontal Kerning lookup 0 subtable"  455 25 "'kern' Horizontal Kerning lookup 0 subtable"  454 25 "'kern' Horizontal Kerning lookup 0 subtable" 
+Kerns2: 477 -27 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  474 25 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  473 -27 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  471 25 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  468 25 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  461 25 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  459 51 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  455 25 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  454 25 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable" 
 EndChar
 
 StartChar: afii10078
@@ -64331,7 +64390,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 82 111 N 1 0 0 1 0 0 3
-Kerns2: 485 -27 "'kern' Horizontal Kerning lookup 0 subtable"  483 -27 "'kern' Horizontal Kerning lookup 0 subtable"  477 -53 "'kern' Horizontal Kerning lookup 0 subtable"  475 -41 "'kern' Horizontal Kerning lookup 0 subtable"  473 -41 "'kern' Horizontal Kerning lookup 0 subtable"  466 -78 "'kern' Horizontal Kerning lookup 0 subtable"  465 -51 "'kern' Horizontal Kerning lookup 0 subtable"  461 -27 "'kern' Horizontal Kerning lookup 0 subtable"  460 -51 "'kern' Horizontal Kerning lookup 0 subtable"  458 -27 "'kern' Horizontal Kerning lookup 0 subtable"  455 -27 "'kern' Horizontal Kerning lookup 0 subtable" 
+Kerns2: 485 -27 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  483 -27 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  477 -53 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  475 -41 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  473 -41 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  466 -78 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  465 -51 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  461 -27 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  460 -51 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  458 -27 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  455 -27 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable" 
 EndChar
 
 StartChar: afii10081
@@ -64352,7 +64411,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 83 112 N 1 0 0 1 0 0 3
-Kerns2: 485 -27 "'kern' Horizontal Kerning lookup 0 subtable"  483 -27 "'kern' Horizontal Kerning lookup 0 subtable"  477 -27 "'kern' Horizontal Kerning lookup 0 subtable"  475 -41 "'kern' Horizontal Kerning lookup 0 subtable"  473 -27 "'kern' Horizontal Kerning lookup 0 subtable"  472 -27 "'kern' Horizontal Kerning lookup 0 subtable"  466 -102 "'kern' Horizontal Kerning lookup 0 subtable"  465 -78 "'kern' Horizontal Kerning lookup 0 subtable"  461 -27 "'kern' Horizontal Kerning lookup 0 subtable"  460 -51 "'kern' Horizontal Kerning lookup 0 subtable"  458 -27 "'kern' Horizontal Kerning lookup 0 subtable" 
+Kerns2: 485 -27 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  483 -27 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  477 -27 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  475 -41 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  473 -27 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  472 -27 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  466 -102 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  465 -78 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  461 -27 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  460 -51 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  458 -27 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable" 
 EndChar
 
 StartChar: afii10083
@@ -64363,7 +64422,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 70 99 N 1 0 0 1 0 0 3
-Kerns2: 480 -27 "'kern' Horizontal Kerning lookup 0 subtable"  477 -27 "'kern' Horizontal Kerning lookup 0 subtable"  475 -27 "'kern' Horizontal Kerning lookup 0 subtable"  474 -51 "'kern' Horizontal Kerning lookup 0 subtable"  473 -14 "'kern' Horizontal Kerning lookup 0 subtable"  468 -51 "'kern' Horizontal Kerning lookup 0 subtable"  461 -27 "'kern' Horizontal Kerning lookup 0 subtable"  460 -27 "'kern' Horizontal Kerning lookup 0 subtable"  459 -27 "'kern' Horizontal Kerning lookup 0 subtable"  455 -27 "'kern' Horizontal Kerning lookup 0 subtable"  454 -53 "'kern' Horizontal Kerning lookup 0 subtable" 
+Kerns2: 480 -27 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  477 -27 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  475 -27 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  474 -51 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  473 -14 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  468 -51 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  461 -27 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  460 -27 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  459 -27 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  455 -27 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  454 -53 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable" 
 EndChar
 
 StartChar: afii10084
@@ -64374,7 +64433,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 80 109 N 1 0 0 1 0 0 3
-Kerns2: 485 25 "'kern' Horizontal Kerning lookup 0 subtable"  473 -51 "'kern' Horizontal Kerning lookup 0 subtable"  461 25 "'kern' Horizontal Kerning lookup 0 subtable"  454 25 "'kern' Horizontal Kerning lookup 0 subtable"  17 25 "'kern' Horizontal Kerning lookup 0 subtable"  15 51 "'kern' Horizontal Kerning lookup 0 subtable" 
+Kerns2: 485 25 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  473 -51 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  461 25 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  454 25 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  17 25 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  15 51 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable" 
 EndChar
 
 StartChar: afii10085
@@ -64385,7 +64444,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 92 121 N 1 0 0 1 0 0 3
-Kerns2: 485 -31 "'kern' Horizontal Kerning lookup 0 subtable"  483 -27 "'kern' Horizontal Kerning lookup 0 subtable"  475 -27 "'kern' Horizontal Kerning lookup 0 subtable"  470 -27 "'kern' Horizontal Kerning lookup 0 subtable"  466 -51 "'kern' Horizontal Kerning lookup 0 subtable"  465 -55 "'kern' Horizontal Kerning lookup 0 subtable"  461 -27 "'kern' Horizontal Kerning lookup 0 subtable"  460 -51 "'kern' Horizontal Kerning lookup 0 subtable"  458 -6 "'kern' Horizontal Kerning lookup 0 subtable"  30 -78 "'kern' Horizontal Kerning lookup 0 subtable"  29 -27 "'kern' Horizontal Kerning lookup 0 subtable"  17 -129 "'kern' Horizontal Kerning lookup 0 subtable"  15 -102 "'kern' Horizontal Kerning lookup 0 subtable" 
+Kerns2: 485 -31 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  483 -27 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  475 -27 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  470 -27 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  466 -51 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  465 -55 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  461 -27 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  460 -51 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  458 -6 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  30 -78 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  29 -27 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  17 -129 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  15 -102 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable" 
 EndChar
 
 StartChar: afii10086
@@ -64662,7 +64721,7 @@ SplineSet
  924 845 924 845 872 813 c 1,89,-1
  746 107 l 1,73,74
 EndSplineSet
-Kerns2: 485 -27 "'kern' Horizontal Kerning lookup 0 subtable"  477 -27 "'kern' Horizontal Kerning lookup 0 subtable"  473 -68 "'kern' Horizontal Kerning lookup 0 subtable"  472 -27 "'kern' Horizontal Kerning lookup 0 subtable"  468 -27 "'kern' Horizontal Kerning lookup 0 subtable"  466 -78 "'kern' Horizontal Kerning lookup 0 subtable"  465 -51 "'kern' Horizontal Kerning lookup 0 subtable" 
+Kerns2: 485 -27 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  477 -27 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  473 -68 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  472 -27 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  468 -27 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  466 -78 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  465 -51 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable" 
 EndChar
 
 StartChar: afii10087
@@ -64673,7 +64732,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 91 120 N 1 0 0 1 0 0 3
-Kerns2: 483 -27 "'kern' Horizontal Kerning lookup 0 subtable"  480 -51 "'kern' Horizontal Kerning lookup 0 subtable"  477 -27 "'kern' Horizontal Kerning lookup 0 subtable"  474 -51 "'kern' Horizontal Kerning lookup 0 subtable"  471 -51 "'kern' Horizontal Kerning lookup 0 subtable"  468 -51 "'kern' Horizontal Kerning lookup 0 subtable"  461 -27 "'kern' Horizontal Kerning lookup 0 subtable"  455 -51 "'kern' Horizontal Kerning lookup 0 subtable"  454 -27 "'kern' Horizontal Kerning lookup 0 subtable" 
+Kerns2: 483 -27 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  480 -51 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  477 -27 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  474 -51 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  471 -51 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  468 -51 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  461 -27 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  455 -51 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  454 -27 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable" 
 EndChar
 
 StartChar: afii10088
@@ -64848,7 +64907,7 @@ SplineSet
  272 243 272 243 270 224 c 128,-1,41
  268 205 268 205 268 193 c 0,0,1
 EndSplineSet
-Kerns2: 473 -27 "'kern' Horizontal Kerning lookup 0 subtable"  471 25 "'kern' Horizontal Kerning lookup 0 subtable"  468 25 "'kern' Horizontal Kerning lookup 0 subtable"  461 25 "'kern' Horizontal Kerning lookup 0 subtable"  459 51 "'kern' Horizontal Kerning lookup 0 subtable"  454 25 "'kern' Horizontal Kerning lookup 0 subtable" 
+Kerns2: 473 -27 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  471 25 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  468 25 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  461 25 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  459 51 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  454 25 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable" 
 EndChar
 
 StartChar: afii10089
@@ -65511,7 +65570,7 @@ SplineSet
  743 -25 743 -25 691 30.5 c 128,-1,65
  639 86 639 86 639 194 c 1,0,1
 EndSplineSet
-Kerns2: 473 -27 "'kern' Horizontal Kerning lookup 0 subtable"  468 25 "'kern' Horizontal Kerning lookup 0 subtable"  459 51 "'kern' Horizontal Kerning lookup 0 subtable"  454 51 "'kern' Horizontal Kerning lookup 0 subtable" 
+Kerns2: 473 -27 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  468 25 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  459 51 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  454 51 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable" 
 EndChar
 
 StartChar: afii10092
@@ -65986,7 +66045,7 @@ SplineSet
  600 475 600 475 554.5 486.5 c 128,-1,39
  509 498 509 498 451 498 c 0,19,20
 EndSplineSet
-Kerns2: 477 -78 "'kern' Horizontal Kerning lookup 0 subtable"  472 -27 "'kern' Horizontal Kerning lookup 0 subtable" 
+Kerns2: 477 -78 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  472 -27 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable" 
 EndChar
 
 StartChar: afii10095
@@ -66159,7 +66218,7 @@ SplineSet
  229 443 l 1,41,-1
  244 526 l 1,0,-1
 EndSplineSet
-Kerns2: 485 -51 "'kern' Horizontal Kerning lookup 0 subtable"  475 -41 "'kern' Horizontal Kerning lookup 0 subtable"  474 -27 "'kern' Horizontal Kerning lookup 0 subtable"  472 -27 "'kern' Horizontal Kerning lookup 0 subtable"  471 -27 "'kern' Horizontal Kerning lookup 0 subtable"  468 -27 "'kern' Horizontal Kerning lookup 0 subtable"  466 -78 "'kern' Horizontal Kerning lookup 0 subtable"  465 -51 "'kern' Horizontal Kerning lookup 0 subtable"  461 -27 "'kern' Horizontal Kerning lookup 0 subtable"  460 -51 "'kern' Horizontal Kerning lookup 0 subtable"  458 -27 "'kern' Horizontal Kerning lookup 0 subtable"  455 -27 "'kern' Horizontal Kerning lookup 0 subtable" 
+Kerns2: 485 -51 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  475 -41 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  474 -27 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  472 -27 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  471 -27 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  468 -27 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  466 -78 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  465 -51 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  461 -27 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  460 -51 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  458 -27 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  455 -27 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable" 
 EndChar
 
 StartChar: afii10096
@@ -66362,7 +66421,7 @@ SplineSet
  715 660 715 660 686 559.5 c 128,-1,47
  657 459 657 459 657 340 c 0,32,33
 EndSplineSet
-Kerns2: 483 -27 "'kern' Horizontal Kerning lookup 0 subtable"  477 -27 "'kern' Horizontal Kerning lookup 0 subtable"  475 -82 "'kern' Horizontal Kerning lookup 0 subtable"  471 -27 "'kern' Horizontal Kerning lookup 0 subtable"  468 -27 "'kern' Horizontal Kerning lookup 0 subtable"  466 -78 "'kern' Horizontal Kerning lookup 0 subtable"  465 -51 "'kern' Horizontal Kerning lookup 0 subtable"  460 -27 "'kern' Horizontal Kerning lookup 0 subtable"  455 -27 "'kern' Horizontal Kerning lookup 0 subtable" 
+Kerns2: 483 -27 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  477 -27 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  475 -82 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  471 -27 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  468 -27 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  466 -78 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  465 -51 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  460 -27 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  455 -27 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable" 
 EndChar
 
 StartChar: afii10097
@@ -67908,8 +67967,8 @@ EndTTInstrs
 LayerCount: 2
 Fore
 Refer: 92 121 N 1 0 0 1 0 0 3
-Refer: 658 -1 N 1 0 0 1 119 0 2
-Kerns2: 123 25 "'kern' Horizontal Kerning lookup 0 subtable"  108 25 "'kern' Horizontal Kerning lookup 0 subtable"  30 -78 "'kern' Horizontal Kerning lookup 0 subtable"  29 -27 "'kern' Horizontal Kerning lookup 0 subtable"  17 -129 "'kern' Horizontal Kerning lookup 0 subtable"  15 -102 "'kern' Horizontal Kerning lookup 0 subtable" 
+Refer: 661 65545 N 1 0 0 1 119 0 2
+Kerns2: 123 25 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  108 25 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  30 -78 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  29 -27 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  17 -129 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  15 -102 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable" 
 EndChar
 
 StartChar: afii10193
@@ -68203,7 +68262,7 @@ SplineSet
  213 1341 l 1,13,-1
  853 1341 l 1,0,-1
 EndSplineSet
-Kerns2: 123 51 "'kern' Horizontal Kerning lookup 0 subtable"  108 51 "'kern' Horizontal Kerning lookup 0 subtable"  29 51 "'kern' Horizontal Kerning lookup 0 subtable"  17 -78 "'kern' Horizontal Kerning lookup 0 subtable"  15 -51 "'kern' Horizontal Kerning lookup 0 subtable" 
+Kerns2: 123 51 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  108 51 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  29 51 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  17 -78 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  15 -51 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable" 
 EndChar
 
 StartChar: afii10098
@@ -68698,7 +68757,7 @@ SplineSet
  322 899 322 899 312 931 c 128,-1,21
  302 963 302 963 302 1005 c 0,0,1
 EndSplineSet
-Kerns2: 514 -227 "'kern' Horizontal Kerning lookup 0 subtable" 
+Kerns2: 514 -227 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable" 
 EndChar
 
 StartChar: quoteright
@@ -68766,7 +68825,7 @@ SplineSet
  600 1299 600 1299 610 1267 c 128,-1,21
  620 1235 620 1235 620 1193 c 0,0,1
 EndSplineSet
-Kerns2: 515 -227 "'kern' Horizontal Kerning lookup 0 subtable"  87 -227 "'kern' Horizontal Kerning lookup 0 subtable"  86 -264 "'kern' Horizontal Kerning lookup 0 subtable"  3 -227 "'kern' Horizontal Kerning lookup 0 subtable" 
+Kerns2: 515 -227 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  87 -227 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  86 -264 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  3 -227 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable" 
 EndChar
 
 StartChar: quotesinglbase
@@ -68834,7 +68893,7 @@ SplineSet
  463 148 463 148 473 116 c 128,-1,21
  483 84 483 84 483 42 c 0,0,1
 EndSplineSet
-Kerns2: 448 -180 "'kern' Horizontal Kerning lookup 0 subtable"  445 -360 "'kern' Horizontal Kerning lookup 0 subtable"  440 -231 "'kern' Horizontal Kerning lookup 0 subtable"  418 -231 "'kern' Horizontal Kerning lookup 0 subtable"  409 -231 "'kern' Horizontal Kerning lookup 0 subtable" 
+Kerns2: 448 -180 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  445 -360 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  440 -231 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  418 -231 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  409 -231 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable" 
 EndChar
 
 StartChar: quotereversed
@@ -69266,7 +69325,7 @@ SplineSet
  791 148 791 148 801 116 c 128,-1,43
  811 84 811 84 811 42 c 0,22,23
 EndSplineSet
-Kerns2: 448 -102 "'kern' Horizontal Kerning lookup 0 subtable"  445 -256 "'kern' Horizontal Kerning lookup 0 subtable"  440 -231 "'kern' Horizontal Kerning lookup 0 subtable"  418 -231 "'kern' Horizontal Kerning lookup 0 subtable"  409 -231 "'kern' Horizontal Kerning lookup 0 subtable" 
+Kerns2: 448 -102 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  445 -256 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  440 -231 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  418 -231 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable"  409 -231 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0 subtable" 
 EndChar
 
 StartChar: dagger
@@ -71410,9 +71469,9 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: fraction
-Encoding: 8260 8260 532
-AltUni2: 002215.ffffffff.0
+StartChar: uni2215
+Encoding: 8725 8725 532
+AltUni2: 002044.ffffffff.0
 Width: 342
 GlyphClass: 2
 Flags: W
@@ -75142,7 +75201,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u2126
+StartChar: uni2126
 Encoding: 8486 8486 542
 Width: 1573
 GlyphClass: 2
@@ -75525,8 +75584,8 @@ EndTTInstrs
 LayerCount: 2
 Fore
 Refer: 121 185 N 1 0 0 1 3 0 2
-Refer: 532 8260 N 1 0 0 1 620 0 2
-Refer: 657 -1 N 1 0 0 1 816 -540 2
+Refer: 532 8725 N 1 0 0 1 620 0 2
+Refer: 660 65544 N 1 0 0 1 816 -540 2
 EndChar
 
 StartChar: threeeighths
@@ -75562,8 +75621,8 @@ SHC[rp1]
 EndTTInstrs
 LayerCount: 2
 Fore
-Refer: 657 -1 N 1 0 0 1 816 -540 2
-Refer: 532 8260 N 1 0 0 1 620 0 2
+Refer: 660 65544 N 1 0 0 1 816 -540 2
+Refer: 532 8725 N 1 0 0 1 620 0 2
 Refer: 115 179 N 1 0 0 1 20 0 2
 EndChar
 
@@ -75600,9 +75659,9 @@ SHC[rp1]
 EndTTInstrs
 LayerCount: 2
 Fore
-Refer: 655 -1 N 1 0 0 1 35 0 2
-Refer: 657 -1 N 1 0 0 1 816 -540 2
-Refer: 532 8260 N 1 0 0 1 620 0 2
+Refer: 658 65542 N 1 0 0 1 35 0 2
+Refer: 660 65544 N 1 0 0 1 816 -540 2
+Refer: 532 8725 N 1 0 0 1 620 0 2
 EndChar
 
 StartChar: seveneighths
@@ -75696,9 +75755,9 @@ SHC[rp1]
 EndTTInstrs
 LayerCount: 2
 Fore
-Refer: 656 -1 N 1 0 0 1 24 0 2
-Refer: 532 8260 N 1 0 0 1 501 0 2
-Refer: 657 -1 N 1 0 0 1 769 -540 2
+Refer: 659 65543 N 1 0 0 1 24 0 2
+Refer: 532 8725 N 1 0 0 1 501 0 2
+Refer: 660 65544 N 1 0 0 1 769 -540 2
 EndChar
 
 StartChar: arrowleft
@@ -76338,7 +76397,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u2206
+StartChar: uni2206
 Encoding: 8710 8710 556
 Width: 1253
 GlyphClass: 2
@@ -79657,7 +79716,7 @@ SplineSet
 693 -614 m 1,0,-1
  546 -614 l 1,1,-1
  546 1264 l 2,2,3
- 546 1460 546 1460 630 1583 c 0,4,5
+ 546 1460 546 1460 630 1583 c 1,4,5
  712 1706 712 1706 840 1706 c 0,6,7
  903 1706 903 1706 940.5 1674.5 c 128,-1,8
  978 1643 978 1643 978 1595 c 0,9,10
@@ -79665,9 +79724,9 @@ SplineSet
  927 1503 927 1503 890 1503 c 0,12,13
  860 1503 860 1503 847 1513 c 1,14,15
  839 1517 839 1517 826 1529 c 128,-1,16
- 813 1541 813 1541 793 1563 c 0,17,18
+ 813 1541 813 1541 793 1563 c 1,17,18
  760 1602 760 1602 744 1602 c 0,19,20
- 708 1602 708 1602 699 1563 c 0,21,22
+ 708 1602 708 1602 699 1563 c 1,21,22
  693 1528 693 1528 693 1423 c 2,23,-1
  693 -614 l 1,0,-1
 EndSplineSet
@@ -80325,9 +80384,9 @@ SplineSet
  275 -452 275 -452 286.5 -440 c 128,-1,15
  298 -428 298 -428 313.5 -421 c 128,-1,16
  329 -414 329 -414 347 -414 c 0,17,18
- 380 -414 380 -414 406 -430 c 1,19,20
+ 380 -414 380 -414 406 -430 c 0,19,20
  411 -432 411 -432 421.5 -443.5 c 128,-1,21
- 432 -455 432 -455 447 -475 c 0,22,23
+ 432 -455 432 -455 447 -475 c 1,22,23
  478 -512 478 -512 494 -512 c 0,24,25
  531 -512 531 -512 539 -471 c 0,26,27
  546 -440 546 -440 546 -334 c 2,28,-1
@@ -86336,24 +86395,24 @@ Fore
 SplineSet
 611 637 m 0,0,1
  611 584 611 584 592.5 541 c 128,-1,2
- 574 498 574 498 537 461 c 0,3,4
+ 574 498 574 498 537 461 c 1,3,4
  500 426 500 426 457 407.5 c 128,-1,5
  414 389 414 389 363 389 c 0,6,7
- 262 389 262 389 187 461 c 0,8,9
+ 262 389 262 389 187 461 c 1,8,9
  152 498 152 498 133.5 541 c 128,-1,10
  115 584 115 584 115 637 c 0,11,12
  115 739 115 739 187 811 c 0,13,14
  261 885 261 885 363 885 c 0,15,16
- 466 885 466 885 537 811 c 0,17,18
+ 466 885 466 885 537 811 c 1,17,18
  611 740 611 740 611 637 c 0,0,1
 535 637 m 0,19,20
  535 707 535 707 484 758 c 256,21,22
  433 809 433 809 363 809 c 256,23,24
  293 809 293 809 242 758 c 256,25,26
  191 707 191 707 191 637 c 0,27,28
- 191 568 191 568 242 514 c 0,29,30
+ 191 568 191 568 242 514 c 1,29,30
  291 465 291 465 363 465 c 256,31,32
- 435 465 435 465 484 514 c 0,33,34
+ 435 465 435 465 484 514 c 1,33,34
  535 568 535 568 535 637 c 0,19,20
 EndSplineSet
 EndChar
@@ -86516,9 +86575,9 @@ LayerCount: 2
 Fore
 SplineSet
 1657 584 m 0,0,1
- 1657 330 1657 330 1477 152 c 0,2,3
+ 1657 330 1657 330 1477 152 c 1,2,3
  1298 -27 1298 -27 1045 -27 c 256,4,5
- 792 -27 792 -27 613 152 c 0,6,7
+ 792 -27 792 -27 613 152 c 1,6,7
  433 330 433 330 433 584 c 0,8,9
  433 712 433 712 478 819.5 c 128,-1,10
  523 927 523 927 613 1018 c 0,11,12
@@ -86527,13 +86586,13 @@ SplineSet
  1567 927 1567 927 1612 819.5 c 128,-1,17
  1657 712 1657 712 1657 584 c 0,0,1
 1567 584 m 0,18,19
- 1567 801 1567 801 1414 954 c 0,20,21
+ 1567 801 1567 801 1414 954 c 1,20,21
  1263 1108 1263 1108 1045 1108 c 256,22,23
- 827 1108 827 1108 676 954 c 0,24,25
+ 827 1108 827 1108 676 954 c 1,24,25
  523 801 523 801 523 584 c 0,26,27
- 523 368 523 368 676 215 c 0,28,29
+ 523 368 523 368 676 215 c 1,28,29
  828 61 828 61 1045 61 c 256,30,31
- 1262 61 1262 61 1414 215 c 0,32,33
+ 1262 61 1262 61 1414 215 c 1,32,33
  1567 368 1567 368 1567 584 c 0,18,19
 889 711 m 256,34,35
  889 679 889 679 866 656 c 128,-1,36
@@ -86671,9 +86730,9 @@ LayerCount: 2
 Fore
 SplineSet
 1689 584 m 0,0,1
- 1689 330 1689 330 1509 152 c 0,2,3
+ 1689 330 1689 330 1509 152 c 1,2,3
  1330 -27 1330 -27 1077 -27 c 256,4,5
- 824 -27 824 -27 645 152 c 0,6,7
+ 824 -27 824 -27 645 152 c 1,6,7
  465 330 465 330 465 584 c 0,8,9
  465 712 465 712 510 819.5 c 128,-1,10
  555 927 555 927 645 1018 c 0,11,12
@@ -86877,7 +86936,7 @@ SplineSet
  1378 -14 l 1,21,-1
  1196 168 l 1,22,23
  1165 145 1165 145 1137.5 129 c 128,-1,24
- 1110 113 1110 113 1087 102 c 0,25,26
+ 1110 113 1110 113 1087 102 c 1,25,26
  1063 93 1063 93 1034 87 c 128,-1,27
  1005 81 1005 81 971 76 c 1,28,-1
  971 -141 l 1,29,-1
@@ -86904,10 +86963,10 @@ SplineSet
  867 805 867 805 808.5 780 c 128,-1,54
  750 755 750 755 702 707 c 0,55,56
  604 607 604 607 604 471 c 0,57,58
- 604 334 604 334 702 236 c 0,59,60
+ 604 334 604 334 702 236 c 1,59,60
  750 186 750 186 808.5 162.5 c 128,-1,61
  867 139 867 139 936 139 c 0,62,63
- 1075 139 1075 139 1171 236 c 0,64,65
+ 1075 139 1075 139 1171 236 c 1,64,65
  1270 333 1270 333 1270 471 c 0,66,67
  1270 608 1270 608 1171 707 c 0,68,69
  1122 755 1122 755 1063.5 780 c 128,-1,70
@@ -86991,12 +87050,12 @@ Fore
 SplineSet
 732 578 m 1,0,1
  677 586 677 586 632 609 c 128,-1,2
- 587 632 587 632 552 674 c 0,3,4
+ 587 632 587 632 552 674 c 1,3,4
  481 754 481 754 481 862 c 0,5,6
  481 984 481 984 564 1067 c 0,7,8
  608 1110 608 1110 658.5 1131.5 c 128,-1,9
  709 1153 709 1153 769 1153 c 0,10,11
- 887 1153 887 1153 970 1067 c 0,12,13
+ 887 1153 887 1153 970 1067 c 1,12,13
  1056 984 1056 984 1056 862 c 0,14,15
  1056 753 1056 753 984 672 c 0,16,17
  912 590 912 590 806 578 c 1,18,-1
@@ -87012,16 +87071,16 @@ SplineSet
  732 412 l 1,28,-1
  732 578 l 1,0,1
 767 1069 m 0,29,30
- 684 1069 684 1069 622 1010 c 0,31,32
+ 684 1069 684 1069 622 1010 c 1,31,32
  593 979 593 979 577.5 943.5 c 128,-1,33
  562 908 562 908 562 864 c 0,34,35
  562 821 562 821 577.5 785.5 c 128,-1,36
- 593 750 593 750 622 719 c 0,37,38
+ 593 750 593 750 622 719 c 1,37,38
  684 657 684 657 767 657 c 0,39,40
- 854 657 854 657 913 719 c 0,41,42
+ 854 657 854 657 913 719 c 1,41,42
  974 780 974 780 974 864 c 0,43,44
  974 908 974 908 959 943.5 c 128,-1,45
- 944 979 944 979 915 1010 c 0,46,47
+ 944 979 944 979 915 1010 c 1,46,47
  853 1069 853 1069 767 1069 c 0,29,30
 EndSplineSet
 EndChar
@@ -87102,21 +87161,21 @@ SplineSet
  1006 1029 1006 1029 979 1038 c 128,-1,2
  952 1047 952 1047 915 1061 c 0,3,4
  887 1072 887 1072 867 1084 c 128,-1,5
- 847 1096 847 1096 833 1110 c 2,6,7
+ 847 1096 847 1096 833 1110 c 1,6,7
  828 1113 828 1113 826.5 1118 c 128,-1,8
  825 1123 825 1123 825 1128 c 0,9,10
  825 1136 825 1136 831 1145 c 1,11,12
  834 1147 834 1147 837 1148 c 128,-1,13
  840 1149 840 1149 845 1149 c 256,14,15
  850 1149 850 1149 857.5 1148 c 128,-1,16
- 865 1147 865 1147 878 1145 c 0,17,18
+ 865 1147 865 1147 878 1145 c 1,17,18
  910 1137 910 1137 941.5 1132.5 c 128,-1,19
  973 1128 973 1128 1005 1128 c 0,20,21
  1051 1128 1051 1128 1083 1131.5 c 128,-1,22
  1115 1135 1115 1135 1134 1141 c 0,23,24
  1170 1153 1170 1153 1183 1153 c 0,25,26
  1199 1153 1199 1153 1199 1139 c 0,27,28
- 1199 1130 1199 1130 1193 1112 c 0,29,30
+ 1199 1130 1199 1130 1193 1112 c 1,29,30
  1184 1078 1184 1078 1180.5 1038.5 c 128,-1,31
  1177 999 1177 999 1177 954 c 0,32,33
  1177 923 1177 923 1179 891 c 128,-1,34
@@ -87133,20 +87192,20 @@ SplineSet
  917 658 917 658 917 549 c 0,51,52
  917 424 917 424 831 338 c 0,53,54
  744 250 744 250 626 250 c 256,55,56
- 508 250 508 250 421 334 c 0,57,58
+ 508 250 508 250 421 334 c 1,57,58
  337 418 337 418 337 535 c 256,59,60
- 337 652 337 652 421 739 c 0,61,62
+ 337 652 337 652 421 739 c 1,61,62
  506 825 506 825 628 825 c 0,63,64
  699 825 699 825 782 782 c 1,65,-1
  1023 1024 l 1,0,1
 628 750 m 0,66,67
  538 750 538 750 476 688 c 0,68,69
  415 627 415 627 415 539 c 0,70,71
- 415 448 415 448 476 387 c 0,72,73
+ 415 448 415 448 476 387 c 1,72,73
  540 326 540 326 628 326 c 0,74,75
  717 326 717 326 777 387 c 0,76,77
  839 449 839 449 839 539 c 0,78,79
- 839 626 839 626 777 688 c 0,80,81
+ 839 626 839 626 777 688 c 1,80,81
  717 750 717 750 628 750 c 0,66,67
 EndSplineSet
 EndChar
@@ -87203,15 +87262,15 @@ Fore
 SplineSet
 544 1231 m 1,0,1
  558 1177 558 1177 578 1129.5 c 128,-1,2
- 598 1082 598 1082 624 1038 c 0,3,4
+ 598 1082 598 1082 624 1038 c 1,3,4
  652 995 652 995 699.5 942.5 c 128,-1,5
  747 890 747 890 816 827 c 0,6,7
- 957 701 957 701 992 635 c 0,8,9
+ 957 701 957 701 992 635 c 1,8,9
  1029 568 1029 568 1029 498 c 0,10,11
  1029 403 1029 403 966 340 c 0,12,13
  900 274 900 274 812 274 c 0,14,15
  655 274 655 274 556 465 c 1,16,17
- 559 318 559 318 595 231 c 0,18,19
+ 559 318 559 318 595 231 c 1,18,19
  633 145 633 145 714.5 95.5 c 128,-1,20
  796 46 796 46 933 37 c 1,21,-1
  941 0 l 1,22,-1
@@ -87226,9 +87285,9 @@ SplineSet
  361 274 361 274 278 274 c 0,34,35
  188 274 188 274 122 340 c 0,36,37
  59 403 59 403 59 494 c 0,38,39
- 59 568 59 568 89 627 c 0,40,41
+ 59 568 59 568 89 627 c 1,40,41
  112 669 112 669 151 711.5 c 128,-1,42
- 190 754 190 754 247 801 c 0,43,44
+ 190 754 190 754 247 801 c 1,43,44
  316 860 316 860 371 916.5 c 128,-1,45
  426 973 426 973 464 1030 c 0,46,47
  520 1113 520 1113 544 1231 c 1,0,1
@@ -87306,38 +87365,38 @@ SplineSet
  469 300 469 300 425 285 c 128,-1,17
  381 270 381 270 336 270 c 0,18,19
  277 270 277 270 228.5 291 c 128,-1,20
- 180 312 180 312 139 350 c 0,21,22
+ 180 312 180 312 139 350 c 1,21,22
  60 433 60 433 60 549 c 0,23,24
  60 664 60 664 133 743 c 0,25,26
  206 823 206 823 299 823 c 0,27,28
  330 823 330 823 370 810.5 c 128,-1,29
  410 798 410 798 461 772 c 1,30,31
  441 806 441 806 427.5 832 c 128,-1,32
- 414 858 414 858 406 877 c 0,33,34
+ 414 858 414 858 406 877 c 1,33,34
  401 894 401 894 398 913 c 128,-1,35
  395 932 395 932 395 952 c 0,36,37
- 395 1067 395 1067 473 1145 c 0,38,39
+ 395 1067 395 1067 473 1145 c 1,38,39
  513 1183 513 1183 561.5 1203 c 128,-1,40
  610 1223 610 1223 670 1223 c 0,41,42
- 786 1223 786 1223 866 1143 c 0,43,44
+ 786 1223 786 1223 866 1143 c 1,43,44
  946 1065 946 1065 946 956 c 0,45,46
  946 870 946 870 877 772 c 1,47,48
- 961 812 961 812 977 815 c 2,49,50
+ 961 812 961 812 977 815 c 1,49,50
  991 820 991 820 1006 821.5 c 128,-1,51
  1021 823 1021 823 1038 823 c 0,52,53
  1089 823 1089 823 1132 804.5 c 128,-1,54
- 1175 786 1175 786 1211 745 c 0,55,56
+ 1175 786 1175 786 1211 745 c 1,55,56
  1284 669 1284 669 1284 553 c 0,57,58
- 1284 435 1284 435 1204 352 c 0,59,60
+ 1284 435 1284 435 1204 352 c 1,59,60
  1124 272 1124 272 1012 272 c 0,61,62
  950 272 950 272 884 302 c 128,-1,63
- 818 332 818 332 768 383 c 0,64,65
+ 818 332 818 332 768 383 c 1,64,65
  751 402 751 402 729.5 432.5 c 128,-1,66
  708 463 708 463 682 508 c 1,67,68
  685 427 685 427 696.5 364.5 c 128,-1,69
  708 302 708 302 731 256 c 0,70,71
  753 211 753 211 786.5 173 c 128,-1,72
- 820 135 820 135 866 104 c 0,73,74
+ 820 135 820 135 866 104 c 1,73,74
  927 65 927 65 1086 35 c 1,75,-1
  1094 0 l 1,0,-1
 EndSplineSet
@@ -87400,9 +87459,9 @@ SplineSet
  196 650 196 650 182 672 c 0,9,10
  139 737 139 737 120.5 790 c 128,-1,11
  102 843 102 843 102 899 c 0,12,13
- 102 1002 102 1002 170 1073 c 0,14,15
+ 102 1002 102 1002 170 1073 c 1,14,15
  240 1143 240 1143 342 1143 c 0,16,17
- 440 1143 440 1143 518 1071 c 0,18,19
+ 440 1143 440 1143 518 1071 c 1,18,19
  546 1043 546 1043 569.5 1003 c 128,-1,20
  593 963 593 963 610 909 c 1,21,22
  644 1028 644 1028 715 1086.5 c 128,-1,23
@@ -87412,7 +87471,7 @@ SplineSet
  1114 1005 1114 1005 1114 911 c 0,29,30
  1114 825 1114 825 1073 737 c 0,31,32
  1053 692 1053 692 1014 632.5 c 128,-1,33
- 975 573 975 573 915 498 c 0,34,35
+ 975 573 975 573 915 498 c 1,34,35
  840 402 840 402 786 326 c 128,-1,36
  732 250 732 250 700 195 c 0,37,38
  669 141 669 141 647 86 c 128,-1,39
@@ -87464,7 +87523,7 @@ SplineSet
  241 382 241 382 194 441.5 c 128,-1,20
  147 501 147 501 66 600 c 1,21,22
  116 659 116 659 180 739 c 128,-1,23
- 244 819 244 819 324 926 c 0,24,25
+ 244 819 244 819 324 926 c 1,24,25
  383 1003 383 1003 431 1077 c 128,-1,26
  479 1151 479 1151 519 1223 c 1,0,1
 EndSplineSet
@@ -87531,7 +87590,7 @@ SplineSet
 489 1153 m 1,0,-1
  565 1153 l 1,1,-1
  565 1053 l 1,2,-1
- 718 860 l 2,3,4
+ 718 860 l 1,3,4
  769 791 769 791 798 709.5 c 128,-1,5
  827 628 827 628 827 543 c 0,6,7
  827 465 827 465 803 398 c 128,-1,8
@@ -87548,7 +87607,7 @@ SplineSet
  419 29 419 29 311 29 c 0,24,25
  254 29 254 29 225 56 c 128,-1,26
  196 83 196 83 196 129 c 0,27,28
- 196 202 196 202 256 262 c 0,29,30
+ 196 202 196 202 256 262 c 1,29,30
  319 322 319 322 399 322 c 0,31,32
  443 322 443 322 489 303 c 1,33,-1
  489 1153 l 1,0,-1
@@ -87675,23 +87734,23 @@ Fore
 SplineSet
 1263 324 m 2,0,1
  1263 261 1263 261 1245 210.5 c 128,-1,2
- 1227 160 1227 160 1189 125 c 0,3,4
+ 1227 160 1227 160 1189 125 c 1,3,4
  1152 88 1152 88 1108 68.5 c 128,-1,5
  1064 49 1064 49 1013 49 c 0,6,7
  956 49 956 49 927.5 76 c 128,-1,8
  899 103 899 103 899 150 c 0,9,10
- 899 226 899 226 956 283 c 0,11,12
+ 899 226 899 226 956 283 c 1,11,12
  1018 342 1018 342 1099 342 c 0,13,14
  1147 342 1147 342 1189 324 c 1,15,-1
  1189 772 l 1,16,-1
  639 623 l 1,17,-1
  639 229 l 2,18,19
  639 167 639 167 620.5 118 c 128,-1,20
- 602 69 602 69 567 31 c 0,21,22
+ 602 69 602 69 567 31 c 1,21,22
  493 -43 493 -43 387 -43 c 0,23,24
  330 -43 330 -43 301 -16.5 c 128,-1,25
  272 10 272 10 272 55 c 0,26,27
- 272 131 272 131 331 188 c 0,28,29
+ 272 131 272 131 331 188 c 1,28,29
  391 248 391 248 475 248 c 0,30,31
  520 248 520 248 565 229 c 1,32,-1
  565 981 l 1,33,-1
@@ -87705,9 +87764,9 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uniF001
-Encoding: 61441 61441 648
-AltUni2: 00fb01.ffffffff.0
+StartChar: uniFB01
+Encoding: 64257 64257 648
+AltUni2: 00f001.ffffffff.0
 Width: 1024
 GlyphClass: 2
 Flags: W
@@ -87841,7 +87900,7 @@ SplineSet
  635 1362 635 1362 600 1346.5 c 128,-1,22
  565 1331 565 1331 538 1298.5 c 128,-1,23
  511 1266 511 1266 491 1216 c 128,-1,24
- 471 1166 471 1166 455 1096 c 2,25,-1
+ 471 1166 471 1166 455 1096 c 1,25,-1
  428 940 l 1,26,-1
  895 940 l 1,27,-1
  742 70 l 1,28,-1
@@ -87854,9 +87913,9 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uniF002
-Encoding: 61442 61442 649
-AltUni2: 00fb02.ffffffff.0
+StartChar: uniFB02
+Encoding: 64258 64258 649
+AltUni2: 00f002.ffffffff.0
 Width: 1024
 GlyphClass: 2
 Flags: W
@@ -87979,7 +88038,7 @@ SplineSet
  639 1362 639 1362 603 1346.5 c 128,-1,10
  567 1331 567 1331 539.5 1298.5 c 128,-1,11
  512 1266 512 1266 491.5 1216 c 128,-1,12
- 471 1166 471 1166 455 1096 c 2,13,-1
+ 471 1166 471 1166 455 1096 c 1,13,-1
  428 940 l 1,14,-1
  637 940 l 1,15,-1
  623 856 l 1,16,-1
@@ -88181,8 +88240,32 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: middot
-Encoding: 1114115 -1 652
+StartChar: u10000
+Encoding: 65536 65536 652
+Width: 1593
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: u10001
+Encoding: 65537 65537 653
+Width: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: u10002
+Encoding: 65538 65538 654
+Width: 512
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: u10003
+Encoding: 65539 65539 655
 Width: 683
 GlyphClass: 2
 Flags: W
@@ -88235,8 +88318,8 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: pi1
-Encoding: 1114116 -1 653
+StartChar: u10004
+Encoding: 65540 65540 656
 Width: 1124
 GlyphClass: 2
 Flags: W
@@ -88449,8 +88532,8 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni2074
-Encoding: 1114117 -1 654
+StartChar: u10005
+Encoding: 65541 65541 657
 Width: 614
 GlyphClass: 2
 Flags: W
@@ -88557,8 +88640,8 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni2075
-Encoding: 1114118 -1 655
+StartChar: u10006
+Encoding: 65542 65542 658
 Width: 614
 GlyphClass: 2
 Flags: W
@@ -88693,8 +88776,8 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni2077
-Encoding: 1114119 -1 656
+StartChar: u10007
+Encoding: 65543 65543 659
 Width: 614
 GlyphClass: 2
 Flags: W
@@ -88761,8 +88844,8 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni2078
-Encoding: 1114120 -1 657
+StartChar: u10008
+Encoding: 65544 65544 660
 Width: 614
 GlyphClass: 2
 Flags: W
@@ -88958,8 +89041,8 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: cyrillicbreve
-Encoding: 1114121 -1 658
+StartChar: u10009
+Encoding: 65545 65545 661
 Width: 1024
 GlyphClass: 2
 Flags: W
@@ -89034,8 +89117,8 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: caroncommaaccent
-Encoding: 1114122 -1 659
+StartChar: u1000A
+Encoding: 65546 65546 662
 Width: 324
 GlyphClass: 2
 Flags: W
@@ -89092,8 +89175,8 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: commaaccentrotate
-Encoding: 1114123 -1 660
+StartChar: u1000B
+Encoding: 65547 65547 663
 Width: 324
 GlyphClass: 2
 Flags: W
@@ -89167,214 +89250,6 @@ SplineSet
  72 1167 72 1167 63 1191 c 128,-1,21
  54 1215 54 1215 54 1247 c 0,0,1
 EndSplineSet
-EndChar
-
-StartChar: uni2010
-Encoding: 8208 8208 661
-Width: 682
-Flags: HW
-TtInstrs:
-NPUSHB
- 24
- 48
- 2
- 64
- 2
- 112
- 2
- 3
- 2
- 80
- 1
- 96
- 1
- 112
- 1
- 3
- 15
- 1
- 31
- 1
- 2
- 1
- 0
- 185
- 1
-PUSHW_1
- 266
-SVTCA[y-axis]
-MIAP[rnd]
-MIRP[min,rnd,black]
-SVTCA[x-axis]
-MDAP[rnd]
-DELTAP1
-DELTAP1
-MDAP[rnd]
-DELTAP1
-IUP[x]
-IUP[y]
-EndTTInstrs
-LayerCount: 2
-Fore
-SplineSet
-76 406 m 1,0,-1
- 76 559 l 1,1,-1
- 608 559 l 1,2,-1
- 608 406 l 1,3,-1
- 76 406 l 1,0,-1
-EndSplineSet
-EndChar
-
-StartChar: uni2011
-Encoding: 8209 8209 662
-Width: 682
-Flags: HW
-TtInstrs:
-NPUSHB
- 24
- 48
- 2
- 64
- 2
- 112
- 2
- 3
- 2
- 80
- 1
- 96
- 1
- 112
- 1
- 3
- 15
- 1
- 31
- 1
- 2
- 1
- 0
- 185
- 1
-PUSHW_1
- 266
-SVTCA[y-axis]
-MIAP[rnd]
-MIRP[min,rnd,black]
-SVTCA[x-axis]
-MDAP[rnd]
-DELTAP1
-DELTAP1
-MDAP[rnd]
-DELTAP1
-IUP[x]
-IUP[y]
-EndTTInstrs
-LayerCount: 2
-Fore
-SplineSet
-76 406 m 1,0,-1
- 76 559 l 1,1,-1
- 608 559 l 1,2,-1
- 608 406 l 1,3,-1
- 76 406 l 1,0,-1
-EndSplineSet
-EndChar
-
-StartChar: figuredash
-Encoding: 8210 8210 663
-Width: 682
-Flags: HW
-TtInstrs:
-NPUSHB
- 24
- 48
- 2
- 64
- 2
- 112
- 2
- 3
- 2
- 80
- 1
- 96
- 1
- 112
- 1
- 3
- 15
- 1
- 31
- 1
- 2
- 1
- 0
- 185
- 1
-PUSHW_1
- 266
-SVTCA[y-axis]
-MIAP[rnd]
-MIRP[min,rnd,black]
-SVTCA[x-axis]
-MDAP[rnd]
-DELTAP1
-DELTAP1
-MDAP[rnd]
-DELTAP1
-IUP[x]
-IUP[y]
-EndTTInstrs
-LayerCount: 2
-Fore
-SplineSet
-76 406 m 1,0,-1
- 76 559 l 1,1,-1
- 608 559 l 1,2,-1
- 608 406 l 1,3,-1
- 76 406 l 1,0,-1
-EndSplineSet
-EndChar
-
-StartChar: Scommaaccent
-Encoding: 536 536 664
-Width: 1024
-Flags: W
-LayerCount: 2
-Fore
-Refer: 650 61444 S 1 0 0 1 79 0 2
-Refer: 54 83 N 1 0 0 1 0 0 3
-EndChar
-
-StartChar: scommaaccent
-Encoding: 537 537 665
-Width: 797
-Flags: W
-LayerCount: 2
-Fore
-Refer: 650 61444 S 1 0 0 1 3 0 2
-Refer: 86 115 N 1 0 0 1 0 0 3
-EndChar
-
-StartChar: uni021A
-Encoding: 538 538 666
-Width: 1139
-Flags: W
-LayerCount: 2
-Fore
-Refer: 650 61444 S 1 0 0 1 283 0 2
-Refer: 55 84 N 1 0 0 1 0 0 3
-EndChar
-
-StartChar: uni021B
-Encoding: 539 539 667
-Width: 569
-Flags: W
-LayerCount: 2
-Fore
-Refer: 650 61444 S 1 0 0 1 67 0 2
-Refer: 87 116 N 1 0 0 1 0 0 2
 EndChar
 EndChars
 EndSplineFont
