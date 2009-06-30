@@ -4,7 +4,7 @@ FONTFORGE = fontforge
 TMPDIR := $(shell mktemp -d)
 SFDFILES := src/LiberationMono-Bold.sfd src/LiberationMono-BoldItalic.sfd src/LiberationMono-Italic.sfd src/LiberationMono-Regular.sfd src/LiberationSans-Bold.sfd src/LiberationSans-BoldItalic.sfd src/LiberationSans-Italic.sfd src/LiberationSans-Regular.sfd src/LiberationSerif-Bold.sfd src/LiberationSerif-BoldItalic.sfd src/LiberationSerif-Italic.sfd src/LiberationSerif-Regular.sfd 
 SCRIPTS := scripts/sfd2ttf.pe scripts/ttf2sfd.pe
-MISCFILES := AUTHORS ChangeLog COPYING License.txt README 
+MISCFILES := AUTHORS ChangeLog COPYING License.txt README
 
 all: build
 
@@ -17,7 +17,7 @@ dist: dist-sfd
 
 dist-sfd:
 	mkdir -p $(TMPDIR)/liberation-fonts-$(VER)/{src,scripts}
-	cp $(MISCFILES) $(TMPDIR)/liberation-fonts-$(VER)/
+	cp Makefile $(MISCFILES) $(TMPDIR)/liberation-fonts-$(VER)/
 	cp $(SFDFILES) $(TMPDIR)/liberation-fonts-$(VER)/src/
 	cp $(SCRIPTS) $(TMPDIR)/liberation-fonts-$(VER)/scripts/
 	tar Cczvf $(TMPDIR)/ liberation-fonts-$(VER).tar.gz \
