@@ -11,9 +11,9 @@ UnderlineWidth: 84
 Ascent: 1638
 Descent: 410
 LayerCount: 2
-Layer: 0 1 "+gMyXYgAA"  1
-Layer: 1 1 "+Uk2XYgAA"  0
-XUID: [1021 131 222397055 12524749]
+Layer: 0 1 "Back"  1
+Layer: 1 1 "Fore"  0
+XUID: [1021 131 222397055 5879191]
 FSType: 8
 OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
@@ -3207,7 +3207,7 @@ NameList: Adobe Glyph List
 DisplaySize: -24
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 63 21 15
+WinInfo: 40 40 16
 BeginChars: 1114115 666
 
 StartChar: .notdef
@@ -3296,7 +3296,6 @@ StartChar: uni00A0
 Encoding: 160 160 3
 AltUni2: 000020.ffffffff.0
 Width: 1229
-GlyphClass: 2
 Flags: W
 LayerCount: 2
 EndChar
@@ -3304,7 +3303,6 @@ EndChar
 StartChar: exclam
 Encoding: 33 33 4
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -3368,7 +3366,6 @@ EndChar
 StartChar: quotedbl
 Encoding: 34 34 5
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -3430,7 +3427,6 @@ EndChar
 StartChar: numbersign
 Encoding: 35 35 6
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 PUSHW_2
@@ -3715,7 +3711,6 @@ EndChar
 StartChar: dollar
 Encoding: 36 36 7
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -4077,7 +4072,6 @@ EndChar
 StartChar: percent
 Encoding: 37 37 8
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 PUSHW_2
@@ -4348,7 +4342,6 @@ EndChar
 StartChar: ampersand
 Encoding: 38 38 9
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -4678,7 +4671,6 @@ EndChar
 StartChar: quotesingle
 Encoding: 39 39 10
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -4724,7 +4716,6 @@ EndChar
 StartChar: parenleft
 Encoding: 40 40 11
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -4796,7 +4787,6 @@ EndChar
 StartChar: parenright
 Encoding: 41 41 12
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -4864,7 +4854,6 @@ EndChar
 StartChar: asterisk
 Encoding: 42 42 13
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -5066,7 +5055,6 @@ EndChar
 StartChar: plus
 Encoding: 43 43 14
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -5165,7 +5153,6 @@ EndChar
 StartChar: comma
 Encoding: 44 44 15
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -5241,7 +5228,6 @@ StartChar: uni00AD
 Encoding: 173 173 16
 AltUni2: 00002d.ffffffff.0
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -5288,7 +5274,6 @@ EndChar
 StartChar: period
 Encoding: 46 46 17
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -5332,7 +5317,6 @@ EndChar
 StartChar: slash
 Encoding: 47 47 18
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -5410,7 +5394,6 @@ EndChar
 StartChar: zero
 Encoding: 48 48 19
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -5583,7 +5566,6 @@ EndChar
 StartChar: one
 Encoding: 49 49 20
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -5703,7 +5685,6 @@ EndChar
 StartChar: two
 Encoding: 50 50 21
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -5885,7 +5866,6 @@ EndChar
 StartChar: three
 Encoding: 51 51 22
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -6176,7 +6156,6 @@ EndChar
 StartChar: four
 Encoding: 52 52 23
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -6290,7 +6269,6 @@ EndChar
 StartChar: five
 Encoding: 53 53 24
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -6483,7 +6461,6 @@ EndChar
 StartChar: six
 Encoding: 54 54 25
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -6714,7 +6691,6 @@ EndChar
 StartChar: seven
 Encoding: 55 55 26
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -6793,7 +6769,6 @@ EndChar
 StartChar: eight
 Encoding: 56 56 27
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -7057,7 +7032,6 @@ EndChar
 StartChar: nine
 Encoding: 57 57 28
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -7282,7 +7256,6 @@ EndChar
 StartChar: colon
 Encoding: 58 58 29
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -7342,7 +7315,6 @@ StartChar: uni037E
 Encoding: 894 894 30
 AltUni2: 00003b.ffffffff.0
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -7453,7 +7425,6 @@ EndChar
 StartChar: less
 Encoding: 60 60 31
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 PUSHB_6
@@ -7591,7 +7562,6 @@ EndChar
 StartChar: equal
 Encoding: 61 61 32
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -7690,7 +7660,6 @@ EndChar
 StartChar: greater
 Encoding: 62 62 33
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 PUSHB_6
@@ -7828,7 +7797,6 @@ EndChar
 StartChar: question
 Encoding: 63 63 34
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -7990,7 +7958,6 @@ EndChar
 StartChar: at
 Encoding: 64 64 35
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -8414,7 +8381,6 @@ EndChar
 StartChar: A
 Encoding: 65 65 36
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -8562,7 +8528,6 @@ EndChar
 StartChar: B
 Encoding: 66 66 37
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -8736,7 +8701,6 @@ EndChar
 StartChar: C
 Encoding: 67 67 38
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -8947,7 +8911,6 @@ EndChar
 StartChar: D
 Encoding: 68 68 39
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -9079,7 +9042,6 @@ EndChar
 StartChar: E
 Encoding: 69 69 40
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -9195,7 +9157,6 @@ EndChar
 StartChar: F
 Encoding: 70 70 41
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -9290,7 +9251,6 @@ EndChar
 StartChar: G
 Encoding: 71 71 42
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -9473,7 +9433,6 @@ EndChar
 StartChar: H
 Encoding: 72 72 43
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -9586,7 +9545,6 @@ EndChar
 StartChar: I
 Encoding: 73 73 44
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -9701,7 +9659,6 @@ EndChar
 StartChar: J
 Encoding: 74 74 45
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 PUSHB_8
@@ -9807,7 +9764,6 @@ EndChar
 StartChar: K
 Encoding: 75 75 46
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -9983,7 +9939,6 @@ EndChar
 StartChar: L
 Encoding: 76 76 47
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -10041,7 +9996,6 @@ EndChar
 StartChar: M
 Encoding: 77 77 48
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 PUSHW_2
@@ -10234,7 +10188,6 @@ EndChar
 StartChar: N
 Encoding: 78 78 49
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -10383,7 +10336,6 @@ EndChar
 StartChar: O
 Encoding: 79 79 50
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -10541,7 +10493,6 @@ EndChar
 StartChar: P
 Encoding: 80 80 51
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -10669,7 +10620,6 @@ EndChar
 StartChar: Q
 Encoding: 81 81 52
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -10856,7 +10806,6 @@ EndChar
 StartChar: R
 Encoding: 82 82 53
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 PUSHW_2
@@ -11042,7 +10991,6 @@ EndChar
 StartChar: S
 Encoding: 83 83 54
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -11284,7 +11232,6 @@ EndChar
 StartChar: T
 Encoding: 84 84 55
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -11380,7 +11327,6 @@ EndChar
 StartChar: U
 Encoding: 85 85 56
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -11510,7 +11456,6 @@ EndChar
 StartChar: V
 Encoding: 86 86 57
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -11667,7 +11612,6 @@ EndChar
 StartChar: W
 Encoding: 87 87 58
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -12043,7 +11987,6 @@ EndChar
 StartChar: X
 Encoding: 88 88 59
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -12268,7 +12211,6 @@ EndChar
 StartChar: Y
 Encoding: 89 89 60
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -12441,7 +12383,6 @@ EndChar
 StartChar: Z
 Encoding: 90 90 61
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -12580,7 +12521,6 @@ EndChar
 StartChar: bracketleft
 Encoding: 91 91 62
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -12649,7 +12589,6 @@ EndChar
 StartChar: backslash
 Encoding: 92 92 63
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -12729,7 +12668,6 @@ EndChar
 StartChar: bracketright
 Encoding: 93 93 64
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -12792,7 +12730,6 @@ EndChar
 StartChar: asciicircum
 Encoding: 94 94 65
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -12911,7 +12848,6 @@ EndChar
 StartChar: underscore
 Encoding: 95 95 66
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 PUSHB_5
@@ -12943,7 +12879,6 @@ EndChar
 StartChar: grave
 Encoding: 96 96 67
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -12989,7 +12924,6 @@ EndChar
 StartChar: a
 Encoding: 97 97 68
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -13220,7 +13154,6 @@ EndChar
 StartChar: b
 Encoding: 98 98 69
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -13373,7 +13306,6 @@ EndChar
 StartChar: c
 Encoding: 99 99 70
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -13573,7 +13505,6 @@ EndChar
 StartChar: d
 Encoding: 100 100 71
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -13736,7 +13667,6 @@ EndChar
 StartChar: e
 Encoding: 101 101 72
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -13931,7 +13861,6 @@ EndChar
 StartChar: f
 Encoding: 102 102 73
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 PUSHW_2
@@ -14065,7 +13994,6 @@ EndChar
 StartChar: g
 Encoding: 103 103 74
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -14289,7 +14217,6 @@ EndChar
 StartChar: h
 Encoding: 104 104 75
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -14393,7 +14320,6 @@ EndChar
 StartChar: i
 Encoding: 105 105 76
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -14486,7 +14412,6 @@ EndChar
 StartChar: j
 Encoding: 106 106 77
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -14596,7 +14521,6 @@ EndChar
 StartChar: k
 Encoding: 107 107 78
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -14793,7 +14717,6 @@ EndChar
 StartChar: l
 Encoding: 108 108 79
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -14868,7 +14791,6 @@ EndChar
 StartChar: m
 Encoding: 109 109 80
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 PUSHW_2
@@ -15069,7 +14991,6 @@ EndChar
 StartChar: n
 Encoding: 110 110 81
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -15176,7 +15097,6 @@ EndChar
 StartChar: o
 Encoding: 111 111 82
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -15308,7 +15228,6 @@ EndChar
 StartChar: p
 Encoding: 112 112 83
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -15474,7 +15393,6 @@ EndChar
 StartChar: q
 Encoding: 113 113 84
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -15636,7 +15554,6 @@ EndChar
 StartChar: r
 Encoding: 114 114 85
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -15746,7 +15663,6 @@ EndChar
 StartChar: s
 Encoding: 115 115 86
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -15938,7 +15854,6 @@ EndChar
 StartChar: t
 Encoding: 116 116 87
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -16064,7 +15979,6 @@ EndChar
 StartChar: u
 Encoding: 117 117 88
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -16179,7 +16093,6 @@ EndChar
 StartChar: v
 Encoding: 118 118 89
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -16355,7 +16268,6 @@ EndChar
 StartChar: w
 Encoding: 119 119 90
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -16737,7 +16649,6 @@ EndChar
 StartChar: x
 Encoding: 120 120 91
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -16948,7 +16859,6 @@ EndChar
 StartChar: y
 Encoding: 121 121 92
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -17160,7 +17070,6 @@ EndChar
 StartChar: z
 Encoding: 122 122 93
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -17272,7 +17181,6 @@ EndChar
 StartChar: braceleft
 Encoding: 123 123 94
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -17444,7 +17352,6 @@ EndChar
 StartChar: bar
 Encoding: 124 124 95
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -17485,7 +17392,6 @@ EndChar
 StartChar: braceright
 Encoding: 125 125 96
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -17655,7 +17561,6 @@ EndChar
 StartChar: asciitilde
 Encoding: 126 126 97
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -17786,7 +17691,6 @@ EndChar
 StartChar: exclamdown
 Encoding: 161 161 98
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -17852,7 +17756,6 @@ EndChar
 StartChar: cent
 Encoding: 162 162 99
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -18047,7 +17950,6 @@ EndChar
 StartChar: sterling
 Encoding: 163 163 100
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -18262,7 +18164,6 @@ EndChar
 StartChar: currency
 Encoding: 164 164 101
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -18555,7 +18456,6 @@ EndChar
 StartChar: yen
 Encoding: 165 165 102
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -18771,7 +18671,6 @@ EndChar
 StartChar: brokenbar
 Encoding: 166 166 103
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -18831,7 +18730,6 @@ EndChar
 StartChar: section
 Encoding: 167 167 104
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -19184,7 +19082,6 @@ EndChar
 StartChar: dieresis
 Encoding: 168 168 105
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -19256,7 +19153,6 @@ EndChar
 StartChar: copyright
 Encoding: 169 169 106
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -19621,7 +19517,6 @@ EndChar
 StartChar: ordfeminine
 Encoding: 170 170 107
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 PUSHW_2
@@ -19799,7 +19694,6 @@ EndChar
 StartChar: guillemotleft
 Encoding: 171 171 108
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -19912,7 +19806,6 @@ EndChar
 StartChar: logicalnot
 Encoding: 172 172 109
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -19965,7 +19858,6 @@ EndChar
 StartChar: registered
 Encoding: 174 174 110
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -20266,7 +20158,6 @@ EndChar
 StartChar: macron
 Encoding: 175 175 111
 Width: 1229
-GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
@@ -20276,7 +20167,6 @@ EndChar
 StartChar: degree
 Encoding: 176 176 112
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 PUSHW_2
@@ -20394,7 +20284,6 @@ EndChar
 StartChar: plusminus
 Encoding: 177 177 113
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -20530,7 +20419,6 @@ EndChar
 StartChar: uni00B2
 Encoding: 178 178 114
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 PUSHB_6
@@ -20653,7 +20541,6 @@ EndChar
 StartChar: uni00B3
 Encoding: 179 179 115
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 PUSHW_2
@@ -20829,7 +20716,6 @@ EndChar
 StartChar: acute
 Encoding: 180 180 116
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -20875,7 +20761,6 @@ EndChar
 StartChar: uni00B5
 Encoding: 181 181 117
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -21025,7 +20910,6 @@ EndChar
 StartChar: paragraph
 Encoding: 182 182 118
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -21121,7 +21005,6 @@ EndChar
 StartChar: periodcentered
 Encoding: 183 183 119
 Width: 1229
-GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
@@ -21131,7 +21014,6 @@ EndChar
 StartChar: cedilla
 Encoding: 184 184 120
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 PUSHW_2
@@ -21246,7 +21128,6 @@ EndChar
 StartChar: uni00B9
 Encoding: 185 185 121
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -21340,7 +21221,6 @@ EndChar
 StartChar: ordmasculine
 Encoding: 186 186 122
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -21461,7 +21341,6 @@ EndChar
 StartChar: guillemotright
 Encoding: 187 187 123
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -21574,7 +21453,6 @@ EndChar
 StartChar: onequarter
 Encoding: 188 188 124
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -21628,7 +21506,6 @@ EndChar
 StartChar: onehalf
 Encoding: 189 189 125
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -21666,7 +21543,6 @@ EndChar
 StartChar: threequarters
 Encoding: 190 190 126
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -21712,7 +21588,6 @@ EndChar
 StartChar: questiondown
 Encoding: 191 191 127
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -21882,7 +21757,6 @@ EndChar
 StartChar: Agrave
 Encoding: 192 192 128
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 PUSHB_5
@@ -21915,7 +21789,6 @@ EndChar
 StartChar: Aacute
 Encoding: 193 193 129
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -21947,7 +21820,6 @@ EndChar
 StartChar: Acircumflex
 Encoding: 194 194 130
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -21979,7 +21851,6 @@ EndChar
 StartChar: Atilde
 Encoding: 195 195 131
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -22011,7 +21882,6 @@ EndChar
 StartChar: Adieresis
 Encoding: 196 196 132
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -22047,7 +21917,6 @@ EndChar
 StartChar: Aring
 Encoding: 197 197 133
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -22082,7 +21951,6 @@ EndChar
 StartChar: AE
 Encoding: 198 198 134
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -22254,7 +22122,6 @@ EndChar
 StartChar: Ccedilla
 Encoding: 199 199 135
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 PUSHB_7
@@ -22278,7 +22145,6 @@ EndChar
 StartChar: Egrave
 Encoding: 200 200 136
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 PUSHB_5
@@ -22311,7 +22177,6 @@ EndChar
 StartChar: Eacute
 Encoding: 201 201 137
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -22343,7 +22208,6 @@ EndChar
 StartChar: Ecircumflex
 Encoding: 202 202 138
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 PUSHB_5
@@ -22376,7 +22240,6 @@ EndChar
 StartChar: Edieresis
 Encoding: 203 203 139
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 PUSHB_7
@@ -22413,7 +22276,6 @@ EndChar
 StartChar: Igrave
 Encoding: 204 204 140
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 PUSHB_5
@@ -22446,7 +22308,6 @@ EndChar
 StartChar: Iacute
 Encoding: 205 205 141
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -22478,7 +22339,6 @@ EndChar
 StartChar: Icircumflex
 Encoding: 206 206 142
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -22510,7 +22370,6 @@ EndChar
 StartChar: Idieresis
 Encoding: 207 207 143
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -22546,7 +22405,6 @@ EndChar
 StartChar: Eth
 Encoding: 208 208 144
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -22731,7 +22589,6 @@ EndChar
 StartChar: Ntilde
 Encoding: 209 209 145
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -22763,7 +22620,6 @@ EndChar
 StartChar: Ograve
 Encoding: 210 210 146
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 PUSHB_5
@@ -22796,7 +22652,6 @@ EndChar
 StartChar: Oacute
 Encoding: 211 211 147
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -22828,7 +22683,6 @@ EndChar
 StartChar: Ocircumflex
 Encoding: 212 212 148
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -22860,7 +22714,6 @@ EndChar
 StartChar: Otilde
 Encoding: 213 213 149
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -22892,7 +22745,6 @@ EndChar
 StartChar: Odieresis
 Encoding: 214 214 150
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -22928,7 +22780,6 @@ EndChar
 StartChar: multiply
 Encoding: 215 215 151
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -23092,7 +22943,6 @@ EndChar
 StartChar: Oslash
 Encoding: 216 216 152
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -23337,7 +23187,6 @@ EndChar
 StartChar: Ugrave
 Encoding: 217 217 153
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 PUSHB_5
@@ -23370,7 +23219,6 @@ EndChar
 StartChar: Uacute
 Encoding: 218 218 154
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -23402,7 +23250,6 @@ EndChar
 StartChar: Ucircumflex
 Encoding: 219 219 155
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -23434,7 +23281,6 @@ EndChar
 StartChar: Udieresis
 Encoding: 220 220 156
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -23470,7 +23316,6 @@ EndChar
 StartChar: Yacute
 Encoding: 221 221 157
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -23502,7 +23347,6 @@ EndChar
 StartChar: Thorn
 Encoding: 222 222 158
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -23640,7 +23484,6 @@ EndChar
 StartChar: germandbls
 Encoding: 223 223 159
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -23896,7 +23739,6 @@ EndChar
 StartChar: agrave
 Encoding: 224 224 160
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 PUSHB_5
@@ -23929,7 +23771,6 @@ EndChar
 StartChar: aacute
 Encoding: 225 225 161
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -23961,7 +23802,6 @@ EndChar
 StartChar: acircumflex
 Encoding: 226 226 162
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 PUSHB_8
@@ -23998,7 +23838,6 @@ EndChar
 StartChar: atilde
 Encoding: 227 227 163
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -24044,7 +23883,6 @@ EndChar
 StartChar: adieresis
 Encoding: 228 228 164
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -24086,7 +23924,6 @@ EndChar
 StartChar: aring
 Encoding: 229 229 165
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -24122,7 +23959,6 @@ EndChar
 StartChar: ae
 Encoding: 230 230 166
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -24408,7 +24244,6 @@ EndChar
 StartChar: ccedilla
 Encoding: 231 231 167
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 PUSHB_7
@@ -24432,7 +24267,6 @@ EndChar
 StartChar: egrave
 Encoding: 232 232 168
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 PUSHB_5
@@ -24465,7 +24299,6 @@ EndChar
 StartChar: eacute
 Encoding: 233 233 169
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -24497,7 +24330,6 @@ EndChar
 StartChar: ecircumflex
 Encoding: 234 234 170
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -24529,7 +24361,6 @@ EndChar
 StartChar: edieresis
 Encoding: 235 235 171
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -24565,7 +24396,6 @@ EndChar
 StartChar: igrave
 Encoding: 236 236 172
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -24607,7 +24437,6 @@ EndChar
 StartChar: iacute
 Encoding: 237 237 173
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -24639,7 +24468,6 @@ EndChar
 StartChar: icircumflex
 Encoding: 238 238 174
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -24685,7 +24513,6 @@ EndChar
 StartChar: idieresis
 Encoding: 239 239 175
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -24745,7 +24572,6 @@ EndChar
 StartChar: eth
 Encoding: 240 240 176
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -24991,7 +24817,6 @@ EndChar
 StartChar: ntilde
 Encoding: 241 241 177
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -25023,7 +24848,6 @@ EndChar
 StartChar: ograve
 Encoding: 242 242 178
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 PUSHB_5
@@ -25056,7 +24880,6 @@ EndChar
 StartChar: oacute
 Encoding: 243 243 179
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -25088,7 +24911,6 @@ EndChar
 StartChar: ocircumflex
 Encoding: 244 244 180
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -25120,7 +24942,6 @@ EndChar
 StartChar: otilde
 Encoding: 245 245 181
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -25152,7 +24973,6 @@ EndChar
 StartChar: odieresis
 Encoding: 246 246 182
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -25188,7 +25008,6 @@ EndChar
 StartChar: divide
 Encoding: 247 247 183
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -25315,7 +25134,6 @@ EndChar
 StartChar: oslash
 Encoding: 248 248 184
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -25586,7 +25404,6 @@ EndChar
 StartChar: ugrave
 Encoding: 249 249 185
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 PUSHB_5
@@ -25619,7 +25436,6 @@ EndChar
 StartChar: uacute
 Encoding: 250 250 186
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -25651,7 +25467,6 @@ EndChar
 StartChar: ucircumflex
 Encoding: 251 251 187
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 PUSHB_5
@@ -25684,7 +25499,6 @@ EndChar
 StartChar: udieresis
 Encoding: 252 252 188
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 PUSHB_7
@@ -25721,7 +25535,6 @@ EndChar
 StartChar: yacute
 Encoding: 253 253 189
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -25753,7 +25566,6 @@ EndChar
 StartChar: thorn
 Encoding: 254 254 190
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -25915,7 +25727,6 @@ EndChar
 StartChar: ydieresis
 Encoding: 255 255 191
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -25951,7 +25762,6 @@ EndChar
 StartChar: Amacron
 Encoding: 256 256 192
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -25983,7 +25793,6 @@ EndChar
 StartChar: amacron
 Encoding: 257 257 193
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 PUSHB_5
@@ -26016,7 +25825,6 @@ EndChar
 StartChar: Abreve
 Encoding: 258 258 194
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -26048,7 +25856,6 @@ EndChar
 StartChar: abreve
 Encoding: 259 259 195
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -26080,7 +25887,6 @@ EndChar
 StartChar: Aogonek
 Encoding: 260 260 196
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 PUSHB_7
@@ -26104,7 +25910,6 @@ EndChar
 StartChar: aogonek
 Encoding: 261 261 197
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 PUSHW_2
@@ -26129,7 +25934,6 @@ EndChar
 StartChar: Cacute
 Encoding: 262 262 198
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -26161,7 +25965,6 @@ EndChar
 StartChar: cacute
 Encoding: 263 263 199
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -26193,7 +25996,6 @@ EndChar
 StartChar: Ccircumflex
 Encoding: 264 264 200
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -26225,7 +26027,6 @@ EndChar
 StartChar: ccircumflex
 Encoding: 265 265 201
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -26257,7 +26058,6 @@ EndChar
 StartChar: Cdotaccent
 Encoding: 266 266 202
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -26289,7 +26089,6 @@ EndChar
 StartChar: cdotaccent
 Encoding: 267 267 203
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 PUSHB_7
@@ -26313,7 +26112,6 @@ EndChar
 StartChar: Ccaron
 Encoding: 268 268 204
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -26345,7 +26143,6 @@ EndChar
 StartChar: ccaron
 Encoding: 269 269 205
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -26377,7 +26174,6 @@ EndChar
 StartChar: Dcaron
 Encoding: 270 270 206
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 PUSHB_5
@@ -26410,7 +26206,6 @@ EndChar
 StartChar: dcaron
 Encoding: 271 271 207
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -26596,7 +26391,6 @@ EndChar
 StartChar: Dcroat
 Encoding: 272 272 208
 Width: 1229
-GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
@@ -26606,7 +26400,6 @@ EndChar
 StartChar: dcroat
 Encoding: 273 273 209
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -26819,7 +26612,6 @@ EndChar
 StartChar: Emacron
 Encoding: 274 274 210
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 PUSHB_5
@@ -26852,7 +26644,6 @@ EndChar
 StartChar: emacron
 Encoding: 275 275 211
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -26884,7 +26675,6 @@ EndChar
 StartChar: Ebreve
 Encoding: 276 276 212
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 PUSHB_5
@@ -26917,7 +26707,6 @@ EndChar
 StartChar: ebreve
 Encoding: 277 277 213
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -26949,7 +26738,6 @@ EndChar
 StartChar: Edotaccent
 Encoding: 278 278 214
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 PUSHB_5
@@ -26982,7 +26770,6 @@ EndChar
 StartChar: edotaccent
 Encoding: 279 279 215
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 PUSHB_7
@@ -27006,7 +26793,6 @@ EndChar
 StartChar: Eogonek
 Encoding: 280 280 216
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 PUSHW_2
@@ -27031,7 +26817,6 @@ EndChar
 StartChar: eogonek
 Encoding: 281 281 217
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 PUSHW_2
@@ -27056,7 +26841,6 @@ EndChar
 StartChar: Ecaron
 Encoding: 282 282 218
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 PUSHB_5
@@ -27089,7 +26873,6 @@ EndChar
 StartChar: ecaron
 Encoding: 283 283 219
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 PUSHB_5
@@ -27122,7 +26905,6 @@ EndChar
 StartChar: Gcircumflex
 Encoding: 284 284 220
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -27154,7 +26936,6 @@ EndChar
 StartChar: gcircumflex
 Encoding: 285 285 221
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -27186,7 +26967,6 @@ EndChar
 StartChar: Gbreve
 Encoding: 286 286 222
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -27218,7 +26998,6 @@ EndChar
 StartChar: gbreve
 Encoding: 287 287 223
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -27250,7 +27029,6 @@ EndChar
 StartChar: Gdotaccent
 Encoding: 288 288 224
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -27282,7 +27060,6 @@ EndChar
 StartChar: gdotaccent
 Encoding: 289 289 225
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 PUSHB_7
@@ -27306,7 +27083,6 @@ EndChar
 StartChar: Gcommaaccent
 Encoding: 290 290 226
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 PUSHB_7
@@ -27330,7 +27106,6 @@ EndChar
 StartChar: gcommaaccent
 Encoding: 291 291 227
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -27362,7 +27137,6 @@ EndChar
 StartChar: Hcircumflex
 Encoding: 292 292 228
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -27394,7 +27168,6 @@ EndChar
 StartChar: hcircumflex
 Encoding: 293 293 229
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 PUSHW_2
@@ -27584,7 +27357,6 @@ EndChar
 StartChar: Hbar
 Encoding: 294 294 230
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -27751,7 +27523,6 @@ EndChar
 StartChar: hbar
 Encoding: 295 295 231
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -27912,7 +27683,6 @@ EndChar
 StartChar: Itilde
 Encoding: 296 296 232
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -27944,7 +27714,6 @@ EndChar
 StartChar: itilde
 Encoding: 297 297 233
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 PUSHB_5
@@ -27977,7 +27746,6 @@ EndChar
 StartChar: Imacron
 Encoding: 298 298 234
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -28009,7 +27777,6 @@ EndChar
 StartChar: imacron
 Encoding: 299 299 235
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 PUSHB_5
@@ -28042,7 +27809,6 @@ EndChar
 StartChar: Ibreve
 Encoding: 300 300 236
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -28074,7 +27840,6 @@ EndChar
 StartChar: ibreve
 Encoding: 301 301 237
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -28106,7 +27871,6 @@ EndChar
 StartChar: Iogonek
 Encoding: 302 302 238
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 PUSHB_8
@@ -28133,7 +27897,6 @@ EndChar
 StartChar: iogonek
 Encoding: 303 303 239
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 PUSHB_8
@@ -28160,7 +27923,6 @@ EndChar
 StartChar: Idotaccent
 Encoding: 304 304 240
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -28192,7 +27954,6 @@ EndChar
 StartChar: dotlessi
 Encoding: 305 305 241
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -28267,7 +28028,6 @@ EndChar
 StartChar: IJ
 Encoding: 306 306 242
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -28416,7 +28176,6 @@ EndChar
 StartChar: ij
 Encoding: 307 307 243
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -28573,7 +28332,6 @@ EndChar
 StartChar: Jcircumflex
 Encoding: 308 308 244
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -28605,7 +28363,6 @@ EndChar
 StartChar: jcircumflex
 Encoding: 309 309 245
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -28637,7 +28394,6 @@ EndChar
 StartChar: Kcommaaccent
 Encoding: 310 310 246
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 PUSHW_2
@@ -28662,7 +28418,6 @@ EndChar
 StartChar: kcommaaccent
 Encoding: 311 311 247
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 PUSHW_2
@@ -28687,7 +28442,6 @@ EndChar
 StartChar: kgreenlandic
 Encoding: 312 312 248
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -28885,7 +28639,6 @@ EndChar
 StartChar: Lacute
 Encoding: 313 313 249
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 PUSHB_5
@@ -28918,7 +28671,6 @@ EndChar
 StartChar: lacute
 Encoding: 314 314 250
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -29045,7 +28797,6 @@ EndChar
 StartChar: Lcommaaccent
 Encoding: 315 315 251
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 PUSHW_2
@@ -29070,7 +28821,6 @@ EndChar
 StartChar: lcommaaccent
 Encoding: 316 316 252
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 PUSHW_2
@@ -29095,7 +28845,6 @@ EndChar
 StartChar: Lcaron
 Encoding: 317 317 253
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -29126,7 +28875,6 @@ EndChar
 StartChar: lcaron
 Encoding: 318 318 254
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 PUSHB_4
@@ -29158,7 +28906,6 @@ EndChar
 StartChar: Ldot
 Encoding: 319 319 255
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 PUSHB_7
@@ -29182,7 +28929,6 @@ EndChar
 StartChar: ldot
 Encoding: 320 320 256
 Width: 1229
-GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
@@ -29193,7 +28939,6 @@ EndChar
 StartChar: Lslash
 Encoding: 321 321 257
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -29321,7 +29066,6 @@ EndChar
 StartChar: lslash
 Encoding: 322 322 258
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -29476,7 +29220,6 @@ EndChar
 StartChar: Nacute
 Encoding: 323 323 259
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -29508,7 +29251,6 @@ EndChar
 StartChar: nacute
 Encoding: 324 324 260
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -29540,7 +29282,6 @@ EndChar
 StartChar: Ncommaaccent
 Encoding: 325 325 261
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 PUSHW_2
@@ -29565,7 +29306,6 @@ EndChar
 StartChar: ncommaaccent
 Encoding: 326 326 262
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 PUSHW_2
@@ -29590,7 +29330,6 @@ EndChar
 StartChar: Ncaron
 Encoding: 327 327 263
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -29622,7 +29361,6 @@ EndChar
 StartChar: ncaron
 Encoding: 328 328 264
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -29654,7 +29392,6 @@ EndChar
 StartChar: napostrophe
 Encoding: 329 329 265
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 PUSHB_7
@@ -29690,7 +29427,6 @@ EndChar
 StartChar: Eng
 Encoding: 330 330 266
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -29903,7 +29639,6 @@ EndChar
 StartChar: eng
 Encoding: 331 331 267
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -30040,7 +29775,6 @@ EndChar
 StartChar: Omacron
 Encoding: 332 332 268
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -30072,7 +29806,6 @@ EndChar
 StartChar: omacron
 Encoding: 333 333 269
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -30104,7 +29837,6 @@ EndChar
 StartChar: Obreve
 Encoding: 334 334 270
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -30136,7 +29868,6 @@ EndChar
 StartChar: obreve
 Encoding: 335 335 271
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -30168,7 +29899,6 @@ EndChar
 StartChar: Ohungarumlaut
 Encoding: 336 336 272
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -30204,7 +29934,6 @@ EndChar
 StartChar: ohungarumlaut
 Encoding: 337 337 273
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -30240,7 +29969,6 @@ EndChar
 StartChar: OE
 Encoding: 338 338 274
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -30404,7 +30132,6 @@ EndChar
 StartChar: oe
 Encoding: 339 339 275
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -30642,7 +30369,6 @@ EndChar
 StartChar: Racute
 Encoding: 340 340 276
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -30674,7 +30400,6 @@ EndChar
 StartChar: racute
 Encoding: 341 341 277
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -30706,7 +30431,6 @@ EndChar
 StartChar: Rcommaaccent
 Encoding: 342 342 278
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 PUSHW_2
@@ -30731,7 +30455,6 @@ EndChar
 StartChar: rcommaaccent
 Encoding: 343 343 279
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 PUSHW_2
@@ -30756,7 +30479,6 @@ EndChar
 StartChar: Rcaron
 Encoding: 344 344 280
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 PUSHB_5
@@ -30789,7 +30511,6 @@ EndChar
 StartChar: rcaron
 Encoding: 345 345 281
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 PUSHB_5
@@ -30822,7 +30543,6 @@ EndChar
 StartChar: Sacute
 Encoding: 346 346 282
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -30854,7 +30574,6 @@ EndChar
 StartChar: sacute
 Encoding: 347 347 283
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -30886,7 +30605,6 @@ EndChar
 StartChar: Scircumflex
 Encoding: 348 348 284
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -30918,7 +30636,6 @@ EndChar
 StartChar: scircumflex
 Encoding: 349 349 285
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -30950,7 +30667,6 @@ EndChar
 StartChar: Scedilla
 Encoding: 350 350 286
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 PUSHB_7
@@ -30974,7 +30690,6 @@ EndChar
 StartChar: scedilla
 Encoding: 351 351 287
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 PUSHB_7
@@ -30998,7 +30713,6 @@ EndChar
 StartChar: Scaron
 Encoding: 352 352 288
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -31030,7 +30744,6 @@ EndChar
 StartChar: scaron
 Encoding: 353 353 289
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -31062,7 +30775,6 @@ EndChar
 StartChar: Tcommaaccent
 Encoding: 354 354 290
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 PUSHW_2
@@ -31087,7 +30799,6 @@ EndChar
 StartChar: tcommaaccent
 Encoding: 355 355 291
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 PUSHB_7
@@ -31111,7 +30822,6 @@ EndChar
 StartChar: Tcaron
 Encoding: 356 356 292
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -31143,7 +30853,6 @@ EndChar
 StartChar: tcaron
 Encoding: 357 357 293
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 PUSHB_2
@@ -31172,7 +30881,6 @@ EndChar
 StartChar: Tbar
 Encoding: 358 358 294
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -31313,7 +31021,6 @@ EndChar
 StartChar: tbar
 Encoding: 359 359 295
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -31482,7 +31189,6 @@ EndChar
 StartChar: Utilde
 Encoding: 360 360 296
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -31514,7 +31220,6 @@ EndChar
 StartChar: utilde
 Encoding: 361 361 297
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 PUSHB_5
@@ -31547,7 +31252,6 @@ EndChar
 StartChar: Umacron
 Encoding: 362 362 298
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -31579,7 +31283,6 @@ EndChar
 StartChar: umacron
 Encoding: 363 363 299
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 PUSHB_5
@@ -31612,7 +31315,6 @@ EndChar
 StartChar: Ubreve
 Encoding: 364 364 300
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -31644,7 +31346,6 @@ EndChar
 StartChar: ubreve
 Encoding: 365 365 301
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 PUSHB_5
@@ -31677,7 +31378,6 @@ EndChar
 StartChar: Uring
 Encoding: 366 366 302
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 PUSHB_3
@@ -31735,7 +31435,6 @@ EndChar
 StartChar: uring
 Encoding: 367 367 303
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 PUSHB_7
@@ -31772,7 +31471,6 @@ EndChar
 StartChar: Uhungarumlaut
 Encoding: 368 368 304
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -31808,7 +31506,6 @@ EndChar
 StartChar: uhungarumlaut
 Encoding: 369 369 305
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -31844,7 +31541,6 @@ EndChar
 StartChar: Uogonek
 Encoding: 370 370 306
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 PUSHB_7
@@ -31868,7 +31564,6 @@ EndChar
 StartChar: uogonek
 Encoding: 371 371 307
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 PUSHB_7
@@ -31892,7 +31587,6 @@ EndChar
 StartChar: Wcircumflex
 Encoding: 372 372 308
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 PUSHB_5
@@ -31925,7 +31619,6 @@ EndChar
 StartChar: wcircumflex
 Encoding: 373 373 309
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 PUSHB_5
@@ -31958,7 +31651,6 @@ EndChar
 StartChar: Ycircumflex
 Encoding: 374 374 310
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 PUSHB_5
@@ -31991,7 +31683,6 @@ EndChar
 StartChar: ycircumflex
 Encoding: 375 375 311
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 PUSHB_5
@@ -32024,7 +31715,6 @@ EndChar
 StartChar: Ydieresis
 Encoding: 376 376 312
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -32060,7 +31750,6 @@ EndChar
 StartChar: Zacute
 Encoding: 377 377 313
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -32092,7 +31781,6 @@ EndChar
 StartChar: zacute
 Encoding: 378 378 314
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -32124,7 +31812,6 @@ EndChar
 StartChar: Zdotaccent
 Encoding: 379 379 315
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -32156,7 +31843,6 @@ EndChar
 StartChar: zdotaccent
 Encoding: 380 380 316
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 PUSHB_7
@@ -32180,7 +31866,6 @@ EndChar
 StartChar: Zcaron
 Encoding: 381 381 317
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -32212,7 +31897,6 @@ EndChar
 StartChar: zcaron
 Encoding: 382 382 318
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -32244,7 +31928,6 @@ EndChar
 StartChar: longs
 Encoding: 383 383 319
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 PUSHW_2
@@ -32338,7 +32021,6 @@ EndChar
 StartChar: florin
 Encoding: 402 402 320
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -32468,7 +32150,6 @@ EndChar
 StartChar: Aringacute
 Encoding: 506 506 321
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -32823,7 +32504,6 @@ EndChar
 StartChar: aringacute
 Encoding: 507 507 322
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -33230,7 +32910,6 @@ EndChar
 StartChar: AEacute
 Encoding: 508 508 323
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 PUSHB_5
@@ -33263,7 +32942,6 @@ EndChar
 StartChar: aeacute
 Encoding: 509 509 324
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -33295,7 +32973,6 @@ EndChar
 StartChar: Oslashacute
 Encoding: 510 510 325
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -33327,7 +33004,6 @@ EndChar
 StartChar: oslashacute
 Encoding: 511 511 326
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -33359,7 +33035,6 @@ EndChar
 StartChar: circumflex
 Encoding: 710 710 327
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -33420,7 +33095,6 @@ EndChar
 StartChar: caron
 Encoding: 711 711 328
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -33486,7 +33160,6 @@ EndChar
 StartChar: uni02C9
 Encoding: 713 713 329
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -33524,7 +33197,6 @@ EndChar
 StartChar: breve
 Encoding: 728 728 330
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -33601,7 +33273,6 @@ EndChar
 StartChar: dotaccent
 Encoding: 729 729 331
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -33640,7 +33311,6 @@ EndChar
 StartChar: ring
 Encoding: 730 730 332
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 PUSHW_2
@@ -33823,7 +33493,6 @@ EndChar
 StartChar: ogonek
 Encoding: 731 731 333
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -33903,7 +33572,6 @@ EndChar
 StartChar: tilde
 Encoding: 732 732 334
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -34023,7 +33691,6 @@ EndChar
 StartChar: hungarumlaut
 Encoding: 733 733 335
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -34138,7 +33805,6 @@ EndChar
 StartChar: tonos
 Encoding: 900 900 336
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -34202,7 +33868,6 @@ EndChar
 StartChar: dieresistonos
 Encoding: 901 901 337
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 PUSHB_3
@@ -34345,7 +34010,6 @@ EndChar
 StartChar: Alphatonos
 Encoding: 902 902 338
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 PUSHB_4
@@ -34377,7 +34041,6 @@ EndChar
 StartChar: anoteleia
 Encoding: 903 903 339
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -34435,7 +34098,6 @@ EndChar
 StartChar: Epsilontonos
 Encoding: 904 904 340
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 PUSHB_5
@@ -34483,7 +34145,6 @@ EndChar
 StartChar: Etatonos
 Encoding: 905 905 341
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -34618,7 +34279,6 @@ EndChar
 StartChar: Iotatonos
 Encoding: 906 906 342
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 PUSHB_5
@@ -34666,7 +34326,6 @@ EndChar
 StartChar: Omicrontonos
 Encoding: 908 908 343
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 PUSHB_4
@@ -34698,7 +34357,6 @@ EndChar
 StartChar: Upsilontonos
 Encoding: 910 910 344
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -34875,7 +34533,6 @@ EndChar
 StartChar: Omegatonos
 Encoding: 911 911 345
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -35131,7 +34788,6 @@ EndChar
 StartChar: iotadieresistonos
 Encoding: 912 912 346
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 PUSHB_6
@@ -35168,7 +34824,6 @@ EndChar
 StartChar: Alpha
 Encoding: 913 913 347
 Width: 1229
-GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
@@ -35178,7 +34833,6 @@ EndChar
 StartChar: Beta
 Encoding: 914 914 348
 Width: 1229
-GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
@@ -35188,7 +34842,6 @@ EndChar
 StartChar: Gamma
 Encoding: 915 915 349
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -35240,7 +34893,6 @@ EndChar
 StartChar: Delta
 Encoding: 916 916 350
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -35393,7 +35045,6 @@ EndChar
 StartChar: Epsilon
 Encoding: 917 917 351
 Width: 1229
-GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
@@ -35403,7 +35054,6 @@ EndChar
 StartChar: Zeta
 Encoding: 918 918 352
 Width: 1229
-GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
@@ -35413,7 +35063,6 @@ EndChar
 StartChar: Eta
 Encoding: 919 919 353
 Width: 1229
-GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
@@ -35423,7 +35072,6 @@ EndChar
 StartChar: Theta
 Encoding: 920 920 354
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -35666,7 +35314,6 @@ EndChar
 StartChar: Iota
 Encoding: 921 921 355
 Width: 1229
-GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
@@ -35676,7 +35323,6 @@ EndChar
 StartChar: Kappa
 Encoding: 922 922 356
 Width: 1229
-GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
@@ -35686,7 +35332,6 @@ EndChar
 StartChar: Lambda
 Encoding: 923 923 357
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -35808,7 +35453,6 @@ EndChar
 StartChar: Mu
 Encoding: 924 924 358
 Width: 1229
-GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
@@ -35818,7 +35462,6 @@ EndChar
 StartChar: Nu
 Encoding: 925 925 359
 Width: 1229
-GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
@@ -35828,7 +35471,6 @@ EndChar
 StartChar: Xi
 Encoding: 926 926 360
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -35991,7 +35633,6 @@ EndChar
 StartChar: Omicron
 Encoding: 927 927 361
 Width: 1229
-GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
@@ -36001,7 +35642,6 @@ EndChar
 StartChar: Pi
 Encoding: 928 928 362
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -36090,7 +35730,6 @@ EndChar
 StartChar: Rho
 Encoding: 929 929 363
 Width: 1229
-GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
@@ -36100,7 +35739,6 @@ EndChar
 StartChar: Sigma
 Encoding: 931 931 364
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -36229,7 +35867,6 @@ EndChar
 StartChar: Tau
 Encoding: 932 932 365
 Width: 1229
-GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
@@ -36239,7 +35876,6 @@ EndChar
 StartChar: Upsilon
 Encoding: 933 933 366
 Width: 1229
-GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
@@ -36249,7 +35885,6 @@ EndChar
 StartChar: Phi
 Encoding: 934 934 367
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 PUSHW_2
@@ -36458,7 +36093,6 @@ EndChar
 StartChar: Chi
 Encoding: 935 935 368
 Width: 1229
-GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
@@ -36468,7 +36102,6 @@ EndChar
 StartChar: Psi
 Encoding: 936 936 369
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -36619,7 +36252,6 @@ EndChar
 StartChar: Omega
 Encoding: 937 937 370
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -36896,7 +36528,6 @@ EndChar
 StartChar: Iotadieresis
 Encoding: 938 938 371
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -36932,7 +36563,6 @@ EndChar
 StartChar: Upsilondieresis
 Encoding: 939 939 372
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -36968,7 +36598,6 @@ EndChar
 StartChar: alphatonos
 Encoding: 940 940 373
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -37000,7 +36629,6 @@ EndChar
 StartChar: epsilontonos
 Encoding: 941 941 374
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -37032,7 +36660,6 @@ EndChar
 StartChar: etatonos
 Encoding: 942 942 375
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -37064,7 +36691,6 @@ EndChar
 StartChar: iotatonos
 Encoding: 943 943 376
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -37096,7 +36722,6 @@ EndChar
 StartChar: upsilondieresistonos
 Encoding: 944 944 377
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 PUSHB_6
@@ -37133,7 +36758,6 @@ EndChar
 StartChar: alpha
 Encoding: 945 945 378
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -37346,7 +36970,6 @@ EndChar
 StartChar: beta
 Encoding: 946 946 379
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 PUSHB_8
@@ -37552,7 +37175,6 @@ EndChar
 StartChar: gamma
 Encoding: 947 947 380
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -37769,7 +37391,6 @@ EndChar
 StartChar: delta
 Encoding: 948 948 381
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -37988,7 +37609,6 @@ EndChar
 StartChar: epsilon
 Encoding: 949 949 382
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -38186,7 +37806,6 @@ EndChar
 StartChar: zeta
 Encoding: 950 950 383
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -38370,7 +37989,6 @@ EndChar
 StartChar: eta
 Encoding: 951 951 384
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -38480,7 +38098,6 @@ EndChar
 StartChar: theta
 Encoding: 952 952 385
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 PUSHB_7
@@ -38707,7 +38324,6 @@ EndChar
 StartChar: iota
 Encoding: 953 953 386
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -38825,7 +38441,6 @@ EndChar
 StartChar: kappa
 Encoding: 954 954 387
 Width: 1229
-GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
@@ -38835,7 +38450,6 @@ EndChar
 StartChar: lambda
 Encoding: 955 955 388
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -39090,7 +38704,6 @@ EndChar
 StartChar: mu
 Encoding: 956 956 389
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -39243,7 +38856,6 @@ EndChar
 StartChar: nu
 Encoding: 957 957 390
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 PUSHB_6
@@ -39397,7 +39009,6 @@ EndChar
 StartChar: xi
 Encoding: 958 958 391
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -39647,7 +39258,6 @@ EndChar
 StartChar: omicron
 Encoding: 959 959 392
 Width: 1229
-GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
@@ -39657,7 +39267,6 @@ EndChar
 StartChar: pi
 Encoding: 960 960 393
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -39813,7 +39422,6 @@ EndChar
 StartChar: rho
 Encoding: 961 961 394
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -39989,7 +39597,6 @@ EndChar
 StartChar: sigma1
 Encoding: 962 962 395
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -40178,7 +39785,6 @@ EndChar
 StartChar: sigma
 Encoding: 963 963 396
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -40361,7 +39967,6 @@ EndChar
 StartChar: tau
 Encoding: 964 964 397
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -40484,7 +40089,6 @@ EndChar
 StartChar: upsilon
 Encoding: 965 965 398
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -40593,7 +40197,6 @@ EndChar
 StartChar: phi
 Encoding: 966 966 399
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 PUSHB_6
@@ -40790,7 +40393,6 @@ EndChar
 StartChar: chi
 Encoding: 967 967 400
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -41048,7 +40650,6 @@ EndChar
 StartChar: psi
 Encoding: 968 968 401
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -41226,7 +40827,6 @@ EndChar
 StartChar: omega
 Encoding: 969 969 402
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -41453,7 +41053,6 @@ EndChar
 StartChar: iotadieresis
 Encoding: 970 970 403
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 PUSHB_7
@@ -41490,7 +41089,6 @@ EndChar
 StartChar: upsilondieresis
 Encoding: 971 971 404
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 PUSHB_7
@@ -41527,7 +41125,6 @@ EndChar
 StartChar: omicrontonos
 Encoding: 972 972 405
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -41559,7 +41156,6 @@ EndChar
 StartChar: upsilontonos
 Encoding: 973 973 406
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -41591,7 +41187,6 @@ EndChar
 StartChar: omegatonos
 Encoding: 974 974 407
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -41623,7 +41218,6 @@ EndChar
 StartChar: afii10023
 Encoding: 1025 1025 408
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 PUSHB_7
@@ -41660,7 +41254,6 @@ EndChar
 StartChar: afii10051
 Encoding: 1026 1026 409
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 PUSHB_6
@@ -41813,7 +41406,6 @@ EndChar
 StartChar: afii10052
 Encoding: 1027 1027 410
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -41845,7 +41437,6 @@ EndChar
 StartChar: afii10053
 Encoding: 1028 1028 411
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -42076,7 +41667,6 @@ EndChar
 StartChar: afii10054
 Encoding: 1029 1029 412
 Width: 1229
-GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
@@ -42086,7 +41676,6 @@ EndChar
 StartChar: afii10055
 Encoding: 1030 1030 413
 Width: 1229
-GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
@@ -42096,7 +41685,6 @@ EndChar
 StartChar: afii10056
 Encoding: 1031 1031 414
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -42132,7 +41720,6 @@ EndChar
 StartChar: afii10057
 Encoding: 1032 1032 415
 Width: 1229
-GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
@@ -42142,7 +41729,6 @@ EndChar
 StartChar: afii10058
 Encoding: 1033 1033 416
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -42293,7 +41879,6 @@ EndChar
 StartChar: afii10059
 Encoding: 1034 1034 417
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -42422,7 +42007,6 @@ EndChar
 StartChar: afii10060
 Encoding: 1035 1035 418
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 PUSHW_2
@@ -42542,7 +42126,6 @@ EndChar
 StartChar: afii10061
 Encoding: 1036 1036 419
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -42574,7 +42157,6 @@ EndChar
 StartChar: afii10062
 Encoding: 1038 1038 420
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -42606,7 +42188,6 @@ EndChar
 StartChar: afii10145
 Encoding: 1039 1039 421
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -42721,7 +42302,6 @@ EndChar
 StartChar: afii10017
 Encoding: 1040 1040 422
 Width: 1229
-GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
@@ -42731,7 +42311,6 @@ EndChar
 StartChar: afii10018
 Encoding: 1041 1041 423
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -42887,7 +42466,6 @@ EndChar
 StartChar: afii10019
 Encoding: 1042 1042 424
 Width: 1229
-GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
@@ -42897,7 +42475,6 @@ EndChar
 StartChar: afii10020
 Encoding: 1043 1043 425
 Width: 1229
-GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
@@ -42907,7 +42484,6 @@ EndChar
 StartChar: afii10021
 Encoding: 1044 1044 426
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -43056,7 +42632,6 @@ EndChar
 StartChar: afii10022
 Encoding: 1045 1045 427
 Width: 1229
-GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
@@ -43066,7 +42641,6 @@ EndChar
 StartChar: afii10024
 Encoding: 1046 1046 428
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -43338,7 +42912,6 @@ EndChar
 StartChar: afii10025
 Encoding: 1047 1047 429
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 PUSHB_6
@@ -43640,7 +43213,6 @@ EndChar
 StartChar: afii10026
 Encoding: 1048 1048 430
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -43818,7 +43390,6 @@ EndChar
 StartChar: afii10027
 Encoding: 1049 1049 431
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 PUSHB_5
@@ -43851,7 +43422,6 @@ EndChar
 StartChar: afii10028
 Encoding: 1050 1050 432
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -44015,7 +43585,6 @@ EndChar
 StartChar: afii10029
 Encoding: 1051 1051 433
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -44151,7 +43720,6 @@ EndChar
 StartChar: afii10030
 Encoding: 1052 1052 434
 Width: 1229
-GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
@@ -44161,7 +43729,6 @@ EndChar
 StartChar: afii10031
 Encoding: 1053 1053 435
 Width: 1229
-GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
@@ -44171,7 +43738,6 @@ EndChar
 StartChar: afii10032
 Encoding: 1054 1054 436
 Width: 1229
-GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
@@ -44181,7 +43747,6 @@ EndChar
 StartChar: afii10033
 Encoding: 1055 1055 437
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -44270,7 +43835,6 @@ EndChar
 StartChar: afii10034
 Encoding: 1056 1056 438
 Width: 1229
-GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
@@ -44280,7 +43844,6 @@ EndChar
 StartChar: afii10035
 Encoding: 1057 1057 439
 Width: 1229
-GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
@@ -44290,7 +43853,6 @@ EndChar
 StartChar: afii10036
 Encoding: 1058 1058 440
 Width: 1229
-GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
@@ -44300,7 +43862,6 @@ EndChar
 StartChar: afii10037
 Encoding: 1059 1059 441
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -44457,7 +44018,6 @@ EndChar
 StartChar: afii10038
 Encoding: 1060 1060 442
 Width: 1229
-GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
@@ -44467,7 +44027,6 @@ EndChar
 StartChar: afii10039
 Encoding: 1061 1061 443
 Width: 1229
-GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
@@ -44477,7 +44036,6 @@ EndChar
 StartChar: afii10040
 Encoding: 1062 1062 444
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -44580,7 +44138,6 @@ EndChar
 StartChar: afii10041
 Encoding: 1063 1063 445
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -44692,7 +44249,6 @@ EndChar
 StartChar: afii10042
 Encoding: 1064 1064 446
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -44825,7 +44381,6 @@ EndChar
 StartChar: afii10043
 Encoding: 1065 1065 447
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -44996,7 +44551,6 @@ EndChar
 StartChar: afii10044
 Encoding: 1066 1066 448
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -45131,7 +44685,6 @@ EndChar
 StartChar: afii10045
 Encoding: 1067 1067 449
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -45301,7 +44854,6 @@ EndChar
 StartChar: afii10046
 Encoding: 1068 1068 450
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -45434,7 +44986,6 @@ EndChar
 StartChar: afii10047
 Encoding: 1069 1069 451
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -45658,7 +45209,6 @@ EndChar
 StartChar: afii10048
 Encoding: 1070 1070 452
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -45835,7 +45385,6 @@ EndChar
 StartChar: afii10049
 Encoding: 1071 1071 453
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -46029,7 +45578,6 @@ EndChar
 StartChar: afii10065
 Encoding: 1072 1072 454
 Width: 1229
-GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
@@ -46039,7 +45587,6 @@ EndChar
 StartChar: afii10066
 Encoding: 1073 1073 455
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -46238,7 +45785,6 @@ EndChar
 StartChar: afii10067
 Encoding: 1074 1074 456
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -46379,7 +45925,6 @@ EndChar
 StartChar: afii10068
 Encoding: 1075 1075 457
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -46443,7 +45988,6 @@ EndChar
 StartChar: afii10069
 Encoding: 1076 1076 458
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -46608,7 +46152,6 @@ EndChar
 StartChar: afii10070
 Encoding: 1077 1077 459
 Width: 1229
-GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
@@ -46618,7 +46161,6 @@ EndChar
 StartChar: afii10072
 Encoding: 1078 1078 460
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -46905,7 +46447,6 @@ EndChar
 StartChar: afii10073
 Encoding: 1079 1079 461
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -47131,7 +46672,6 @@ EndChar
 StartChar: afii10074
 Encoding: 1080 1080 462
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -47251,7 +46791,6 @@ EndChar
 StartChar: afii10075
 Encoding: 1081 1081 463
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -47283,7 +46822,6 @@ EndChar
 StartChar: afii10076
 Encoding: 1082 1082 464
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -47483,7 +47021,6 @@ EndChar
 StartChar: afii10077
 Encoding: 1083 1083 465
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -47608,7 +47145,6 @@ EndChar
 StartChar: afii10078
 Encoding: 1084 1084 466
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -47800,7 +47336,6 @@ EndChar
 StartChar: afii10079
 Encoding: 1085 1085 467
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -47887,7 +47422,6 @@ EndChar
 StartChar: afii10080
 Encoding: 1086 1086 468
 Width: 1229
-GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
@@ -47897,7 +47431,6 @@ EndChar
 StartChar: afii10081
 Encoding: 1087 1087 469
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -47966,7 +47499,6 @@ EndChar
 StartChar: afii10082
 Encoding: 1088 1088 470
 Width: 1229
-GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
@@ -47976,7 +47508,6 @@ EndChar
 StartChar: afii10083
 Encoding: 1089 1089 471
 Width: 1229
-GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
@@ -47986,7 +47517,6 @@ EndChar
 StartChar: afii10084
 Encoding: 1090 1090 472
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -48064,7 +47594,6 @@ EndChar
 StartChar: afii10085
 Encoding: 1091 1091 473
 Width: 1229
-GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
@@ -48074,7 +47603,6 @@ EndChar
 StartChar: afii10086
 Encoding: 1092 1092 474
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 PUSHB_4
@@ -48265,7 +47793,6 @@ EndChar
 StartChar: afii10087
 Encoding: 1093 1093 475
 Width: 1229
-GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
@@ -48275,7 +47802,6 @@ EndChar
 StartChar: afii10088
 Encoding: 1094 1094 476
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -48399,7 +47925,6 @@ EndChar
 StartChar: afii10089
 Encoding: 1095 1095 477
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -48519,7 +48044,6 @@ EndChar
 StartChar: afii10090
 Encoding: 1096 1096 478
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -48640,7 +48164,6 @@ EndChar
 StartChar: afii10091
 Encoding: 1097 1097 479
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -48824,7 +48347,6 @@ EndChar
 StartChar: afii10092
 Encoding: 1098 1098 480
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 PUSHB_6
@@ -48935,7 +48457,6 @@ EndChar
 StartChar: afii10093
 Encoding: 1099 1099 481
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 PUSHB_8
@@ -49103,7 +48624,6 @@ EndChar
 StartChar: afii10094
 Encoding: 1100 1100 482
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -49207,7 +48727,6 @@ EndChar
 StartChar: afii10095
 Encoding: 1101 1101 483
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -49421,7 +48940,6 @@ EndChar
 StartChar: afii10096
 Encoding: 1102 1102 484
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -49618,7 +49136,6 @@ EndChar
 StartChar: afii10097
 Encoding: 1103 1103 485
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -49773,7 +49290,6 @@ EndChar
 StartChar: afii10071
 Encoding: 1105 1105 486
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -49809,7 +49325,6 @@ EndChar
 StartChar: afii10099
 Encoding: 1106 1106 487
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -49998,7 +49513,6 @@ EndChar
 StartChar: afii10100
 Encoding: 1107 1107 488
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -50030,7 +49544,6 @@ EndChar
 StartChar: afii10101
 Encoding: 1108 1108 489
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -50222,7 +49735,6 @@ EndChar
 StartChar: afii10102
 Encoding: 1109 1109 490
 Width: 1229
-GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
@@ -50232,7 +49744,6 @@ EndChar
 StartChar: afii10103
 Encoding: 1110 1110 491
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 PUSHB_7
@@ -50256,7 +49767,6 @@ EndChar
 StartChar: afii10104
 Encoding: 1111 1111 492
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -50292,7 +49802,6 @@ EndChar
 StartChar: afii10105
 Encoding: 1112 1112 493
 Width: 1229
-GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
@@ -50302,7 +49811,6 @@ EndChar
 StartChar: afii10106
 Encoding: 1113 1113 494
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -50470,7 +49978,6 @@ EndChar
 StartChar: afii10107
 Encoding: 1114 1114 495
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -50607,7 +50114,6 @@ EndChar
 StartChar: afii10108
 Encoding: 1115 1115 496
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -50770,7 +50276,6 @@ EndChar
 StartChar: afii10109
 Encoding: 1116 1116 497
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -50802,7 +50307,6 @@ EndChar
 StartChar: afii10110
 Encoding: 1118 1118 498
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -50834,7 +50338,6 @@ EndChar
 StartChar: afii10193
 Encoding: 1119 1119 499
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -50921,7 +50424,6 @@ EndChar
 StartChar: afii10050
 Encoding: 1168 1168 500
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -51017,7 +50519,6 @@ EndChar
 StartChar: afii10098
 Encoding: 1169 1169 501
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -51119,7 +50620,6 @@ EndChar
 StartChar: Wgrave
 Encoding: 7808 7808 502
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 PUSHB_5
@@ -51152,7 +50652,6 @@ EndChar
 StartChar: wgrave
 Encoding: 7809 7809 503
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 PUSHB_5
@@ -51185,7 +50684,6 @@ EndChar
 StartChar: Wacute
 Encoding: 7810 7810 504
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -51217,7 +50715,6 @@ EndChar
 StartChar: wacute
 Encoding: 7811 7811 505
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -51249,7 +50746,6 @@ EndChar
 StartChar: Wdieresis
 Encoding: 7812 7812 506
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -51285,7 +50781,6 @@ EndChar
 StartChar: wdieresis
 Encoding: 7813 7813 507
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -51321,7 +50816,6 @@ EndChar
 StartChar: Ygrave
 Encoding: 7922 7922 508
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 PUSHB_5
@@ -51354,7 +50848,6 @@ EndChar
 StartChar: ygrave
 Encoding: 7923 7923 509
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 PUSHB_5
@@ -51387,7 +50880,6 @@ EndChar
 StartChar: endash
 Encoding: 8211 8211 510
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 PUSHB_6
@@ -51420,7 +50912,6 @@ EndChar
 StartChar: emdash
 Encoding: 8212 8212 511
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 PUSHB_6
@@ -51453,7 +50944,6 @@ EndChar
 StartChar: afii00208
 Encoding: 8213 8213 512
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 PUSHB_5
@@ -51485,7 +50975,6 @@ EndChar
 StartChar: underscoredbl
 Encoding: 8215 8215 513
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 PUSHB_7
@@ -51546,7 +51035,6 @@ EndChar
 StartChar: quoteleft
 Encoding: 8216 8216 514
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 PUSHB_6
@@ -51605,7 +51093,6 @@ EndChar
 StartChar: quoteright
 Encoding: 8217 8217 515
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -51674,7 +51161,6 @@ EndChar
 StartChar: quotesinglbase
 Encoding: 8218 8218 516
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -51751,7 +51237,6 @@ EndChar
 StartChar: quotereversed
 Encoding: 8219 8219 517
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -51823,7 +51308,6 @@ EndChar
 StartChar: quotedblleft
 Encoding: 8220 8220 518
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 PUSHB_6
@@ -51931,7 +51415,6 @@ EndChar
 StartChar: quotedblright
 Encoding: 8221 8221 519
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -52058,7 +51541,6 @@ EndChar
 StartChar: quotedblbase
 Encoding: 8222 8222 520
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -52187,7 +51669,6 @@ EndChar
 StartChar: dagger
 Encoding: 8224 8224 521
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -52257,7 +51738,6 @@ EndChar
 StartChar: daggerdbl
 Encoding: 8225 8225 522
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -52359,7 +51839,6 @@ EndChar
 StartChar: bullet
 Encoding: 8226 8226 523
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -52444,7 +51923,6 @@ EndChar
 StartChar: ellipsis
 Encoding: 8230 8230 524
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -52532,7 +52010,6 @@ EndChar
 StartChar: perthousand
 Encoding: 8240 8240 525
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 PUSHW_2
@@ -52881,7 +52358,6 @@ EndChar
 StartChar: minute
 Encoding: 8242 8242 526
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -52927,7 +52403,6 @@ EndChar
 StartChar: second
 Encoding: 8243 8243 527
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -52989,7 +52464,6 @@ EndChar
 StartChar: guilsinglleft
 Encoding: 8249 8249 528
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -53058,7 +52532,6 @@ EndChar
 StartChar: guilsinglright
 Encoding: 8250 8250 529
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -53129,7 +52602,6 @@ EndChar
 StartChar: exclamdbl
 Encoding: 8252 8252 530
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -53222,7 +52694,6 @@ EndChar
 StartChar: uni203E
 Encoding: 8254 8254 531
 Width: 1229
-GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
@@ -53233,7 +52704,6 @@ StartChar: uni2215
 Encoding: 8725 8725 532
 AltUni2: 002044.ffffffff.0
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 PUSHB_8
@@ -53289,7 +52759,6 @@ EndChar
 StartChar: uni207F
 Encoding: 8319 8319 533
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 PUSHW_2
@@ -53394,7 +52863,6 @@ EndChar
 StartChar: franc
 Encoding: 8355 8355 534
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -53506,7 +52974,6 @@ EndChar
 StartChar: lira
 Encoding: 8356 8356 535
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 PUSHB_4
@@ -53772,7 +53239,6 @@ EndChar
 StartChar: peseta
 Encoding: 8359 8359 536
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 PUSHB_6
@@ -54101,7 +53567,6 @@ EndChar
 StartChar: Euro
 Encoding: 8364 8364 537
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -54314,7 +53779,6 @@ EndChar
 StartChar: afii61248
 Encoding: 8453 8453 538
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -54584,7 +54048,6 @@ EndChar
 StartChar: afii61289
 Encoding: 8467 8467 539
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 PUSHW_2
@@ -54794,7 +54257,6 @@ EndChar
 StartChar: afii61352
 Encoding: 8470 8470 540
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 PUSHW_2
@@ -55014,7 +54476,6 @@ EndChar
 StartChar: trademark
 Encoding: 8482 8482 541
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 PUSHB_6
@@ -55201,7 +54662,6 @@ EndChar
 StartChar: uni2126
 Encoding: 8486 8486 542
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -55478,7 +54938,6 @@ EndChar
 StartChar: estimated
 Encoding: 8494 8494 543
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 PUSHB_7
@@ -55618,7 +55077,6 @@ EndChar
 StartChar: oneeighth
 Encoding: 8539 8539 544
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -55668,7 +55126,6 @@ EndChar
 StartChar: threeeighths
 Encoding: 8540 8540 545
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -55718,7 +55175,6 @@ EndChar
 StartChar: fiveeighths
 Encoding: 8541 8541 546
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -55772,7 +55228,6 @@ EndChar
 StartChar: seveneighths
 Encoding: 8542 8542 547
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -55834,7 +55289,6 @@ EndChar
 StartChar: arrowleft
 Encoding: 8592 8592 548
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -55897,7 +55351,6 @@ EndChar
 StartChar: arrowup
 Encoding: 8593 8593 549
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -55956,7 +55409,6 @@ EndChar
 StartChar: arrowright
 Encoding: 8594 8594 550
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -56019,7 +55471,6 @@ EndChar
 StartChar: arrowdown
 Encoding: 8595 8595 551
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -56078,7 +55529,6 @@ EndChar
 StartChar: arrowboth
 Encoding: 8596 8596 552
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -56167,7 +55617,6 @@ EndChar
 StartChar: arrowupdn
 Encoding: 8597 8597 553
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -56252,7 +55701,6 @@ EndChar
 StartChar: arrowupdnbse
 Encoding: 8616 8616 554
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -56357,7 +55805,6 @@ EndChar
 StartChar: partialdiff
 Encoding: 8706 8706 555
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -56538,7 +55985,6 @@ EndChar
 StartChar: uni2206
 Encoding: 8710 8710 556
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -56693,7 +56139,6 @@ EndChar
 StartChar: product
 Encoding: 8719 8719 557
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -56782,7 +56227,6 @@ EndChar
 StartChar: summation
 Encoding: 8721 8721 558
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -56927,7 +56371,6 @@ EndChar
 StartChar: minus
 Encoding: 8722 8722 559
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -56969,7 +56412,6 @@ EndChar
 StartChar: uni2219
 Encoding: 8729 8729 560
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -57027,7 +56469,6 @@ EndChar
 StartChar: radical
 Encoding: 8730 8730 561
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -57134,7 +56575,6 @@ EndChar
 StartChar: infinity
 Encoding: 8734 8734 562
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -57349,7 +56789,6 @@ EndChar
 StartChar: orthogonal
 Encoding: 8735 8735 563
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 PUSHB_8
@@ -57388,7 +56827,6 @@ EndChar
 StartChar: intersection
 Encoding: 8745 8745 564
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -57479,7 +56917,6 @@ EndChar
 StartChar: integral
 Encoding: 8747 8747 565
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -57581,7 +57018,6 @@ EndChar
 StartChar: approxequal
 Encoding: 8776 8776 566
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -57826,7 +57262,6 @@ EndChar
 StartChar: notequal
 Encoding: 8800 8800 567
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -57992,7 +57427,6 @@ EndChar
 StartChar: equivalence
 Encoding: 8801 8801 568
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -58087,7 +57521,6 @@ EndChar
 StartChar: lessequal
 Encoding: 8804 8804 569
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 PUSHB_8
@@ -58248,7 +57681,6 @@ EndChar
 StartChar: greaterequal
 Encoding: 8805 8805 570
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 PUSHB_8
@@ -58409,7 +57841,6 @@ EndChar
 StartChar: house
 Encoding: 8962 8962 571
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -58478,7 +57909,6 @@ EndChar
 StartChar: revlogicalnot
 Encoding: 8976 8976 572
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -58538,7 +57968,6 @@ EndChar
 StartChar: integraltp
 Encoding: 8992 8992 573
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -58616,7 +58045,6 @@ EndChar
 StartChar: integralbt
 Encoding: 8993 8993 574
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -58694,7 +58122,6 @@ EndChar
 StartChar: SF100000
 Encoding: 9472 9472 575
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 PUSHB_5
@@ -58733,7 +58160,6 @@ EndChar
 StartChar: SF110000
 Encoding: 9474 9474 576
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 PUSHB_7
@@ -58767,7 +58193,6 @@ EndChar
 StartChar: SF010000
 Encoding: 9484 9484 577
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -58815,7 +58240,6 @@ EndChar
 StartChar: SF030000
 Encoding: 9488 9488 578
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 PUSHB_7
@@ -58858,7 +58282,6 @@ EndChar
 StartChar: SF020000
 Encoding: 9492 9492 579
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 PUSHB_7
@@ -58905,7 +58328,6 @@ EndChar
 StartChar: SF040000
 Encoding: 9496 9496 580
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 PUSHB_7
@@ -58948,7 +58370,6 @@ EndChar
 StartChar: SF080000
 Encoding: 9500 9500 581
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -59003,7 +58424,6 @@ EndChar
 StartChar: SF090000
 Encoding: 9508 9508 582
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -59054,7 +58474,6 @@ EndChar
 StartChar: SF060000
 Encoding: 9516 9516 583
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -59108,7 +58527,6 @@ EndChar
 StartChar: SF070000
 Encoding: 9524 9524 584
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -59162,7 +58580,6 @@ EndChar
 StartChar: SF050000
 Encoding: 9532 9532 585
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -59229,7 +58646,6 @@ EndChar
 StartChar: SF430000
 Encoding: 9552 9552 586
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 PUSHB_7
@@ -59285,7 +58701,6 @@ EndChar
 StartChar: SF240000
 Encoding: 9553 9553 587
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -59338,7 +58753,6 @@ EndChar
 StartChar: SF510000
 Encoding: 9554 9554 588
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -59402,7 +58816,6 @@ EndChar
 StartChar: SF520000
 Encoding: 9555 9555 589
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -59467,7 +58880,6 @@ EndChar
 StartChar: SF390000
 Encoding: 9556 9556 590
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -59543,7 +58955,6 @@ EndChar
 StartChar: SF220000
 Encoding: 9557 9557 591
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -59603,7 +59014,6 @@ EndChar
 StartChar: SF210000
 Encoding: 9558 9558 592
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -59664,7 +59074,6 @@ EndChar
 StartChar: SF250000
 Encoding: 9559 9559 593
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -59736,7 +59145,6 @@ EndChar
 StartChar: SF500000
 Encoding: 9560 9560 594
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -59800,7 +59208,6 @@ EndChar
 StartChar: SF490000
 Encoding: 9561 9561 595
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -59865,7 +59272,6 @@ EndChar
 StartChar: SF380000
 Encoding: 9562 9562 596
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -59941,7 +59347,6 @@ EndChar
 StartChar: SF280000
 Encoding: 9563 9563 597
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -60001,7 +59406,6 @@ EndChar
 StartChar: SF270000
 Encoding: 9564 9564 598
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -60062,7 +59466,6 @@ EndChar
 StartChar: SF260000
 Encoding: 9565 9565 599
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -60134,7 +59537,6 @@ EndChar
 StartChar: SF360000
 Encoding: 9566 9566 600
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -60205,7 +59607,6 @@ EndChar
 StartChar: SF370000
 Encoding: 9567 9567 601
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -60278,7 +59679,6 @@ EndChar
 StartChar: SF420000
 Encoding: 9568 9568 602
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -60368,7 +59768,6 @@ EndChar
 StartChar: SF190000
 Encoding: 9569 9569 603
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -60435,7 +59834,6 @@ EndChar
 StartChar: SF200000
 Encoding: 9570 9570 604
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -60504,7 +59902,6 @@ EndChar
 StartChar: SF230000
 Encoding: 9571 9571 605
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -60590,7 +59987,6 @@ EndChar
 StartChar: SF470000
 Encoding: 9572 9572 606
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -60661,7 +60057,6 @@ EndChar
 StartChar: SF480000
 Encoding: 9573 9573 607
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -60732,7 +60127,6 @@ EndChar
 StartChar: SF410000
 Encoding: 9574 9574 608
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -60821,7 +60215,6 @@ EndChar
 StartChar: SF450000
 Encoding: 9575 9575 609
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -60892,7 +60285,6 @@ EndChar
 StartChar: SF460000
 Encoding: 9576 9576 610
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -60963,7 +60355,6 @@ EndChar
 StartChar: SF400000
 Encoding: 9577 9577 611
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -61052,7 +60443,6 @@ EndChar
 StartChar: SF540000
 Encoding: 9578 9578 612
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -61147,7 +60537,6 @@ EndChar
 StartChar: SF530000
 Encoding: 9579 9579 613
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -61244,7 +60633,6 @@ EndChar
 StartChar: SF440000
 Encoding: 9580 9580 614
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -61360,7 +60748,6 @@ EndChar
 StartChar: upblock
 Encoding: 9600 9600 615
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 PUSHB_5
@@ -61392,7 +60779,6 @@ EndChar
 StartChar: dnblock
 Encoding: 9604 9604 616
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 PUSHB_5
@@ -61424,7 +60810,6 @@ EndChar
 StartChar: block
 Encoding: 9608 9608 617
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 PUSHB_6
@@ -61457,7 +60842,6 @@ EndChar
 StartChar: lfblock
 Encoding: 9612 9612 618
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 PUSHB_6
@@ -61490,7 +60874,6 @@ EndChar
 StartChar: rtblock
 Encoding: 9616 9616 619
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 PUSHB_6
@@ -61523,7 +60906,6 @@ EndChar
 StartChar: ltshade
 Encoding: 9617 9617 620
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 PUSHB_7
@@ -62127,7 +61509,6 @@ EndChar
 StartChar: shade
 Encoding: 9618 9618 621
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 PUSHB_4
@@ -63207,7 +62588,6 @@ EndChar
 StartChar: dkshade
 Encoding: 9619 9619 622
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 PUSHB_7
@@ -64274,7 +63654,6 @@ EndChar
 StartChar: filledbox
 Encoding: 9632 9632 623
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 PUSHB_4
@@ -64305,7 +63684,6 @@ EndChar
 StartChar: H22073
 Encoding: 9633 9633 624
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHW
@@ -64354,7 +63732,6 @@ EndChar
 StartChar: H18543
 Encoding: 9642 9642 625
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -64392,7 +63769,6 @@ EndChar
 StartChar: H18551
 Encoding: 9643 9643 626
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 PUSHW_5
@@ -64448,7 +63824,6 @@ EndChar
 StartChar: filledrect
 Encoding: 9644 9644 627
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 PUSHB_4
@@ -64479,7 +63854,6 @@ EndChar
 StartChar: triagup
 Encoding: 9650 9650 628
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 PUSHB_4
@@ -64509,7 +63883,6 @@ EndChar
 StartChar: triagrt
 Encoding: 9658 9658 629
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 PUSHB_4
@@ -64539,7 +63912,6 @@ EndChar
 StartChar: triagdn
 Encoding: 9660 9660 630
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 PUSHB_4
@@ -64569,7 +63941,6 @@ EndChar
 StartChar: triaglf
 Encoding: 9668 9668 631
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 PUSHB_4
@@ -64599,7 +63970,6 @@ EndChar
 StartChar: lozenge
 Encoding: 9674 9674 632
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -64709,7 +64079,6 @@ EndChar
 StartChar: circle
 Encoding: 9675 9675 633
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -64822,7 +64191,6 @@ EndChar
 StartChar: H18533
 Encoding: 9679 9679 634
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -64874,7 +64242,6 @@ EndChar
 StartChar: invbullet
 Encoding: 9688 9688 635
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -64939,7 +64306,6 @@ EndChar
 StartChar: invcircle
 Encoding: 9689 9689 636
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -65039,7 +64405,6 @@ EndChar
 StartChar: openbullet
 Encoding: 9702 9702 637
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 PUSHW_5
@@ -65111,7 +64476,6 @@ EndChar
 StartChar: smileface
 Encoding: 9786 9786 638
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -65381,7 +64745,6 @@ EndChar
 StartChar: invsmileface
 Encoding: 9787 9787 639
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -65561,7 +64924,6 @@ EndChar
 StartChar: sun
 Encoding: 9788 9788 640
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 PUSHB_8
@@ -65765,7 +65127,6 @@ EndChar
 StartChar: female
 Encoding: 9792 9792 641
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 PUSHB_7
@@ -65902,7 +65263,6 @@ EndChar
 StartChar: male
 Encoding: 9794 9794 642
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 PUSHB_4
@@ -66053,7 +65413,6 @@ EndChar
 StartChar: spade
 Encoding: 9824 9824 643
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -66181,7 +65540,6 @@ EndChar
 StartChar: club
 Encoding: 9827 9827 644
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -66330,7 +65688,6 @@ EndChar
 StartChar: heart
 Encoding: 9829 9829 645
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -66420,7 +65777,6 @@ EndChar
 StartChar: diamond
 Encoding: 9830 9830 646
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -66498,7 +65854,6 @@ EndChar
 StartChar: musicalnote
 Encoding: 9834 9834 647
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -66590,7 +65945,6 @@ EndChar
 StartChar: musicalnotedbl
 Encoding: 9835 9835 648
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -66777,7 +66131,6 @@ EndChar
 StartChar: uniFB01
 Encoding: 64257 64257 649
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 PUSHB_6
@@ -66950,7 +66303,6 @@ EndChar
 StartChar: uniFB02
 Encoding: 64258 64258 650
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 PUSHB_6
@@ -67094,7 +66446,6 @@ EndChar
 StartChar: u10000
 Encoding: 65536 65536 651
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -67143,7 +66494,6 @@ EndChar
 StartChar: u10001
 Encoding: 65537 65537 652
 Width: 0
-GlyphClass: 2
 Flags: W
 LayerCount: 2
 EndChar
@@ -67151,7 +66501,6 @@ EndChar
 StartChar: u10002
 Encoding: 65538 65538 653
 Width: 1229
-GlyphClass: 2
 Flags: W
 LayerCount: 2
 EndChar
@@ -67159,7 +66508,6 @@ EndChar
 StartChar: u10003
 Encoding: 65539 65539 654
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -67210,7 +66558,6 @@ EndChar
 StartChar: u10004
 Encoding: 65540 65540 655
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -67279,7 +66626,6 @@ EndChar
 StartChar: u10005
 Encoding: 65541 65541 656
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 PUSHB_3
@@ -67338,7 +66684,6 @@ EndChar
 StartChar: u10006
 Encoding: 65542 65542 657
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 PUSHW_2
@@ -67384,7 +66729,6 @@ EndChar
 StartChar: u10007
 Encoding: 65543 65543 658
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -67468,7 +66812,6 @@ EndChar
 StartChar: u10008
 Encoding: 65544 65544 659
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -67565,7 +66908,6 @@ EndChar
 StartChar: u10009
 Encoding: 65545 65545 660
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 PUSHW_2
@@ -67681,7 +67023,6 @@ EndChar
 StartChar: u1000A
 Encoding: 65546 65546 661
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 PUSHW_2
@@ -67869,7 +67210,6 @@ EndChar
 StartChar: u1000B
 Encoding: 65547 65547 662
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -67995,7 +67335,6 @@ EndChar
 StartChar: u1000C
 Encoding: 65548 65548 663
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 PUSHW_2
@@ -68131,7 +67470,6 @@ EndChar
 StartChar: u1000D
 Encoding: 65549 65549 664
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
@@ -68202,7 +67540,6 @@ EndChar
 StartChar: u1000E
 Encoding: 65550 65550 665
 Width: 1229
-GlyphClass: 2
 Flags: W
 TtInstrs:
 PUSHW_2

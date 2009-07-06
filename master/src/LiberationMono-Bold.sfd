@@ -11,9 +11,9 @@ UnderlineWidth: 205
 Ascent: 1638
 Descent: 410
 LayerCount: 2
-Layer: 0 1 "+gMyXYgAA"  1
-Layer: 1 1 "+Uk2XYgAA"  0
-XUID: [1021 131 222397055 4439687]
+Layer: 0 1 "Back"  1
+Layer: 1 1 "Fore"  0
+XUID: [1021 131 222397055 13598569]
 FSType: 8
 OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
@@ -3226,7 +3226,7 @@ NameList: Adobe Glyph List
 DisplaySize: -24
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 63 21 15
+WinInfo: 40 40 16
 BeginChars: 1114115 666
 
 StartChar: .notdef
