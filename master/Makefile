@@ -29,6 +29,11 @@ dist-ttf: clean-ttf build
 	gzip liberation-fonts-ttf-$(VER).tar
 	zip -j liberation-fonts-ttf-$(VER).zip ttf/*.ttf $(MISCFILES)
 
+clean: clean-ttf clean-src
+
 clean-ttf:
 	rm -rf ttf liberation-fonts-ttf-*
- 
+
+
+clean-src:
+	rm *.tar.gz
