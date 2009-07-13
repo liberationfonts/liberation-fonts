@@ -1,3 +1,10 @@
+* Mon 13 Jul 2009 Caius 'kaio' Chance <me AT kaio.me>
+- Updated for generation of traditional kern table via scripts.
+
+* Mon 06 Jul 2009 Caius 'kaio' Chance <me AT kaio.me>
+- Reconverted SFDs from original TTFs with traditional kern table.
+- Updated "clean" target in Makefile.
+
 * Tue 30 Jun 2009 Caius 'kaio' Chance <me AT kaio.me>
 - Reconverted SFDs from original TTFs with traditional kern table.
 - Updated "clean" target in Makefile.
