@@ -15,6 +15,8 @@ build:
 
 dist: dist-sfd
 
+dist-src: dist-sfd
+
 dist-sfd:
 	mkdir -p $(TMPDIR)/liberation-fonts-$(VER)/{src,scripts}
 	cp Makefile $(MISCFILES) $(TMPDIR)/liberation-fonts-$(VER)/

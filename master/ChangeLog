@@ -1,3 +1,7 @@
+* Tue 14 Jul 2009 Caius 'kaio' Chance <me AT kaio.me>
+- Generated TTFs with tradition kern table, with fontforge ver 20090408.
+- Added make target alias dist-src as dist-sfd.
+
 * Mon 13 Jul 2009 Caius 'kaio' Chance <me AT kaio.me>
 - Updated for generation of traditional kern table via scripts.
 
