@@ -1,3 +1,7 @@
+* Tue 21 Jul 2009 Caius 'kaio' Chance <me AT kaio.me>
+- Fixed fontforge script sfd2ttf.pe.
+- Include traditional kern table for Sans and Serif.
+
 * Tue 14 Jul 2009 Caius 'kaio' Chance <me AT kaio.me>
 - Generated TTFs with tradition kern table, with fontforge ver 20090408.
 - Added make target alias dist-src as dist-sfd.
