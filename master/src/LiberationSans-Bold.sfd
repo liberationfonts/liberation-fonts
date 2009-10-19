@@ -3101,7 +3101,7 @@ DisplaySize: -24
 AntiAlias: 1
 FitToEm: 1
 WinInfo: 40 40 16
-BeginChars: 1114115 671
+BeginChars: 1114132 668
 
 StartChar: .notdef
 Encoding: 1114112 -1 0
@@ -25960,7 +25960,7 @@ LayerCount: 2
 Fore
 Refer: 121 185 N 1 0 0 1 12 0 2
 Refer: 532 8725 N 1 0 0 1 720 0 2
-Refer: 656 65541 N 1 0 0 1 946 -693 2
+Refer: 653 -1 N 1 0 0 1 946 -693 2
 EndChar
 
 StartChar: onehalf
@@ -26018,7 +26018,7 @@ EndTTInstrs
 LayerCount: 2
 Fore
 Refer: 532 8725 N 1 0 0 1 720 0 2
-Refer: 656 65541 N 1 0 0 1 946 -693 2
+Refer: 653 -1 N 1 0 0 1 946 -693 2
 Refer: 115 179 N 1 0 0 1 59 0 2
 EndChar
 
@@ -26182,7 +26182,7 @@ EndTTInstrs
 LayerCount: 2
 Fore
 Refer: 36 65 N 1 0 0 1 0 0 3
-Refer: 663 65548 N 1 0 0 1 342 0 2
+Refer: 660 -1 N 1 0 0 1 342 0 2
 EndChar
 
 StartChar: Aacute
@@ -26213,7 +26213,7 @@ EndTTInstrs
 LayerCount: 2
 Fore
 Refer: 36 65 N 1 0 0 1 0 0 3
-Refer: 664 65549 N 1 0 0 1 486 0 2
+Refer: 661 -1 N 1 0 0 1 486 0 2
 EndChar
 
 StartChar: Acircumflex
@@ -26244,7 +26244,7 @@ EndTTInstrs
 LayerCount: 2
 Fore
 Refer: 36 65 N 1 0 0 1 0 0 3
-Refer: 665 65550 N 1 0 0 1 397 0 2
+Refer: 662 -1 N 1 0 0 1 397 0 2
 EndChar
 
 StartChar: Atilde
@@ -26275,7 +26275,7 @@ EndTTInstrs
 LayerCount: 2
 Fore
 Refer: 36 65 N 1 0 0 1 0 0 3
-Refer: 668 65553 N 1 0 0 1 397 0 2
+Refer: 665 -1 N 1 0 0 1 397 0 2
 EndChar
 
 StartChar: Adieresis
@@ -26310,7 +26310,7 @@ EndTTInstrs
 LayerCount: 2
 Fore
 Refer: 36 65 N 1 0 0 1 0 0 3
-Refer: 667 65552 N 1 0 0 1 399 0 2
+Refer: 664 -1 N 1 0 0 1 399 0 2
 EndChar
 
 StartChar: Aring
@@ -26583,7 +26583,7 @@ EndTTInstrs
 LayerCount: 2
 Fore
 Refer: 40 69 N 1 0 0 1 0 0 3
-Refer: 663 65548 N 1 0 0 1 309 0 2
+Refer: 660 -1 N 1 0 0 1 309 0 2
 EndChar
 
 StartChar: Eacute
@@ -26614,7 +26614,7 @@ EndTTInstrs
 LayerCount: 2
 Fore
 Refer: 40 69 N 1 0 0 1 0 0 3
-Refer: 664 65549 N 1 0 0 1 430 0 2
+Refer: 661 -1 N 1 0 0 1 430 0 2
 EndChar
 
 StartChar: Ecircumflex
@@ -26645,7 +26645,7 @@ EndTTInstrs
 LayerCount: 2
 Fore
 Refer: 40 69 N 1 0 0 1 0 0 3
-Refer: 665 65550 N 1 0 0 1 371 0 2
+Refer: 662 -1 N 1 0 0 1 371 0 2
 EndChar
 
 StartChar: Edieresis
@@ -26680,7 +26680,7 @@ EndTTInstrs
 LayerCount: 2
 Fore
 Refer: 40 69 N 1 0 0 1 0 0 3
-Refer: 667 65552 N 1 0 0 1 371 0 2
+Refer: 664 -1 N 1 0 0 1 371 0 2
 EndChar
 
 StartChar: Igrave
@@ -26712,7 +26712,7 @@ EndTTInstrs
 LayerCount: 2
 Fore
 Refer: 44 73 N 1 0 0 1 0 0 3
-Refer: 663 65548 N 1 0 0 1 -127 0 2
+Refer: 660 -1 N 1 0 0 1 -127 0 2
 EndChar
 
 StartChar: Iacute
@@ -26743,7 +26743,7 @@ EndTTInstrs
 LayerCount: 2
 Fore
 Refer: 44 73 N 1 0 0 1 0 0 3
-Refer: 664 65549 N 1 0 0 1 17 0 2
+Refer: 661 -1 N 1 0 0 1 17 0 2
 EndChar
 
 StartChar: Icircumflex
@@ -26775,7 +26775,7 @@ EndTTInstrs
 LayerCount: 2
 Fore
 Refer: 44 73 N 1 0 0 1 0 0 3
-Refer: 665 65550 N 1 0 0 1 -58 0 2
+Refer: 662 -1 N 1 0 0 1 -58 0 2
 EndChar
 
 StartChar: Idieresis
@@ -26810,7 +26810,7 @@ EndTTInstrs
 LayerCount: 2
 Fore
 Refer: 44 73 N 1 0 0 1 0 0 3
-Refer: 667 65552 N 1 0 0 1 -56 0 2
+Refer: 664 -1 N 1 0 0 1 -56 0 2
 EndChar
 
 StartChar: Eth
@@ -27002,7 +27002,7 @@ EndTTInstrs
 LayerCount: 2
 Fore
 Refer: 49 78 N 1 0 0 1 0 0 3
-Refer: 668 65553 N 1 0 0 1 398 0 2
+Refer: 665 -1 N 1 0 0 1 398 0 2
 EndChar
 
 StartChar: Ograve
@@ -27033,7 +27033,7 @@ EndTTInstrs
 LayerCount: 2
 Fore
 Refer: 50 79 N 1 0 0 1 0 0 3
-Refer: 663 65548 N 1 0 0 1 460 0 2
+Refer: 660 -1 N 1 0 0 1 460 0 2
 EndChar
 
 StartChar: Oacute
@@ -27064,7 +27064,7 @@ EndTTInstrs
 LayerCount: 2
 Fore
 Refer: 50 79 N 1 0 0 1 0 0 3
-Refer: 664 65549 N 1 0 0 1 538 0 2
+Refer: 661 -1 N 1 0 0 1 538 0 2
 EndChar
 
 StartChar: Ocircumflex
@@ -27096,7 +27096,7 @@ EndTTInstrs
 LayerCount: 2
 Fore
 Refer: 50 79 N 1 0 0 1 0 0 3
-Refer: 665 65550 N 1 0 0 1 453 0 2
+Refer: 662 -1 N 1 0 0 1 453 0 2
 EndChar
 
 StartChar: Otilde
@@ -27128,7 +27128,7 @@ EndTTInstrs
 LayerCount: 2
 Fore
 Refer: 50 79 N 1 0 0 1 0 0 3
-Refer: 668 65553 N 1 0 0 1 446 0 2
+Refer: 665 -1 N 1 0 0 1 446 0 2
 EndChar
 
 StartChar: Odieresis
@@ -27164,7 +27164,7 @@ EndTTInstrs
 LayerCount: 2
 Fore
 Refer: 50 79 N 1 0 0 1 0 0 3
-Refer: 667 65552 N 1 0 0 1 454 0 2
+Refer: 664 -1 N 1 0 0 1 454 0 2
 EndChar
 
 StartChar: multiply
@@ -27618,7 +27618,7 @@ EndTTInstrs
 LayerCount: 2
 Fore
 Refer: 56 85 N 1 0 0 1 0 0 3
-Refer: 663 65548 N 1 0 0 1 329 0 2
+Refer: 660 -1 N 1 0 0 1 329 0 2
 EndChar
 
 StartChar: Uacute
@@ -27649,7 +27649,7 @@ EndTTInstrs
 LayerCount: 2
 Fore
 Refer: 56 85 N 1 0 0 1 0 0 3
-Refer: 664 65549 N 1 0 0 1 505 0 2
+Refer: 661 -1 N 1 0 0 1 505 0 2
 EndChar
 
 StartChar: Ucircumflex
@@ -27681,7 +27681,7 @@ EndTTInstrs
 LayerCount: 2
 Fore
 Refer: 56 85 N 1 0 0 1 0 0 3
-Refer: 665 65550 N 1 0 0 1 395 0 2
+Refer: 662 -1 N 1 0 0 1 395 0 2
 EndChar
 
 StartChar: Udieresis
@@ -27716,7 +27716,7 @@ EndTTInstrs
 LayerCount: 2
 Fore
 Refer: 56 85 N 1 0 0 1 0 0 3
-Refer: 667 65552 N 1 0 0 1 398 0 2
+Refer: 664 -1 N 1 0 0 1 398 0 2
 EndChar
 
 StartChar: Yacute
@@ -27747,7 +27747,7 @@ EndTTInstrs
 LayerCount: 2
 Fore
 Refer: 60 89 N 1 0 0 1 0 0 3
-Refer: 664 65549 N 1 0 0 1 437 0 2
+Refer: 661 -1 N 1 0 0 1 437 0 2
 EndChar
 
 StartChar: Thorn
@@ -29891,7 +29891,7 @@ EndTTInstrs
 LayerCount: 2
 Fore
 Refer: 36 65 N 1 0 0 1 0 0 3
-Refer: 670 65555 N 1 0 0 1 390 0 2
+Refer: 667 -1 N 1 0 0 1 390 0 2
 EndChar
 
 StartChar: abreve
@@ -30007,7 +30007,7 @@ EndTTInstrs
 LayerCount: 2
 Fore
 Refer: 38 67 N 1 0 0 1 0 0 3
-Refer: 664 65549 N 1 0 0 1 565 0 2
+Refer: 661 -1 N 1 0 0 1 565 0 2
 EndChar
 
 StartChar: cacute
@@ -30069,7 +30069,7 @@ EndTTInstrs
 LayerCount: 2
 Fore
 Refer: 38 67 N 1 0 0 1 0 0 3
-Refer: 665 65550 N 1 0 0 1 460 0 2
+Refer: 662 -1 N 1 0 0 1 460 0 2
 EndChar
 
 StartChar: ccircumflex
@@ -30185,7 +30185,7 @@ EndTTInstrs
 LayerCount: 2
 Fore
 Refer: 38 67 N 1 0 0 1 0 0 3
-Refer: 666 65551 N 1 0 0 1 440 0 2
+Refer: 663 -1 N 1 0 0 1 440 0 2
 EndChar
 
 StartChar: ccaron
@@ -30248,7 +30248,7 @@ EndTTInstrs
 LayerCount: 2
 Fore
 Refer: 39 68 N 1 0 0 1 0 0 3
-Refer: 666 65551 N 1 0 0 1 358 0 2
+Refer: 663 -1 N 1 0 0 1 358 0 2
 EndChar
 
 StartChar: dcaron
@@ -30278,7 +30278,7 @@ EndTTInstrs
 LayerCount: 2
 Fore
 Refer: 71 100 N 1 0 0 1 0 0 2
-Refer: 661 65546 N 1 0 0 1 1115 75 2
+Refer: 658 -1 N 1 0 0 1 1115 75 2
 EndChar
 
 StartChar: Dcroat
@@ -30570,7 +30570,7 @@ EndTTInstrs
 LayerCount: 2
 Fore
 Refer: 40 69 N 1 0 0 1 0 0 3
-Refer: 670 65555 N 1 0 0 1 353 0 2
+Refer: 667 -1 N 1 0 0 1 353 0 2
 EndChar
 
 StartChar: ebreve
@@ -30752,7 +30752,7 @@ EndTTInstrs
 LayerCount: 2
 Fore
 Refer: 40 69 N 1 0 0 1 0 0 3
-Refer: 666 65551 N 1 0 0 1 367 0 2
+Refer: 663 -1 N 1 0 0 1 367 0 2
 EndChar
 
 StartChar: ecaron
@@ -30814,7 +30814,7 @@ EndTTInstrs
 LayerCount: 2
 Fore
 Refer: 42 71 N 1 0 0 1 0 0 3
-Refer: 665 65550 N 1 0 0 1 455 0 2
+Refer: 662 -1 N 1 0 0 1 455 0 2
 EndChar
 
 StartChar: gcircumflex
@@ -30876,7 +30876,7 @@ EndTTInstrs
 LayerCount: 2
 Fore
 Refer: 42 71 N 1 0 0 1 0 0 3
-Refer: 670 65555 N 1 0 0 1 461 0 2
+Refer: 667 -1 N 1 0 0 1 461 0 2
 EndChar
 
 StartChar: gbreve
@@ -30984,7 +30984,7 @@ EndTTInstrs
 LayerCount: 2
 Fore
 Refer: 42 71 N 1 0 0 1 0 0 3
-Refer: 655 65540 N 1 0 0 1 590 0 2
+Refer: 652 -1 N 1 0 0 1 590 0 2
 EndChar
 
 StartChar: gcommaaccent
@@ -31021,7 +31021,7 @@ EndTTInstrs
 LayerCount: 2
 Fore
 Refer: 74 103 N 1 0 0 1 0 0 2
-Refer: 662 65547 N 1 0 0 1 393 0 2
+Refer: 659 -1 N 1 0 0 1 393 0 2
 EndChar
 
 StartChar: Hcircumflex
@@ -31052,7 +31052,7 @@ EndTTInstrs
 LayerCount: 2
 Fore
 Refer: 43 72 N 1 0 0 1 0 0 3
-Refer: 665 65550 N 1 0 0 1 403 0 2
+Refer: 662 -1 N 1 0 0 1 403 0 2
 EndChar
 
 StartChar: hcircumflex
@@ -31083,7 +31083,7 @@ EndTTInstrs
 LayerCount: 2
 Fore
 Refer: 75 104 N 1 0 0 1 0 0 3
-Refer: 665 65550 N 1 0 0 1 302 79 2
+Refer: 662 -1 N 1 0 0 1 302 79 2
 EndChar
 
 StartChar: Hbar
@@ -31436,7 +31436,7 @@ EndTTInstrs
 LayerCount: 2
 Fore
 Refer: 44 73 N 1 0 0 1 0 0 3
-Refer: 668 65553 N 1 0 0 1 -54 0 2
+Refer: 665 -1 N 1 0 0 1 -54 0 2
 EndChar
 
 StartChar: itilde
@@ -31560,7 +31560,7 @@ EndTTInstrs
 LayerCount: 2
 Fore
 Refer: 44 73 N 1 0 0 1 0 0 3
-Refer: 670 65555 N 1 0 0 1 -63 0 2
+Refer: 667 -1 N 1 0 0 1 -63 0 2
 EndChar
 
 StartChar: ibreve
@@ -31870,7 +31870,7 @@ EndTTInstrs
 LayerCount: 2
 Fore
 Refer: 45 74 N 1 0 0 1 0 0 3
-Refer: 665 65550 N 1 0 0 1 348 0 2
+Refer: 662 -1 N 1 0 0 1 348 0 2
 EndChar
 
 StartChar: jcircumflex
@@ -32235,7 +32235,7 @@ EndTTInstrs
 LayerCount: 2
 Fore
 Refer: 46 75 N 1 0 0 1 0 0 3
-Refer: 655 65540 N 1 0 0 1 527 0 2
+Refer: 652 -1 N 1 0 0 1 527 0 2
 EndChar
 
 StartChar: kcommaaccent
@@ -32259,7 +32259,7 @@ EndTTInstrs
 LayerCount: 2
 Fore
 Refer: 78 107 N 1 0 0 1 0 0 3
-Refer: 655 65540 N 1 0 0 1 377 0 2
+Refer: 652 -1 N 1 0 0 1 377 0 2
 EndChar
 
 StartChar: kgreenlandic
@@ -32438,7 +32438,7 @@ EndTTInstrs
 LayerCount: 2
 Fore
 Refer: 47 76 N 1 0 0 1 0 0 3
-Refer: 664 65549 N 1 0 0 1 173 0 2
+Refer: 661 -1 N 1 0 0 1 173 0 2
 EndChar
 
 StartChar: lacute
@@ -32469,7 +32469,7 @@ EndTTInstrs
 LayerCount: 2
 Fore
 Refer: 79 108 N 1 0 0 1 0 0 3
-Refer: 664 65549 N 1 0 0 1 19 79 2
+Refer: 661 -1 N 1 0 0 1 19 79 2
 EndChar
 
 StartChar: Lcommaaccent
@@ -32493,7 +32493,7 @@ EndTTInstrs
 LayerCount: 2
 Fore
 Refer: 47 76 N 1 0 0 1 0 0 3
-Refer: 655 65540 N 1 0 0 1 409 0 2
+Refer: 652 -1 N 1 0 0 1 409 0 2
 EndChar
 
 StartChar: lcommaaccent
@@ -32516,7 +32516,7 @@ EndTTInstrs
 LayerCount: 2
 Fore
 Refer: 79 108 N 1 0 0 1 0 0 3
-Refer: 655 65540 N 1 0 0 1 58 0 2
+Refer: 652 -1 N 1 0 0 1 58 0 2
 EndChar
 
 StartChar: Lcaron
@@ -32546,7 +32546,7 @@ EndTTInstrs
 LayerCount: 2
 Fore
 Refer: 47 76 N 1 0 0 1 0 0 2
-Refer: 661 65546 N 1 0 0 1 626 0 2
+Refer: 658 -1 N 1 0 0 1 626 0 2
 EndChar
 
 StartChar: lcaron
@@ -32576,7 +32576,7 @@ EndTTInstrs
 LayerCount: 2
 Fore
 Refer: 79 108 N 1 0 0 1 0 0 2
-Refer: 661 65546 N 1 0 0 1 432 75 2
+Refer: 658 -1 N 1 0 0 1 432 75 2
 EndChar
 
 StartChar: Ldot
@@ -32901,7 +32901,7 @@ EndTTInstrs
 LayerCount: 2
 Fore
 Refer: 49 78 N 1 0 0 1 0 0 3
-Refer: 664 65549 N 1 0 0 1 487 0 2
+Refer: 661 -1 N 1 0 0 1 487 0 2
 EndChar
 
 StartChar: nacute
@@ -32956,7 +32956,7 @@ EndTTInstrs
 LayerCount: 2
 Fore
 Refer: 49 78 N 1 0 0 1 0 0 3
-Refer: 655 65540 N 1 0 0 1 508 0 2
+Refer: 652 -1 N 1 0 0 1 508 0 2
 EndChar
 
 StartChar: ncommaaccent
@@ -32979,7 +32979,7 @@ EndTTInstrs
 LayerCount: 2
 Fore
 Refer: 81 110 N 1 0 0 1 0 0 3
-Refer: 655 65540 N 1 0 0 1 411 0 2
+Refer: 652 -1 N 1 0 0 1 411 0 2
 EndChar
 
 StartChar: Ncaron
@@ -33011,7 +33011,7 @@ EndTTInstrs
 LayerCount: 2
 Fore
 Refer: 49 78 N 1 0 0 1 0 0 3
-Refer: 666 65551 N 1 0 0 1 392 0 2
+Refer: 663 -1 N 1 0 0 1 392 0 2
 EndChar
 
 StartChar: ncaron
@@ -33508,7 +33508,7 @@ EndTTInstrs
 LayerCount: 2
 Fore
 Refer: 50 79 N 1 0 0 1 0 0 3
-Refer: 670 65555 N 1 0 0 1 437 0 2
+Refer: 667 -1 N 1 0 0 1 437 0 2
 EndChar
 
 StartChar: obreve
@@ -33574,7 +33574,7 @@ EndTTInstrs
 LayerCount: 2
 Fore
 Refer: 50 79 N 1 0 0 1 0 0 3
-Refer: 669 65554 N 1 0 0 1 561 0 2
+Refer: 666 -1 N 1 0 0 1 561 0 2
 EndChar
 
 StartChar: ohungarumlaut
@@ -33977,7 +33977,7 @@ EndTTInstrs
 LayerCount: 2
 Fore
 Refer: 53 82 N 1 0 0 1 0 0 3
-Refer: 664 65549 N 1 0 0 1 461 0 2
+Refer: 661 -1 N 1 0 0 1 461 0 2
 EndChar
 
 StartChar: racute
@@ -34032,7 +34032,7 @@ EndTTInstrs
 LayerCount: 2
 Fore
 Refer: 53 82 N 1 0 0 1 0 0 3
-Refer: 655 65540 N 1 0 0 1 517 0 2
+Refer: 652 -1 N 1 0 0 1 517 0 2
 EndChar
 
 StartChar: rcommaaccent
@@ -34056,7 +34056,7 @@ EndTTInstrs
 LayerCount: 2
 Fore
 Refer: 85 114 N 1 0 0 1 0 0 3
-Refer: 655 65540 N 1 0 0 1 57 0 2
+Refer: 652 -1 N 1 0 0 1 57 0 2
 EndChar
 
 StartChar: Rcaron
@@ -34088,7 +34088,7 @@ EndTTInstrs
 LayerCount: 2
 Fore
 Refer: 53 82 N 1 0 0 1 0 0 3
-Refer: 666 65551 N 1 0 0 1 358 0 2
+Refer: 663 -1 N 1 0 0 1 358 0 2
 EndChar
 
 StartChar: rcaron
@@ -34151,7 +34151,7 @@ EndTTInstrs
 LayerCount: 2
 Fore
 Refer: 54 83 N 1 0 0 1 0 0 3
-Refer: 664 65549 N 1 0 0 1 468 0 2
+Refer: 661 -1 N 1 0 0 1 468 0 2
 EndChar
 
 StartChar: sacute
@@ -34213,7 +34213,7 @@ EndTTInstrs
 LayerCount: 2
 Fore
 Refer: 54 83 N 1 0 0 1 0 0 3
-Refer: 665 65550 N 1 0 0 1 369 0 2
+Refer: 662 -1 N 1 0 0 1 369 0 2
 EndChar
 
 StartChar: scircumflex
@@ -34321,7 +34321,7 @@ EndTTInstrs
 LayerCount: 2
 Fore
 Refer: 54 83 N 1 0 0 1 0 0 3
-Refer: 666 65551 N 1 0 0 1 346 0 2
+Refer: 663 -1 N 1 0 0 1 346 0 2
 EndChar
 
 StartChar: scaron
@@ -34375,7 +34375,7 @@ EndTTInstrs
 LayerCount: 2
 Fore
 Refer: 55 84 N 1 0 0 1 0 0 3
-Refer: 655 65540 N 1 0 0 1 406 0 2
+Refer: 652 -1 N 1 0 0 1 406 0 2
 EndChar
 
 StartChar: tcommaaccent
@@ -34398,7 +34398,7 @@ EndTTInstrs
 LayerCount: 2
 Fore
 Refer: 87 116 N 1 0 0 1 0 0 3
-Refer: 655 65540 N 1 0 0 1 138 0 2
+Refer: 652 -1 N 1 0 0 1 138 0 2
 EndChar
 
 StartChar: Tcaron
@@ -34429,7 +34429,7 @@ EndTTInstrs
 LayerCount: 2
 Fore
 Refer: 55 84 N 1 0 0 1 0 0 3
-Refer: 666 65551 N 1 0 0 1 289 0 2
+Refer: 663 -1 N 1 0 0 1 289 0 2
 EndChar
 
 StartChar: tcaron
@@ -34461,7 +34461,7 @@ EndTTInstrs
 LayerCount: 2
 Fore
 Refer: 87 116 N 1 0 0 1 0 0 2
-Refer: 661 65546 N 1 0 0 1 623 75 2
+Refer: 658 -1 N 1 0 0 1 623 75 2
 EndChar
 
 StartChar: Tbar
@@ -35265,7 +35265,7 @@ EndTTInstrs
 LayerCount: 2
 Fore
 Refer: 56 85 N 1 0 0 1 0 0 3
-Refer: 668 65553 N 1 0 0 1 397 0 2
+Refer: 665 -1 N 1 0 0 1 397 0 2
 EndChar
 
 StartChar: utilde
@@ -35391,7 +35391,7 @@ EndTTInstrs
 LayerCount: 2
 Fore
 Refer: 56 85 N 1 0 0 1 0 0 3
-Refer: 670 65555 N 1 0 0 1 390 0 2
+Refer: 667 -1 N 1 0 0 1 390 0 2
 EndChar
 
 StartChar: ubreve
@@ -35527,7 +35527,7 @@ EndTTInstrs
 LayerCount: 2
 Fore
 Refer: 56 85 N 1 0 0 1 0 0 3
-Refer: 669 65554 N 1 0 0 1 475 0 2
+Refer: 666 -1 N 1 0 0 1 475 0 2
 EndChar
 
 StartChar: uhungarumlaut
@@ -35649,7 +35649,7 @@ EndTTInstrs
 LayerCount: 2
 Fore
 Refer: 58 87 N 1 0 0 1 0 0 3
-Refer: 665 65550 N 1 0 0 1 627 0 2
+Refer: 662 -1 N 1 0 0 1 627 0 2
 EndChar
 
 StartChar: wcircumflex
@@ -35711,7 +35711,7 @@ EndTTInstrs
 LayerCount: 2
 Fore
 Refer: 60 89 N 1 0 0 1 0 0 3
-Refer: 665 65550 N 1 0 0 1 343 0 2
+Refer: 662 -1 N 1 0 0 1 343 0 2
 EndChar
 
 StartChar: ycircumflex
@@ -35778,7 +35778,7 @@ EndTTInstrs
 LayerCount: 2
 Fore
 Refer: 60 89 N 1 0 0 1 0 0 3
-Refer: 667 65552 N 1 0 0 1 338 0 2
+Refer: 664 -1 N 1 0 0 1 338 0 2
 EndChar
 
 StartChar: Zacute
@@ -35809,7 +35809,7 @@ EndTTInstrs
 LayerCount: 2
 Fore
 Refer: 61 90 N 1 0 0 1 0 0 3
-Refer: 664 65549 N 1 0 0 1 386 0 2
+Refer: 661 -1 N 1 0 0 1 386 0 2
 EndChar
 
 StartChar: zacute
@@ -35925,7 +35925,7 @@ EndTTInstrs
 LayerCount: 2
 Fore
 Refer: 61 90 N 1 0 0 1 0 0 3
-Refer: 666 65551 N 1 0 0 1 301 0 2
+Refer: 663 -1 N 1 0 0 1 301 0 2
 EndChar
 
 StartChar: zcaron
@@ -36251,7 +36251,7 @@ LayerCount: 2
 Fore
 Refer: 36 65 N 1 0 0 1 0 0 3
 Refer: 332 730 N 1 0 0 1 446 147 2
-Refer: 664 65549 N 1 0 0 1 499 301 2
+Refer: 661 -1 N 1 0 0 1 499 301 2
 EndChar
 
 StartChar: aringacute
@@ -36350,7 +36350,7 @@ EndTTInstrs
 LayerCount: 2
 Fore
 Refer: 134 198 N 1 0 0 1 0 0 3
-Refer: 664 65549 N 1 0 0 1 996 0 2
+Refer: 661 -1 N 1 0 0 1 996 0 2
 EndChar
 
 StartChar: aeacute
@@ -36412,7 +36412,7 @@ EndTTInstrs
 LayerCount: 2
 Fore
 Refer: 152 216 N 1 0 0 1 0 0 3
-Refer: 664 65549 N 1 0 0 1 538 0 2
+Refer: 661 -1 N 1 0 0 1 538 0 2
 EndChar
 
 StartChar: oslashacute
@@ -39403,7 +39403,7 @@ Width: 682
 Flags: W
 LayerCount: 2
 Fore
-Refer: 654 65539 N 1 0 0 1 56 0 3
+Refer: 651 -1 N 1 0 0 1 56 0 3
 EndChar
 
 StartChar: Epsilontonos
@@ -42695,7 +42695,7 @@ EndTTInstrs
 LayerCount: 2
 Fore
 Refer: 44 73 N 1 0 0 1 0 0 3
-Refer: 667 65552 N 1 0 0 1 -56 0 2
+Refer: 664 -1 N 1 0 0 1 -56 0 2
 EndChar
 
 StartChar: Upsilondieresis
@@ -42731,7 +42731,7 @@ EndTTInstrs
 LayerCount: 2
 Fore
 Refer: 60 89 N 1 0 0 1 0 0 3
-Refer: 667 65552 N 1 0 0 1 338 0 2
+Refer: 664 -1 N 1 0 0 1 338 0 2
 Kerns2: 405 -152 "'kern' Horizontal Kerning lookup 0 subtable"  403 92 "'kern' Horizontal Kerning lookup 0 subtable"  399 -152 "'kern' Horizontal Kerning lookup 0 subtable"  396 -152 "'kern' Horizontal Kerning lookup 0 subtable"  392 -152 "'kern' Horizontal Kerning lookup 0 subtable"  389 -76 "'kern' Horizontal Kerning lookup 0 subtable"  387 -76 "'kern' Horizontal Kerning lookup 0 subtable"  386 -76 "'kern' Horizontal Kerning lookup 0 subtable"  384 -76 "'kern' Horizontal Kerning lookup 0 subtable"  381 -76 "'kern' Horizontal Kerning lookup 0 subtable"  378 -152 "'kern' Horizontal Kerning lookup 0 subtable"  376 -76 "'kern' Horizontal Kerning lookup 0 subtable"  375 -76 "'kern' Horizontal Kerning lookup 0 subtable"  373 -152 "'kern' Horizontal Kerning lookup 0 subtable"  370 -78 "'kern' Horizontal Kerning lookup 0 subtable"  367 -78 "'kern' Horizontal Kerning lookup 0 subtable"  361 -78 "'kern' Horizontal Kerning lookup 0 subtable"  357 -186 "'kern' Horizontal Kerning lookup 0 subtable"  354 -78 "'kern' Horizontal Kerning lookup 0 subtable"  350 -186 "'kern' Horizontal Kerning lookup 0 subtable"  347 -186 "'kern' Horizontal Kerning lookup 0 subtable"  346 256 "'kern' Horizontal Kerning lookup 0 subtable" 
 EndChar
 
@@ -51386,7 +51386,7 @@ EndTTInstrs
 LayerCount: 2
 Fore
 Refer: 40 69 N 1 0 0 1 0 0 2
-Refer: 667 65552 N 1 0 0 1 377 0 2
+Refer: 664 -1 N 1 0 0 1 377 0 2
 EndChar
 
 StartChar: afii10051
@@ -53137,7 +53137,7 @@ SHC[rp1]
 EndTTInstrs
 LayerCount: 2
 Fore
-Refer: 664 65549 N 1 0 0 1 369 0 2
+Refer: 661 -1 N 1 0 0 1 369 0 2
 Refer: 425 1043 N 1 0 0 1 0 0 2
 Kerns2: 123 -78 "'kern' Horizontal Kerning lookup 0 subtable"  108 -78 "'kern' Horizontal Kerning lookup 0 subtable"  30 -27 "'kern' Horizontal Kerning lookup 0 subtable"  29 -27 "'kern' Horizontal Kerning lookup 0 subtable"  17 -256 "'kern' Horizontal Kerning lookup 0 subtable"  15 -231 "'kern' Horizontal Kerning lookup 0 subtable" 
 EndChar
@@ -53854,7 +53854,7 @@ EndTTInstrs
 LayerCount: 2
 Fore
 Refer: 44 73 N 1 0 0 1 0 0 2
-Refer: 667 65552 N 1 0 0 1 -58 0 2
+Refer: 664 -1 N 1 0 0 1 -58 0 2
 EndChar
 
 StartChar: afii10057
@@ -54292,7 +54292,7 @@ EndTTInstrs
 LayerCount: 2
 Fore
 Refer: 432 1050 N 1 0 0 1 0 0 3
-Refer: 664 65549 N 1 0 0 1 428 0 2
+Refer: 661 -1 N 1 0 0 1 428 0 2
 EndChar
 
 StartChar: afii10062
@@ -54324,7 +54324,7 @@ EndTTInstrs
 LayerCount: 2
 Fore
 Refer: 441 1059 N 1 0 0 1 -8 0 3
-Refer: 660 65545 N 1 0 0 1 287 330 2
+Refer: 657 -1 N 1 0 0 1 287 330 2
 EndChar
 
 StartChar: afii10145
@@ -56339,7 +56339,7 @@ EndTTInstrs
 LayerCount: 2
 Fore
 Refer: 430 1048 N 1 0 0 1 0 0 3
-Refer: 660 65545 N 1 0 0 1 402 330 2
+Refer: 657 -1 N 1 0 0 1 402 330 2
 EndChar
 
 StartChar: afii10028
@@ -61361,7 +61361,7 @@ EndTTInstrs
 LayerCount: 2
 Fore
 Refer: 462 1080 N 1 0 0 1 0 0 3
-Refer: 660 65545 N 1 0 0 1 298 0 2
+Refer: 657 -1 N 1 0 0 1 298 0 2
 EndChar
 
 StartChar: afii10076
@@ -68377,7 +68377,7 @@ EndTTInstrs
 LayerCount: 2
 Fore
 Refer: 92 121 N 1 0 0 1 0 0 3
-Refer: 660 65545 N 1 0 0 1 228 0 2
+Refer: 657 -1 N 1 0 0 1 228 0 2
 Kerns2: 108 -51 "'kern' Horizontal Kerning lookup 0 subtable"  30 -27 "'kern' Horizontal Kerning lookup 0 subtable"  29 -27 "'kern' Horizontal Kerning lookup 0 subtable"  17 -180 "'kern' Horizontal Kerning lookup 0 subtable"  15 -154 "'kern' Horizontal Kerning lookup 0 subtable" 
 EndChar
 
@@ -69292,7 +69292,7 @@ EndTTInstrs
 LayerCount: 2
 Fore
 Refer: 58 87 N 1 0 0 1 0 0 3
-Refer: 663 65548 N 1 0 0 1 577 0 2
+Refer: 660 -1 N 1 0 0 1 577 0 2
 EndChar
 
 StartChar: wgrave
@@ -69355,7 +69355,7 @@ EndTTInstrs
 LayerCount: 2
 Fore
 Refer: 58 87 N 1 0 0 1 0 0 3
-Refer: 664 65549 N 1 0 0 1 736 0 2
+Refer: 661 -1 N 1 0 0 1 736 0 2
 EndChar
 
 StartChar: wacute
@@ -69421,7 +69421,7 @@ EndTTInstrs
 LayerCount: 2
 Fore
 Refer: 58 87 N 1 0 0 1 0 0 3
-Refer: 667 65552 N 1 0 0 1 629 0 2
+Refer: 664 -1 N 1 0 0 1 629 0 2
 EndChar
 
 StartChar: wdieresis
@@ -69488,7 +69488,7 @@ EndTTInstrs
 LayerCount: 2
 Fore
 Refer: 60 89 N 1 0 0 1 0 0 3
-Refer: 663 65548 N 1 0 0 1 290 0 2
+Refer: 660 -1 N 1 0 0 1 290 0 2
 EndChar
 
 StartChar: ygrave
@@ -75110,7 +75110,7 @@ LayerCount: 2
 Fore
 Refer: 121 185 N 1 0 0 1 32 0 2
 Refer: 532 8725 N 1 0 0 1 700 0 2
-Refer: 659 65544 N 1 0 0 1 975 -692 2
+Refer: 656 -1 N 1 0 0 1 975 -692 2
 EndChar
 
 StartChar: threeeighths
@@ -75150,7 +75150,7 @@ EndTTInstrs
 LayerCount: 2
 Fore
 Refer: 532 8725 N 1 0 0 1 680 0 2
-Refer: 659 65544 N 1 0 0 1 975 -692 2
+Refer: 656 -1 N 1 0 0 1 975 -692 2
 Refer: 115 179 N 1 0 0 1 40 0 2
 EndChar
 
@@ -75191,8 +75191,8 @@ EndTTInstrs
 LayerCount: 2
 Fore
 Refer: 532 8725 N 1 0 0 1 680 0 2
-Refer: 659 65544 N 1 0 0 1 975 -692 2
-Refer: 657 65542 N 1 0 0 1 50 0 2
+Refer: 656 -1 N 1 0 0 1 975 -692 2
+Refer: 654 -1 N 1 0 0 1 50 0 2
 EndChar
 
 StartChar: seveneighths
@@ -75248,8 +75248,8 @@ EndTTInstrs
 LayerCount: 2
 Fore
 Refer: 532 8725 N 1 0 0 1 660 0 2
-Refer: 659 65544 N 1 0 0 1 975 -692 2
-Refer: 658 65543 N 1 0 0 1 120 0 2
+Refer: 656 -1 N 1 0 0 1 975 -692 2
+Refer: 655 -1 N 1 0 0 1 120 0 2
 EndChar
 
 StartChar: arrowleft
@@ -84980,69 +84980,8 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u10000
-Encoding: 65536 65536 651
-Width: 1536
-Flags: W
-TtInstrs:
-NPUSHB
- 10
- 6
- 2
- 9
- 5
- 3
- 5
- 3
- 4
- 0
- 3
-SVTCA[y-axis]
-MIAP[rnd]
-MDRP[min,rnd,black]
-MDAP[rnd]
-MDRP[min,rnd,black]
-SVTCA[x-axis]
-MDAP[rnd]
-MDRP[min,rnd,black]
-SRP0
-MDRP[rp0,min,rnd,white]
-MDRP[min,rnd,black]
-IUP[x]
-IUP[y]
-EndTTInstrs
-LayerCount: 2
-Fore
-SplineSet
-205 1409 m 1,0,-1
- 1330 1409 l 1,1,-1
- 1330 0 l 1,2,-1
- 205 0 l 1,3,-1
- 205 1409 l 1,0,-1
-281 1333 m 1,4,-1
- 281 76 l 1,5,-1
- 1254 76 l 1,6,-1
- 1254 1333 l 1,7,-1
- 281 1333 l 1,4,-1
-EndSplineSet
-EndChar
-
-StartChar: u10001
-Encoding: 65537 65537 652
-Width: 0
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: u10002
-Encoding: 65538 65538 653
-Width: 569
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: u10003
-Encoding: 65539 65539 654
+StartChar: middot
+Encoding: 1114115 -1 651
 Width: 682
 Flags: W
 TtInstrs:
@@ -85092,8 +85031,8 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u10004
-Encoding: 65540 65540 655
+StartChar: commaaccent
+Encoding: 1114116 -1 652
 Width: 682
 Flags: W
 TtInstrs:
@@ -85154,8 +85093,8 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u10005
-Encoding: 65541 65541 656
+StartChar: foursuperior
+Encoding: 1114117 -1 653
 Width: 682
 Flags: W
 TtInstrs:
@@ -85274,8 +85213,8 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u10006
-Encoding: 65542 65542 657
+StartChar: fivesuperior
+Encoding: 1114118 -1 654
 Width: 682
 Flags: W
 TtInstrs:
@@ -85428,8 +85367,8 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u10007
-Encoding: 65543 65543 658
+StartChar: sevensuperior
+Encoding: 1114119 -1 655
 Width: 682
 Flags: W
 TtInstrs:
@@ -85498,8 +85437,8 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u10008
-Encoding: 65544 65544 659
+StartChar: eightsuperior
+Encoding: 1114120 -1 656
 Width: 682
 Flags: W
 TtInstrs:
@@ -85662,8 +85601,8 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u10009
-Encoding: 65545 65545 660
+StartChar: cyrillicbreve
+Encoding: 1114121 -1 657
 Width: 682
 Flags: W
 TtInstrs:
@@ -85788,8 +85727,8 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u1000A
-Encoding: 65546 65546 661
+StartChar: caroncommaaccent
+Encoding: 1114122 -1 658
 Width: 455
 Flags: W
 TtInstrs:
@@ -85847,8 +85786,8 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u1000B
-Encoding: 65547 65547 662
+StartChar: commaaccentrotate
+Encoding: 1114123 -1 659
 Width: 455
 Flags: W
 TtInstrs:
@@ -85899,8 +85838,8 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u1000C
-Encoding: 65548 65548 663
+StartChar: grave.uc
+Encoding: 1114124 -1 660
 Width: 682
 Flags: W
 TtInstrs:
@@ -85950,8 +85889,8 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u1000D
-Encoding: 65549 65549 664
+StartChar: acute.uc
+Encoding: 1114125 -1 661
 Width: 682
 Flags: W
 TtInstrs:
@@ -86001,8 +85940,8 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u1000E
-Encoding: 65550 65550 665
+StartChar: circumflex.uc
+Encoding: 1114126 -1 662
 Width: 682
 Flags: W
 TtInstrs:
@@ -86119,8 +86058,8 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u1000F
-Encoding: 65551 65551 666
+StartChar: caron.uc
+Encoding: 1114127 -1 663
 Width: 682
 Flags: W
 TtInstrs:
@@ -86205,8 +86144,8 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u10010
-Encoding: 65552 65552 667
+StartChar: dieresis.uc
+Encoding: 1114128 -1 664
 Width: 682
 Flags: W
 TtInstrs:
@@ -86268,8 +86207,8 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u10011
-Encoding: 65553 65553 668
+StartChar: tilde.uc
+Encoding: 1114129 -1 665
 Width: 682
 Flags: W
 TtInstrs:
@@ -86393,8 +86332,8 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u10012
-Encoding: 65554 65554 669
+StartChar: hungarumlaut.uc
+Encoding: 1114130 -1 666
 Width: 682
 Flags: W
 TtInstrs:
@@ -86468,8 +86407,8 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u10013
-Encoding: 65555 65555 670
+StartChar: breve.uc
+Encoding: 1114131 -1 667
 Width: 682
 Flags: W
 TtInstrs:

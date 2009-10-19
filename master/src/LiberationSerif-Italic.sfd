@@ -3098,7 +3098,7 @@ DisplaySize: -24
 AntiAlias: 1
 FitToEm: 1
 WinInfo: 40 40 16
-BeginChars: 1114115 664
+BeginChars: 1114124 661
 
 StartChar: .notdef
 Encoding: 1114112 -1 0
@@ -31725,7 +31725,7 @@ LayerCount: 2
 Fore
 Refer: 532 8725 N 1 0 0 1 673 0 2
 Refer: 121 185 N 1 0 0 1 3 0 2
-Refer: 657 65541 N 1 0 0 1 802 -534 2
+Refer: 654 -1 N 1 0 0 1 802 -534 2
 EndChar
 
 StartChar: onehalf
@@ -31794,7 +31794,7 @@ LayerCount: 2
 Fore
 Refer: 532 8725 N 1 0 0 1 673 0 2
 Refer: 115 179 N 1 0 0 1 78 0 2
-Refer: 657 65541 N 1 0 0 1 803 -534 2
+Refer: 654 -1 N 1 0 0 1 803 -534 2
 EndChar
 
 StartChar: questiondown
@@ -37698,7 +37698,7 @@ EndTTInstrs
 LayerCount: 2
 Fore
 Refer: 71 100 N 1 0 0 1 0 0 2
-Refer: 662 65546 N 1 0 0 1 1019 80 2
+Refer: 659 -1 N 1 0 0 1 1019 80 2
 EndChar
 
 StartChar: Dcroat
@@ -38418,7 +38418,7 @@ EndTTInstrs
 LayerCount: 2
 Fore
 Refer: 74 103 N 1 0 0 1 0 0 3
-Refer: 663 65547 N 1 0 0 1 520 0 2
+Refer: 660 -1 N 1 0 0 1 520 0 2
 EndChar
 
 StartChar: Hcircumflex
@@ -40141,7 +40141,7 @@ EndTTInstrs
 LayerCount: 2
 Fore
 Refer: 47 76 N 1 0 0 1 0 0 3
-Refer: 662 65546 N 1 0 0 1 815 0 2
+Refer: 659 -1 N 1 0 0 1 815 0 2
 EndChar
 
 StartChar: lcaron
@@ -40171,7 +40171,7 @@ EndTTInstrs
 LayerCount: 2
 Fore
 Refer: 79 108 N 1 0 0 1 0 0 2
-Refer: 662 65546 N 1 0 0 1 518 80 2
+Refer: 659 -1 N 1 0 0 1 518 80 2
 EndChar
 
 StartChar: Ldot
@@ -42860,7 +42860,7 @@ EndTTInstrs
 LayerCount: 2
 Fore
 Refer: 87 116 N 1 0 0 1 -11 0 2
-Refer: 662 65546 N 1 0 0 1 558 80 2
+Refer: 659 -1 N 1 0 0 1 558 80 2
 EndChar
 
 StartChar: Tbar
@@ -46876,7 +46876,7 @@ Width: 682
 Flags: W
 LayerCount: 2
 Fore
-Refer: 655 65539 N 1 0 0 1 51 0 2
+Refer: 652 -1 N 1 0 0 1 51 0 2
 EndChar
 
 StartChar: Epsilontonos
@@ -57326,7 +57326,7 @@ EndTTInstrs
 LayerCount: 2
 Fore
 Refer: 441 1059 N 1 0 0 1 0 0 3
-Refer: 661 65545 N 1 0 0 1 506 334 2
+Refer: 658 -1 N 1 0 0 1 506 334 2
 EndChar
 
 StartChar: afii10145
@@ -58620,7 +58620,7 @@ EndTTInstrs
 LayerCount: 2
 Fore
 Refer: 430 1048 N 1 0 0 1 0 0 3
-Refer: 661 65545 N 1 0 0 1 459 334 2
+Refer: 658 -1 N 1 0 0 1 459 334 2
 EndChar
 
 StartChar: afii10028
@@ -63112,7 +63112,7 @@ EndTTInstrs
 LayerCount: 2
 Fore
 Refer: 88 117 N 1 0 0 1 0 0 3
-Refer: 661 65545 N 1 0 0 1 147 0 2
+Refer: 658 -1 N 1 0 0 1 147 0 2
 EndChar
 
 StartChar: afii10076
@@ -67471,7 +67471,7 @@ EndTTInstrs
 LayerCount: 2
 Fore
 Refer: 92 121 N 1 0 0 1 0 0 3
-Refer: 661 65545 N 1 0 0 1 119 0 2
+Refer: 658 -1 N 1 0 0 1 119 0 2
 Kerns2: 123 25 "'kern' Horizontal Kerning lookup 0 subtable"  108 25 "'kern' Horizontal Kerning lookup 0 subtable"  30 -78 "'kern' Horizontal Kerning lookup 0 subtable"  29 -27 "'kern' Horizontal Kerning lookup 0 subtable"  17 -129 "'kern' Horizontal Kerning lookup 0 subtable"  15 -102 "'kern' Horizontal Kerning lookup 0 subtable" 
 EndChar
 
@@ -75043,7 +75043,7 @@ LayerCount: 2
 Fore
 Refer: 121 185 N 1 0 0 1 3 0 2
 Refer: 532 8725 N 1 0 0 1 620 0 2
-Refer: 660 65544 N 1 0 0 1 816 -540 2
+Refer: 657 -1 N 1 0 0 1 816 -540 2
 EndChar
 
 StartChar: threeeighths
@@ -75078,7 +75078,7 @@ SHC[rp1]
 EndTTInstrs
 LayerCount: 2
 Fore
-Refer: 660 65544 N 1 0 0 1 816 -540 2
+Refer: 657 -1 N 1 0 0 1 816 -540 2
 Refer: 532 8725 N 1 0 0 1 620 0 2
 Refer: 115 179 N 1 0 0 1 20 0 2
 EndChar
@@ -75115,8 +75115,8 @@ SHC[rp1]
 EndTTInstrs
 LayerCount: 2
 Fore
-Refer: 658 65542 N 1 0 0 1 35 0 2
-Refer: 660 65544 N 1 0 0 1 816 -540 2
+Refer: 655 -1 N 1 0 0 1 35 0 2
+Refer: 657 -1 N 1 0 0 1 816 -540 2
 Refer: 532 8725 N 1 0 0 1 620 0 2
 EndChar
 
@@ -75210,9 +75210,9 @@ SHC[rp1]
 EndTTInstrs
 LayerCount: 2
 Fore
-Refer: 659 65543 N 1 0 0 1 24 0 2
+Refer: 656 -1 N 1 0 0 1 24 0 2
 Refer: 532 8725 N 1 0 0 1 501 0 2
-Refer: 660 65544 N 1 0 0 1 769 -540 2
+Refer: 657 -1 N 1 0 0 1 769 -540 2
 EndChar
 
 StartChar: arrowleft
@@ -87591,29 +87591,8 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u10000
-Encoding: 65536 65536 652
-Width: 1593
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: u10001
-Encoding: 65537 65537 653
-Width: 0
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: u10002
-Encoding: 65538 65538 654
-Width: 512
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: u10003
-Encoding: 65539 65539 655
+StartChar: middot
+Encoding: 1114115 -1 652
 Width: 683
 Flags: W
 TtInstrs:
@@ -87665,8 +87644,8 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u10004
-Encoding: 65540 65540 656
+StartChar: pi1
+Encoding: 1114116 -1 653
 Width: 1124
 Flags: W
 TtInstrs:
@@ -87878,8 +87857,8 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u10005
-Encoding: 65541 65541 657
+StartChar: uni2074
+Encoding: 1114117 -1 654
 Width: 614
 Flags: W
 TtInstrs:
@@ -87985,8 +87964,8 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u10006
-Encoding: 65542 65542 658
+StartChar: uni2075
+Encoding: 1114118 -1 655
 Width: 614
 Flags: W
 TtInstrs:
@@ -88120,8 +88099,8 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u10007
-Encoding: 65543 65543 659
+StartChar: uni2077
+Encoding: 1114119 -1 656
 Width: 614
 Flags: W
 TtInstrs:
@@ -88187,8 +88166,8 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u10008
-Encoding: 65544 65544 660
+StartChar: uni2078
+Encoding: 1114120 -1 657
 Width: 614
 Flags: W
 TtInstrs:
@@ -88383,8 +88362,8 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u10009
-Encoding: 65545 65545 661
+StartChar: cyrillicbreve
+Encoding: 1114121 -1 658
 Width: 1024
 Flags: W
 TtInstrs:
@@ -88458,8 +88437,8 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u1000A
-Encoding: 65546 65546 662
+StartChar: caroncommaaccent
+Encoding: 1114122 -1 659
 Width: 324
 Flags: W
 TtInstrs:
@@ -88515,8 +88494,8 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u1000B
-Encoding: 65547 65547 663
+StartChar: commaaccentrotate
+Encoding: 1114123 -1 660
 Width: 324
 Flags: W
 TtInstrs:
