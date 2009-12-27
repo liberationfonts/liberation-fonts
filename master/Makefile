@@ -26,9 +26,7 @@ dist-sfd:
 	  liberation-fonts-$(VER)/
 
 dist-ttf: clean-ttf build
-	tar cvf liberation-fonts-ttf-$(VER).tar ttf/*.ttf
-	tar Avf liberation-fonts-ttf-$(VER).tar $(MISCFILES)
-	gzip liberation-fonts-ttf-$(VER).tar
+	tar czvf liberation-fonts-ttf-$(VER).tar.gz ttf/*.ttf $(MISCFILES)
 	zip -j liberation-fonts-ttf-$(VER).zip ttf/*.ttf $(MISCFILES)
 
 clean: clean-ttf clean-src

@@ -1,3 +1,6 @@
+* Sun 27 Jul 2009 Caius 'kaio' Chance <me at kaio.me>
+- Fixed ttf pack preparation error.
+
 * Tue 21 Jul 2009 Caius 'kaio' Chance <me at kaio.me>
 - Fixed 'wrongly encoded glyphs after U+10000' (rhbz#525498),
   provided by Denis Jacquerye <moyogo at gmail.com>.
