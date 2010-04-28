@@ -8,7 +8,7 @@
    2. Requirements
   =================
 
-  * fontforge to be installed.
+  * fontforge is installed.
     (http://fontforge.sourceforge.net)
 
 
@@ -33,31 +33,35 @@
 
   3.3 Install to system
 
-    You can manually install the fonts by copying the TTFs to ~/.fonts for user
-    wide usage, or to /usr/share/fonts/truetype/liberation for system-wide
-    availability.
+    For Fedora, you could manually install the fonts by copying the TTFs to 
+    ~/.fonts for user wide usage, or to /usr/share/fonts/truetype/liberation 
+    for system-wide availability. Then, run "fc-cache" to let that cached.
+
+    For other distributions, please check out corresponding documentation.
 
 
    4. Usage
   ==========
 
-  The fonts should be installed and detected by the system after installation. 
   Simply select preferred liberation font in applications and start using.
 
 
    5. License
   ============
 
-  For redistribution information, please read the GPL license file 'COPYING'.
+  This font set had been released under GNU Public License version 2 
+  ("GPLv2") with exceptions.
 
-  For EULA information, please read file 'License.txt'.
+  Please read file "COPYING" for GPLv2 license.
+
+  Please read file "License.txt" for details of exceptions.
 
 
    6. For Maintainers
   ====================
 
   Before packaging a new release based on a new source tarball, you have to
-  update the version number in the Makefile:
+  update the version suffix in the Makefile:
 
     VER = [VERSION]
 
@@ -75,16 +79,4 @@
   7. Credits
  ============
 
- * Caius 'kaio' Chance <caius.chance AT gmail.com>
-   - Current project maintainer.
-
- * Herbert Duerr <duerr AT sun.com>
-   - Contributor of Liberation Sans Narrow Fonts.
-
- * Mark Webbink <mwebbink AT redhat.com>
-   - Release coordinator, Red Hat Inc.
-
- * Steve Matteson
-   - Designer, Ascender Inc.
-
- * And, all other anonymous participants.
+  Please read file "AUTHORS" for list of contributors.
