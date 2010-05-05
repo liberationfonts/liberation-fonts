@@ -3,7 +3,7 @@ FontName: LiberationMono-Bold
 FullName: Liberation Mono Bold
 FamilyName: Liberation Mono
 Weight: Bold
-Copyright: Copyright © 2007 Red Hat, Inc. All rights reserved. LIBERATION is a trademark of Red Hat, Inc.
+Copyright: Copyright Â© 2007 Red Hat, Inc. All rights reserved. LIBERATION is a trademark of Red Hat, Inc.
 Version: 1.05
 ItalicAngle: 0
 UnderlinePosition: -375
@@ -3314,7 +3314,7 @@ EndChar
 
 StartChar: uni00A0
 Encoding: 160 160 3
-AltUni2: 000020.ffffffff.0
+AltUni2: 000020.ffffffff.0 000020.ffffffff.0 000020.ffffffff.0
 Width: 1229
 Flags: W
 LayerCount: 2
@@ -5244,7 +5244,7 @@ EndChar
 
 StartChar: uni00AD
 Encoding: 173 173 16
-AltUni2: 00002d.ffffffff.0
+AltUni2: 00002d.ffffffff.0 00002d.ffffffff.0 00002d.ffffffff.0
 Width: 1229
 Flags: W
 TtInstrs:
@@ -7075,7 +7075,7 @@ EndChar
 
 StartChar: uni037E
 Encoding: 894 894 30
-AltUni2: 00003b.ffffffff.0
+AltUni2: 00003b.ffffffff.0 00003b.ffffffff.0 00003b.ffffffff.0
 Width: 1229
 Flags: W
 TtInstrs:
@@ -16109,204 +16109,35 @@ StartChar: cent
 Encoding: 162 162 99
 Width: 1229
 Flags: W
-TtInstrs:
-NPUSHB
- 13
- 106
- 1
- 1
- 102
- 34
- 1
- 31
- 110
- 30
- 30
- 4
- 25
- 10
-PUSHW_1
- 278
-NPUSHB
- 30
- 22
- 112
- 11
- 128
- 11
- 2
- 11
- 11
- 17
- 4
- 110
- 0
- 3
- 48
- 3
- 64
- 3
- 80
- 3
- 128
- 3
- 144
- 3
- 160
- 3
- 7
- 160
- 3
- 1
- 3
-PUSHW_1
- -64
-NPUSHB
- 57
- 11
- 14
- 72
- 3
- 3
- 43
- 39
- 110
- 17
- 64
- 25
- 31
- 72
- 32
- 17
- 48
- 17
- 2
- 17
- 112
- 31
- 1
- 15
- 31
- 1
- 0
- 3
- 64
- 3
- 80
- 3
- 160
- 3
- 176
- 3
- 5
- 31
- 3
- 31
- 3
- 9
- 36
- 118
- 25
- 112
- 22
- 1
- 22
- 22
- 23
- 7
- 12
- 0
- 118
- 9
- 9
- 10
-SVTCA[y-axis]
-MDAP[rnd]
-SHP[rp1]
-MDAP[rnd]
-MIRP[min,rnd,black]
-SHP[rp1]
-MIAP[rnd]
-SHP[rp1]
-MDAP[rnd]
-DELTAP1
-SHP[rp1]
-MIRP[min,rnd,black]
-SRP2
-IP
-IP
-MDAP[rnd]
-MDAP[rnd]
-DELTAP1
-DELTAP1
-DELTAP1
-SVTCA[x-axis]
-MDAP[rnd]
-DELTAP1
-CALL
-MIRP[min,rnd,black]
-SRP2
-IP
-MDAP[rnd]
-CALL
-DELTAP1
-DELTAP2
-MIRP[min,rnd,black]
-SRP2
-IP
-MDAP[rnd]
-DELTAP1
-SHP[rp1]
-MIRP[min,rnd,black]
-SHP[rp2]
-SRP1
-SHP[rp1]
-MDAP[rnd]
-MIRP[min,rnd,black]
-IUP[x]
-IUP[y]
-SVTCA[y-axis]
-DELTAP1
-DELTAP1
-EndTTInstrs
 LayerCount: 2
 Fore
 SplineSet
-635 311 m 0,0,1
- 723 311 723 311 782.5 365.5 c 128,-1,2
- 842 420 842 420 856 520 c 1,3,-1
- 1139 508 l 1,4,5
- 1129 439 1129 439 1097.5 375.5 c 128,-1,6
- 1066 312 1066 312 1013 261 c 128,-1,7
- 960 210 960 210 885.5 176 c 128,-1,8
- 811 142 811 142 715 131 c 1,9,-1
- 715 -60 l 1,10,-1
- 553 -60 l 1,11,-1
- 553 129 l 1,12,13
- 439 140 439 140 353.5 183 c 128,-1,14
- 268 226 268 226 211 294.5 c 128,-1,15
- 154 363 154 363 126 455 c 128,-1,16
- 98 547 98 547 98 657 c 0,17,18
- 98 774 98 774 128.5 868.5 c 128,-1,19
- 159 963 159 963 217 1032 c 128,-1,20
- 275 1101 275 1101 360 1142.5 c 128,-1,21
- 445 1184 445 1184 553 1196 c 1,22,-1
- 553 1380 l 1,23,-1
- 715 1380 l 1,24,-1
- 715 1196 l 1,25,26
- 805 1186 805 1186 876.5 1155 c 128,-1,27
- 948 1124 948 1124 1000 1077 c 128,-1,28
- 1052 1030 1052 1030 1084.5 969 c 128,-1,29
- 1117 908 1117 908 1130 839 c 1,30,-1
- 848 825 l 1,31,32
- 841 867 841 867 824.5 901.5 c 128,-1,33
- 808 936 808 936 781 961.5 c 128,-1,34
- 754 987 754 987 717.5 1001 c 128,-1,35
- 681 1015 681 1015 633 1015 c 0,36,37
- 509 1015 509 1015 445 923 c 128,-1,38
- 381 831 381 831 381 667 c 0,39,40
- 381 493 381 493 447.5 402 c 128,-1,41
- 514 311 514 311 635 311 c 0,0,1
+553 323.432 m 1,0,-1
+ 553 1003.56 l 1,1,2
+ 486.429 982.554 486.429 982.554 445 923 c 0,3,4
+ 381 831 381 831 381 662 c 128,-1,5
+ 381 493 381 493 447.5 402 c 0,6,7
+ 489.421 344.634 489.421 344.634 553 323.432 c 1,0,-1
+715 324.304 m 1,8,9
+ 834.708 367.911 834.708 367.911 856 520 c 1,10,-1
+ 1139 508 l 1,11,12
+ 1117.82 361.865 1117.82 361.865 1013 261 c 0,13,14
+ 899.922 152.189 899.922 152.189 715 131 c 1,15,-1
+ 715 -60 l 1,16,-1
+ 553 -60 l 1,17,-1
+ 553 129 l 1,18,19
+ 330.881 150.433 330.881 150.433 211 294.5 c 0,20,21
+ 98 430.298 98 430.298 98 657 c 0,22,23
+ 98 890.431 98 890.431 217 1032 c 0,24,25
+ 334.442 1171.72 334.442 1171.72 553 1196 c 1,26,-1
+ 553 1380 l 1,27,-1
+ 715 1380 l 1,28,-1
+ 715 1196 l 1,29,30
+ 889.833 1176.57 889.833 1176.57 1000 1077 c 0,31,32
+ 1102.64 984.231 1102.64 984.231 1130 839 c 1,33,-1
+ 848 825 l 1,34,35
+ 825.412 960.531 825.412 960.531 715 1001.94 c 1,36,-1
+ 715 324.304 l 1,8,9
 EndSplineSet
 EndChar
 
@@ -49505,7 +49336,7 @@ EndChar
 
 StartChar: uni2215
 Encoding: 8725 8725 532
-AltUni2: 002044.ffffffff.0
+AltUni2: 002044.ffffffff.0 002044.ffffffff.0 002044.ffffffff.0
 Width: 1229
 Flags: W
 TtInstrs:

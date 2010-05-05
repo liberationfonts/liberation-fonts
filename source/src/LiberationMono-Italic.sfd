@@ -3,7 +3,7 @@ FontName: LiberationMono-Italic
 FullName: Liberation Mono Italic
 FamilyName: Liberation Mono
 Weight: Book
-Copyright: Copyright © 2007 Red Hat, Inc. All rights reserved. LIBERATION is a trademark of Red Hat, Inc.
+Copyright: Copyright Â© 2007 Red Hat, Inc. All rights reserved. LIBERATION is a trademark of Red Hat, Inc.
 Version: 1.05
 ItalicAngle: -12
 UnderlinePosition: -435
@@ -13,13 +13,14 @@ Descent: 410
 LayerCount: 2
 Layer: 0 1 "Back"  1
 Layer: 1 1 "Fore"  0
+NeedsXUIDChange: 1
 XUID: [1021 131 222397055 1812088]
 FSType: 8
 OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1095817380
-ModificationTime: 1272439543
+ModificationTime: 1273042611
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -3085,7 +3086,7 @@ MIRP[rp0,rnd,black]
 RTG
 ENDF
 EndTTInstrs
-ShortTable: cvt  299
+ShortTable: cvt  300
   1484
   1484
   125
@@ -3385,6 +3386,7 @@ ShortTable: cvt  299
   111
   68
   1297
+  425
 EndShort
 ShortTable: maxp 16
   1
@@ -3499,7 +3501,7 @@ EndChar
 
 StartChar: uni00A0
 Encoding: 160 160 3
-AltUni2: 000020.ffffffff.0
+AltUni2: 000020.ffffffff.0 000020.ffffffff.0
 Width: 1229
 Flags: W
 LayerCount: 2
@@ -5647,7 +5649,7 @@ EndChar
 
 StartChar: uni00AD
 Encoding: 173 173 16
-AltUni2: 00002d.ffffffff.0
+AltUni2: 00002d.ffffffff.0 00002d.ffffffff.0
 Width: 1229
 Flags: W
 TtInstrs:
@@ -7908,7 +7910,7 @@ EndChar
 
 StartChar: uni037E
 Encoding: 894 894 30
-AltUni2: 00003b.ffffffff.0
+AltUni2: 00003b.ffffffff.0 00003b.ffffffff.0
 Width: 1229
 Flags: W
 TtInstrs:
@@ -20517,287 +20519,242 @@ EndChar
 StartChar: cent
 Encoding: 162 162 99
 Width: 1229
-Flags: W
+Flags: WO
+HStem: 134.006 140.036<413.565 490.918> 1053.38 141.616<548.356 669.686 825.219 905.517>
+VStem: 141 186<361.703 770.458> 965 188<873 994.143>
 TtInstrs:
-NPUSHB
- 26
- 123
- 35
- 139
- 35
- 2
- 100
- 45
- 116
- 45
- 132
- 45
- 3
- 27
- 22
- 107
- 22
- 2
- 134
- 21
- 1
- 27
- 21
- 107
- 21
- 2
- 29
-PUSHW_1
- -24
-NPUSHB
+SVTCA[y-axis]
+PUSHB_1
  19
- 9
- 14
- 72
- 12
- 14
- 1
- 27
- 9
- 10
- 26
- 10
- 24
- 12
- 11
- 26
- 10
- 1
- 82
- 10
-PUSHW_1
- 284
-NPUSHB
- 92
- 11
- 25
- 20
- 11
- 11
- 25
- 11
- 11
- 25
- 25
- 11
- 4
- 70
- 3
- 96
- 3
- 1
- 11
- 3
- 11
- 3
- 17
- 32
- 71
- 191
- 33
- 1
+MDAP[rnd]
+PUSHB_1
  16
- 33
- 32
- 33
- 2
- 33
- 33
- 48
- 44
- 71
- 16
- 17
- 32
- 17
- 2
- 17
- 26
- 47
- 25
- 207
- 25
- 223
- 25
- 3
- 127
- 25
+SHP[rp1]
+PUSHB_1
+ 0
+MDRP[min,rnd,black]
+PUSHB_1
+ 9
+SHP[rp2]
+PUSHB_1
  1
- 25
+MDAP[rnd]
+PUSHB_1
  38
- 80
- 24
- 0
- 33
- 1
- 33
- 25
- 27
- 33
- 3
- 15
- 24
- 127
- 24
- 175
- 24
- 207
- 24
- 4
- 24
- 10
- 11
- 96
- 3
- 1
- 3
- 3
- 11
- 9
- 3
- 0
- 80
- 12
- 128
- 129
- 88
-CALL
-SVTCA[y-axis]
-MDAP[rnd]
-MIRP[min,rnd,black]
-SLOOP
 SHP[rp1]
-MDAP[rnd]
-DELTAP1
-MDAP[rnd]
-SHP[rp1]
-MDAP[rnd]
-DELTAP1
-SLOOP
-SHP[rp1]
-MDAP[rnd]
-DELTAP1
-SRP0
-MIRP[min,rnd,black]
-MDAP[rnd]
-DELTAP1
-DELTAP2
-SHP[rp1]
+PUSHB_1
+ 28
+MDRP[min,rnd,black]
+PUSHB_1
+ 31
+SHP[rp2]
 SVTCA[x-axis]
+PUSHB_1
+ 39
 MDAP[rnd]
-DELTAP1
-MIRP[min,rnd,black]
-SRP1
-SHP[rp1]
-MDAP[rnd]
-DELTAP1
-DELTAP1
-MIRP[min,rnd,black]
-SRP2
-IP
-IP
-MDAP[rnd]
-MDAP[rnd]
-DELTAP1
+PUSHB_1
+ 23
+MDRP[rp0,rnd,white]
+PUSHB_1
+ 7
+MDRP[min,rnd,black]
+PUSHB_1
+ 7
 SRP0
-MIRP[min,rnd,black]
-SRP1
-SHP[rp1]
-MDAP[rnd]
-SVTCA[y-axis]
-GC[cur]
-PUSHB_8
- 47
+PUSHB_1
+ 36
+MDRP[rp0,min,rnd,grey]
+PUSHB_1
+ 35
+MDRP[min,rnd,black]
+PUSHB_1
+ 35
+SRP0
+PUSHB_1
  40
- 25
- 16
- 11
- 11
- 47
- 10
-CALL
+MDRP[rp0,rnd,white]
+PUSHB_1
+ 54
+SMD
+PUSHW_2
+ 16083
+ -3127
+SPVFS
+SFVTPV
+PUSHB_1
+ 18
 SRP0
-ALIGNRP
-SVTCA[x-axis]
-MDAP[rnd]
-CALL
-ALIGNRP
-CALL
-SRP0
-SCFS
-SDPVTL[orthog]
+PUSHB_1
+ 29
+MDRP[grey]
+PUSHB_2
+ 17
+ 2
+MIRP[rp0,min,black]
+PUSHB_1
+ 30
+MDRP[grey]
 SFVTCA[x-axis]
+PUSHB_1
+ 18
 SRP0
-CALL
-CALL
+PUSHB_2
+ 18
+ 29
+SPVTL[orthog]
+PUSHB_1
+ 0
+MDRP[grey]
+PUSHB_1
+ 1
+MDRP[grey]
+PUSHB_1
+ 17
 SRP0
-MDRP[rnd,grey]
+PUSHB_1
+ 9
+MDRP[grey]
+PUSHB_1
+ 16
+MDRP[grey]
+PUSHB_1
+ 18
 SRP0
+PUSHB_1
+ 19
 MDRP[grey]
+PUSHB_1
+ 28
 MDRP[grey]
+PUSHB_1
+ 17
 SRP0
-SDPVTL[orthog]
+PUSHB_1
+ 31
 MDRP[grey]
+PUSHB_1
+ 38
 MDRP[grey]
-IUP[x]
-IUP[y]
+SPVTCA[x-axis]
 SVTCA[y-axis]
-DELTAP1
+PUSHB_4
+ 17
+ 18
+ 29
+ 30
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
 SVTCA[x-axis]
-CALL
-DELTAP1
-DELTAP1
-DELTAP1
+NPUSHB
+ 12
+ 0
+ 1
+ 9
+ 16
+ 17
+ 18
+ 19
+ 28
+ 29
+ 30
+ 31
+ 38
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+PUSHB_1
+ 64
+SMD
+PUSHB_2
+ 36
+ 7
+SRP1
+SRP2
+PUSHB_1
+ 11
+IP
+PUSHB_1
+ 35
+SRP1
+PUSHB_1
+ 12
+IP
 SVTCA[y-axis]
-DELTAP1
-DELTAP1
+PUSHB_2
+ 0
+ 19
+SRP1
+SRP2
+PUSHB_2
+ 15
+ 20
+IP
+IP
+PUSHB_1
+ 1
+SRP1
+PUSHB_7
+ 7
+ 11
+ 12
+ 22
+ 23
+ 35
+ 36
+DEPTH
+SLOOP
+IP
+PUSHB_1
+ 28
+SRP2
+PUSHB_1
+ 32
+IP
+IUP[y]
+IUP[x]
 EndTTInstrs
 LayerCount: 2
 Fore
 SplineSet
-582 269 m 0,0,1
- 694 269 694 269 778.5 323.5 c 128,-1,2
- 863 378 863 378 901 486 c 1,3,-1
- 1081 474 l 1,4,5
- 1060 412 1060 412 1019.5 354 c 128,-1,6
- 979 296 979 296 920.5 250 c 128,-1,7
- 862 204 862 204 786.5 173 c 128,-1,8
- 711 142 711 142 619 134 c 1,9,-1
- 581 -61 l 1,10,-1
- 453 -61 l 1,11,-1
- 491 134 l 1,12,13
- 401 141 401 141 335.5 170.5 c 128,-1,14
- 270 200 270 200 226.5 248.5 c 128,-1,15
- 183 297 183 297 162 363.5 c 128,-1,16
- 141 430 141 430 141 510 c 0,17,18
- 141 578 141 578 156 656 c 0,19,20
- 179 774 179 774 226.5 869.5 c 128,-1,21
- 274 965 274 965 343 1034 c 128,-1,22
- 412 1103 412 1103 501.5 1144.5 c 128,-1,23
- 591 1186 591 1186 697 1195 c 1,24,-1
- 733 1379 l 1,25,-1
- 861 1379 l 1,26,-1
- 825 1195 l 1,27,28
- 909 1188 909 1188 970.5 1160.5 c 128,-1,29
- 1032 1133 1032 1133 1072.5 1090 c 128,-1,30
- 1113 1047 1113 1047 1132.5 991.5 c 128,-1,31
- 1152 936 1152 936 1153 873 c 1,32,-1
- 965 859 l 1,33,34
- 965 904 965 904 952 941 c 128,-1,35
- 939 978 939 978 910.5 1004 c 128,-1,36
- 882 1030 882 1030 838.5 1044 c 128,-1,37
- 795 1058 795 1058 734 1058 c 0,38,39
- 578 1058 578 1058 477.5 957.5 c 128,-1,40
- 377 857 377 857 341 668 c 0,41,42
- 334 632 334 632 330.5 599 c 128,-1,43
- 327 566 327 566 327 536 c 0,44,45
- 327 402 327 402 392.5 335.5 c 128,-1,46
- 458 269 458 269 582 269 c 0,0,1
+518.147 274.042 m 1,0,-1
+ 669.686 1053.38 l 1,1,2
+ 556.462 1036.46 556.462 1036.46 466.963 946.963 c 0,3,4
+ 355.593 835.593 355.593 835.593 330.5 599 c 0,5,6
+ 327 566 327 566 327 536 c 0,7,8
+ 327 306.483 327 306.483 518.147 274.042 c 1,0,-1
+646.101 273.807 m 1,9,10
+ 836.799 303.535 836.799 303.535 901 486 c 1,11,-1
+ 1081 474 l 1,12,13
+ 1010.15 264.831 1010.15 264.831 786.5 173 c 0,14,15
+ 711 142 711 142 619 134 c 1,16,-1
+ 581 -61 l 1,17,-1
+ 453 -61 l 1,18,-1
+ 490.918 134.006 l 1,19,20
+ 228.004 154.488 228.004 154.488 162 363.5 c 0,21,22
+ 141 430 141 430 141 504 c 128,-1,23
+ 141 578 141 578 160 676 c 128,-1,24
+ 179 774 179 774 226.5 869.5 c 128,-1,25
+ 274 965 274 965 343 1034 c 0,26,27
+ 486.093 1177.09 486.093 1177.09 697 1195 c 1,28,-1
+ 733 1379 l 1,29,-1
+ 861 1379 l 1,30,-1
+ 825.219 1194.98 l 1,31,32
+ 986.319 1181.5 986.319 1181.5 1072.5 1090 c 0,33,34
+ 1150.88 1006.79 1150.88 1006.79 1153 873 c 1,35,-1
+ 965 859 l 1,36,37
+ 965 1027.39 965 1027.39 797.703 1053.47 c 1,38,-1
+ 646.101 273.807 l 1,9,10
 EndSplineSet
 EndChar
 
@@ -64161,7 +64118,7 @@ EndChar
 
 StartChar: uni2215
 Encoding: 8725 8725 532
-AltUni2: 002044.ffffffff.0
+AltUni2: 002044.ffffffff.0 002044.ffffffff.0
 Width: 1229
 Flags: W
 TtInstrs:
