@@ -1,3 +1,11 @@
+* Thu 06 May 2010 Caius 'kaio' Chance <me at kaio.net>
+- Cleaned up points and auto-instructed hinting of 'u', 'v', 'w', 'y'.
+(rhbz#463036)
+
+* Wed May 05 2010 Caius 'kaio' Chance <k at kaio.net>
+- Incorrect cent sign glyph (U+00A2) in Sans and Mono
+style in Liberation fonts. (rhbz#474522)
+
 * Wed 28 Apr 2010 Caius 'kaio' Chance <me at kaio.net>
 - rhbz#510174: Corrected version number of all SFD files.
 - Corrected license exceptions to GPLv2.
