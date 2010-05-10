@@ -3,7 +3,7 @@ FontName: LiberationSerif
 FullName: Liberation Serif
 FamilyName: Liberation Serif
 Weight: Book
-Copyright: Copyright © 2007 Red Hat, Inc. All rights reserved. LIBERATION is a trademark of Red Hat, Inc.
+Copyright: Copyright Â© 2007 Red Hat, Inc. All rights reserved. LIBERATION is a trademark of Red Hat, Inc.
 Version: 1.05
 ItalicAngle: 0
 UnderlinePosition: -173
@@ -13,13 +13,14 @@ Descent: 410
 LayerCount: 2
 Layer: 0 1 "Back"  1
 Layer: 1 1 "Fore"  0
+NeedsXUIDChange: 1
 XUID: [1021 131 222397055 16509670]
 FSType: 8
 OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1123398000
-ModificationTime: 1272440461
+ModificationTime: 1273470819
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -2445,7 +2446,7 @@ MIRP[rp0,rnd,black]
 RTG
 ENDF
 EndTTInstrs
-ShortTable: cvt  266
+ShortTable: cvt  267
   1421
   21
   72
@@ -2712,6 +2713,7 @@ ShortTable: cvt  266
   833
   68
   1297
+  436
 EndShort
 ShortTable: maxp 16
   1
@@ -2739,8 +2741,8 @@ NameList: Adobe Glyph List
 DisplaySize: -24
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 40 40 16
-BeginChars: 1114124 661
+WinInfo: 8160 40 16
+BeginChars: 1114124 667
 
 StartChar: .notdef
 Encoding: 1114112 -1 0
@@ -2826,7 +2828,7 @@ EndChar
 
 StartChar: uni00A0
 Encoding: 160 160 3
-AltUni2: 000020.ffffffff.0
+AltUni2: 000020.ffffffff.0 000020.ffffffff.0
 Width: 512
 Flags: W
 LayerCount: 2
@@ -5838,7 +5840,7 @@ EndChar
 
 StartChar: uni00AD
 Encoding: 173 173 16
-AltUni2: 00002d.ffffffff.0
+AltUni2: 00002d.ffffffff.0 00002d.ffffffff.0
 Width: 682
 Flags: W
 TtInstrs:
@@ -8035,7 +8037,7 @@ EndChar
 
 StartChar: uni037E
 Encoding: 894 894 30
-AltUni2: 00003b.ffffffff.0
+AltUni2: 00003b.ffffffff.0 00003b.ffffffff.0
 Width: 569
 Flags: W
 TtInstrs:
@@ -33443,7 +33445,7 @@ EndChar
 
 StartChar: uni2219
 Encoding: 8729 8729 119
-AltUni2: 0000b7.ffffffff.0
+AltUni2: 0000b7.ffffffff.0 0000b7.ffffffff.0
 Width: 512
 Flags: W
 TtInstrs:
@@ -46297,7 +46299,7 @@ EndTTInstrs
 LayerCount: 2
 Fore
 Refer: 54 83 N 1 0 0 1 0 0 3
-Refer: 120 184 N 1 0 0 1 220 0 2
+Refer: 120 184 S 1 0 0 1 220 0 2
 EndChar
 
 StartChar: scedilla
@@ -46320,7 +46322,7 @@ EndTTInstrs
 LayerCount: 2
 Fore
 Refer: 86 115 N 1 0 0 1 0 0 3
-Refer: 120 184 N 1 0 0 1 30 0 2
+Refer: 120 184 S 1 0 0 1 30 0 2
 EndChar
 
 StartChar: Scaron
@@ -46381,54 +46383,20 @@ StartChar: Tcommaaccent
 Encoding: 354 354 290
 Width: 1251
 Flags: W
-TtInstrs:
-PUSHW_2
- 47
- -64
-PUSHB_4
- 24
- 24
- 72
- 1
-PUSHW_1
- -10
-PUSHB_5
- 30
- 24
- 2
- 21
- 37
-CALL
-SHC[rp1]
-CALL
-EndTTInstrs
 LayerCount: 2
 Fore
+Refer: 120 184 S 1 0 0 1 309 0 2
 Refer: 55 84 N 1 0 0 1 0 0 2
-Refer: 650 61444 N 1 0 0 1 452 0 2
 EndChar
 
 StartChar: tcommaaccent
 Encoding: 355 355 291
 Width: 569
 Flags: W
-TtInstrs:
-PUSHW_2
- 1
- -46
-PUSHB_5
- 40
- 26
- 3
- 20
- 37
-CALL
-SHC[rp1]
-EndTTInstrs
 LayerCount: 2
 Fore
+Refer: 120 184 S 1 0 0 1 30 0 2
 Refer: 87 116 N 1 0 0 1 0 0 2
-Refer: 650 61444 N 1 0 0 1 142 0 2
 EndChar
 
 StartChar: Tcaron
@@ -75345,7 +75313,7 @@ EndChar
 
 StartChar: uni2215
 Encoding: 8725 8725 532
-AltUni2: 002044.ffffffff.0
+AltUni2: 002044.ffffffff.0 002044.ffffffff.0
 Width: 342
 Flags: W
 TtInstrs:
@@ -95022,7 +94990,7 @@ EndChar
 
 StartChar: uniFB01
 Encoding: 64257 64257 648
-AltUni2: 00f001.ffffffff.0
+AltUni2: 00f001.ffffffff.0 00f001.ffffffff.0
 Width: 1139
 Flags: W
 TtInstrs:
@@ -95340,7 +95308,7 @@ EndChar
 
 StartChar: uniFB02
 Encoding: 64258 64258 649
-AltUni2: 00f002.ffffffff.0
+AltUni2: 00f002.ffffffff.0 00f002.ffffffff.0
 Width: 1139
 Flags: W
 TtInstrs:
@@ -96942,6 +96910,142 @@ SplineSet
  101 1138 101 1138 85 1155.5 c 128,-1,20
  69 1173 69 1173 59.5 1198 c 128,-1,21
  50 1223 50 1223 50 1255 c 0,0,1
+EndSplineSet
+EndChar
+
+StartChar: Scommaaccent
+Encoding: 536 536 661
+Width: 1139
+Flags: W
+LayerCount: 2
+Fore
+Refer: 650 61444 S 1 0 0 1 452 0 2
+Refer: 54 83 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: scommaaccent
+Encoding: 537 537 662
+Width: 797
+Flags: W
+LayerCount: 2
+Fore
+Refer: 650 61444 S 1 0 0 1 142 0 2
+Refer: 86 115 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uni021A
+Encoding: 538 538 663
+Width: 1251
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 650 61444 S 1 0 0 1 452 0 2
+Refer: 55 84 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni021B
+Encoding: 539 539 664
+Width: 569
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 650 61444 S 1 0 0 1 142 0 2
+Refer: 87 116 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni2010
+Encoding: 8208 8208 665
+Width: 682
+Flags: W
+HStem: 406 153<76 608>
+VStem: 76 532<406 559>
+TtInstrs:
+SVTCA[y-axis]
+PUSHB_1
+ 0
+MDAP[rnd]
+PUSHB_1
+ 1
+MDRP[min,rnd,black]
+PUSHB_1
+ 1
+MDRP[min,rnd,black]
+SVTCA[x-axis]
+PUSHB_1
+ 4
+MDAP[rnd]
+PUSHB_1
+ 0
+MDRP[rp0,min,rnd,grey]
+PUSHB_1
+ 3
+MDRP[min,rnd,black]
+PUSHB_1
+ 3
+SRP0
+PUSHB_1
+ 5
+MDRP[rp0,rnd,white]
+SVTCA[y-axis]
+IUP[y]
+IUP[x]
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+76 406 m 1,0,-1
+ 76 559 l 1,1,-1
+ 608 559 l 1,2,-1
+ 608 406 l 1,3,-1
+ 76 406 l 1,0,-1
+EndSplineSet
+EndChar
+
+StartChar: uni2011
+Encoding: 8209 8209 666
+Width: 682
+Flags: WO
+HStem: 406 153<76 608>
+VStem: 76 532<406 559>
+TtInstrs:
+SVTCA[y-axis]
+PUSHB_1
+ 0
+MDAP[rnd]
+PUSHB_1
+ 1
+MDRP[min,rnd,black]
+PUSHB_1
+ 1
+MDRP[min,rnd,black]
+SVTCA[x-axis]
+PUSHB_1
+ 4
+MDAP[rnd]
+PUSHB_1
+ 0
+MDRP[rp0,min,rnd,grey]
+PUSHB_1
+ 3
+MDRP[min,rnd,black]
+PUSHB_1
+ 3
+SRP0
+PUSHB_1
+ 5
+MDRP[rp0,rnd,white]
+SVTCA[y-axis]
+IUP[y]
+IUP[x]
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+76 406 m 1,0,-1
+ 76 559 l 1,1,-1
+ 608 559 l 1,2,-1
+ 608 406 l 1,3,-1
+ 76 406 l 1,0,-1
 EndSplineSet
 EndChar
 EndChars
