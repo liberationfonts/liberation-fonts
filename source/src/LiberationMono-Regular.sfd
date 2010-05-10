@@ -20,7 +20,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1095817380
-ModificationTime: 1273043481
+ModificationTime: 1273470047
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -3208,8 +3208,8 @@ NameList: Adobe Glyph List
 DisplaySize: -24
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 40 40 16
-BeginChars: 1114127 663
+WinInfo: 8160 40 16
+BeginChars: 1114127 669
 
 StartChar: .notdef
 Encoding: 1114112 -1 0
@@ -3295,7 +3295,7 @@ EndChar
 
 StartChar: uni00A0
 Encoding: 160 160 3
-AltUni2: 000020.ffffffff.0 000020.ffffffff.0
+AltUni2: 000020.ffffffff.0 000020.ffffffff.0 000020.ffffffff.0
 Width: 1229
 Flags: W
 LayerCount: 2
@@ -5227,7 +5227,7 @@ EndChar
 
 StartChar: uni00AD
 Encoding: 173 173 16
-AltUni2: 00002d.ffffffff.0 00002d.ffffffff.0
+AltUni2: 00002d.ffffffff.0 00002d.ffffffff.0 00002d.ffffffff.0
 Width: 1229
 Flags: W
 TtInstrs:
@@ -7314,7 +7314,7 @@ EndChar
 
 StartChar: uni037E
 Encoding: 894 894 30
-AltUni2: 00003b.ffffffff.0 00003b.ffffffff.0
+AltUni2: 00003b.ffffffff.0 00003b.ffffffff.0 00003b.ffffffff.0
 Width: 1229
 Flags: W
 TtInstrs:
@@ -17757,7 +17757,7 @@ EndChar
 StartChar: cent
 Encoding: 162 162 99
 Width: 1229
-Flags: WO
+Flags: W
 HStem: 134 139.911<698 811.594> 1053.45 141.555<455.423 570 698 811.777>
 VStem: 133 183<431.696 902.342> 570 128<-61 138.046 274.162 1053.45 1190 1379> 912 182<376.443 474.945 871.949 954.271>
 TtInstrs:
@@ -30650,7 +30650,7 @@ EndTTInstrs
 LayerCount: 2
 Fore
 Refer: 54 83 N 1 0 0 1 0 0 3
-Refer: 120 184 N 1 0 0 1 332 0 2
+Refer: 120 184 S 1 0 0 1 332 0 2
 EndChar
 
 StartChar: scedilla
@@ -30673,7 +30673,7 @@ EndTTInstrs
 LayerCount: 2
 Fore
 Refer: 86 115 N 1 0 0 1 0 0 3
-Refer: 120 184 N 1 0 0 1 342 0 2
+Refer: 120 184 S 1 0 0 1 342 0 2
 EndChar
 
 StartChar: Scaron
@@ -30742,47 +30742,20 @@ StartChar: Tcommaaccent
 Encoding: 354 354 290
 Width: 1229
 Flags: W
-TtInstrs:
-PUSHW_2
- 1
- -30
-PUSHB_5
- 8
- 11
- 4
- 6
- 37
-SVTCA[x-axis]
-CALL
-SHC[rp1]
-EndTTInstrs
 LayerCount: 2
 Fore
+Refer: 120 184 S 1 0 0 1 332 0 2
 Refer: 55 84 N 1 0 0 1 0 0 3
-Refer: 651 -1 N 1 0 0 1 -29 0 2
 EndChar
 
 StartChar: tcommaaccent
 Encoding: 355 355 291
 Width: 1229
 Flags: W
-TtInstrs:
-PUSHB_7
- 1
- 14
- 28
- 31
- 0
- 17
- 37
-SVTCA[x-axis]
-CALL
-SHC[rp1]
-EndTTInstrs
 LayerCount: 2
 Fore
+Refer: 120 184 S 1 0 0 1 342 0 2
 Refer: 87 116 N 1 0 0 1 0 0 3
-Refer: 651 -1 N 1 0 0 1 5 0 2
 EndChar
 
 StartChar: Tcaron
@@ -52668,7 +52641,7 @@ EndChar
 
 StartChar: uni2215
 Encoding: 8725 8725 532
-AltUni2: 002044.ffffffff.0 002044.ffffffff.0
+AltUni2: 002044.ffffffff.0 002044.ffffffff.0 002044.ffffffff.0
 Width: 1229
 Flags: W
 TtInstrs:
@@ -67613,6 +67586,142 @@ SplineSet
  651 986 l 1,69,70
  717 967 717 967 745.5 922 c 128,-1,71
  774 877 774 877 774 800 c 0,38,39
+EndSplineSet
+EndChar
+
+StartChar: Scommaaccent
+Encoding: 536 536 663
+Width: 1229
+Flags: W
+LayerCount: 2
+Fore
+Refer: 651 -1 S 1 0 0 1 -29 0 2
+Refer: 54 83 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: scommaaccent
+Encoding: 537 537 664
+Width: 1229
+Flags: W
+LayerCount: 2
+Fore
+Refer: 651 -1 S 1 0 0 1 5 0 2
+Refer: 86 115 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uni021A
+Encoding: 538 538 665
+Width: 1229
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 651 -1 S 1 0 0 1 -29 0 2
+Refer: 55 84 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uni021B
+Encoding: 539 539 666
+Width: 1229
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 651 -1 S 1 0 0 1 5 0 2
+Refer: 87 116 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uni2010
+Encoding: 8208 8208 667
+Width: 1229
+Flags: W
+HStem: 464 160<334 894>
+VStem: 334 560<464 624>
+TtInstrs:
+SVTCA[y-axis]
+PUSHB_1
+ 0
+MDAP[rnd]
+PUSHB_1
+ 1
+MDRP[min,rnd,black]
+PUSHB_1
+ 1
+MDRP[min,rnd,black]
+SVTCA[x-axis]
+PUSHB_1
+ 4
+MDAP[rnd]
+PUSHB_1
+ 0
+MDRP[rp0,min,rnd,grey]
+PUSHB_1
+ 3
+MDRP[min,rnd,black]
+PUSHB_1
+ 3
+SRP0
+PUSHB_1
+ 5
+MDRP[rp0,rnd,white]
+SVTCA[y-axis]
+IUP[y]
+IUP[x]
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+334 464 m 1,0,-1
+ 334 624 l 1,1,-1
+ 894 624 l 1,2,-1
+ 894 464 l 1,3,-1
+ 334 464 l 1,0,-1
+EndSplineSet
+EndChar
+
+StartChar: uni2011
+Encoding: 8209 8209 668
+Width: 1229
+Flags: W
+HStem: 464 160<334 894>
+VStem: 334 560<464 624>
+TtInstrs:
+SVTCA[y-axis]
+PUSHB_1
+ 0
+MDAP[rnd]
+PUSHB_1
+ 1
+MDRP[min,rnd,black]
+PUSHB_1
+ 1
+MDRP[min,rnd,black]
+SVTCA[x-axis]
+PUSHB_1
+ 4
+MDAP[rnd]
+PUSHB_1
+ 0
+MDRP[rp0,min,rnd,grey]
+PUSHB_1
+ 3
+MDRP[min,rnd,black]
+PUSHB_1
+ 3
+SRP0
+PUSHB_1
+ 5
+MDRP[rp0,rnd,white]
+SVTCA[y-axis]
+IUP[y]
+IUP[x]
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+334 464 m 1,0,-1
+ 334 624 l 1,1,-1
+ 894 624 l 1,2,-1
+ 894 464 l 1,3,-1
+ 334 464 l 1,0,-1
 EndSplineSet
 EndChar
 EndChars

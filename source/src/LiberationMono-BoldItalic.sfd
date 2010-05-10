@@ -20,7 +20,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1095817380
-ModificationTime: 1273042474
+ModificationTime: 1273469644
 PfmFamily: 17
 TTFWeight: 700
 TTFWidth: 5
@@ -2840,8 +2840,8 @@ NameList: Adobe Glyph List
 DisplaySize: -24
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 40 40 16
-BeginChars: 1114127 663
+WinInfo: 0 40 16
+BeginChars: 1114127 669
 
 StartChar: .notdef
 Encoding: 1114112 -1 0
@@ -2927,7 +2927,7 @@ EndChar
 
 StartChar: uni00A0
 Encoding: 160 160 3
-AltUni2: 000020.ffffffff.0 000020.ffffffff.0
+AltUni2: 000020.ffffffff.0 000020.ffffffff.0 000020.ffffffff.0 000020.ffffffff.0 000020.ffffffff.0
 Width: 1229
 Flags: W
 LayerCount: 2
@@ -4781,7 +4781,7 @@ EndChar
 
 StartChar: uni00AD
 Encoding: 173 173 16
-AltUni2: 00002d.ffffffff.0 00002d.ffffffff.0
+AltUni2: 00002d.ffffffff.0 00002d.ffffffff.0 00002d.ffffffff.0 00002d.ffffffff.0 00002d.ffffffff.0
 Width: 1229
 Flags: W
 TtInstrs:
@@ -6752,7 +6752,7 @@ EndChar
 
 StartChar: uni037E
 Encoding: 894 894 30
-AltUni2: 00003b.ffffffff.0 00003b.ffffffff.0
+AltUni2: 00003b.ffffffff.0 00003b.ffffffff.0 00003b.ffffffff.0 00003b.ffffffff.0 00003b.ffffffff.0
 Width: 1229
 Flags: W
 TtInstrs:
@@ -18351,7 +18351,7 @@ EndChar
 StartChar: cent
 Encoding: 162 162 99
 Width: 1229
-Flags: WO
+Flags: W
 VStem: 107 285<375.678 773.534>
 TtInstrs:
 SVTCA[y-axis]
@@ -32383,58 +32383,21 @@ EndChar
 StartChar: Scedilla
 Encoding: 350 350 286
 Width: 1229
-Flags: W
-TtInstrs:
-PUSHW_2
- 1
- -159
-PUSHB_5
- 74
- 93
- 10
- 41
- 37
-SVTCA[x-axis]
-CALL
-SHC[rp1]
-EndTTInstrs
+Flags: HW
 LayerCount: 2
 Fore
+Refer: 120 184 S 1 0 0 1 332 0 2
 Refer: 54 83 N 1 0 0 1 0 0 3
-Refer: 120 184 N 1 0 0 1 332 0 2
 EndChar
 
 StartChar: scedilla
 Encoding: 351 351 287
 Width: 1229
-Flags: W
-TtInstrs:
-PUSHB_7
- 1
- 32
- 72
- 1
- 0
- 72
- 1
-PUSHW_1
- -137
-PUSHB_5
- 72
- 91
- 10
- 44
- 37
-SVTCA[x-axis]
-CALL
-DELTAP1
-DELTAP1
-SHC[rp1]
-EndTTInstrs
+Flags: HW
 LayerCount: 2
 Fore
+Refer: 120 184 S 1 0 0 1 342 0 2
 Refer: 86 115 N 1 0 0 1 0 0 3
-Refer: 120 184 N 1 0 0 1 342 0 2
 EndChar
 
 StartChar: Scaron
@@ -32506,49 +32469,21 @@ EndChar
 StartChar: Tcommaaccent
 Encoding: 354 354 290
 Width: 1229
-Flags: W
-TtInstrs:
-PUSHW_2
- 1
- -340
-PUSHB_5
- 8
- 11
- 4
- 6
- 37
-SVTCA[x-axis]
-CALL
-SHC[rp1]
-EndTTInstrs
+Flags: HW
 LayerCount: 2
 Fore
+Refer: 120 184 S 1 0 0 1 332 0 2
 Refer: 55 84 N 1 0 0 1 0 0 3
-Refer: 651 -1 N 1 0 0 1 -40 0 2
 EndChar
 
 StartChar: tcommaaccent
 Encoding: 355 355 291
 Width: 1229
-Flags: W
-TtInstrs:
-PUSHW_2
- 1
- -208
-PUSHB_5
- 36
- 39
- 1
- 7
- 37
-SVTCA[x-axis]
-CALL
-SHC[rp1]
-EndTTInstrs
+Flags: HW
 LayerCount: 2
 Fore
+Refer: 120 184 S 1 0 0 1 342 0 2
 Refer: 87 116 N 1 0 0 1 0 0 3
-Refer: 651 -1 N 1 0 0 1 5 0 2
 EndChar
 
 StartChar: Tcaron
@@ -59430,7 +59365,7 @@ EndChar
 
 StartChar: uni2215
 Encoding: 8725 8725 532
-AltUni2: 002044.ffffffff.0 002044.ffffffff.0
+AltUni2: 002044.ffffffff.0 002044.ffffffff.0 002044.ffffffff.0 002044.ffffffff.0 002044.ffffffff.0
 Width: 1229
 Flags: W
 TtInstrs:
@@ -74983,6 +74918,142 @@ SplineSet
  909 974 909 974 936 943 c 128,-1,80
  963 912 963 912 963 861 c 0,81,82
  963 838 963 838 957 809 c 0,40,41
+EndSplineSet
+EndChar
+
+StartChar: Scommaaccent
+Encoding: 536 536 663
+Width: 1229
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 54 83 N 1 0 0 1 0 0 3
+Refer: 651 -1 S 1 0 0 1 -40 0 2
+EndChar
+
+StartChar: scommaaccent
+Encoding: 537 537 664
+Width: 1229
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 86 115 N 1 0 0 1 0 0 3
+Refer: 651 -1 S 1 0 0 1 5 0 2
+EndChar
+
+StartChar: uni021A
+Encoding: 538 538 665
+Width: 1229
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 651 -1 S 1 0 0 1 -40 0 2
+Refer: 55 84 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uni021B
+Encoding: 539 539 666
+Width: 1229
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 651 -1 S 1 0 0 1 5 0 2
+Refer: 87 116 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uni2010
+Encoding: 8208 8208 667
+Width: 1229
+Flags: W
+HStem: 409 244<346 879>
+VStem: 299 627
+TtInstrs:
+SVTCA[y-axis]
+PUSHB_1
+ 0
+MDAP[rnd]
+PUSHB_1
+ 1
+MDRP[min,rnd,black]
+PUSHB_1
+ 1
+MDRP[min,rnd,black]
+SVTCA[x-axis]
+PUSHB_1
+ 4
+MDAP[rnd]
+PUSHB_1
+ 0
+MDRP[rp0,rnd,white]
+PUSHB_1
+ 2
+MDRP[min,rnd,black]
+PUSHB_1
+ 2
+SRP0
+PUSHB_1
+ 5
+MDRP[rp0,rnd,white]
+SVTCA[y-axis]
+IUP[y]
+IUP[x]
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+299 409 m 1,0,-1
+ 346 653 l 1,1,-1
+ 926 653 l 1,2,-1
+ 879 409 l 1,3,-1
+ 299 409 l 1,0,-1
+EndSplineSet
+EndChar
+
+StartChar: uni2011
+Encoding: 8209 8209 668
+Width: 1229
+Flags: W
+HStem: 409 244<346 879>
+VStem: 299 627
+TtInstrs:
+SVTCA[y-axis]
+PUSHB_1
+ 0
+MDAP[rnd]
+PUSHB_1
+ 1
+MDRP[min,rnd,black]
+PUSHB_1
+ 1
+MDRP[min,rnd,black]
+SVTCA[x-axis]
+PUSHB_1
+ 4
+MDAP[rnd]
+PUSHB_1
+ 0
+MDRP[rp0,rnd,white]
+PUSHB_1
+ 2
+MDRP[min,rnd,black]
+PUSHB_1
+ 2
+SRP0
+PUSHB_1
+ 5
+MDRP[rp0,rnd,white]
+SVTCA[y-axis]
+IUP[y]
+IUP[x]
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+299 409 m 1,0,-1
+ 346 653 l 1,1,-1
+ 926 653 l 1,2,-1
+ 879 409 l 1,3,-1
+ 299 409 l 1,0,-1
 EndSplineSet
 EndChar
 EndChars
