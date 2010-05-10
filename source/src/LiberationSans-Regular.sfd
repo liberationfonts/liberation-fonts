@@ -20,7 +20,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1123372800
-ModificationTime: 1273043951
+ModificationTime: 1273472080
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -2841,8 +2841,8 @@ NameList: Adobe Glyph List
 DisplaySize: -24
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 40 40 16
-BeginChars: 1114132 668
+WinInfo: 8160 40 16
+BeginChars: 1114132 674
 
 StartChar: .notdef
 Encoding: 1114112 -1 0
@@ -2928,7 +2928,7 @@ EndChar
 
 StartChar: uni00A0
 Encoding: 160 160 3
-AltUni2: 000020.ffffffff.0 000020.ffffffff.0
+AltUni2: 000020.ffffffff.0 000020.ffffffff.0 000020.ffffffff.0
 Width: 569
 Flags: W
 LayerCount: 2
@@ -5370,7 +5370,7 @@ EndChar
 
 StartChar: uni00AD
 Encoding: 173 173 16
-AltUni2: 00002d.ffffffff.0 00002d.ffffffff.0
+AltUni2: 00002d.ffffffff.0 00002d.ffffffff.0 00002d.ffffffff.0
 Width: 682
 Flags: W
 TtInstrs:
@@ -7617,7 +7617,7 @@ EndChar
 
 StartChar: uni037E
 Encoding: 894 894 30
-AltUni2: 00003b.ffffffff.0 00003b.ffffffff.0
+AltUni2: 00003b.ffffffff.0 00003b.ffffffff.0 00003b.ffffffff.0
 Width: 569
 Flags: W
 TtInstrs:
@@ -26688,7 +26688,7 @@ EndChar
 StartChar: cent
 Encoding: 162 162 99
 Width: 1139
-Flags: WO
+Flags: W
 HStem: 137 145.019<440.266 538 662 753.512> 1112.15 141.852<433.151 538> 1389 20G<538 662>
 VStem: 135 188<423.086 982.059> 538 124<-31 142.438 283.954 1109.43 1248.44 1409> 836 182<367.856 477.945 932.949 1023.66>
 TtInstrs:
@@ -30764,7 +30764,7 @@ EndChar
 
 StartChar: uni2219
 Encoding: 8729 8729 119
-AltUni2: 0000b7.ffffffff.0 0000b7.ffffffff.0
+AltUni2: 0000b7.ffffffff.0 0000b7.ffffffff.0 0000b7.ffffffff.0
 Width: 569
 Flags: W
 TtInstrs:
@@ -40898,7 +40898,7 @@ EndTTInstrs
 LayerCount: 2
 Fore
 Refer: 54 83 N 1 0 0 1 0 0 3
-Refer: 120 184 N 1 0 0 1 422 0 2
+Refer: 120 184 S 1 0 0 1 422 0 2
 EndChar
 
 StartChar: scedilla
@@ -40921,7 +40921,7 @@ EndTTInstrs
 LayerCount: 2
 Fore
 Refer: 86 115 N 1 0 0 1 0 0 3
-Refer: 120 184 N 1 0 0 1 218 0 2
+Refer: 120 184 S 1 0 0 1 218 0 2
 EndChar
 
 StartChar: Scaron
@@ -40990,767 +40990,20 @@ StartChar: Tcommaaccent
 Encoding: 354 354 290
 Width: 1251
 Flags: W
-TtInstrs:
-PUSHW_2
- 1
- -2
-PUSHB_5
- 12
- 8
- 4
- 6
- 37
-SVTCA[x-axis]
-CALL
-SHC[rp1]
-EndTTInstrs
 LayerCount: 2
 Fore
+Refer: 120 184 S 1 0 0 1 347 0 2
 Refer: 55 84 N 1 0 0 1 0 0 3
-Refer: 652 -1 N 1 0 0 1 395 0 2
 EndChar
 
 StartChar: tcommaaccent
 Encoding: 355 355 291
 Width: 569
 Flags: W
-TtInstrs:
-NPUSHB
- 255
- 35
- 64
- 232
- 232
- 72
- 35
- 64
- 231
- 231
- 72
- 35
- 64
- 228
- 228
- 72
- 35
- 64
- 227
- 227
- 72
- 35
- 64
- 226
- 226
- 72
- 35
- 64
- 221
- 221
- 72
- 35
- 64
- 217
- 217
- 72
- 35
- 64
- 216
- 216
- 72
- 35
- 64
- 215
- 215
- 72
- 35
- 64
- 214
- 214
- 72
- 35
- 64
- 213
- 213
- 72
- 35
- 64
- 210
- 210
- 72
- 35
- 64
- 206
- 206
- 72
- 35
- 64
- 205
- 205
- 72
- 35
- 64
- 203
- 203
- 72
- 35
- 64
- 202
- 202
- 72
- 35
- 64
- 199
- 199
- 72
- 35
- 64
- 196
- 196
- 72
- 35
- 64
- 195
- 195
- 72
- 35
- 64
- 194
- 194
- 72
- 35
- 64
- 192
- 192
- 72
- 35
- 64
- 191
- 191
- 72
- 35
- 64
- 190
- 190
- 72
- 35
- 64
- 185
- 185
- 72
- 35
- 64
- 184
- 184
- 72
- 35
- 64
- 181
- 181
- 72
- 35
- 64
- 180
- 180
- 72
- 35
- 64
- 179
- 179
- 72
- 35
- 64
- 178
- 178
- 72
- 35
- 64
- 174
- 174
- 72
- 35
- 64
- 173
- 173
- 72
- 35
- 64
- 170
- 170
- 72
- 35
- 64
- 169
- 169
- 72
- 35
- 64
- 168
- 168
- 72
- 35
- 64
- 167
- 167
- 72
- 35
- 64
- 163
- 163
- 72
- 35
- 64
- 162
- 162
- 72
- 35
- 64
- 160
- 160
- 72
- 35
- 64
- 159
- 159
- 72
- 35
- 64
- 158
- 158
- 72
- 35
- 64
- 157
- 157
- 72
- 35
- 64
- 156
- 156
- 72
- 35
- 64
- 152
- 152
- 72
- 35
- 64
- 149
- 149
- 72
- 35
- 64
- 148
- 148
- 72
- 35
- 64
- 147
- 147
- 72
- 35
- 64
- 146
- 146
- 72
- 35
- 64
- 145
- 145
- 72
- 35
- 64
- 144
- 144
- 72
- 35
- 64
- 142
- 142
- 72
- 35
- 64
- 141
- 141
- 72
-NPUSHB
- 221
- 35
- 64
- 138
- 138
- 72
- 35
- 64
- 137
- 137
- 72
- 35
- 64
- 136
- 136
- 72
- 35
- 64
- 134
- 134
- 72
- 35
- 64
- 133
- 133
- 72
- 35
- 64
- 131
- 131
- 72
- 35
- 64
- 130
- 130
- 72
- 35
- 64
- 127
- 127
- 72
- 35
- 64
- 126
- 126
- 72
- 35
- 64
- 125
- 125
- 72
- 35
- 64
- 124
- 124
- 72
- 35
- 64
- 123
- 123
- 72
- 35
- 64
- 122
- 122
- 72
- 35
- 64
- 121
- 121
- 72
- 35
- 64
- 120
- 120
- 72
- 35
- 64
- 116
- 116
- 72
- 35
- 64
- 115
- 115
- 72
- 35
- 64
- 113
- 113
- 72
- 35
- 64
- 112
- 112
- 72
- 35
- 64
- 111
- 111
- 72
- 35
- 64
- 110
- 110
- 72
- 35
- 64
- 109
- 109
- 72
- 35
- 64
- 106
- 106
- 72
- 35
- 64
- 105
- 105
- 72
- 35
- 64
- 104
- 104
- 72
- 35
- 64
- 102
- 102
- 72
- 35
- 64
- 101
- 101
- 72
- 35
- 64
- 100
- 100
- 72
- 35
- 64
- 99
- 99
- 72
- 35
- 64
- 98
- 98
- 72
- 35
- 64
- 95
- 95
- 72
- 35
- 64
- 94
- 94
- 72
- 35
- 64
- 93
- 93
- 72
- 35
- 64
- 91
- 91
- 72
- 35
- 64
- 90
- 90
- 72
- 35
- 64
- 89
- 89
- 72
- 35
- 128
- 88
- 88
- 72
- 35
- 64
- 87
- 87
- 72
- 35
- 64
- 84
- 84
- 72
- 35
- 64
- 83
- 83
- 72
- 35
- 64
- 80
- 80
- 72
- 35
- 64
- 79
- 79
- 72
- 35
- 64
- 78
- 78
- 72
- 35
- 64
- 77
- 77
- 72
- 35
-PUSHW_1
- -64
-PUSHB_4
- 74
- 74
- 72
- 35
-PUSHW_1
- -64
-PUSHB_4
- 71
- 71
- 72
- 35
-PUSHW_1
- -64
-PUSHB_4
- 63
- 63
- 72
- 35
-PUSHW_1
- -64
-NPUSHB
- 9
- 60
- 60
- 72
- 35
- 64
- 52
- 52
- 72
- 35
-PUSHW_1
- -64
-PUSHB_4
- 50
- 50
- 72
- 35
-PUSHW_1
- -64
-PUSHB_4
- 49
- 49
- 72
- 35
-PUSHW_1
- -64
-NPUSHB
- 9
- 45
- 45
- 72
- 35
- 64
- 41
- 41
- 72
- 35
-PUSHW_1
- -64
-PUSHB_4
- 39
- 39
- 72
- 35
-PUSHW_1
- -64
-NPUSHB
- 9
- 38
- 38
- 72
- 35
- 64
- 30
- 30
- 72
- 35
-PUSHW_1
- -64
-PUSHB_4
- 28
- 28
- 72
- 35
-PUSHW_1
- -64
-NPUSHB
- 9
- 27
- 27
- 72
- 35
- 64
- 19
- 19
- 72
- 35
-PUSHW_1
- -64
-PUSHB_4
- 17
- 17
- 72
- 35
-PUSHW_1
- -64
-PUSHB_4
- 13
- 13
- 72
- 35
-PUSHW_1
- -64
-NPUSHB
- 15
- 9
- 9
- 72
- 35
- 64
- 8
- 8
- 72
- 1
- 50
- 27
- 23
- 7
- 0
- 37
-SVTCA[x-axis]
-CALL
-SHC[rp1]
-CALL
-CALL
-CALL
-CALL
-CALL
-CALL
-CALL
-CALL
-CALL
-CALL
-CALL
-CALL
-CALL
-CALL
-CALL
-CALL
-CALL
-CALL
-CALL
-CALL
-CALL
-CALL
-CALL
-CALL
-CALL
-CALL
-CALL
-CALL
-CALL
-CALL
-CALL
-CALL
-CALL
-CALL
-CALL
-CALL
-CALL
-CALL
-CALL
-CALL
-CALL
-CALL
-CALL
-CALL
-CALL
-CALL
-CALL
-CALL
-CALL
-CALL
-CALL
-CALL
-CALL
-CALL
-CALL
-CALL
-CALL
-CALL
-CALL
-CALL
-CALL
-CALL
-CALL
-CALL
-CALL
-CALL
-CALL
-CALL
-CALL
-CALL
-CALL
-CALL
-CALL
-CALL
-CALL
-CALL
-CALL
-CALL
-CALL
-CALL
-CALL
-CALL
-CALL
-CALL
-CALL
-CALL
-CALL
-CALL
-CALL
-CALL
-CALL
-CALL
-CALL
-CALL
-CALL
-CALL
-CALL
-CALL
-CALL
-CALL
-CALL
-CALL
-CALL
-CALL
-CALL
-CALL
-CALL
-CALL
-CALL
-CALL
-CALL
-CALL
-CALL
-CALL
-EndTTInstrs
 LayerCount: 2
 Fore
+Refer: 120 184 S 1 0 0 1 71 0 2
 Refer: 87 116 N 1 0 0 1 0 0 2
-Refer: 652 -1 N 1 0 0 1 115 0 2
 EndChar
 
 StartChar: Tcaron
@@ -72188,7 +71441,7 @@ EndChar
 
 StartChar: uni2215
 Encoding: 8725 8725 532
-AltUni2: 002044.ffffffff.0 002044.ffffffff.0
+AltUni2: 002044.ffffffff.0 002044.ffffffff.0 002044.ffffffff.0
 Width: 342
 Flags: W
 TtInstrs:
@@ -85423,7 +84676,7 @@ EndChar
 
 StartChar: uniFB01
 Encoding: 64257 64257 648
-AltUni2: 00f001.ffffffff.0 00f001.ffffffff.0
+AltUni2: 00f001.ffffffff.0 00f001.ffffffff.0 00f001.ffffffff.0
 Width: 1024
 Flags: W
 TtInstrs:
@@ -85570,7 +84823,7 @@ EndChar
 
 StartChar: uniFB02
 Encoding: 64258 64258 649
-AltUni2: 00f002.ffffffff.0 00f002.ffffffff.0
+AltUni2: 00f002.ffffffff.0 00f002.ffffffff.0 00f002.ffffffff.0
 Width: 1024
 Flags: W
 TtInstrs:
@@ -87426,6 +86679,142 @@ SplineSet
  583 1640 583 1640 541.5 1605.5 c 128,-1,16
  500 1571 500 1571 442 1550.5 c 128,-1,17
  384 1530 384 1530 308 1530 c 0,0,1
+EndSplineSet
+EndChar
+
+StartChar: Scommaaccent
+Encoding: 536 536 668
+Width: 1366
+Flags: W
+LayerCount: 2
+Fore
+Refer: 652 -1 S 1 0 0 1 473 0 2
+Refer: 54 83 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: scommaaccent
+Encoding: 537 537 669
+Width: 1024
+Flags: W
+LayerCount: 2
+Fore
+Refer: 652 -1 S 1 0 0 1 297 0 2
+Refer: 86 115 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uni021A
+Encoding: 538 538 670
+Width: 1251
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 652 -1 S 1 0 0 1 395 0 2
+Refer: 55 84 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uni021B
+Encoding: 539 539 671
+Width: 569
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 652 -1 S 1 0 0 1 115 0 2
+Refer: 87 116 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni2010
+Encoding: 8208 8208 672
+Width: 682
+Flags: W
+HStem: 464 160<91 591>
+VStem: 91 500<464 624>
+TtInstrs:
+SVTCA[y-axis]
+PUSHB_1
+ 0
+MDAP[rnd]
+PUSHB_1
+ 1
+MDRP[min,rnd,black]
+PUSHB_1
+ 1
+MDRP[min,rnd,black]
+SVTCA[x-axis]
+PUSHB_1
+ 4
+MDAP[rnd]
+PUSHB_1
+ 0
+MDRP[rp0,min,rnd,grey]
+PUSHB_1
+ 3
+MDRP[min,rnd,black]
+PUSHB_1
+ 3
+SRP0
+PUSHB_1
+ 5
+MDRP[rp0,rnd,white]
+SVTCA[y-axis]
+IUP[y]
+IUP[x]
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+91 464 m 1,0,-1
+ 91 624 l 1,1,-1
+ 591 624 l 1,2,-1
+ 591 464 l 1,3,-1
+ 91 464 l 1,0,-1
+EndSplineSet
+EndChar
+
+StartChar: uni2011
+Encoding: 8209 8209 673
+Width: 682
+Flags: W
+HStem: 464 160<91 591>
+VStem: 91 500<464 624>
+TtInstrs:
+SVTCA[y-axis]
+PUSHB_1
+ 0
+MDAP[rnd]
+PUSHB_1
+ 1
+MDRP[min,rnd,black]
+PUSHB_1
+ 1
+MDRP[min,rnd,black]
+SVTCA[x-axis]
+PUSHB_1
+ 4
+MDAP[rnd]
+PUSHB_1
+ 0
+MDRP[rp0,min,rnd,grey]
+PUSHB_1
+ 3
+MDRP[min,rnd,black]
+PUSHB_1
+ 3
+SRP0
+PUSHB_1
+ 5
+MDRP[rp0,rnd,white]
+SVTCA[y-axis]
+IUP[y]
+IUP[x]
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+91 464 m 1,0,-1
+ 91 624 l 1,1,-1
+ 591 624 l 1,2,-1
+ 591 464 l 1,3,-1
+ 91 464 l 1,0,-1
 EndSplineSet
 EndChar
 EndChars

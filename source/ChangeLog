@@ -1,8 +1,6 @@
 * Mon 10 May 2010 Caius 'kaio' Chance <me at kaio.net>
   - Fixed Romanian glyphs, U+021A, 021B, 0218, 0219, 0162, 0163, 015E, 015F,
-  2010, 2011, on Mono Fonts. (rhbz#440992)
-  - Fixed Romanian glyphs, U+021A, 021B, 0218, 0219, 0162, 0163, 015E, 015F,
-  2010, 2011, on Serif Fonts. (rhbz#440992)
+  2010, 2011. (rhbz#440992)
 
 * Thu 06 May 2010 Caius 'kaio' Chance <me at kaio.net>
 - Cleaned up points and auto-instructed hinting of 'u', 'v', 'w', 'y'.
