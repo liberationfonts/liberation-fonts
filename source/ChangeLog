@@ -1,6 +1,7 @@
 * Mon 10 May 2010 Caius 'kaio' Chance <me at kaio.net>
-  - Fixed Romanian glyphs, U+021A, 021B, 0218, 0219, 0162, 0163, 015E, 015F,
+- Fixed Romanian glyphs, U+021A, 021B, 0218, 0219, 0162, 0163, 015E, 015F,
   2010, 2011. (rhbz#440992)
+- Fixed height of arrows U+2190, 2192, 2194. (Issue #2)
 
 * Thu 06 May 2010 Caius 'kaio' Chance <me at kaio.net>
 - Cleaned up points and auto-instructed hinting of 'u', 'v', 'w', 'y'.
