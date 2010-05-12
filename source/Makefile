@@ -19,6 +19,7 @@ dist-src: dist-sfd
 
 dist-sfd:
 	mkdir -p $(TMPDIR)/liberation-fonts-$(VER)/{src,scripts}
+	cp ../README ./
 	cp Makefile $(MISCFILES) $(TMPDIR)/liberation-fonts-$(VER)/
 	cp $(SFDFILES) $(TMPDIR)/liberation-fonts-$(VER)/src/
 	cp $(SCRIPTS) $(TMPDIR)/liberation-fonts-$(VER)/scripts/
