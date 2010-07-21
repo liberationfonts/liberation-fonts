@@ -4,7 +4,7 @@ FONTFORGE = fontforge
 TMPDIR := $(shell mktemp -d)
 SFDFILES := src/LiberationMono-Bold.sfd src/LiberationMono-BoldItalic.sfd src/LiberationMono-Italic.sfd src/LiberationMono-Regular.sfd src/LiberationSans-Bold.sfd src/LiberationSans-BoldItalic.sfd src/LiberationSans-Italic.sfd src/LiberationSans-Regular.sfd src/LiberationSerif-Bold.sfd src/LiberationSerif-BoldItalic.sfd src/LiberationSerif-Italic.sfd src/LiberationSerif-Regular.sfd src/LiberationSansNarrow-Regular.sfd src/LiberationSansNarrow-Bold.sfd src/LiberationSansNarrow-Italic.sfd src/LiberationSansNarrow-BoldItalic.sfd
 SCRIPTS := scripts/sfd2ttf.pe scripts/ttf2sfd.pe
-MISCFILES := AUTHORS ChangeLog COPYING License.txt README
+MISCFILES := AUTHORS ChangeLog COPYING License.txt README TODO
 
 all: build
 
