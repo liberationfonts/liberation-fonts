@@ -1,0 +1,14 @@
+Here are todo for next release
+
+1) resolving bug related with hinting
+	- https://bugzilla.redhat.com/show_bug.cgi?id=606217
+	- https://bugzilla.redhat.com/show_bug.cgi?id=591556
+2) shape improvement
+	- https://bugzilla.redhat.com/show_bug.cgi?id=591559
+	- https://bugzilla.redhat.com/show_bug.cgi?id=487581
+3) Ascent Descent Values Improvement
+	- using absolute values instead of relative values in OS/2 table
+4) RFE: Add Greek Polytonic support to Liberation fonts
+	- need some volunteer to add these shapes
+	- https://bugzilla.redhat.com/show_bug.cgi?id=473842
+	   

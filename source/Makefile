@@ -1,4 +1,4 @@
-VER = 1.05.3.$(shell date +%Y%m%d)
+VER = 1.06.0.$(shell date +%Y%m%d)
 FONTFORGE = fontforge
 
 TMPDIR := $(shell mktemp -d)
@@ -10,8 +10,8 @@ all: build
 
 build:
 	$(foreach sfdfile, $(SFDFILES), $(FONTFORGE) -script ./scripts/sfd2ttf.pe $(sfdfile);)
-	mkdir -p liberation-fonts-$(VER)/
-	mv src/*.ttf liberation-fonts-$(VER)/
+	mkdir -p liberation-fonts-ttf-$(VER)/
+	mv src/*.ttf liberation-fonts-ttf-$(VER)/
 
 dist: dist-sfd dist-ttf
 
@@ -27,10 +27,10 @@ dist-sfd:
 	  liberation-fonts-$(VER)/
 
 dist-ttf: clean-ttf build
-	cp $(MISCFILES) liberation-fonts-$(VER)/
-	tar czvf liberation-fonts-ttf-$(VER).tar.gz liberation-fonts-$(VER)/
-	zip -j liberation-fonts-ttf-$(VER).zip liberation-fonts-$(VER)/*
-
+	cp $(MISCFILES) liberation-fonts-ttf-$(VER)/
+	tar czvf liberation-fonts-ttf-$(VER).tar.gz liberation-fonts-ttf-$(VER)/
+#	zip -j liberation-fonts-ttf-$(VER).zip liberation-fonts-ttf-$(VER)/*
+	rm -rf liberation-fonts-ttf-$(VER)
 clean: clean-ttf clean-src
 
 clean-ttf:
