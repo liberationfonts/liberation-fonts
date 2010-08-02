@@ -20,7 +20,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1095817380
-ModificationTime: 1273478962
+ModificationTime: 1280703506
 PfmFamily: 17
 TTFWeight: 700
 TTFWidth: 5
@@ -3228,14 +3228,14 @@ NameList: Adobe Glyph List
 DisplaySize: -24
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 8520 40 16
+WinInfo: 0 40 16
 TeXData: 1 0 0 346030 173015 115343 553984 -1048576 115343 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
 BeginChars: 1114127 669
 
 StartChar: .notdef
 Encoding: 1114112 -1 0
-Width: 748
-Flags: W
+Width: 1229
+Flags: HW
 TtInstrs:
 PUSHB_2
  1

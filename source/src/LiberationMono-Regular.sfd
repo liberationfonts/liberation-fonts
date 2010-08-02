@@ -20,7 +20,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1095817380
-ModificationTime: 1273478721
+ModificationTime: 1280703432
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -3213,8 +3213,8 @@ BeginChars: 1114127 669
 
 StartChar: .notdef
 Encoding: 1114112 -1 0
-Width: 748
-Flags: W
+Width: 1229
+Flags: HW
 TtInstrs:
 PUSHB_2
  1
