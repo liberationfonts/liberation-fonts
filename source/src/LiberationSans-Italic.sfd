@@ -3138,13 +3138,12 @@ EndShort
 LangName: 1033 "" "" "" "Ascender - Liberation Sans Italic" "" "Version 1.06" "" "Liberation is a trademark of Red Hat, Inc. registered in U.S. Patent and Trademark Office and certain other jurisdictions." "Ascender Corporation" "Steve Matteson" "" "http://www.ascendercorp.com/" "http://www.ascendercorp.com/typedesigners.html" "Use of this Liberation font software is subject to the license agreement under which you accepted the Liberation font software." "http://www.ascendercorp.com/liberation.html" 
 GaspTable: 3 8 2 17 1 65535 3
 Encoding: UnicodeFull
-Compacted: 1
 UnicodeInterp: none
 NameList: Adobe Glyph List
 DisplaySize: -24
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 0 50 21
+WinInfo: 0 50 20
 BeginChars: 1114132 674
 
 StartChar: .notdef
@@ -92901,7 +92900,7 @@ EndChar
 StartChar: arrowleft
 Encoding: 8592 8592 548
 Width: 2047
-Flags: HW
+Flags: W
 TtInstrs:
 NPUSHB
  9
@@ -93005,7 +93004,7 @@ EndChar
 StartChar: arrowright
 Encoding: 8594 8594 550
 Width: 2043
-Flags: HW
+Flags: W
 TtInstrs:
 NPUSHB
  9
@@ -93109,7 +93108,7 @@ EndChar
 StartChar: arrowboth
 Encoding: 8596 8596 552
 Width: 2048
-Flags: HW
+Flags: W
 TtInstrs:
 NPUSHB
  15
