@@ -19,7 +19,7 @@ OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1123372800
-ModificationTime: 1286950607
+ModificationTime: 1298443852
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 3
@@ -788,8 +788,8 @@ NameList: Adobe Glyph List
 DisplaySize: -24
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 0 50 21
-BeginChars: 65556 674
+WinInfo: 400 50 21
+BeginChars: 65556 676
 
 StartChar: .notdef
 Encoding: 65536 -1 0
@@ -873,7 +873,7 @@ EndChar
 
 StartChar: space
 Encoding: 32 32 3
-AltUni2: 0000a0.ffffffff.0 0000a0.ffffffff.0 0000a0.ffffffff.0
+AltUni2: 0000a0.ffffffff.0 0000a0.ffffffff.0 0000a0.ffffffff.0 0000a0.ffffffff.0
 Width: 467
 GlyphClass: 2
 Flags: W
@@ -3201,7 +3201,7 @@ EndChar
 
 StartChar: hyphen
 Encoding: 45 45 16
-AltUni2: 0000ad.ffffffff.0 0000ad.ffffffff.0 0000ad.ffffffff.0
+AltUni2: 0000ad.ffffffff.0 0000ad.ffffffff.0 0000ad.ffffffff.0 0000ad.ffffffff.0
 Width: 559
 GlyphClass: 2
 Flags: W
@@ -5407,7 +5407,7 @@ EndChar
 
 StartChar: semicolon
 Encoding: 59 59 30
-AltUni2: 00037e.ffffffff.0 00037e.ffffffff.0 00037e.ffffffff.0
+AltUni2: 00037e.ffffffff.0 00037e.ffffffff.0 00037e.ffffffff.0 00037e.ffffffff.0
 Width: 467
 GlyphClass: 2
 Flags: W
@@ -24293,7 +24293,7 @@ EndChar
 
 StartChar: periodcentered
 Encoding: 183 183 119
-AltUni2: 002219.ffffffff.0 002219.ffffffff.0 002219.ffffffff.0
+AltUni2: 002219.ffffffff.0 002219.ffffffff.0 002219.ffffffff.0 002219.ffffffff.0
 Width: 559
 GlyphClass: 2
 Flags: W
@@ -60490,7 +60490,7 @@ EndChar
 
 StartChar: fraction
 Encoding: 8260 8260 532
-AltUni2: 002215.ffffffff.0 002215.ffffffff.0 002215.ffffffff.0
+AltUni2: 002215.ffffffff.0 002215.ffffffff.0 002215.ffffffff.0 002215.ffffffff.0
 Width: 281
 GlyphClass: 2
 Flags: W
@@ -64133,7 +64133,7 @@ StartChar: arrowleft
 Encoding: 8592 8592 548
 Width: 2046
 GlyphClass: 2
-Flags: HW
+Flags: W
 TtInstrs:
 SVTCA[y-axis]
 PUSHB_1
@@ -64245,7 +64245,7 @@ StartChar: arrowright
 Encoding: 8594 8594 550
 Width: 2048
 GlyphClass: 2
-Flags: HW
+Flags: W
 TtInstrs:
 SVTCA[y-axis]
 PUSHB_1
@@ -64357,7 +64357,7 @@ StartChar: arrowboth
 Encoding: 8596 8596 552
 Width: 2048
 GlyphClass: 2
-Flags: HW
+Flags: W
 TtInstrs:
 SVTCA[y-axis]
 PUSHB_1
@@ -76271,7 +76271,7 @@ EndChar
 
 StartChar: uniF001
 Encoding: 61441 61441 648
-AltUni2: 00fb01.ffffffff.0 00fb01.ffffffff.0 00fb01.ffffffff.0
+AltUni2: 00fb01.ffffffff.0 00fb01.ffffffff.0 00fb01.ffffffff.0 00fb01.ffffffff.0
 Width: 840
 GlyphClass: 2
 Flags: W
@@ -76283,7 +76283,7 @@ EndChar
 
 StartChar: uniF002
 Encoding: 61442 61442 649
-AltUni2: 00fb02.ffffffff.0 00fb02.ffffffff.0 00fb02.ffffffff.0
+AltUni2: 00fb02.ffffffff.0 00fb02.ffffffff.0 00fb02.ffffffff.0 00fb02.ffffffff.0
 Width: 840
 GlyphClass: 2
 Flags: W
@@ -78130,6 +78130,25 @@ SplineSet
  496 464 l 1,3,-1
  86 464 l 1,0,-1
 EndSplineSet
+EndChar
+
+StartChar: uni0400
+Encoding: 1024 1024 674
+Width: 1120
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 136 200 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni040D
+Encoding: 1037 1037 675
+Width: 1212
+Flags: HWO
+LayerCount: 2
+Fore
+Refer: 67 96 N 1 0 0 1 474 270 2
+Refer: 49 78 N 1 0 0 1 0 0 2
 EndChar
 EndChars
 EndSplineFont

@@ -20,7 +20,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1123398000
-ModificationTime: 1286950021
+ModificationTime: 1298443015
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -3094,14 +3094,13 @@ EndShort
 LangName: 1033 "" "" "" "Ascender - Liberation Serif Italic" "" "Version 1.06" "" "Liberation is a trademark of Red Hat, Inc. registered in U.S. Patent and Trademark Office and certain other jurisdictions." "Ascender Corporation" "Steve Matteson" "" "http://www.ascendercorp.com/" "http://www.ascendercorp.com/typedesigners.html" "Use of this Liberation font software is subject to the license agreement under which you accepted the Liberation font software." "http://www.ascendercorp.com/liberation.html" 
 GaspTable: 3 8 2 20 1 65535 3
 Encoding: UnicodeFull
-Compacted: 1
 UnicodeInterp: none
 NameList: Adobe Glyph List
 DisplaySize: -24
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 40 40 16
-BeginChars: 1114124 667
+WinInfo: 280 56 18
+BeginChars: 1114124 669
 
 StartChar: .notdef
 Encoding: 1114112 -1 0
@@ -3187,7 +3186,7 @@ EndChar
 
 StartChar: uni00A0
 Encoding: 160 160 3
-AltUni2: 000020.ffffffff.0 000020.ffffffff.0
+AltUni2: 000020.ffffffff.0 000020.ffffffff.0 000020.ffffffff.0
 Width: 512
 Flags: W
 LayerCount: 2
@@ -8707,7 +8706,7 @@ EndChar
 
 StartChar: uni00AD
 Encoding: 173 173 16
-AltUni2: 00002d.ffffffff.0 00002d.ffffffff.0
+AltUni2: 00002d.ffffffff.0 00002d.ffffffff.0 00002d.ffffffff.0
 Width: 682
 Flags: W
 TtInstrs:
@@ -10526,7 +10525,7 @@ EndChar
 
 StartChar: uni037E
 Encoding: 894 894 30
-AltUni2: 00003b.ffffffff.0 00003b.ffffffff.0
+AltUni2: 00003b.ffffffff.0 00003b.ffffffff.0 00003b.ffffffff.0
 Width: 682
 Flags: W
 TtInstrs:
@@ -31168,7 +31167,7 @@ EndChar
 
 StartChar: uni2219
 Encoding: 8729 8729 119
-AltUni2: 0000b7.ffffffff.0 0000b7.ffffffff.0
+AltUni2: 0000b7.ffffffff.0 0000b7.ffffffff.0 0000b7.ffffffff.0
 Width: 512
 Flags: W
 TtInstrs:
@@ -70912,7 +70911,7 @@ EndChar
 
 StartChar: uni2215
 Encoding: 8725 8725 532
-AltUni2: 002044.ffffffff.0 002044.ffffffff.0
+AltUni2: 002044.ffffffff.0 002044.ffffffff.0 002044.ffffffff.0
 Width: 342
 Flags: W
 TtInstrs:
@@ -75188,7 +75187,7 @@ EndChar
 StartChar: arrowleft
 Encoding: 8592 8592 548
 Width: 2048
-Flags: HW
+Flags: W
 TtInstrs:
 NPUSHB
  9
@@ -75292,7 +75291,7 @@ EndChar
 StartChar: arrowright
 Encoding: 8594 8594 550
 Width: 2047
-Flags: HW
+Flags: W
 TtInstrs:
 NPUSHB
  9
@@ -75396,7 +75395,7 @@ EndChar
 StartChar: arrowboth
 Encoding: 8596 8596 552
 Width: 2048
-Flags: HW
+Flags: W
 TtInstrs:
 NPUSHB
  15
@@ -87091,7 +87090,7 @@ EndChar
 
 StartChar: uniFB01
 Encoding: 64257 64257 648
-AltUni2: 00f001.ffffffff.0 00f001.ffffffff.0
+AltUni2: 00f001.ffffffff.0 00f001.ffffffff.0 00f001.ffffffff.0
 Width: 1024
 Flags: W
 TtInstrs:
@@ -87239,7 +87238,7 @@ EndChar
 
 StartChar: uniFB02
 Encoding: 64258 64258 649
-AltUni2: 00f002.ffffffff.0 00f002.ffffffff.0
+AltUni2: 00f002.ffffffff.0 00f002.ffffffff.0 00f002.ffffffff.0
 Width: 1024
 Flags: W
 TtInstrs:
@@ -88674,6 +88673,25 @@ SplineSet
  608 406 l 1,3,-1
  76 406 l 1,0,-1
 EndSplineSet
+EndChar
+
+StartChar: uni0400
+Encoding: 1024 1024 667
+Width: 1251
+Flags: HWO
+LayerCount: 2
+Fore
+Refer: 136 200 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni040D
+Encoding: 1037 1037 668
+Width: 1366
+Flags: HWO
+LayerCount: 2
+Fore
+Refer: 67 96 N 1 0 0 1 254 332 2
+Refer: 49 78 N 1 0 0 1 0 0 2
 EndChar
 EndChars
 EndSplineFont
