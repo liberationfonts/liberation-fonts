@@ -20,7 +20,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1123398000
-ModificationTime: 1298443135
+ModificationTime: 1306518420
 PfmFamily: 17
 TTFWeight: 700
 TTFWidth: 5
@@ -2703,8 +2703,8 @@ NameList: Adobe Glyph List
 DisplaySize: -24
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 168 56 18
-BeginChars: 1114124 668
+WinInfo: 336 56 18
+BeginChars: 1114124 670
 
 StartChar: .notdef
 Encoding: 1114112 -1 0
@@ -33569,7 +33569,7 @@ EndTTInstrs
 LayerCount: 2
 Fore
 Refer: 72 101 N 1 0 0 1 0 0 3
-Refer: 67 96 N 1 0 0 1 119 0 2
+Refer: 67 96 S 1 0 0 1 119 0 2
 EndChar
 
 StartChar: eacute
@@ -64101,32 +64101,32 @@ EndTTInstrs
 LayerCount: 2
 Fore
 SplineSet
-635 0 m 1,0,-1
- 587 0 l 1,1,-1
- 265 752 l 1,2,-1
- 265 90 l 1,3,-1
- 357 66 l 1,4,-1
- 357 0 l 1,5,-1
- 54 0 l 1,6,-1
- 54 66 l 1,7,-1
- 149 90 l 1,8,-1
- 149 851 l 1,9,-1
- 54 874 l 1,10,-1
- 54 940 l 1,11,-1
- 426 940 l 1,12,-1
- 675 358 l 1,13,-1
- 935 940 l 1,14,-1
- 1331 940 l 1,15,-1
- 1331 874 l 1,16,-1
- 1246 850 l 1,17,-1
- 1246 90 l 1,18,-1
- 1331 66 l 1,19,-1
- 1331 0 l 1,20,-1
- 874 0 l 1,21,-1
- 874 66 l 1,22,-1
- 966 90 l 1,23,-1
- 966 760 l 1,24,-1
- 635 0 l 1,0,-1
+635 0 m 5,0,-1
+ 587 0 l 5,1,-1
+ 265 752 l 5,2,-1
+ 265 90 l 5,3,-1
+ 357 66 l 5,4,-1
+ 357 0 l 5,5,-1
+ 54 0 l 5,6,-1
+ 54 66 l 5,7,-1
+ 149 90 l 5,8,-1
+ 149 851 l 5,9,-1
+ 54 874 l 5,10,-1
+ 54 940 l 5,11,-1
+ 426 940 l 5,12,-1
+ 675 358 l 5,13,-1
+ 935 940 l 5,14,-1
+ 1331 940 l 5,15,-1
+ 1331 874 l 5,16,-1
+ 1246 850 l 5,17,-1
+ 1246 90 l 5,18,-1
+ 1331 66 l 5,19,-1
+ 1331 0 l 5,20,-1
+ 874 0 l 5,21,-1
+ 874 66 l 5,22,-1
+ 966 90 l 5,23,-1
+ 966 760 l 5,24,-1
+ 635 0 l 5,0,-1
 EndSplineSet
 Kerns2: 483 25 "'kern' Horizontal Kerning lookup 0 subtable"  468 -27 "'kern' Horizontal Kerning lookup 0 subtable"  454 -14 "'kern' Horizontal Kerning lookup 0 subtable" 
 EndChar
@@ -93422,7 +93422,7 @@ EndChar
 StartChar: uni0400
 Encoding: 1024 1024 666
 Width: 1366
-Flags: HW
+Flags: W
 LayerCount: 2
 Fore
 Refer: 136 200 N 1 0 0 1 0 0 2
@@ -93431,11 +93431,31 @@ EndChar
 StartChar: uni040D
 Encoding: 1037 1037 667
 Width: 1479
-Flags: HWO
+Flags: W
 LayerCount: 2
 Fore
 Refer: 67 96 N 1 0 0 1 339 334 2
 Refer: 49 78 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni0450
+Encoding: 1104 1104 668
+Width: 909
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 67 96 S 1 0 0 1 69 11 2
+Refer: 72 101 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uni045D
+Encoding: 1117 1117 669
+Width: 1180
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 67 96 N 1 0 0 1 104 11 2
+Refer: 462 1080 N 1 0 0 1 0 0 2
 EndChar
 EndChars
 EndSplineFont
