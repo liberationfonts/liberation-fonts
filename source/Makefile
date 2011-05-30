@@ -1,4 +1,5 @@
-VER = 1.06.0.$(shell date +%Y%m%d)
+VER = 1.07.0
+#VER = 1.06.0.$(shell date +%Y%m%d)
 FONTFORGE = fontforge
 
 TMPDIR := $(shell mktemp -d)
