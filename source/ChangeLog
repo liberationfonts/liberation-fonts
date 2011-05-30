@@ -2,9 +2,11 @@
 * Mon May 30 2011 Pravin Satpute <psatpute@redhat.com>
 - added U+045D and U+0450 in all fonts, bug 659214
 - corrected characters U+0438 and U+0439, bug 708330
+- New Release 1.07
 
 * Wed Feb 23 2011 Pravin Satpute <psatpute@redhat.com>
 - added U+0400 and U+040d in all fonts, bug 659214
+- fixed for bug 620273, patch from Cody Boisclair <cody@zone38.net>
 
 * Wed Jul 21 2010 Pravin Satpute <psatpute@redhat.com>
 - Update for New Release 1.06
