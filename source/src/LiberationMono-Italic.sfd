@@ -20,7 +20,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1095817380
-ModificationTime: 1306516376
+ModificationTime: 1316502887
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -80540,17 +80540,17 @@ EndChar
 StartChar: uni040D
 Encoding: 1037 1037 670
 Width: 1229
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
-Refer: 67 96 N 1 0 0 1 36.2126 247 2
+Refer: 67 96 N 1 0 0 1 36.2126 241 2
 Refer: 49 78 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni0450
 Encoding: 1104 1104 671
 Width: 1229
-Flags: HW
+Flags: W
 LayerCount: 2
 Fore
 Refer: 67 96 S 1 0 0 1 -59 12 2
@@ -80560,7 +80560,7 @@ EndChar
 StartChar: uni045D
 Encoding: 1117 1117 672
 Width: 1229
-Flags: HW
+Flags: W
 LayerCount: 2
 Fore
 Refer: 67 96 N 1 0 0 1 -59 12 2
