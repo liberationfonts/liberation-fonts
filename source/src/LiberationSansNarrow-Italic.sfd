@@ -19,7 +19,7 @@ OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1123372800
-ModificationTime: 1306519120
+ModificationTime: 1316442716
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 3
@@ -788,7 +788,7 @@ NameList: Adobe Glyph List
 DisplaySize: -24
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 500 50 18
+WinInfo: 50 50 18
 BeginChars: 65556 678
 
 StartChar: .notdef
@@ -25341,7 +25341,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 36 65 N 1 0 0 1 18 0 3
-Refer: 665 -1 N 1 0 0 1 350 0 2
+Refer: 665 -1 S 1 0 0 1 350 0 2
 EndChar
 
 StartChar: Adieresis
@@ -29023,7 +29023,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 36 65 N 1 0 0 1 0 0 3
-Refer: 329 713 N 1 0 0 1 435 334 2
+Refer: 329 713 N 1 0 0 1 200 334 2
 EndChar
 
 StartChar: amacron
@@ -29034,7 +29034,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 68 97 N 1 0 0 1 0 0 3
-Refer: 329 713 N 1 0 0 1 267 0 2
+Refer: 329 713 N 1 0 0 1 66 0 2
 EndChar
 
 StartChar: Abreve
@@ -29649,7 +29649,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 40 69 N 1 0 0 1 0 0 3
-Refer: 329 713 N 1 0 0 1 466 334 2
+Refer: 329 713 N 1 0 0 1 92 334 2
 EndChar
 
 StartChar: emacron
@@ -29660,7 +29660,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 72 101 N 1 0 0 1 0 0 3
-Refer: 329 713 N 1 0 0 1 259 0 2
+Refer: 329 713 N 1 0 0 1 23 0 2
 EndChar
 
 StartChar: Ebreve
@@ -30591,8 +30591,8 @@ GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
-Refer: 44 73 N 1 0 0 1 0 0 3
-Refer: 665 -1 N 1 0 0 1 -50 0 2
+Refer: 44 73 S 1 0 0 1 0 0 3
+Refer: 665 -1 S 1 0 0 1 -50 0 2
 EndChar
 
 StartChar: itilde
@@ -30614,7 +30614,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 44 73 N 1 0 0 1 0 0 3
-Refer: 329 713 N 1 0 0 1 52 334 2
+Refer: 329 713 S 1 0 0 1 -163 334 2
 EndChar
 
 StartChar: imacron
@@ -30625,7 +30625,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 241 305 N 1 0 0 1 0 0 2
-Refer: 329 713 N 1 0 0 1 -6 0 2
+Refer: 329 713 N 1 0 0 1 -214 0 2
 EndChar
 
 StartChar: Ibreve
@@ -32571,18 +32571,18 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 50 79 N 1 0 0 1 0 0 3
-Refer: 329 713 N 1 0 0 1 535 334 2
+Refer: 329 713 S 1 0 0 1 271 334 2
 EndChar
 
 StartChar: omacron
 Encoding: 333 333 269
 Width: 934
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 82 111 N 1 0 0 1 0 0 3
-Refer: 329 713 N 1 0 0 1 244 0 2
+Refer: 329 713 S 1 0 0 1 38 0 2
 EndChar
 
 StartChar: Obreve
@@ -33839,7 +33839,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 56 85 N 1 0 0 1 0 0 3
-Refer: 329 713 N 1 0 0 1 504 329 2
+Refer: 329 713 S 1 0 0 1 161 329 2
 EndChar
 
 StartChar: umacron
@@ -33850,7 +33850,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 88 117 N 1 0 0 1 0 0 3
-Refer: 329 713 N 1 0 0 1 266 0 2
+Refer: 329 713 N 1 0 0 1 19 0 2
 EndChar
 
 StartChar: Ubreve
@@ -51281,7 +51281,7 @@ StartChar: afii10075
 Encoding: 1081 1081 463
 Width: 939
 GlyphClass: 2
-Flags: HW
+Flags: W
 LayerCount: 2
 Fore
 Refer: 657 -1 N 1 0 0 1 203 0 2
