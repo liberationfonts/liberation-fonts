@@ -4,7 +4,7 @@ FullName: Liberation Sans Narrow
 FamilyName: Liberation Sans Narrow
 Weight: Book
 Copyright: Copyright 2010 Oracle and/or its affiliates
-Version: 1.07
+Version: 1.07.1
 ItalicAngle: 0
 UnderlinePosition: -142
 UnderlineWidth: 150
@@ -19,7 +19,7 @@ OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1123372800
-ModificationTime: 1316441699
+ModificationTime: 1316579990
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 3
@@ -54,6 +54,7 @@ OS2Vendor: 'OOoH'
 OS2CodePages: 6000009f.dfd70000
 OS2UnicodeRanges: a00002af.500078fb.00000000.00000000
 Lookup: 258 0 0 "'kern' Horizontal Kerning lookup 0"  {"'kern' Horizontal Kerning lookup 0 subtable"  } ['kern' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > ) ]
+MarkAttachClasses: 1
 DEI: 91125
 TtTable: prep
 PUSHW_1
@@ -775,7 +776,7 @@ ShortTable: maxp 16
   3
   1
 EndShort
-LangName: 1033 "" "" "Regular" "Liberation Sans Narrow" "" "Version 1.07" "" "Liberation is a trademark of Red Hat, Inc. registered in the U.S. and other countries" "Oracle Corporation" "Oracle Corporation" "" "www.oracle.com" "" "Licensed under the Liberation Fonts license, see https://fedoraproject.org/wiki/Licensing/LiberationFontLicense" "https://fedoraproject.org/wiki/Licensing/LiberationFontLicense" 
+LangName: 1033 "" "" "Regular" "Liberation Sans Narrow" "" "Version 1.07.1" "" "Liberation is a trademark of Red Hat, Inc. registered in the U.S. and other countries" "Oracle Corporation" "Oracle Corporation" "" "www.oracle.com" "" "Licensed under the Liberation Fonts license, see https://fedoraproject.org/wiki/Licensing/LiberationFontLicense" "https://fedoraproject.org/wiki/Licensing/LiberationFontLicense" 
 GaspTable: 3 8 2 17 1 65535 3
 Encoding: UnicodeBmp
 UnicodeInterp: none
@@ -784,6 +785,8 @@ DisplaySize: -24
 AntiAlias: 1
 FitToEm: 1
 WinInfo: 200 50 18
+BeginPrivate: 0
+EndPrivate
 BeginChars: 65556 678
 
 StartChar: .notdef
@@ -23405,7 +23408,7 @@ StartChar: Imacron
 Encoding: 298 298 234
 Width: 467
 GlyphClass: 2
-Flags: HW
+Flags: W
 LayerCount: 2
 Fore
 Refer: 44 73 N 1 0 0 1 0 0 3

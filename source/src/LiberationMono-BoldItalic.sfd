@@ -3,8 +3,8 @@ FontName: LiberationMono-BoldItalic
 FullName: Liberation Mono Bold Italic
 FamilyName: Liberation Mono
 Weight: Bold
-Copyright: Copyright © 2007 Red Hat, Inc. All rights reserved. LIBERATION is a trademark of Red Hat, Inc.
-Version: 1.07
+Copyright: Copyright (c) 2007 Red Hat, Inc. All rights reserved. LIBERATION is a trademark of Red Hat, Inc.
+Version: 1.07.1
 ItalicAngle: -12
 UnderlinePosition: -375
 UnderlineWidth: 205
@@ -13,14 +13,13 @@ Descent: 410
 LayerCount: 2
 Layer: 0 1 "Back"  1
 Layer: 1 1 "Fore"  0
-NeedsXUIDChange: 1
 XUID: [1021 131 222397055 8302692]
 FSType: 0
 OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1095817380
-ModificationTime: 1306516620
+ModificationTime: 1316579699
 PfmFamily: 17
 TTFWeight: 700
 TTFWidth: 5
@@ -54,6 +53,7 @@ OS2FamilyClass: 2053
 OS2Vendor: '1ASC'
 OS2CodePages: 6000009f.dfd70000
 OS2UnicodeRanges: a00002af.400078fb.00000000.00000000
+MarkAttachClasses: 1
 DEI: 91125
 TtTable: prep
 NPUSHB
@@ -2832,7 +2832,7 @@ ShortTable: maxp 16
   3
   1
 EndShort
-LangName: 1033 "" "" "Bold Italic" "Ascender - Liberation Mono Bold Italic" "" "Version 1.07" "" "Liberation is a trademark of Red Hat, Inc. registered in U.S. Patent and Trademark Office and certain other jurisdictions." "Ascender Corporation" "Steve Matteson" "" "http://www.ascendercorp.com/" "http://www.ascendercorp.com/typedesigners.html" "Use of this Liberation font software is subject to the license agreement under which you accepted the Liberation font software." "http://www.ascendercorp.com/liberation.html" 
+LangName: 1033 "" "" "Bold Italic" "Ascender - Liberation Mono Bold Italic" "" "Version 1.07.1" "" "Liberation is a trademark of Red Hat, Inc. registered in U.S. Patent and Trademark Office and certain other jurisdictions." "Ascender Corporation" "Steve Matteson" "" "http://www.ascendercorp.com/" "http://www.ascendercorp.com/typedesigners.html" "Licensed under the Liberation Fonts license, see https://fedoraproject.org/wiki/Licensing/LiberationFontLicense" "https://fedoraproject.org/wiki/Licensing/LiberationFontLicense" 
 GaspTable: 3 8 2 15 1 65535 3
 Encoding: UnicodeFull
 UnicodeInterp: none
@@ -2841,6 +2841,8 @@ DisplaySize: -24
 AntiAlias: 1
 FitToEm: 1
 WinInfo: 336 56 18
+BeginPrivate: 0
+EndPrivate
 BeginChars: 1114127 673
 
 StartChar: .notdef
@@ -75040,7 +75042,7 @@ EndChar
 StartChar: uni0450
 Encoding: 1104 1104 671
 Width: 1229
-Flags: HW
+Flags: W
 LayerCount: 2
 Fore
 Refer: 67 96 S 1 0 0 1 -86 34 2
@@ -75050,7 +75052,7 @@ EndChar
 StartChar: uni045D
 Encoding: 1117 1117 672
 Width: 1229
-Flags: HW
+Flags: W
 LayerCount: 2
 Fore
 Refer: 67 96 N 1 0 0 1 -97 34 2

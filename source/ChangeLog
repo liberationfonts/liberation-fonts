@@ -1,7 +1,8 @@
-* Tue Sep 20 2011 Pravin Satpute <psatpute@redhat.com>
+* Wed Sep 21 2011 Pravin Satpute <psatpute@redhat.com>
 - resolved bug 738264, corrected height of U+040D in Mono
 - resolved bug 729989, corrected macron position on ā, ē, ī, ō, ū in Narrow fonts
 - enabled embedding of font
+- Added License link https://fedoraproject.org/wiki/Licensing/LiberationFontLicense
 - New Release 1.07.1
 
 * Mon May 30 2011 Pravin Satpute <psatpute@redhat.com>

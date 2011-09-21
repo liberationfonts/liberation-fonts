@@ -3,8 +3,8 @@ FontName: LiberationMono-Italic
 FullName: Liberation Mono Italic
 FamilyName: Liberation Mono
 Weight: Book
-Copyright: Copyright © 2007 Red Hat, Inc. All rights reserved. LIBERATION is a trademark of Red Hat, Inc.
-Version: 1.07
+Copyright: Copyright (c) 2007 Red Hat, Inc. All rights reserved. LIBERATION is a trademark of Red Hat, Inc.
+Version: 1.07.1
 ItalicAngle: -12
 UnderlinePosition: -435
 UnderlineWidth: 84
@@ -13,14 +13,13 @@ Descent: 410
 LayerCount: 2
 Layer: 0 1 "Back"  1
 Layer: 1 1 "Fore"  0
-NeedsXUIDChange: 1
 XUID: [1021 131 222397055 1812088]
 FSType: 0
 OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1095817380
-ModificationTime: 1316502887
+ModificationTime: 1316579605
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -54,6 +53,7 @@ OS2FamilyClass: 2053
 OS2Vendor: '1ASC'
 OS2CodePages: 6000009f.dfd70000
 OS2UnicodeRanges: a00002af.400078fb.00000000.00000000
+MarkAttachClasses: 1
 DEI: 91125
 TtTable: prep
 NPUSHB
@@ -3406,7 +3406,7 @@ ShortTable: maxp 16
   3
   1
 EndShort
-LangName: 1033 "" "" "" "Ascender - Liberation Mono Italic" "" "Version 1.07" "" "Liberation is a trademark of Red Hat, Inc. registered in U.S. Patent and Trademark Office and certain other jurisdictions." "Ascender Corporation" "Steve Matteson" "" "http://www.ascendercorp.com/" "http://www.ascendercorp.com/typedesigners.html" "Use of this Liberation font software is subject to the license agreement under which you accepted the Liberation font software." "http://www.ascendercorp.com/liberation.html" 
+LangName: 1033 "" "" "" "Ascender - Liberation Mono Italic" "" "Version 1.07.1" "" "Liberation is a trademark of Red Hat, Inc. registered in U.S. Patent and Trademark Office and certain other jurisdictions." "Ascender Corporation" "Steve Matteson" "" "http://www.ascendercorp.com/" "http://www.ascendercorp.com/typedesigners.html" "Licensed under the Liberation Fonts license, see https://fedoraproject.org/wiki/Licensing/LiberationFontLicense" "https://fedoraproject.org/wiki/Licensing/LiberationFontLicense" 
 GaspTable: 3 8 2 17 1 65535 3
 Encoding: UnicodeFull
 UnicodeInterp: none
@@ -3415,6 +3415,8 @@ DisplaySize: -24
 AntiAlias: 1
 FitToEm: 1
 WinInfo: 336 56 18
+BeginPrivate: 0
+EndPrivate
 BeginChars: 1114127 673
 
 StartChar: .notdef
@@ -80540,7 +80542,7 @@ EndChar
 StartChar: uni040D
 Encoding: 1037 1037 670
 Width: 1229
-Flags: HW
+Flags: W
 LayerCount: 2
 Fore
 Refer: 67 96 N 1 0 0 1 36.2126 241 2
