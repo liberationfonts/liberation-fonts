@@ -1,3 +1,5 @@
+- removed hint instruction from LiberationMono-Italic cent sing, rhbz #753572
+
 * Wed Sep 21 2011 Pravin Satpute <psatpute@redhat.com>
 - resolved bug 738264, corrected height of U+040D in Mono
 - resolved bug 729989, corrected macron position on ā, ē, ī, ō, ū in Narrow fonts

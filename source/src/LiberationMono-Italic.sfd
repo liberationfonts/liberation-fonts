@@ -13,13 +13,14 @@ Descent: 410
 LayerCount: 2
 Layer: 0 1 "Back"  1
 Layer: 1 1 "Fore"  0
+NeedsXUIDChange: 1
 XUID: [1021 131 222397055 1812088]
 FSType: 0
 OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1095817380
-ModificationTime: 1316579605
+ModificationTime: 1324465175
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -3414,7 +3415,7 @@ NameList: Adobe Glyph List
 DisplaySize: -24
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 336 56 18
+WinInfo: 0 56 18
 BeginPrivate: 0
 EndPrivate
 BeginChars: 1114127 673
@@ -20521,211 +20522,9 @@ EndChar
 StartChar: cent
 Encoding: 162 162 99
 Width: 1229
-Flags: W
+Flags: HW
 HStem: 134.006 140.036<413.565 490.918> 1053.38 141.616<548.356 669.686 825.219 905.517>
 VStem: 141 186<361.703 770.458> 965 188<873 994.143>
-TtInstrs:
-SVTCA[y-axis]
-PUSHB_1
- 19
-MDAP[rnd]
-PUSHB_1
- 16
-SHP[rp1]
-PUSHB_1
- 0
-MDRP[min,rnd,black]
-PUSHB_1
- 9
-SHP[rp2]
-PUSHB_1
- 1
-MDAP[rnd]
-PUSHB_1
- 38
-SHP[rp1]
-PUSHB_1
- 28
-MDRP[min,rnd,black]
-PUSHB_1
- 31
-SHP[rp2]
-SVTCA[x-axis]
-PUSHB_1
- 39
-MDAP[rnd]
-PUSHB_1
- 23
-MDRP[rp0,rnd,white]
-PUSHB_1
- 7
-MDRP[min,rnd,black]
-PUSHB_1
- 7
-SRP0
-PUSHB_1
- 36
-MDRP[rp0,min,rnd,grey]
-PUSHB_1
- 35
-MDRP[min,rnd,black]
-PUSHB_1
- 35
-SRP0
-PUSHB_1
- 40
-MDRP[rp0,rnd,white]
-PUSHB_1
- 54
-SMD
-PUSHW_2
- 16083
- -3127
-SPVFS
-SFVTPV
-PUSHB_1
- 18
-SRP0
-PUSHB_1
- 29
-MDRP[grey]
-PUSHB_2
- 17
- 2
-MIRP[rp0,min,black]
-PUSHB_1
- 30
-MDRP[grey]
-SFVTCA[x-axis]
-PUSHB_1
- 18
-SRP0
-PUSHB_2
- 18
- 29
-SPVTL[orthog]
-PUSHB_1
- 0
-MDRP[grey]
-PUSHB_1
- 1
-MDRP[grey]
-PUSHB_1
- 17
-SRP0
-PUSHB_1
- 9
-MDRP[grey]
-PUSHB_1
- 16
-MDRP[grey]
-PUSHB_1
- 18
-SRP0
-PUSHB_1
- 19
-MDRP[grey]
-PUSHB_1
- 28
-MDRP[grey]
-PUSHB_1
- 17
-SRP0
-PUSHB_1
- 31
-MDRP[grey]
-PUSHB_1
- 38
-MDRP[grey]
-SPVTCA[x-axis]
-SVTCA[y-axis]
-PUSHB_4
- 17
- 18
- 29
- 30
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-SVTCA[x-axis]
-NPUSHB
- 12
- 0
- 1
- 9
- 16
- 17
- 18
- 19
- 28
- 29
- 30
- 31
- 38
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-PUSHB_1
- 64
-SMD
-PUSHB_2
- 36
- 7
-SRP1
-SRP2
-PUSHB_1
- 11
-IP
-PUSHB_1
- 35
-SRP1
-PUSHB_1
- 12
-IP
-SVTCA[y-axis]
-PUSHB_2
- 0
- 19
-SRP1
-SRP2
-PUSHB_2
- 15
- 20
-IP
-IP
-PUSHB_1
- 1
-SRP1
-PUSHB_7
- 7
- 11
- 12
- 22
- 23
- 35
- 36
-DEPTH
-SLOOP
-IP
-PUSHB_1
- 28
-SRP2
-PUSHB_1
- 32
-IP
-IUP[y]
-IUP[x]
-EndTTInstrs
 LayerCount: 2
 Fore
 SplineSet
