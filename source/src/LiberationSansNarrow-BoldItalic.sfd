@@ -19,7 +19,7 @@ OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1123372800
-ModificationTime: 1327652648
+ModificationTime: 1327662552
 PfmFamily: 17
 TTFWeight: 700
 TTFWidth: 3
@@ -804,7 +804,7 @@ NameList: Adobe Glyph List
 DisplaySize: -36
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 646 38 14
+WinInfo: 1064 38 14
 BeginPrivate: 0
 EndPrivate
 BeginChars: 65556 680
@@ -48942,43 +48942,23 @@ EndChar
 
 StartChar: afii10074
 Encoding: 1080 1080 462
-Width: 1032
+Width: 1026
 GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
-SplineSet
-416.686 1082 m 1,0,-1
- 339.711 596 l 2,1,2
- 336.068 573 336.068 573 328.233 533 c 128,-1,3
- 320.397 493 320.397 493 311.087 450 c 128,-1,4
- 301.776 407 301.776 407 292.679 368.5 c 128,-1,5
- 283.581 330 283.581 330 278.255 309 c 1,6,-1
- 767.686 1082 l 1,7,-1
- 1001.69 1082 l 1,8,-1
- 830.314 0 l 1,9,-1
- 616.314 0 l 1,10,-1
- 703.426 550 l 2,11,12
- 706.435 569 706.435 569 712.687 599 c 128,-1,13
- 718.938 629 718.938 629 726.506 661 c 128,-1,14
- 734.074 693 734.074 693 741.826 723 c 128,-1,15
- 749.577 753 749.577 753 755.745 773 c 1,16,-1
- 276.314 0 l 1,17,-1
- 30.3145 0 l 1,18,-1
- 201.686 1082 l 1,19,-1
- 416.686 1082 l 1,0,-1
-EndSplineSet
+Refer: 88 117 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: afii10075
 Encoding: 1081 1081 463
-Width: 1032
+Width: 1026
 GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
-Refer: 657 -1 N 1 0 0 1 246 0 2
-Refer: 462 1080 N 1 0 0 1 0 0 2
+Refer: 88 117 N 1 0 0 1 0 0 2
+Refer: 657 -1 N 1 0 0 1 338 0 2
 EndChar
 
 StartChar: afii10076
@@ -50050,104 +50030,368 @@ Flags: W
 TtInstrs:
 SVTCA[y-axis]
 PUSHB_3
- 6
+ 16
  1
  0
 CALL
 PUSHB_3
- 1
- 2
- 5
+ 0
+ 15
+ 45
 SHP[rp1]
 SHP[rp1]
 SHP[rp1]
 PUSHB_3
- 7
+ 23
  2
  0
 CALL
-PUSHB_1
+PUSHB_3
+ 34
+ 2
  0
-SHP[rp1]
-PUSHB_1
- 4
-MDRP[min,rnd,black]
-PUSHB_1
- 3
-SHP[rp2]
+CALL
 SVTCA[x-axis]
 PUSHB_1
- 8
+ 46
 MDAP[rnd]
+PUSHB_1
+ 23
+MDRP[rp0,rnd,white]
+PUSHB_1
+ 24
+MDRP[min,rnd,black]
 PUSHB_2
- 9
+ 47
  1
 CALL
 PUSHB_1
  54
 SMD
 PUSHW_3
- 16179
- -2587
+ 16192
+ -2499
  21
 CALL
 SPVFS
 PUSHB_1
- 6
+ 15
 MDAP[no-rnd]
+SFVTPV
 PUSHB_1
- 4
-MDAP[no-rnd]
-PUSHB_1
- 6
+ 23
 SRP0
 PUSHB_2
- 5
+ 26
  14
 MIRP[rp0,min,black]
+SFVTCA[x-axis]
 PUSHB_1
- 4
+ 15
 SRP0
 PUSHB_2
- 7
+ 16
  14
 MIRP[rp0,min,black]
 PUSHW_3
- 16179
- -2587
+ 16172
+ -2628
  21
 CALL
 SPVFS
 PUSHB_1
- 2
-MDAP[no-rnd]
-PUSHB_1
  0
 MDAP[no-rnd]
+SFVTPV
 PUSHB_1
- 2
-SRP0
+ 5
+MDRP[grey]
+SFVTCA[x-axis]
 PUSHB_2
- 1
- 14
+ 45
+ 15
 MIRP[rp0,min,black]
+SFVTPV
+PUSHB_1
+ 39
+MDRP[grey]
 PUSHB_1
  0
 SRP0
-PUSHB_2
+PUSHB_4
+ 1
+ 0
+ 5
+ 19
+CALL
+PUSHB_4
+ 2
+ 0
+ 5
+ 19
+CALL
+PUSHB_4
  3
- 14
-MIRP[rp0,min,black]
-SPVTCA[x-axis]
-PUSHB_8
  0
+ 5
+ 19
+CALL
+PUSHB_4
+ 4
+ 0
+ 5
+ 19
+CALL
+PUSHB_1
+ 15
+SRP0
+PUSHB_4
+ 14
+ 15
+ 26
+ 19
+CALL
+PUSHB_1
+ 16
+SRP0
+PUSHB_4
+ 17
+ 16
+ 23
+ 19
+CALL
+PUSHB_4
+ 18
+ 16
+ 23
+ 19
+CALL
+PUSHB_4
+ 19
+ 16
+ 23
+ 19
+CALL
+PUSHB_4
+ 20
+ 16
+ 23
+ 19
+CALL
+PUSHB_4
+ 21
+ 16
+ 23
+ 19
+CALL
+PUSHB_1
+ 15
+SRP0
+PUSHB_4
+ 27
+ 15
+ 26
+ 19
+CALL
+PUSHB_4
+ 28
+ 15
+ 26
+ 19
+CALL
+PUSHB_4
+ 29
+ 15
+ 26
+ 19
+CALL
+PUSHB_1
+ 45
+SRP0
+PUSHB_4
+ 40
+ 45
+ 39
+ 19
+CALL
+PUSHB_4
+ 41
+ 45
+ 39
+ 19
+CALL
+PUSHB_4
+ 42
+ 45
+ 39
+ 19
+CALL
+PUSHB_4
+ 44
+ 45
+ 39
+ 19
+CALL
+PUSHB_3
+ 17
+ 16
+ 23
+DUP
+ROLL
+DUP
+ROLL
+SWAP
+SPVTL[parallel]
+SFVTPV
+SRP1
+SRP2
+IP
+PUSHB_1
+ 18
+IP
+PUSHB_1
+ 19
+IP
+PUSHB_1
+ 20
+IP
+PUSHB_1
+ 21
+IP
+PUSHB_3
+ 14
+ 15
+ 26
+SRP1
+SRP2
+IP
+PUSHB_1
+ 29
+IP
+PUSHB_1
+ 27
+IP
+PUSHB_1
+ 28
+IP
+PUSHB_3
  1
+ 0
+ 5
+SRP1
+SRP2
+IP
+PUSHB_1
+ 2
+IP
+PUSHB_1
+ 3
+IP
+PUSHB_1
+ 4
+IP
+PUSHB_3
+ 44
+ 45
+ 39
+SRP1
+SRP2
+IP
+PUSHB_1
+ 42
+IP
+PUSHB_1
+ 41
+IP
+PUSHB_1
+ 40
+IP
+SVTCA[y-axis]
+NPUSHB
+ 20
+ 1
+ 14
+ 17
+ 20
+ 21
+ 29
+ 41
+ 42
+ 44
  2
  3
  4
  5
- 6
- 7
+ 18
+ 19
+ 26
+ 27
+ 28
+ 39
+ 40
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+SVTCA[x-axis]
+NPUSHB
+ 24
+ 0
+ 1
+ 14
+ 15
+ 16
+ 17
+ 20
+ 21
+ 29
+ 41
+ 42
+ 44
+ 45
+ 2
+ 3
+ 4
+ 5
+ 18
+ 19
+ 26
+ 27
+ 28
+ 39
+ 40
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
 MDAP[no-rnd]
 MDAP[no-rnd]
 MDAP[no-rnd]
@@ -50159,22 +50403,71 @@ MDAP[no-rnd]
 PUSHB_1
  64
 SMD
+SVTCA[x-axis]
+PUSHB_2
+ 24
+ 23
+SRP1
+SRP2
+PUSHB_1
+ 30
+IP
 SVTCA[y-axis]
+PUSHB_2
+ 23
+ 16
+SRP1
+SRP2
+PUSHB_3
+ 9
+ 30
+ 38
+IP
+IP
+IP
 IUP[y]
 IUP[x]
 EndTTInstrs
 LayerCount: 2
 Fore
 SplineSet
-996 1082 m 1,0,-1
- 823 0 l 1,1,-1
- 592 0 l 1,2,-1
- 735 892 l 1,3,-1
- 403 892 l 1,4,-1
- 260 0 l 1,5,-1
- 29 0 l 1,6,-1
- 202 1082 l 1,7,-1
- 996 1082 l 1,0,-1
+605 0 m 1,0,-1
+ 702 595 l 2,1,2
+ 705 614 705 614 709 637 c 128,-1,3
+ 713 660 713 660 716 683 c 128,-1,4
+ 719 706 719 706 721 726.5 c 128,-1,5
+ 723 747 723 747 723 760 c 0,6,7
+ 723 823 723 823 692 856 c 128,-1,8
+ 661 889 661 889 599 889 c 0,9,10
+ 560 889 560 889 521.5 869 c 128,-1,11
+ 483 849 483 849 450 812 c 128,-1,12
+ 417 775 417 775 392 722.5 c 128,-1,13
+ 367 670 367 670 357 606 c 2,14,-1
+ 260 0 l 1,15,-1
+ 29 0 l 1,16,-1
+ 165 851 l 2,17,18
+ 171 885 171 885 176 922.5 c 128,-1,19
+ 181 960 181 960 185 994 c 2,20,-1
+ 192 1051 l 2,21,22
+ 195 1075 195 1075 196 1082 c 1,23,-1
+ 416 1082 l 1,24,25
+ 416 1077 416 1077 414 1055 c 128,-1,26
+ 412 1033 412 1033 409 1004.5 c 128,-1,27
+ 406 976 406 976 402.5 946.5 c 128,-1,28
+ 399 917 399 917 396 897 c 1,29,-1
+ 399 897 l 1,30,31
+ 424 939 424 939 453.5 976 c 128,-1,32
+ 483 1013 483 1013 520 1041 c 128,-1,33
+ 557 1069 557 1069 602.5 1085 c 128,-1,34
+ 648 1101 648 1101 704 1101 c 0,35,36
+ 829 1101 829 1101 892 1028 c 128,-1,37
+ 955 955 955 955 955 817 c 0,38,39
+ 955 799 955 799 953 776 c 128,-1,40
+ 951 753 951 753 948 730 c 2,41,-1
+ 944 688 l 2,42,43
+ 941 667 941 667 938 653 c 2,44,-1
+ 834 0 l 1,45,-1
+ 605 0 l 1,0,-1
 EndSplineSet
 EndChar
 
@@ -74854,19 +75147,19 @@ EndChar
 StartChar: afii10147
 Encoding: 1138 1138 678
 Width: 1307
-Flags: HW
+Flags: W
 LayerCount: 2
 Fore
 SplineSet
-1042 762 m 1
- 1006 534 l 1
- 556 534 l 1
- 563.263 580 563.263 580 570.526 626 c 1
- 306 626 l 1
- 342 854 l 1
- 792 854 l 1
- 784.737 808 784.737 808 777.474 762 c 1
- 1042 762 l 1
+1042 762 m 1,0,-1
+ 1006 534 l 1,1,-1
+ 556 534 l 1,2,3
+ 563.263 580 563.263 580 570.526 626 c 1,4,-1
+ 306 626 l 1,5,-1
+ 342 854 l 1,6,-1
+ 792 854 l 1,7,8
+ 784.737 808 784.737 808 777.474 762 c 1,9,-1
+ 1042 762 l 1,0,-1
 EndSplineSet
 Refer: 436 1054 N 1 0 0 1 0 0 2
 EndChar
@@ -74874,19 +75167,19 @@ EndChar
 StartChar: afii10195
 Encoding: 1139 1139 679
 Width: 1026
-Flags: HWO
+Flags: W
 LayerCount: 2
 Fore
 SplineSet
-742 585 m 1
- 706 377 l 1
- 424 377 l 1
- 444.526 487 l 1
- 286 487 l 1
- 322 695 l 1
- 595 695 l 1
- 574.474 585 l 1
- 742 585 l 1
+742 585 m 1,0,-1
+ 706 377 l 1,1,-1
+ 424 377 l 1,2,-1
+ 444.526 487 l 1,3,-1
+ 286 487 l 1,4,-1
+ 322 695 l 1,5,-1
+ 595 695 l 1,6,-1
+ 574.474 585 l 1,7,-1
+ 742 585 l 1,0,-1
 EndSplineSet
 Refer: 468 1086 N 1 0 0 1 0 0 2
 EndChar
