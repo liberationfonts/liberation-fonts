@@ -19,7 +19,7 @@ OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1123372800
-ModificationTime: 1316579990
+ModificationTime: 1327651555
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 3
@@ -781,13 +781,13 @@ GaspTable: 3 8 2 17 1 65535 3
 Encoding: UnicodeBmp
 UnicodeInterp: none
 NameList: Adobe Glyph List
-DisplaySize: -24
+DisplaySize: -36
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 200 50 18
+WinInfo: 646 38 14
 BeginPrivate: 0
 EndPrivate
-BeginChars: 65556 678
+BeginChars: 65556 680
 
 StartChar: .notdef
 Encoding: 65536 -1 0
@@ -28033,11 +28033,11 @@ SplineSet
  74 0 l 1,6,-1
  74 156 l 1,7,-1
  1018 156 l 1,4,-1
-891 801 m 1,8,-1
- 891 647 l 1,9,-1
- 201 647 l 1,10,-1
- 201 801 l 1,11,-1
- 891 801 l 1,8,-1
+891 801 m 5,8,-1
+ 891 647 l 5,9,-1
+ 201 647 l 5,10,-1
+ 201 801 l 5,11,-1
+ 891 801 l 5,8,-1
 EndSplineSet
 EndChar
 
@@ -62006,6 +62006,46 @@ LayerCount: 2
 Fore
 Refer: 67 96 N 1 0 0 1 117 14 2
 Refer: 462 1080 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: afii10147
+Encoding: 1138 1138 678
+Width: 1307
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+1079 720 m 5
+ 1079 566 l 5
+ 581 566 l 5
+ 581 647 l 5
+ 231 647 l 5
+ 231 801 l 5
+ 721 801 l 5
+ 721 720 l 5
+ 1079 720 l 5
+EndSplineSet
+Refer: 436 1054 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: afii10195
+Encoding: 1139 1139 679
+Width: 934
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+719 580 m 1
+ 719 426 l 1
+ 391 426 l 1
+ 391 507 l 1
+ 221 507 l 1
+ 221 661 l 1
+ 531 661 l 1
+ 531 580 l 1
+ 719 580 l 1
+EndSplineSet
+Refer: 468 1086 N 1 0 0 1 0 0 2
 EndChar
 EndChars
 EndSplineFont

@@ -13,13 +13,14 @@ Descent: 410
 LayerCount: 2
 Layer: 0 1 "Back"  1
 Layer: 1 1 "Fore"  0
+NeedsXUIDChange: 1
 XUID: [1021 131 222397055 16587066]
 FSType: 0
 OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1123372800
-ModificationTime: 1316579826
+ModificationTime: 1327641945
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -2838,13 +2839,13 @@ GaspTable: 3 8 2 17 1 65535 3
 Encoding: UnicodeFull
 UnicodeInterp: none
 NameList: Adobe Glyph List
-DisplaySize: -24
+DisplaySize: -36
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 224 56 18
+WinInfo: 836 38 14
 BeginPrivate: 0
 EndPrivate
-BeginChars: 1114132 678
+BeginChars: 1114132 680
 
 StartChar: .notdef
 Encoding: 1114112 -1 0
@@ -48414,11 +48415,11 @@ SplineSet
  90 0 l 1,6,-1
  90 156 l 1,7,-1
  1241 156 l 1,4,-1
-1086 801 m 1,8,-1
- 1086 647 l 1,9,-1
- 245 647 l 1,10,-1
- 245 801 l 1,11,-1
- 1086 801 l 1,8,-1
+1086 801 m 5,8,-1
+ 1086 647 l 5,9,-1
+ 245 647 l 5,10,-1
+ 245 801 l 5,11,-1
+ 1086 801 l 5,8,-1
 EndSplineSet
 EndChar
 
@@ -86857,6 +86858,46 @@ LayerCount: 2
 Fore
 Refer: 67 96 N 1 0 0 1 152 0 2
 Refer: 462 1080 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: afii10147
+Encoding: 1138 1138 678
+Width: 1593
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+1306 703 m 5
+ 1306 549 l 5
+ 753 549 l 5
+ 753 647 l 5
+ 285 647 l 5
+ 285 801 l 5
+ 875 801 l 5
+ 875 703 l 5
+ 1306 703 l 5
+EndSplineSet
+Refer: 436 1054 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: afii10195
+Encoding: 1139 1139 679
+Width: 1139
+Flags: HWO
+LayerCount: 2
+Fore
+SplineSet
+870 563 m 1
+ 870 409 l 1
+ 507 409 l 1
+ 507 507 l 1
+ 269 507 l 1
+ 269 661 l 1
+ 629 661 l 1
+ 629 563 l 1
+ 870 563 l 1
+EndSplineSet
+Refer: 468 1086 N 1 0 0 1 0 0 2
 EndChar
 EndChars
 EndSplineFont
