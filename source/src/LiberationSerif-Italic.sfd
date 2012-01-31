@@ -19,7 +19,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1123398000
-ModificationTime: 1316580166
+ModificationTime: 1328000087
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -53,7 +53,8 @@ OS2FamilyClass: 261
 OS2Vendor: '1ASC'
 OS2CodePages: 6000009f.dfd70000
 OS2UnicodeRanges: a00002af.500078fb.00000000.00000000
-Lookup: 258 0 0 "'kern' Horizontal Kerning lookup 0"  {"'kern' Horizontal Kerning lookup 0 subtable"  } ['kern' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 1 0 0 "'locl' Localized Forms lookup 0"  {"'locl' Localized Forms lookup 0-1"  } ['locl' ('cyrl' <'SRB ' > 'cyrl' <'MKD ' > ) ]
+Lookup: 258 0 0 "'kern' Horizontal Kerning lookup 0"  {"'kern' Horizontal Kerning lookup 0 subtable"  } ['kern' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'cyrl' <'SRB ' > 'cyrl' <'MKD ' > 'grek' <'dflt' > 'latn' <'dflt' > ) ]
 MarkAttachClasses: 1
 DEI: 91125
 TtTable: prep
@@ -3099,10 +3100,10 @@ NameList: Adobe Glyph List
 DisplaySize: -24
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 504 56 18
+WinInfo: 60 30 18
 BeginPrivate: 0
 EndPrivate
-BeginChars: 1114124 671
+BeginChars: 1114124 673
 
 StartChar: .notdef
 Encoding: 1114112 -1 0
@@ -61913,6 +61914,7 @@ SplineSet
  90 330 90 330 90 429 c 0,16,17
 EndSplineSet
 Kerns2: 485 -51 "'kern' Horizontal Kerning lookup 0 subtable"  483 -27 "'kern' Horizontal Kerning lookup 0 subtable"  480 -51 "'kern' Horizontal Kerning lookup 0 subtable"  477 -27 "'kern' Horizontal Kerning lookup 0 subtable"  475 -41 "'kern' Horizontal Kerning lookup 0 subtable"  474 -27 "'kern' Horizontal Kerning lookup 0 subtable"  473 -27 "'kern' Horizontal Kerning lookup 0 subtable"  471 -27 "'kern' Horizontal Kerning lookup 0 subtable"  468 -27 "'kern' Horizontal Kerning lookup 0 subtable"  466 -78 "'kern' Horizontal Kerning lookup 0 subtable"  465 -51 "'kern' Horizontal Kerning lookup 0 subtable"  461 -27 "'kern' Horizontal Kerning lookup 0 subtable"  460 -27 "'kern' Horizontal Kerning lookup 0 subtable" 
+Substitution2: "'locl' Localized Forms lookup 0-1" S_BE
 EndChar
 
 StartChar: afii10067
@@ -62315,6 +62317,7 @@ SplineSet
  753 854 753 854 753 748 c 0,0,1
 EndSplineSet
 Kerns2: 465 -27 "'kern' Horizontal Kerning lookup 0 subtable"  17 -27 "'kern' Horizontal Kerning lookup 0 subtable" 
+Substitution2: "'locl' Localized Forms lookup 0-1" imacron
 EndChar
 
 StartChar: afii10069
@@ -62492,6 +62495,7 @@ SplineSet
  680 858 680 858 579 858 c 0,43,44
 EndSplineSet
 Kerns2: 483 -27 "'kern' Horizontal Kerning lookup 0 subtable"  480 -27 "'kern' Horizontal Kerning lookup 0 subtable"  473 -27 "'kern' Horizontal Kerning lookup 0 subtable"  459 25 "'kern' Horizontal Kerning lookup 0 subtable" 
+Substitution2: "'locl' Localized Forms lookup 0-1" g
 EndChar
 
 StartChar: afii10070
@@ -63905,6 +63909,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 81 110 N 1 0 0 1 0 0 3
+Substitution2: "'locl' Localized Forms lookup 0-1" umacron
 EndChar
 
 StartChar: afii10082
@@ -63935,6 +63940,7 @@ LayerCount: 2
 Fore
 Refer: 80 109 N 1 0 0 1 0 0 3
 Kerns2: 485 25 "'kern' Horizontal Kerning lookup 0 subtable"  473 -51 "'kern' Horizontal Kerning lookup 0 subtable"  461 25 "'kern' Horizontal Kerning lookup 0 subtable"  454 25 "'kern' Horizontal Kerning lookup 0 subtable"  17 25 "'kern' Horizontal Kerning lookup 0 subtable"  15 51 "'kern' Horizontal Kerning lookup 0 subtable" 
+Substitution2: "'locl' Localized Forms lookup 0-1" S_TE
 EndChar
 
 StartChar: afii10085
@@ -88714,6 +88720,79 @@ LayerCount: 2
 Fore
 Refer: 67 96 N 1 0 0 1 60 8 2
 Refer: 462 1080 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: S_BE
+Encoding: 1114109 -1 671
+Width: 965
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+369.559 1188 m 0,0,1
+ 381.887 1246 381.887 1246 414.452 1291 c 128,-1,2
+ 447.017 1336 447.017 1336 495.106 1367 c 128,-1,3
+ 543.195 1398 543.195 1398 604.203 1414.5 c 128,-1,4
+ 665.21 1431 665.21 1431 734.21 1431 c 0,5,6
+ 802.21 1431 802.21 1431 851.939 1401.5 c 128,-1,7
+ 901.669 1372 901.669 1372 924.08 1341 c 1,8,-1
+ 864.215 1304 l 1,9,10
+ 821.205 1351 821.205 1351 719.205 1351 c 0,11,12
+ 638.205 1351 638.205 1351 587.203 1311 c 128,-1,13
+ 536.201 1271 536.201 1271 521.747 1203 c 0,14,15
+ 513.883 1166 513.883 1166 523.262 1132.5 c 128,-1,16
+ 532.641 1099 532.641 1099 555.414 1065 c 128,-1,17
+ 578.188 1031 578.188 1031 612.929 994.5 c 128,-1,18
+ 647.671 958 647.671 958 691.53 915 c 0,19,20
+ 744.266 862 744.266 862 781.712 810 c 128,-1,21
+ 819.159 758 819.159 758 839.362 702.5 c 128,-1,22
+ 859.565 647 859.565 647 862.387 585 c 128,-1,23
+ 865.208 523 865.208 523 849.691 450 c 0,24,25
+ 826.311 340 826.311 340 781.318 253 c 128,-1,26
+ 736.326 166 736.326 166 672.359 105 c 128,-1,27
+ 608.394 44 608.394 44 526.592 12 c 128,-1,28
+ 444.79 -20 444.79 -20 347.79 -20 c 0,29,30
+ 252.79 -20 252.79 -20 182.423 6.5 c 128,-1,31
+ 112.056 33 112.056 33 70.215 85.5 c 128,-1,32
+ 28.3742 138 28.3742 138 17.0598 216.5 c 128,-1,33
+ 5.74527 295 5.74527 295 27.8518 399 c 0,34,35
+ 50.1701 504 50.1701 504 96.0686 583.5 c 128,-1,36
+ 141.967 663 141.967 663 204.189 720.5 c 128,-1,37
+ 266.411 778 266.411 778 340.882 815.5 c 128,-1,38
+ 415.354 853 415.354 853 495.605 873 c 1,39,40
+ 459.894 912 459.894 912 432.259 949 c 128,-1,41
+ 404.623 986 404.623 986 387.2 1024 c 128,-1,42
+ 369.777 1062 369.777 1062 364.886 1102.5 c 128,-1,43
+ 359.994 1143 359.994 1143 369.559 1188 c 0,0,1
+198.151 391 m 0,44,45
+ 181.997 315 181.997 315 183.531 254 c 128,-1,46
+ 185.064 193 185.064 193 205.818 149.5 c 128,-1,47
+ 226.572 106 226.572 106 266.077 82.5 c 128,-1,48
+ 305.582 59 305.582 59 365.582 59 c 0,49,50
+ 474.582 59 474.582 59 552.606 148.5 c 128,-1,51
+ 630.63 238 630.63 238 669.74 422 c 0,52,53
+ 682.494 482 682.494 482 682.547 534 c 128,-1,54
+ 682.6 586 682.6 586 669.377 632 c 128,-1,55
+ 656.154 678 656.154 678 629.976 719.5 c 128,-1,56
+ 603.797 761 603.797 761 565.299 801 c 0,57,58
+ 559.362 806 559.362 806 554.425 811 c 128,-1,59
+ 549.487 816 549.487 816 544.551 821 c 1,60,61
+ 491.937 804 491.937 804 439.985 776 c 128,-1,62
+ 388.033 748 388.033 748 342.118 699 c 128,-1,63
+ 296.203 650 296.203 650 258.867 575.5 c 128,-1,64
+ 221.532 501 221.532 501 198.151 391 c 0,44,45
+EndSplineSet
+Kerns2: 400 -41 "'kern' Horizontal Kerning lookup 0 subtable" 
+EndChar
+
+StartChar: S_TE
+Encoding: 1114108 -1 672
+Width: 1546
+Flags: W
+LayerCount: 2
+Fore
+Refer: 329 713 N 1 0 0 1 398 0 2
+Refer: 478 1096 N 1 0 0 1 0 0 2
 EndChar
 EndChars
 EndSplineFont

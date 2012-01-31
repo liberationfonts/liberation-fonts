@@ -19,7 +19,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1123398000
-ModificationTime: 1316580127
+ModificationTime: 1327999557
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -53,7 +53,8 @@ OS2FamilyClass: 261
 OS2Vendor: '1ASC'
 OS2CodePages: 6000009f.dfd70000
 OS2UnicodeRanges: a00002af.500078fb.00000000.00000000
-Lookup: 258 0 0 "'kern' Horizontal Kerning lookup 0"  {"'kern' Horizontal Kerning lookup 0 subtable"  } ['kern' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 1 0 0 "'locl' Localized Forms lookup 0"  {"'locl' Localized Forms lookup 0-1"  } ['locl' ('cyrl' <'SRB ' > 'cyrl' <'MKD ' > ) ]
+Lookup: 258 0 0 "'kern' Horizontal Kerning lookup 0"  {"'kern' Horizontal Kerning lookup 0 subtable"  } ['kern' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'cyrl' <'SRB ' > 'cyrl' <'MKD ' > 'grek' <'dflt' > 'latn' <'dflt' > ) ]
 MarkAttachClasses: 1
 DEI: 91125
 TtTable: prep
@@ -2741,10 +2742,10 @@ NameList: Adobe Glyph List
 DisplaySize: -24
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 336 56 18
+WinInfo: 1113629 29 18
 BeginPrivate: 0
 EndPrivate
-BeginChars: 1114124 671
+BeginChars: 1114124 672
 
 StartChar: .notdef
 Encoding: 1114112 -1 0
@@ -63088,6 +63089,7 @@ SplineSet
  784 377 784 377 784 475 c 0,36,37
 EndSplineSet
 Kerns2: 485 -51 "'kern' Horizontal Kerning lookup 0 subtable"  480 -51 "'kern' Horizontal Kerning lookup 0 subtable"  477 -78 "'kern' Horizontal Kerning lookup 0 subtable"  475 -78 "'kern' Horizontal Kerning lookup 0 subtable"  473 -78 "'kern' Horizontal Kerning lookup 0 subtable"  466 -20 "'kern' Horizontal Kerning lookup 0 subtable"  465 -51 "'kern' Horizontal Kerning lookup 0 subtable"  460 -51 "'kern' Horizontal Kerning lookup 0 subtable"  459 -27 "'kern' Horizontal Kerning lookup 0 subtable"  458 -51 "'kern' Horizontal Kerning lookup 0 subtable" 
+Substitution2: "'locl' Localized Forms lookup 0-1" S_BE
 EndChar
 
 StartChar: afii10067
@@ -97088,6 +97090,68 @@ LayerCount: 2
 Fore
 Refer: 67 96 N 1 0 0 1 53 -22 2
 Refer: 462 1080 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: S_BE
+Encoding: 1114109 -1 671
+Width: 965
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+251 1188 m 0,0,1
+ 251 1246 251 1246 274 1291 c 128,-1,2
+ 297 1336 297 1336 338.5 1367 c 128,-1,3
+ 380 1398 380 1398 437.5 1414.5 c 128,-1,4
+ 495 1431 495 1431 564 1431 c 0,5,6
+ 632 1431 632 1431 688 1401.5 c 128,-1,7
+ 744 1372 744 1372 773 1341 c 1,8,-1
+ 721 1304 l 1,9,10
+ 668 1351 668 1351 566 1351 c 0,11,12
+ 485 1351 485 1351 442.5 1311 c 128,-1,13
+ 400 1271 400 1271 400 1203 c 0,14,15
+ 400 1166 400 1166 416.5 1132.5 c 128,-1,16
+ 433 1099 433 1099 463 1065 c 128,-1,17
+ 493 1031 493 1031 535.5 994.5 c 128,-1,18
+ 578 958 578 958 631 915 c 0,19,20
+ 695 862 695 862 743.5 810 c 128,-1,21
+ 792 758 792 758 824 702.5 c 128,-1,22
+ 856 647 856 647 872 585 c 128,-1,23
+ 888 523 888 523 888 450 c 0,24,25
+ 888 340 888 340 861.5 253 c 128,-1,26
+ 835 166 835 166 784 105 c 128,-1,27
+ 733 44 733 44 658 12 c 128,-1,28
+ 583 -20 583 -20 486 -20 c 0,29,30
+ 391 -20 391 -20 315 6.5 c 128,-1,31
+ 239 33 239 33 186 85.5 c 128,-1,32
+ 133 138 133 138 105 216.5 c 128,-1,33
+ 77 295 77 295 77 399 c 0,34,35
+ 77 504 77 504 106 583.5 c 128,-1,36
+ 135 663 135 663 185 720.5 c 128,-1,37
+ 235 778 235 778 301.5 815.5 c 128,-1,38
+ 368 853 368 853 444 873 c 1,39,40
+ 400 912 400 912 364.5 949 c 128,-1,41
+ 329 986 329 986 303.5 1024 c 128,-1,42
+ 278 1062 278 1062 264.5 1102.5 c 128,-1,43
+ 251 1143 251 1143 251 1188 c 0,0,1
+249 391 m 0,44,45
+ 249 315 249 315 263.5 254 c 128,-1,46
+ 278 193 278 193 308 149.5 c 128,-1,47
+ 338 106 338 106 382.5 82.5 c 128,-1,48
+ 427 59 427 59 487 59 c 0,49,50
+ 596 59 596 59 655 148.5 c 128,-1,51
+ 714 238 714 238 714 422 c 0,52,53
+ 714 482 714 482 703 534 c 128,-1,54
+ 692 586 692 586 669 632 c 128,-1,55
+ 646 678 646 678 611 719.5 c 128,-1,56
+ 576 761 576 761 529 801 c 0,57,58
+ 522 806 522 806 516 811 c 2,59,-1
+ 504 821 l 1,60,61
+ 455 804 455 804 409 776 c 128,-1,62
+ 363 748 363 748 327.5 699 c 128,-1,63
+ 292 650 292 650 270.5 575.5 c 128,-1,64
+ 249 501 249 501 249 391 c 0,44,45
+EndSplineSet
 EndChar
 EndChars
 EndSplineFont
