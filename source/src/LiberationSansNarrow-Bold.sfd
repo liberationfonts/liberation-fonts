@@ -19,7 +19,7 @@ OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1123372800
-ModificationTime: 1327652296
+ModificationTime: 1328007340
 PfmFamily: 17
 TTFWeight: 700
 TTFWidth: 3
@@ -53,7 +53,8 @@ OS2FamilyClass: 2053
 OS2Vendor: 'OOoH'
 OS2CodePages: 6000009f.dfd70000
 OS2UnicodeRanges: a00002af.500078fb.00000000.00000000
-Lookup: 258 0 0 "'kern' Horizontal Kerning lookup 0"  {"'kern' Horizontal Kerning lookup 0 subtable"  } ['kern' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 1 0 0 "'locl' Localized Forms lookup 0"  {"'locl' Localized Forms lookup 0-1"  } ['locl' ('cyrl' <'SRB ' > 'cyrl' <'MKD ' > ) ]
+Lookup: 258 0 0 "'kern' Horizontal Kerning lookup 0"  {"'kern' Horizontal Kerning lookup 0 subtable"  } ['kern' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'cyrl' <'SRB ' > 'cyrl' <'MKD ' > 'grek' <'dflt' > 'latn' <'dflt' > ) ]
 MarkAttachClasses: 1
 DEI: 91125
 TtTable: prep
@@ -799,10 +800,10 @@ NameList: Adobe Glyph List
 DisplaySize: -36
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 722 38 14
+WinInfo: 924 22 14
 BeginPrivate: 0
 EndPrivate
-BeginChars: 65556 680
+BeginChars: 65556 681
 
 StartChar: .notdef
 Encoding: 65536 -1 0
@@ -36014,6 +36015,7 @@ SplineSet
  495 1027 495 1027 572 1027 c 0,20,21
 EndSplineSet
 Kerns2: 485 -27 "'kern' Horizontal Kerning lookup 0 subtable"  483 -27 "'kern' Horizontal Kerning lookup 0 subtable"  480 -27 "'kern' Horizontal Kerning lookup 0 subtable"  477 -51 "'kern' Horizontal Kerning lookup 0 subtable"  475 -51 "'kern' Horizontal Kerning lookup 0 subtable"  473 -27 "'kern' Horizontal Kerning lookup 0 subtable"  471 -27 "'kern' Horizontal Kerning lookup 0 subtable"  466 -27 "'kern' Horizontal Kerning lookup 0 subtable"  465 -51 "'kern' Horizontal Kerning lookup 0 subtable"  461 -27 "'kern' Horizontal Kerning lookup 0 subtable"  460 -27 "'kern' Horizontal Kerning lookup 0 subtable"  458 -51 "'kern' Horizontal Kerning lookup 0 subtable" 
+Substitution2: "'locl' Localized Forms lookup 0-1" S_BE
 EndChar
 
 StartChar: afii10067
@@ -59731,19 +59733,19 @@ EndChar
 StartChar: afii10147
 Encoding: 1138 1138 678
 Width: 1307
-Flags: HW
+Flags: W
 LayerCount: 2
 Fore
 SplineSet
-1003 729 m 5
- 1003 501 l 5
- 556 501 l 5
- 556 621 l 5
- 296 621 l 5
- 296 849 l 5
- 756 849 l 5
- 756 729 l 5
- 1003 729 l 5
+1003 729 m 5,0,-1
+ 1003 501 l 5,1,-1
+ 556 501 l 5,2,-1
+ 556 621 l 5,3,-1
+ 296 621 l 5,4,-1
+ 296 849 l 5,5,-1
+ 756 849 l 5,6,-1
+ 756 729 l 5,7,-1
+ 1003 729 l 5,0,-1
 EndSplineSet
 Refer: 436 1054 N 1 0 0 1 0 0 2
 EndChar
@@ -59751,21 +59753,71 @@ EndChar
 StartChar: afii10195
 Encoding: 1139 1139 679
 Width: 1026
-Flags: HWO
+Flags: W
 LayerCount: 2
 Fore
 SplineSet
-727 599 m 1
- 727 391 l 1
- 456 391 l 1
- 456 491 l 1
- 298 491 l 1
- 298 699 l 1
- 576 699 l 1
- 576 599 l 1
- 727 599 l 1
+727 599 m 1,0,-1
+ 727 391 l 1,1,-1
+ 456 391 l 1,2,-1
+ 456 491 l 1,3,-1
+ 298 491 l 1,4,-1
+ 298 699 l 1,5,-1
+ 576 699 l 1,6,-1
+ 576 599 l 1,7,-1
+ 727 599 l 1,0,-1
 EndSplineSet
 Refer: 468 1086 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: S_BE
+Encoding: 65522 -1 680
+Width: 1018
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+196 1337 m 0,0,1
+ 409.195 1693.84 409.195 1693.84 913.2 1584.6 c 1,2,-1
+ 913.2 1394.6 l 1,3,4
+ 678.239 1449.2 678.239 1449.2 477 1300.2 c 0,5,-1
+ 746 1008 l 2,6,7
+ 792.018 958.013 792.018 958.013 831.5 898 c 0,8,9
+ 869 841 869 841 894.5 777 c 128,-1,10
+ 920 713 920 713 934 640 c 128,-1,11
+ 948 567 948 567 948 483 c 0,12,13
+ 948 375 948 375 918.5 282.5 c 128,-1,14
+ 889 190 889 190 832.5 123 c 128,-1,15
+ 776 56 776 56 693.5 18 c 128,-1,16
+ 611 -20 611 -20 506 -20 c 0,17,18
+ 402 -20 402 -20 320.5 14.5 c 128,-1,19
+ 239 49 239 49 184 113.5 c 128,-1,20
+ 129 178 129 178 99.5 271 c 128,-1,21
+ 70 364 70 364 70 481 c 0,22,23
+ 70 591 70 591 100 677 c 128,-1,24
+ 130 763 130 763 182 829 c 128,-1,25
+ 234 895 234 895 303.5 942.5 c 128,-1,26
+ 373 990 373 990 452 1023 c 1,27,-1
+ 196 1337 l 0,0,1
+710 487 m 0,28,29
+ 710 556 710 556 697 614.5 c 128,-1,30
+ 684 673 684 673 661 724 c 128,-1,31
+ 638 775 638 775 608.5 819 c 128,-1,32
+ 579 863 579 863 547 903 c 1,33,34
+ 492 879 492 879 448 841 c 128,-1,35
+ 404 803 404 803 373 750.5 c 128,-1,36
+ 342 698 342 698 325 631 c 128,-1,37
+ 308 564 308 564 308 481 c 0,38,39
+ 308 415 308 415 319.5 359 c 128,-1,40
+ 331 303 331 303 355 262.5 c 128,-1,41
+ 379 222 379 222 415.5 199 c 128,-1,42
+ 452 176 452 176 502 176 c 0,43,44
+ 559 176 559 176 598.5 199.5 c 128,-1,45
+ 638 223 638 223 663 264 c 128,-1,46
+ 688 305 688 305 699 362.5 c 128,-1,47
+ 710 420 710 420 710 487 c 0,28,29
+EndSplineSet
+Kerns2: 400 -74 "'kern' Horizontal Kerning lookup 0 subtable"  397 -57 "'kern' Horizontal Kerning lookup 0 subtable"  393 -57 "'kern' Horizontal Kerning lookup 0 subtable" 
 EndChar
 EndChars
 EndSplineFont
