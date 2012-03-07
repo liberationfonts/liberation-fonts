@@ -13,13 +13,14 @@ Descent: 410
 LayerCount: 2
 Layer: 0 1 "Back"  1
 Layer: 1 1 "Fore"  0
+NeedsXUIDChange: 1
 XUID: [1021 131 222397055 13298560]
 FSType: 0
 OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1123398000
-ModificationTime: 1328000087
+ModificationTime: 1331117272
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -3100,7 +3101,7 @@ NameList: Adobe Glyph List
 DisplaySize: -24
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 60 30 18
+WinInfo: 690 30 18
 BeginPrivate: 0
 EndPrivate
 BeginChars: 1114124 673
@@ -88694,12 +88695,12 @@ EndChar
 
 StartChar: uni040D
 Encoding: 1037 1037 668
-Width: 1366
-Flags: W
+Width: 1479
+Flags: HW
 LayerCount: 2
 Fore
+Refer: 430 1048 N 1 0 0 1 0 0 2
 Refer: 67 96 N 1 0 0 1 254 332 2
-Refer: 49 78 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni0450
@@ -88725,7 +88726,7 @@ EndChar
 StartChar: S_BE
 Encoding: 1114109 -1 671
 Width: 965
-Flags: HW
+Flags: W
 LayerCount: 2
 Fore
 SplineSet

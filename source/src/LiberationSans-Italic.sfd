@@ -13,13 +13,14 @@ Descent: 410
 LayerCount: 2
 Layer: 0 1 "Back"  1
 Layer: 1 1 "Fore"  0
+NeedsXUIDChange: 1
 XUID: [1021 131 222397055 2032059]
 FSType: 0
 OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1123372800
-ModificationTime: 1327997434
+ModificationTime: 1331115461
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -3144,7 +3145,7 @@ NameList: Adobe Glyph List
 DisplaySize: -36
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 1113838 22 14
+WinInfo: 836 22 14
 BeginPrivate: 0
 EndPrivate
 BeginChars: 1114132 682
@@ -105530,12 +105531,12 @@ EndChar
 
 StartChar: uni040D
 Encoding: 1037 1037 675
-Width: 1479
-Flags: W
+Width: 1465
+Flags: HW
 LayerCount: 2
 Fore
+Refer: 430 1048 N 1 0 0 1 0 0 2
 Refer: 67 96 N 1 0 0 1 513 267 2
-Refer: 49 78 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni0450
@@ -105601,7 +105602,7 @@ EndChar
 StartChar: S_BE
 Encoding: 1114109 -1 680
 Width: 1140
-Flags: HW
+Flags: W
 LayerCount: 2
 Fore
 SplineSet
@@ -105646,13 +105647,13 @@ SplineSet
  1113.18 1431 l 1,47,48
  898.967 1514.01 898.967 1514.01 590.877 1359 c 1,20,-1
 EndSplineSet
-Kerns2: 400 -59 "'kern' Horizontal Kerning lookup 0 subtable"  397 -45 "'kern' Horizontal Kerning lookup 0 subtable"  393 -45 "'kern' Horizontal Kerning lookup 0 subtable"  380 -37 "'kern' Horizontal Kerning lookup 0 subtable"
+Kerns2: 400 -59 "'kern' Horizontal Kerning lookup 0 subtable"  397 -45 "'kern' Horizontal Kerning lookup 0 subtable"  393 -45 "'kern' Horizontal Kerning lookup 0 subtable"  380 -37 "'kern' Horizontal Kerning lookup 0 subtable" 
 EndChar
 
 StartChar: S_TE
 Encoding: 1114108 -1 681
 Width: 1700
-Flags: HW
+Flags: W
 LayerCount: 2
 Fore
 Refer: 329 713 S 1 0 0 1 582 0 2

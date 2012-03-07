@@ -35,7 +35,7 @@ dist-ttf: clean-ttf build
 clean: clean-ttf clean-src
 
 clean-ttf:
-	rm -rf ttf liberation-fonts-*
+	rm -rf liberation-fonts-*
 
 clean-src:
 	rm -f *.tar.gz

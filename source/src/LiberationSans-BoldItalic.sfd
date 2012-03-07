@@ -13,13 +13,14 @@ Descent: 410
 LayerCount: 2
 Layer: 0 1 "Back"  1
 Layer: 1 1 "Fore"  0
+NeedsXUIDChange: 1
 XUID: [1021 131 222397055 951244]
 FSType: 0
 OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1123372800
-ModificationTime: 1327998476
+ModificationTime: 1331115542
 PfmFamily: 17
 TTFWeight: 700
 TTFWidth: 5
@@ -3000,7 +3001,7 @@ NameList: Adobe Glyph List
 DisplaySize: -36
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 44 44 17
+WinInfo: 616 44 17
 BeginPrivate: 0
 EndPrivate
 BeginChars: 1114132 682
@@ -80985,12 +80986,12 @@ EndChar
 
 StartChar: uni040D
 Encoding: 1037 1037 675
-Width: 1479
-Flags: W
+Width: 1473
+Flags: HWO
 LayerCount: 2
 Fore
+Refer: 429 1048 N 1 0 0 1 0 0 2
 Refer: 67 96 N 1 0 0 1 336 306 2
-Refer: 49 78 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni045D
