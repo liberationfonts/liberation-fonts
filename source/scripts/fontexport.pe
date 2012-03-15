@@ -1,0 +1,21 @@
+# FontForge script to export font file(s) in selectable format
+# TODO: 0x800 fmflags only for TTF?
+
+if ($argc <= 1)
+    Print("usage: script [-<format>] file1 ...")
+    Print("(default format is ttf)")
+    return(1)
+endif
+
+format = "ttf"
+if (Strstr($1, "-") == 0)
+    format = Strsub($1, 1)
+    shift
+endif
+while ($argc > 1)
+    Print("Generating " + format  + " from " + $1)
+    Open($1)
+    Generate($1:r + "." + format, "", 0x800)
+    Close()
+    shift
+endloop
