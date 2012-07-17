@@ -25,7 +25,7 @@ endif
 
 EXPORTSCRIPT = scripts/fontexport.pe
 SCRIPTS      = $(EXPORTSCRIPT) scripts/sfd2ttf.pe scripts/ttf2sfd.pe
-MISCFILES    = AUTHORS ChangeLog COPYING License.txt README TODO
+MISCFILES    = AUTHORS ChangeLog README TODO
 SRCDIR       = src
 EXPORTDIR    = export
 CHECK_PREFIX = check
