@@ -1,3 +1,5 @@
+- Resolved "Glyphs with multiple unicode encodings inhibit subsetting" #851790
+
 * Fri Jul 06 2012 Pravin Satpute <psatpute AT redhat DOT com>
 - Initial version of Liberation fonts based on croscore fonts version 1.21.0
 - Converted TTF files into SFD files to be open source.

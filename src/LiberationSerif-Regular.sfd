@@ -13,13 +13,14 @@ Descent: 410
 LayerCount: 2
 Layer: 0 1 "Back"  1
 Layer: 1 1 "Fore"  0
+NeedsXUIDChange: 1
 XUID: [1021 445 290132255 4443462]
 FSType: 0
 OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1277108302
-ModificationTime: 1341555040
+ModificationTime: 1346837473
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -3527,12 +3528,12 @@ NameList: Adobe Glyph List
 DisplaySize: -36
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 54 18 14
+WinInfo: 8190 18 14
 BeginPrivate: 0
 EndPrivate
 TeXData: 1 0 0 262144 131072 87381 481280 -1048576 87381 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
 AnchorClass2: "Anchor-0"  "'mark' Mark Positioning in Hebrew lookup 0 subtable" "Anchor-1"  "'mark' Mark Positioning in Hebrew lookup 2 subtable" "Anchor-2"  "'mark' Mark Positioning in Hebrew lookup 3 subtable" "Anchor-3"  "'mark' Mark Positioning in Hebrew lookup 4 subtable" "Anchor-4"  "'mark' Mark Positioning in Hebrew lookup 4 subtable" "Anchor-5"  "'mark' Mark Positioning in Hebrew lookup 5 subtable" "Anchor-6"  "'mark' Mark Positioning in Hebrew lookup 5 subtable" "Anchor-7"  "'mark' Mark Positioning in Hebrew lookup 10 subtable" "Anchor-8"  "'mark' Mark Positioning in Hebrew lookup 11 subtable" "Anchor-9"  "'mark' Mark Positioning in Hebrew lookup 12 subtable" "Anchor-10"  "Mark to base attachment lookup 18 subtable" "Anchor-11"  "Mark to base attachment lookup 19 subtable" "Anchor-12"  "Mark to base attachment lookup 20 subtable" "Anchor-13"  "Mark to base attachment lookup 21 subtable" 
-BeginChars: 65816 2573
+BeginChars: 65816 2583
 
 StartChar: .notdef
 Encoding: 65536 -1 0
@@ -3560,7 +3561,6 @@ EndChar
 
 StartChar: space
 Encoding: 32 32 3
-AltUni2: 0000a0.ffffffff.0
 Width: 512
 GlyphClass: 2
 Flags: W
@@ -5946,7 +5946,6 @@ EndChar
 
 StartChar: hyphen
 Encoding: 45 45 16
-AltUni2: 0000ad.ffffffff.0
 Width: 682
 GlyphClass: 2
 Flags: W
@@ -7767,7 +7766,6 @@ EndChar
 
 StartChar: semicolon
 Encoding: 59 59 30
-AltUni2: 00037e.ffffffff.0
 Width: 569
 GlyphClass: 2
 Flags: W
@@ -34766,7 +34764,6 @@ EndChar
 
 StartChar: fraction
 Encoding: 8260 8260 186
-AltUni2: 002215.ffffffff.0
 Width: 342
 GlyphClass: 2
 Flags: W
@@ -35111,7 +35108,6 @@ EndChar
 
 StartChar: uniFB01
 Encoding: 61441 61441 190
-AltUni2: 00fb01.ffffffff.0
 Width: 1139
 GlyphClass: 2
 Flags: W
@@ -35464,7 +35460,6 @@ EndChar
 
 StartChar: uniFB02
 Encoding: 61442 61442 191
-AltUni2: 00fb02.ffffffff.0
 Width: 1139
 GlyphClass: 2
 Flags: W
@@ -87531,7 +87526,6 @@ EndChar
 
 StartChar: uni018F
 Encoding: 399 399 868
-AltUni2: 0004d8.ffffffff.0
 Width: 1479
 GlyphClass: 2
 Flags: W
@@ -87643,7 +87637,6 @@ EndChar
 
 StartChar: uni0259
 Encoding: 601 601 869
-AltUni2: 0004d9.ffffffff.0
 Width: 909
 GlyphClass: 2
 Flags: W
@@ -94384,7 +94377,6 @@ EndChar
 
 StartChar: uni01C1
 Encoding: 449 449 931
-AltUni2: 002016.ffffffff.0
 Width: 575
 GlyphClass: 2
 Flags: W
@@ -176611,7 +176603,6 @@ EndChar
 
 StartChar: uni2009
 Encoding: 8201 8201 2153
-AltUni2: 00202f.ffffffff.0
 Width: 410
 GlyphClass: 2
 Flags: W
@@ -211283,6 +211274,96 @@ SplineSet
  19 -384 l 1,32,-1
 EndSplineSet
 Ligature2: "'ccmp' Glyph Composition/Decomposition in Hebrew lookup 1 subtable" hatafqamats meteg
+EndChar
+
+StartChar: uni00A0
+Encoding: 160 160 2573
+Width: 512
+Flags: W
+LayerCount: 2
+Fore
+Refer: 3 32 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni00AD
+Encoding: 173 173 2574
+Width: 682
+Flags: W
+LayerCount: 2
+Fore
+Refer: 16 45 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni037E
+Encoding: 894 894 2575
+Width: 569
+Flags: W
+LayerCount: 2
+Fore
+Refer: 30 59 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni2215
+Encoding: 8725 8725 2576
+Width: 342
+Flags: W
+LayerCount: 2
+Fore
+Refer: 186 8260 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uniFB01
+Encoding: 64257 64257 2577
+Width: 1139
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 190 61441 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uniFB02
+Encoding: 64258 64258 2578
+Width: 1139
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 191 61442 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni04D8
+Encoding: 1240 1240 2579
+Width: 1479
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 868 399 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: afii10846
+Encoding: 1241 1241 2580
+Width: 909
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 869 601 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni2016
+Encoding: 8214 8214 2581
+Width: 575
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 931 449 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni202F
+Encoding: 8239 8239 2582
+Width: 410
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 2153 8201 N 1 0 0 1 0 0 2
 EndChar
 EndChars
 EndSplineFont
