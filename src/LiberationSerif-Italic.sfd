@@ -24912,7 +24912,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni00B5
+StartChar: mu1
 Encoding: 181 181 151
 Width: 1180
 GlyphClass: 2
@@ -30349,7 +30349,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uniFB01
+StartChar: fi
 Encoding: 61441 61441 190
 AltUni2: 00fb01.ffffffff.0
 Width: 1024
@@ -30479,7 +30479,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uniFB02
+StartChar: fl
 Encoding: 61442 61442 191
 AltUni2: 00fb02.ffffffff.0
 Width: 1024
@@ -32359,7 +32359,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni02C9
+StartChar: macron
 Encoding: 713 713 215
 Width: 682
 GlyphClass: 2
@@ -35027,7 +35027,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni00B9
+StartChar: onesuperior
 Encoding: 185 185 238
 Width: 614
 GlyphClass: 2
@@ -35099,7 +35099,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni00B2
+StartChar: twosuperior
 Encoding: 178 178 239
 Width: 614
 GlyphClass: 2
@@ -35400,7 +35400,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni00B3
+StartChar: threesuperior
 Encoding: 179 179 240
 Width: 614
 GlyphClass: 2
@@ -36396,7 +36396,7 @@ Refer: 70 99 N 1 0 0 1 0 0 3
 Refer: 222 711 N 1 0 0 1 206 0 2
 EndChar
 
-StartChar: uni0111
+StartChar: dcroat
 Encoding: 273 273 254
 Width: 1024
 GlyphClass: 2
@@ -36570,7 +36570,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni00AF
+StartChar: overscore
 Encoding: 175 175 255
 Width: 1024
 GlyphClass: 2
@@ -36610,7 +36610,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni00B7
+StartChar: middot
 Encoding: 183 183 256
 Width: 512
 GlyphClass: 2
@@ -36786,7 +36786,7 @@ Refer: 71 100 N 1 0 0 1 0 0 2
 Refer: 659 -1 N 1 0 0 1 1019 80 2
 EndChar
 
-StartChar: uni0110
+StartChar: Dcroat
 Encoding: 272 272 263
 Width: 1479
 GlyphClass: 2
@@ -37183,7 +37183,7 @@ Refer: 81 110 N 1 0 0 1 0 0 3
 Refer: 222 711 N 1 0 0 1 206 0 2
 EndChar
 
-StartChar: uni0150
+StartChar: Ohungarumlaut
 Encoding: 336 336 278
 Width: 1479
 GlyphClass: 2
@@ -37219,7 +37219,7 @@ Refer: 50 79 N 1 0 0 1 0 0 3
 Refer: 220 733 N 1 0 0 1 511 334 2
 EndChar
 
-StartChar: uni0151
+StartChar: ohungarumlaut
 Encoding: 337 337 279
 Width: 1024
 GlyphClass: 2
@@ -37427,7 +37427,7 @@ Refer: 86 115 N 1 0 0 1 0 0 3
 Refer: 141 180 N 1 0 0 1 137 0 2
 EndChar
 
-StartChar: uni0162
+StartChar: Tcommaaccent
 Encoding: 354 354 286
 Width: 1139
 GlyphClass: 2
@@ -37438,7 +37438,7 @@ Refer: 55 84 N 1 0 0 1 0 0 3
 Refer: 219 184 N 1 0 0 1 130 0 2
 EndChar
 
-StartChar: uni0163
+StartChar: tcommaaccent
 Encoding: 355 355 287
 Width: 569
 GlyphClass: 2
@@ -37600,7 +37600,7 @@ Refer: 88 117 N 1 0 0 1 0 0 3
 Refer: 218 730 N 1 0 0 1 141 0 2
 EndChar
 
-StartChar: uni0170
+StartChar: Uhungarumlaut
 Encoding: 368 368 292
 Width: 1479
 GlyphClass: 2
@@ -37636,7 +37636,7 @@ Refer: 56 85 N 1 0 0 1 0 0 3
 Refer: 220 733 N 1 0 0 1 576 334 2
 EndChar
 
-StartChar: uni0171
+StartChar: uhungarumlaut
 Encoding: 369 369 293
 Width: 1024
 GlyphClass: 2
@@ -37718,7 +37718,7 @@ Refer: 93 122 N 1 0 0 1 0 0 3
 Refer: 141 180 N 1 0 0 1 133 0 2
 EndChar
 
-StartChar: uni017B
+StartChar: Zdotaccent
 Encoding: 379 379 296
 Width: 1139
 GlyphClass: 2
@@ -37750,7 +37750,7 @@ Refer: 61 90 N 1 0 0 1 0 0 3
 Refer: 217 729 N 1 0 0 1 279 334 2
 EndChar
 
-StartChar: uni017C
+StartChar: zdotaccent
 Encoding: 380 380 297
 Width: 797
 GlyphClass: 2
@@ -39062,7 +39062,7 @@ Refer: 4 33 N 1 0 0 1 0 0 2
 Refer: 4 33 N 1 0 0 1 493 0 2
 EndChar
 
-StartChar: uni207F
+StartChar: nsuperior
 Encoding: 8319 8319 309
 Width: 645
 GlyphClass: 2
@@ -48328,7 +48328,7 @@ Refer: 70 99 N 1 0 0 1 0 0 3
 Refer: 213 710 N 1 0 0 1 158 0 2
 EndChar
 
-StartChar: uni010A
+StartChar: Cdotaccent
 Encoding: 266 266 409
 Width: 1366
 GlyphClass: 2
@@ -48360,7 +48360,7 @@ Refer: 38 67 N 1 0 0 1 0 0 3
 Refer: 217 729 N 1 0 0 1 482 334 2
 EndChar
 
-StartChar: uni010B
+StartChar: cdotaccent
 Encoding: 267 267 410
 Width: 909
 GlyphClass: 2
@@ -48496,7 +48496,7 @@ Refer: 72 101 N 1 0 0 1 0 0 3
 Refer: 216 728 N 1 0 0 1 106 0 2
 EndChar
 
-StartChar: uni0116
+StartChar: Edotaccent
 Encoding: 278 278 415
 Width: 1251
 GlyphClass: 2
@@ -48528,7 +48528,7 @@ Refer: 40 69 N 1 0 0 1 0 0 3
 Refer: 217 729 N 1 0 0 1 355 334 2
 EndChar
 
-StartChar: uni0117
+StartChar: edotaccent
 Encoding: 279 279 416
 Width: 909
 GlyphClass: 2
@@ -48608,7 +48608,7 @@ Refer: 74 103 N 1 0 0 1 0 0 3
 Refer: 213 710 N 1 0 0 1 162 0 2
 EndChar
 
-StartChar: uni0120
+StartChar: Gdotaccent
 Encoding: 288 288 419
 Width: 1479
 GlyphClass: 2
@@ -48640,7 +48640,7 @@ Refer: 42 71 N 1 0 0 1 0 0 3
 Refer: 217 729 N 1 0 0 1 482 334 2
 EndChar
 
-StartChar: uni0121
+StartChar: gdotaccent
 Encoding: 289 289 420
 Width: 1024
 GlyphClass: 2
@@ -48664,7 +48664,7 @@ Refer: 74 103 N 1 0 0 1 0 0 3
 Refer: 217 729 N 1 0 0 1 178 0 2
 EndChar
 
-StartChar: uni0122
+StartChar: Gcommaaccent
 Encoding: 290 290 421
 Width: 1479
 GlyphClass: 2
@@ -48689,7 +48689,7 @@ Refer: 42 71 N 1 0 0 1 0 0 3
 Refer: 492 61444 N 1 0 0 1 500 0 2
 EndChar
 
-StartChar: uni0123
+StartChar: gcommaaccent
 Encoding: 291 291 422
 Width: 1024
 GlyphClass: 2
@@ -49654,7 +49654,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0136
+StartChar: Kcommaaccent
 Encoding: 310 310 437
 Width: 1366
 GlyphClass: 2
@@ -49665,7 +49665,7 @@ Refer: 46 75 N 1 0 0 1 0 0 3
 Refer: 492 61444 N 1 0 0 1 492 0 2
 EndChar
 
-StartChar: uni0137
+StartChar: kcommaaccent
 Encoding: 311 311 438
 Width: 909
 GlyphClass: 2
@@ -49816,7 +49816,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni013B
+StartChar: Lcommaaccent
 Encoding: 315 315 440
 Width: 1139
 GlyphClass: 2
@@ -49827,7 +49827,7 @@ Refer: 47 76 N 1 0 0 1 0 0 3
 Refer: 492 61444 N 1 0 0 1 341 0 2
 EndChar
 
-StartChar: uni013C
+StartChar: lcommaaccent
 Encoding: 316 316 441
 Width: 569
 GlyphClass: 2
@@ -49838,7 +49838,7 @@ Refer: 79 108 N 1 0 0 1 0 0 3
 Refer: 492 61444 N 1 0 0 1 14 0 2
 EndChar
 
-StartChar: uni0145
+StartChar: Ncommaaccent
 Encoding: 325 325 442
 Width: 1366
 GlyphClass: 2
@@ -49863,7 +49863,7 @@ Refer: 49 78 N 1 0 0 1 0 0 3
 Refer: 492 61444 N 1 0 0 1 409 0 2
 EndChar
 
-StartChar: uni0146
+StartChar: ncommaaccent
 Encoding: 326 326 443
 Width: 1024
 GlyphClass: 2
@@ -50303,7 +50303,7 @@ Refer: 82 111 N 1 0 0 1 0 0 3
 Refer: 216 728 N 1 0 0 1 161 0 2
 EndChar
 
-StartChar: uni0156
+StartChar: Rcommaaccent
 Encoding: 342 342 450
 Width: 1251
 GlyphClass: 2
@@ -50314,7 +50314,7 @@ Refer: 53 82 N 1 0 0 1 0 0 3
 Refer: 492 61444 N 1 0 0 1 415 0 2
 EndChar
 
-StartChar: uni0157
+StartChar: rcommaaccent
 Encoding: 343 343 451
 Width: 797
 GlyphClass: 2
@@ -51592,7 +51592,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni203E
+StartChar: radicalex
 Encoding: 8254 8254 485
 Width: 682
 GlyphClass: 2
@@ -70422,7 +70422,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni20AB
+StartChar: dong
 Encoding: 8363 8363 702
 Width: 1050
 GlyphClass: 2
@@ -71102,7 +71102,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni1EA0
+StartChar: Adotbelow
 Encoding: 7840 7840 740
 Width: 1251
 GlyphClass: 2
@@ -71113,7 +71113,7 @@ Refer: 36 65 N 1 0 0 1 0 0 3
 Refer: 725 803 N 1 0 0 1 608 0 2
 EndChar
 
-StartChar: uni1EA1
+StartChar: adotbelow
 Encoding: 7841 7841 741
 Width: 1024
 GlyphClass: 2
@@ -71124,7 +71124,7 @@ Refer: 68 97 N 1 0 0 1 0 0 3
 Refer: 725 803 N 1 0 0 1 470 0 2
 EndChar
 
-StartChar: uni1EA2
+StartChar: Ahookabove
 Encoding: 7842 7842 742
 Width: 1251
 GlyphClass: 2
@@ -71145,7 +71145,7 @@ Refer: 36 65 N 1 0 0 1 0 0 3
 Refer: 2413 -1 N 1 0 0 1 735 334 2
 EndChar
 
-StartChar: uni1EA3
+StartChar: ahookabove
 Encoding: 7843 7843 743
 Width: 1024
 GlyphClass: 2
@@ -71166,7 +71166,7 @@ Refer: 68 97 N 1 0 0 1 0 0 3
 Refer: 2413 -1 N 1 0 0 1 531 -30 2
 EndChar
 
-StartChar: uni1EA4
+StartChar: Acircumflexacute
 Encoding: 7844 7844 744
 Width: 1251
 GlyphClass: 2
@@ -71189,7 +71189,7 @@ Refer: 36 65 N 1 0 0 1 0 0 3
 Refer: 2415 -1 N 1 0 0 1 734 334 2
 EndChar
 
-StartChar: uni1EA5
+StartChar: acircumflexacute
 Encoding: 7845 7845 745
 Width: 1024
 GlyphClass: 2
@@ -71212,7 +71212,7 @@ Refer: 68 97 N 1 0 0 1 0 0 3
 Refer: 2415 -1 N 1 0 0 1 543 0 2
 EndChar
 
-StartChar: uni1EA6
+StartChar: Acircumflexgrave
 Encoding: 7846 7846 746
 Width: 1251
 GlyphClass: 2
@@ -71235,7 +71235,7 @@ Refer: 36 65 N 1 0 0 1 0 0 3
 Refer: 2416 -1 N 1 0 0 1 707 334 2
 EndChar
 
-StartChar: uni1EA7
+StartChar: acircumflexgrave
 Encoding: 7847 7847 747
 Width: 1024
 GlyphClass: 2
@@ -71258,7 +71258,7 @@ Refer: 68 97 N 1 0 0 1 0 0 3
 Refer: 2416 -1 N 1 0 0 1 532 0 2
 EndChar
 
-StartChar: uni1EA8
+StartChar: Acircumflexhookabove
 Encoding: 7848 7848 748
 Width: 1251
 GlyphClass: 2
@@ -71281,7 +71281,7 @@ Refer: 36 65 N 1 0 0 1 0 0 3
 Refer: 2417 -1 N 1 0 0 1 707 334 2
 EndChar
 
-StartChar: uni1EA9
+StartChar: acircumflexhookabove
 Encoding: 7849 7849 749
 Width: 1024
 GlyphClass: 2
@@ -71304,7 +71304,7 @@ Refer: 68 97 N 1 0 0 1 0 0 3
 Refer: 2417 -1 N 1 0 0 1 507 0 2
 EndChar
 
-StartChar: uni1EAA
+StartChar: Acircumflextilde
 Encoding: 7850 7850 750
 Width: 1251
 GlyphClass: 2
@@ -71327,7 +71327,7 @@ Refer: 36 65 N 1 0 0 1 0 0 3
 Refer: 2418 -1 N 1 0 0 1 707 295 2
 EndChar
 
-StartChar: uni1EAB
+StartChar: acircumflextilde
 Encoding: 7851 7851 751
 Width: 1024
 GlyphClass: 2
@@ -71350,7 +71350,7 @@ Refer: 68 97 N 1 0 0 1 0 0 3
 Refer: 2418 -1 N 1 0 0 1 560 0 2
 EndChar
 
-StartChar: uni1EAC
+StartChar: Acircumflexdotbelow
 Encoding: 7852 7852 752
 Width: 1251
 GlyphClass: 2
@@ -71372,7 +71372,7 @@ Refer: 725 803 N 1 0 0 1 608 0 2
 Refer: 213 710 N 1 0 0 1 312 334 2
 EndChar
 
-StartChar: uni1EAD
+StartChar: acircumflexdotbelow
 Encoding: 7853 7853 753
 Width: 1024
 GlyphClass: 2
@@ -71384,7 +71384,7 @@ Refer: 725 803 N 1 0 0 1 428 0 2
 Refer: 213 710 N 1 0 0 1 171 0 2
 EndChar
 
-StartChar: uni1EAE
+StartChar: Abreveacute
 Encoding: 7854 7854 754
 Width: 1251
 GlyphClass: 2
@@ -71407,7 +71407,7 @@ Refer: 36 65 N 1 0 0 1 0 0 3
 Refer: 2419 -1 N 1 0 0 1 717 334 2
 EndChar
 
-StartChar: uni1EAF
+StartChar: abreveacute
 Encoding: 7855 7855 755
 Width: 1024
 GlyphClass: 2
@@ -71430,7 +71430,7 @@ Refer: 68 97 N 1 0 0 1 0 0 3
 Refer: 2419 -1 N 1 0 0 1 547 0 2
 EndChar
 
-StartChar: uni1EB0
+StartChar: Abrevegrave
 Encoding: 7856 7856 756
 Width: 1251
 GlyphClass: 2
@@ -71453,7 +71453,7 @@ Refer: 36 65 N 1 0 0 1 0 0 3
 Refer: 2420 -1 N 1 0 0 1 717 334 2
 EndChar
 
-StartChar: uni1EB1
+StartChar: abrevegrave
 Encoding: 7857 7857 757
 Width: 1024
 GlyphClass: 2
@@ -71476,7 +71476,7 @@ Refer: 68 97 N 1 0 0 1 0 0 3
 Refer: 2420 -1 N 1 0 0 1 547 0 2
 EndChar
 
-StartChar: uni1EB2
+StartChar: Abrevehookabove
 Encoding: 7858 7858 758
 Width: 1251
 GlyphClass: 2
@@ -71499,7 +71499,7 @@ Refer: 36 65 N 1 0 0 1 0 0 3
 Refer: 2421 -1 N 1 0 0 1 717 334 2
 EndChar
 
-StartChar: uni1EB3
+StartChar: abrevehookabove
 Encoding: 7859 7859 759
 Width: 1024
 GlyphClass: 2
@@ -71522,7 +71522,7 @@ Refer: 68 97 N 1 0 0 1 0 0 3
 Refer: 2421 -1 N 1 0 0 1 547 0 2
 EndChar
 
-StartChar: uni1EB4
+StartChar: Abrevetilde
 Encoding: 7860 7860 760
 Width: 1251
 GlyphClass: 2
@@ -71545,7 +71545,7 @@ Refer: 36 65 N 1 0 0 1 0 0 3
 Refer: 2422 -1 N 1 0 0 1 717 304 2
 EndChar
 
-StartChar: uni1EB5
+StartChar: abrevetilde
 Encoding: 7861 7861 761
 Width: 1024
 GlyphClass: 2
@@ -71568,7 +71568,7 @@ Refer: 68 97 N 1 0 0 1 0 0 3
 Refer: 2422 -1 N 1 0 0 1 547 0 2
 EndChar
 
-StartChar: uni1EB6
+StartChar: Abrevedotbelow
 Encoding: 7862 7862 762
 Width: 1251
 GlyphClass: 2
@@ -71590,7 +71590,7 @@ Refer: 216 728 N 1 0 0 1 323 334 2
 Refer: 725 803 N 1 0 0 1 608 0 2
 EndChar
 
-StartChar: uni1EB7
+StartChar: abrevedotbelow
 Encoding: 7863 7863 763
 Width: 1024
 GlyphClass: 2
@@ -71602,7 +71602,7 @@ Refer: 216 728 N 1 0 0 1 125 -30 2
 Refer: 725 803 N 1 0 0 1 470 0 2
 EndChar
 
-StartChar: uni1EB8
+StartChar: Edotbelow
 Encoding: 7864 7864 764
 Width: 1251
 GlyphClass: 2
@@ -71613,7 +71613,7 @@ Refer: 40 69 N 1 0 0 1 0 0 3
 Refer: 725 803 N 1 0 0 1 658 0 2
 EndChar
 
-StartChar: uni1EB9
+StartChar: edotbelow
 Encoding: 7865 7865 765
 Width: 909
 GlyphClass: 2
@@ -71624,7 +71624,7 @@ Refer: 72 101 N 1 0 0 1 0 0 3
 Refer: 725 803 N 1 0 0 1 498 0 2
 EndChar
 
-StartChar: uni1EBA
+StartChar: Ehookabove
 Encoding: 7866 7866 766
 Width: 1251
 GlyphClass: 2
@@ -71645,7 +71645,7 @@ Refer: 40 69 N 1 0 0 1 0 0 3
 Refer: 2413 -1 N 1 0 0 1 654 334 2
 EndChar
 
-StartChar: uni1EBB
+StartChar: ehookabove
 Encoding: 7867 7867 767
 Width: 909
 GlyphClass: 2
@@ -71666,7 +71666,7 @@ Refer: 72 101 N 1 0 0 1 0 0 3
 Refer: 2413 -1 N 1 0 0 1 500 0 2
 EndChar
 
-StartChar: uni1EBC
+StartChar: Etilde
 Encoding: 7868 7868 768
 Width: 1251
 GlyphClass: 2
@@ -71687,7 +71687,7 @@ Refer: 40 69 N 1 0 0 1 0 0 3
 Refer: 214 732 N 1 0 0 1 315 334 2
 EndChar
 
-StartChar: uni1EBD
+StartChar: etilde
 Encoding: 7869 7869 769
 Width: 909
 GlyphClass: 2
@@ -71708,7 +71708,7 @@ Refer: 72 101 N 1 0 0 1 0 0 3
 Refer: 214 732 N 1 0 0 1 137 0 2
 EndChar
 
-StartChar: uni1EBE
+StartChar: Ecircumflexacute
 Encoding: 7870 7870 770
 Width: 1251
 GlyphClass: 2
@@ -71731,7 +71731,7 @@ Refer: 40 69 N 1 0 0 1 0 0 3
 Refer: 2415 -1 N 1 0 0 1 697 334 2
 EndChar
 
-StartChar: uni1EBF
+StartChar: ecircumflexacute
 Encoding: 7871 7871 771
 Width: 909
 GlyphClass: 2
@@ -71754,7 +71754,7 @@ Refer: 72 101 N 1 0 0 1 0 0 3
 Refer: 2415 -1 N 1 0 0 1 545 0 2
 EndChar
 
-StartChar: uni1EC0
+StartChar: Ecircumflexgrave
 Encoding: 7872 7872 772
 Width: 1251
 GlyphClass: 2
@@ -71777,7 +71777,7 @@ Refer: 40 69 N 1 0 0 1 0 0 3
 Refer: 2416 -1 N 1 0 0 1 697 334 2
 EndChar
 
-StartChar: uni1EC1
+StartChar: ecircumflexgrave
 Encoding: 7873 7873 773
 Width: 909
 GlyphClass: 2
@@ -71800,7 +71800,7 @@ Refer: 72 101 N 1 0 0 1 0 0 3
 Refer: 2416 -1 N 1 0 0 1 545 0 2
 EndChar
 
-StartChar: uni1EC2
+StartChar: Ecircumflexhookabove
 Encoding: 7874 7874 774
 Width: 1251
 GlyphClass: 2
@@ -71823,7 +71823,7 @@ Refer: 40 69 N 1 0 0 1 0 0 3
 Refer: 2417 -1 N 1 0 0 1 688 334 2
 EndChar
 
-StartChar: uni1EC3
+StartChar: ecircumflexhookabove
 Encoding: 7875 7875 775
 Width: 909
 GlyphClass: 2
@@ -71846,7 +71846,7 @@ Refer: 72 101 N 1 0 0 1 0 0 3
 Refer: 2417 -1 N 1 0 0 1 545 0 2
 EndChar
 
-StartChar: uni1EC4
+StartChar: Ecircumflextilde
 Encoding: 7876 7876 776
 Width: 1251
 GlyphClass: 2
@@ -71869,7 +71869,7 @@ Refer: 40 69 N 1 0 0 1 0 0 3
 Refer: 2418 -1 N 1 0 0 1 697 334 2
 EndChar
 
-StartChar: uni1EC5
+StartChar: ecircumflextilde
 Encoding: 7877 7877 777
 Width: 909
 GlyphClass: 2
@@ -71892,7 +71892,7 @@ Refer: 72 101 N 1 0 0 1 0 0 3
 Refer: 2418 -1 N 1 0 0 1 535 0 2
 EndChar
 
-StartChar: uni1EC6
+StartChar: Ecircumflexdotbelow
 Encoding: 7878 7878 778
 Width: 1251
 GlyphClass: 2
@@ -71914,7 +71914,7 @@ Refer: 213 710 N 1 0 0 1 285 334 2
 Refer: 725 803 N 1 0 0 1 658 0 2
 EndChar
 
-StartChar: uni1EC7
+StartChar: ecircumflexdotbelow
 Encoding: 7879 7879 779
 Width: 909
 GlyphClass: 2
@@ -71926,7 +71926,7 @@ Refer: 213 710 N 1 0 0 1 154 0 2
 Refer: 725 803 N 1 0 0 1 498 0 2
 EndChar
 
-StartChar: uni1EC8
+StartChar: Ihookabove
 Encoding: 7880 7880 780
 Width: 682
 GlyphClass: 2
@@ -71947,7 +71947,7 @@ Refer: 44 73 N 1 0 0 1 0 0 3
 Refer: 2413 -1 N 1 0 0 1 416 334 2
 EndChar
 
-StartChar: uni1EC9
+StartChar: ihookabove
 Encoding: 7881 7881 781
 Width: 569
 GlyphClass: 2
@@ -71968,7 +71968,7 @@ Refer: 212 305 N 1 0 0 1 0 0 3
 Refer: 2413 -1 N 1 0 0 1 275 -30 2
 EndChar
 
-StartChar: uni1ECA
+StartChar: Idotbelow
 Encoding: 7882 7882 782
 Width: 682
 GlyphClass: 2
@@ -71979,7 +71979,7 @@ Refer: 44 73 N 1 0 0 1 0 0 3
 Refer: 725 803 N 1 0 0 1 343 0 2
 EndChar
 
-StartChar: uni1ECB
+StartChar: idotbelow
 Encoding: 7883 7883 783
 Width: 569
 GlyphClass: 2
@@ -71990,7 +71990,7 @@ Refer: 76 105 N 1 0 0 1 0 0 3
 Refer: 725 803 N 1 0 0 1 276 0 2
 EndChar
 
-StartChar: uni1ECC
+StartChar: Odotbelow
 Encoding: 7884 7884 784
 Width: 1479
 GlyphClass: 2
@@ -72001,7 +72001,7 @@ Refer: 50 79 N 1 0 0 1 0 0 3
 Refer: 725 803 N 1 0 0 1 740 0 2
 EndChar
 
-StartChar: uni1ECD
+StartChar: odotbelow
 Encoding: 7885 7885 785
 Width: 1024
 GlyphClass: 2
@@ -72012,7 +72012,7 @@ Refer: 82 111 N 1 0 0 1 0 0 3
 Refer: 725 803 N 1 0 0 1 512 0 2
 EndChar
 
-StartChar: uni1ECE
+StartChar: Ohookabove
 Encoding: 7886 7886 786
 Width: 1479
 GlyphClass: 2
@@ -72033,7 +72033,7 @@ Refer: 50 79 N 1 0 0 1 0 0 3
 Refer: 2413 -1 N 1 0 0 1 826 334 2
 EndChar
 
-StartChar: uni1ECF
+StartChar: ohookabove
 Encoding: 7887 7887 787
 Width: 1024
 GlyphClass: 2
@@ -72054,7 +72054,7 @@ Refer: 82 111 N 1 0 0 1 0 0 3
 Refer: 2413 -1 N 1 0 0 1 537 0 2
 EndChar
 
-StartChar: uni1ED0
+StartChar: Ocircumflexacute
 Encoding: 7888 7888 788
 Width: 1479
 GlyphClass: 2
@@ -72077,7 +72077,7 @@ Refer: 50 79 N 1 0 0 1 0 0 3
 Refer: 2415 -1 N 1 0 0 1 814 334 2
 EndChar
 
-StartChar: uni1ED1
+StartChar: ocircumflexacute
 Encoding: 7889 7889 789
 Width: 1024
 GlyphClass: 2
@@ -72100,7 +72100,7 @@ Refer: 82 111 N 1 0 0 1 0 0 3
 Refer: 2415 -1 N 1 0 0 1 563 0 2
 EndChar
 
-StartChar: uni1ED2
+StartChar: Ocircumflexgrave
 Encoding: 7890 7890 790
 Width: 1479
 GlyphClass: 2
@@ -72123,7 +72123,7 @@ Refer: 50 79 N 1 0 0 1 0 0 3
 Refer: 2416 -1 N 1 0 0 1 815 334 2
 EndChar
 
-StartChar: uni1ED3
+StartChar: ocircumflexgrave
 Encoding: 7891 7891 791
 Width: 1024
 GlyphClass: 2
@@ -72146,7 +72146,7 @@ Refer: 82 111 N 1 0 0 1 0 0 3
 Refer: 2416 -1 N 1 0 0 1 563 0 2
 EndChar
 
-StartChar: uni1ED4
+StartChar: Ocircumflexhookabove
 Encoding: 7892 7892 792
 Width: 1479
 GlyphClass: 2
@@ -72169,7 +72169,7 @@ Refer: 50 79 N 1 0 0 1 0 0 3
 Refer: 2417 -1 N 1 0 0 1 814 334 2
 EndChar
 
-StartChar: uni1ED5
+StartChar: ocircumflexhookabove
 Encoding: 7893 7893 793
 Width: 1024
 GlyphClass: 2
@@ -72192,7 +72192,7 @@ Refer: 82 111 N 1 0 0 1 0 0 3
 Refer: 2417 -1 N 1 0 0 1 563 0 2
 EndChar
 
-StartChar: uni1ED6
+StartChar: Ocircumflextilde
 Encoding: 7894 7894 794
 Width: 1479
 GlyphClass: 2
@@ -72215,7 +72215,7 @@ Refer: 50 79 N 1 0 0 1 0 0 3
 Refer: 2418 -1 N 1 0 0 1 797 295 2
 EndChar
 
-StartChar: uni1ED7
+StartChar: ocircumflextilde
 Encoding: 7895 7895 795
 Width: 1024
 GlyphClass: 2
@@ -72238,7 +72238,7 @@ Refer: 82 111 N 1 0 0 1 0 0 3
 Refer: 2418 -1 N 1 0 0 1 553 0 2
 EndChar
 
-StartChar: uni1ED8
+StartChar: Ocircumflexdotbelow
 Encoding: 7896 7896 796
 Width: 1479
 GlyphClass: 2
@@ -72260,7 +72260,7 @@ Refer: 725 803 N 1 0 0 1 740 0 2
 Refer: 213 710 N 1 0 0 1 397 334 2
 EndChar
 
-StartChar: uni1ED9
+StartChar: ocircumflexdotbelow
 Encoding: 7897 7897 797
 Width: 1024
 GlyphClass: 2
@@ -72272,7 +72272,7 @@ Refer: 213 710 N 1 0 0 1 169 0 2
 Refer: 725 803 N 1 0 0 1 512 0 2
 EndChar
 
-StartChar: uni1EDA
+StartChar: Ohornacute
 Encoding: 7898 7898 798
 Width: 1479
 GlyphClass: 2
@@ -72293,7 +72293,7 @@ Refer: 682 416 N 1 0 0 1 0 0 3
 Refer: 141 180 N 1 0 0 1 471 334 2
 EndChar
 
-StartChar: uni1EDB
+StartChar: ohornacute
 Encoding: 7899 7899 799
 Width: 1093
 GlyphClass: 2
@@ -72304,7 +72304,7 @@ Refer: 683 417 N 1 0 0 1 0 0 3
 Refer: 141 180 N 1 0 0 1 248 0 2
 EndChar
 
-StartChar: uni1EDC
+StartChar: Ohorngrave
 Encoding: 7900 7900 800
 Width: 1479
 GlyphClass: 2
@@ -72325,7 +72325,7 @@ Refer: 682 416 N 1 0 0 1 0 0 3
 Refer: 67 96 N 1 0 0 1 367 334 2
 EndChar
 
-StartChar: uni1EDD
+StartChar: ohorngrave
 Encoding: 7901 7901 801
 Width: 1093
 GlyphClass: 2
@@ -72336,7 +72336,7 @@ Refer: 683 417 N 1 0 0 1 0 0 3
 Refer: 67 96 N 1 0 0 1 130 0 2
 EndChar
 
-StartChar: uni1EDE
+StartChar: Ohornhookabove
 Encoding: 7902 7902 802
 Width: 1479
 GlyphClass: 2
@@ -72357,7 +72357,7 @@ Refer: 682 416 N 1 0 0 1 0 0 3
 Refer: 2413 -1 N 1 0 0 1 857 334 2
 EndChar
 
-StartChar: uni1EDF
+StartChar: ohornhookabove
 Encoding: 7903 7903 803
 Width: 1093
 GlyphClass: 2
@@ -72368,7 +72368,7 @@ Refer: 683 417 N 1 0 0 1 0 0 3
 Refer: 2413 -1 N 1 0 0 1 539 0 2
 EndChar
 
-StartChar: uni1EE0
+StartChar: Ohorntilde
 Encoding: 7904 7904 804
 Width: 1479
 GlyphClass: 2
@@ -72389,7 +72389,7 @@ Refer: 682 416 N 1 0 0 1 0 0 3
 Refer: 214 732 N 1 0 0 1 446 334 2
 EndChar
 
-StartChar: uni1EE1
+StartChar: ohorntilde
 Encoding: 7905 7905 805
 Width: 1093
 GlyphClass: 2
@@ -72400,7 +72400,7 @@ Refer: 683 417 N 1 0 0 1 0 0 3
 Refer: 214 732 N 1 0 0 1 162 0 2
 EndChar
 
-StartChar: uni1EE2
+StartChar: Ohorndotbelow
 Encoding: 7906 7906 806
 Width: 1479
 GlyphClass: 2
@@ -72411,7 +72411,7 @@ Refer: 682 416 N 1 0 0 1 0 0 3
 Refer: 725 803 N 1 0 0 1 740 0 2
 EndChar
 
-StartChar: uni1EE3
+StartChar: ohorndotbelow
 Encoding: 7907 7907 807
 Width: 1093
 GlyphClass: 2
@@ -72422,7 +72422,7 @@ Refer: 683 417 N 1 0 0 1 0 0 3
 Refer: 725 803 N 1 0 0 1 512 0 2
 EndChar
 
-StartChar: uni1EE4
+StartChar: Udotbelow
 Encoding: 7908 7908 808
 Width: 1479
 GlyphClass: 2
@@ -72433,7 +72433,7 @@ Refer: 56 85 N 1 0 0 1 0 0 3
 Refer: 725 803 N 1 0 0 1 739 0 2
 EndChar
 
-StartChar: uni1EE5
+StartChar: udotbelow
 Encoding: 7909 7909 809
 Width: 1024
 GlyphClass: 2
@@ -72444,7 +72444,7 @@ Refer: 88 117 N 1 0 0 1 0 0 3
 Refer: 725 803 N 1 0 0 1 521 0 2
 EndChar
 
-StartChar: uni1EE6
+StartChar: Uhookabove
 Encoding: 7910 7910 810
 Width: 1479
 GlyphClass: 2
@@ -72465,7 +72465,7 @@ Refer: 56 85 N 1 0 0 1 0 0 3
 Refer: 2413 -1 N 1 0 0 1 824 334 2
 EndChar
 
-StartChar: uni1EE7
+StartChar: uhookabove
 Encoding: 7911 7911 811
 Width: 1024
 GlyphClass: 2
@@ -72486,7 +72486,7 @@ Refer: 88 117 N 1 0 0 1 0 0 3
 Refer: 2413 -1 N 1 0 0 1 497 0 2
 EndChar
 
-StartChar: uni1EE8
+StartChar: Uhornacute
 Encoding: 7912 7912 812
 Width: 1544
 GlyphClass: 2
@@ -72507,7 +72507,7 @@ Refer: 684 431 N 1 0 0 1 0 0 3
 Refer: 141 180 N 1 0 0 1 537 334 2
 EndChar
 
-StartChar: uni1EE9
+StartChar: uhornacute
 Encoding: 7913 7913 813
 Width: 1117
 GlyphClass: 2
@@ -72518,7 +72518,7 @@ Refer: 685 432 N 1 0 0 1 0 0 3
 Refer: 141 180 N 1 0 0 1 264 0 2
 EndChar
 
-StartChar: uni1EEA
+StartChar: Uhorngrave
 Encoding: 7914 7914 814
 Width: 1544
 GlyphClass: 2
@@ -72539,7 +72539,7 @@ Refer: 684 431 N 1 0 0 1 0 0 3
 Refer: 67 96 N 1 0 0 1 371 334 2
 EndChar
 
-StartChar: uni1EEB
+StartChar: uhorngrave
 Encoding: 7915 7915 815
 Width: 1117
 GlyphClass: 2
@@ -72550,7 +72550,7 @@ Refer: 685 432 N 1 0 0 1 0 0 3
 Refer: 67 96 N 1 0 0 1 86 0 2
 EndChar
 
-StartChar: uni1EEC
+StartChar: Uhornhookabove
 Encoding: 7916 7916 816
 Width: 1544
 GlyphClass: 2
@@ -72571,7 +72571,7 @@ Refer: 684 431 N 1 0 0 1 0 0 3
 Refer: 2413 -1 N 1 0 0 1 824 334 2
 EndChar
 
-StartChar: uni1EED
+StartChar: uhornhookabove
 Encoding: 7917 7917 817
 Width: 1117
 GlyphClass: 2
@@ -72582,7 +72582,7 @@ Refer: 685 432 N 1 0 0 1 0 0 3
 Refer: 2413 -1 N 1 0 0 1 497 0 2
 EndChar
 
-StartChar: uni1EEE
+StartChar: Uhorntilde
 Encoding: 7918 7918 818
 Width: 1544
 GlyphClass: 2
@@ -72603,7 +72603,7 @@ Refer: 684 431 N 1 0 0 1 0 0 3
 Refer: 214 732 N 1 0 0 1 475 334 2
 EndChar
 
-StartChar: uni1EEF
+StartChar: uhorntilde
 Encoding: 7919 7919 819
 Width: 1117
 GlyphClass: 2
@@ -72614,7 +72614,7 @@ Refer: 685 432 N 1 0 0 1 0 0 3
 Refer: 214 732 N 1 0 0 1 170 0 2
 EndChar
 
-StartChar: uni1EF0
+StartChar: Uhorndotbelow
 Encoding: 7920 7920 820
 Width: 1544
 GlyphClass: 2
@@ -72625,7 +72625,7 @@ Refer: 684 431 N 1 0 0 1 0 0 3
 Refer: 725 803 N 1 0 0 1 739 0 2
 EndChar
 
-StartChar: uni1EF1
+StartChar: uhorndotbelow
 Encoding: 7921 7921 821
 Width: 1117
 GlyphClass: 2
@@ -72636,7 +72636,7 @@ Refer: 685 432 N 1 0 0 1 0 0 3
 Refer: 725 803 N 1 0 0 1 521 0 2
 EndChar
 
-StartChar: uni1EF4
+StartChar: Ydotbelow
 Encoding: 7924 7924 822
 Width: 1139
 GlyphClass: 2
@@ -72647,7 +72647,7 @@ Refer: 60 89 N 1 0 0 1 0 0 3
 Refer: 725 803 N 1 0 0 1 579 0 2
 EndChar
 
-StartChar: uni1EF5
+StartChar: ydotbelow
 Encoding: 7925 7925 823
 Width: 909
 GlyphClass: 2
@@ -72658,7 +72658,7 @@ Refer: 92 121 N 1 0 0 1 0 0 3
 Refer: 725 803 N 1 0 0 1 738 0 2
 EndChar
 
-StartChar: uni1EF6
+StartChar: Yhookabove
 Encoding: 7926 7926 824
 Width: 1139
 GlyphClass: 2
@@ -72679,7 +72679,7 @@ Refer: 60 89 N 1 0 0 1 0 0 3
 Refer: 2413 -1 N 1 0 0 1 725 334 2
 EndChar
 
-StartChar: uni1EF7
+StartChar: yhookabove
 Encoding: 7927 7927 825
 Width: 909
 GlyphClass: 2
@@ -72700,7 +72700,7 @@ Refer: 92 121 N 1 0 0 1 0 0 3
 Refer: 2413 -1 N 1 0 0 1 475 0 2
 EndChar
 
-StartChar: uni1EF8
+StartChar: Ytilde
 Encoding: 7928 7928 826
 Width: 1139
 GlyphClass: 2
@@ -72721,7 +72721,7 @@ Refer: 60 89 N 1 0 0 1 0 0 3
 Refer: 214 732 N 1 0 0 1 330 334 2
 EndChar
 
-StartChar: uni1EF9
+StartChar: ytilde
 Encoding: 7929 7929 827
 Width: 909
 GlyphClass: 2
@@ -144857,7 +144857,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0237
+StartChar: j.dotless
 Encoding: 567 567 1998
 Width: 569
 GlyphClass: 2
