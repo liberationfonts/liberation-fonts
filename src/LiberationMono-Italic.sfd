@@ -4118,7 +4118,7 @@ NameList: Adobe Glyph List
 DisplaySize: -36
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 1206 18 14
+WinInfo: 65412 18 14
 BeginPrivate: 0
 EndPrivate
 TeXData: 1 0 -562637 629248 314624 209749 553984 -1048576 209749 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
@@ -16958,7 +16958,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni02C9
+StartChar: macron
 Encoding: 713 713 215
 Width: 1229
 GlyphClass: 2
@@ -117429,7 +117429,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: macron
+StartChar: macron_referred
 Encoding: 65640 -1 2238
 Width: 1229
 GlyphClass: 2
@@ -123781,7 +123781,7 @@ EndChar
 StartChar: uni00A0
 Encoding: 160 160 2385
 Width: 1229
-Flags: HW
+Flags: W
 LayerCount: 2
 Fore
 Refer: 3 32 N 1 0 0 1 0 0 2
@@ -123790,7 +123790,7 @@ EndChar
 StartChar: uni00AD
 Encoding: 173 173 2386
 Width: 1229
-Flags: HW
+Flags: W
 LayerCount: 2
 Fore
 Refer: 16 45 N 1 0 0 1 0 0 2
@@ -123799,7 +123799,7 @@ EndChar
 StartChar: uni037E
 Encoding: 894 894 2387
 Width: 1229
-Flags: HW
+Flags: W
 LayerCount: 2
 Fore
 Refer: 30 59 N 1 0 0 1 0 0 2
@@ -123808,7 +123808,7 @@ EndChar
 StartChar: uni2215
 Encoding: 8725 8725 2388
 Width: 1229
-Flags: HW
+Flags: W
 LayerCount: 2
 Fore
 Refer: 186 8260 N 1 0 0 1 0 0 2
@@ -123817,7 +123817,7 @@ EndChar
 StartChar: uni04D8
 Encoding: 1240 1240 2389
 Width: 1229
-Flags: HW
+Flags: W
 LayerCount: 2
 Fore
 Refer: 821 399 N 1 0 0 1 0 0 2
@@ -123826,7 +123826,7 @@ EndChar
 StartChar: afii10846
 Encoding: 1241 1241 2390
 Width: 1229
-Flags: HW
+Flags: W
 LayerCount: 2
 Fore
 Refer: 822 601 N 1 0 0 1 0 0 2

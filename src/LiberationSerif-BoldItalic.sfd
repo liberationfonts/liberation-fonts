@@ -20,7 +20,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1123398000
-ModificationTime: 1346850511
+ModificationTime: 1347511101
 PfmFamily: 17
 TTFWeight: 700
 TTFWidth: 5
@@ -3900,11 +3900,11 @@ NameList: Adobe Glyph List
 DisplaySize: -36
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 61416 18 14
+WinInfo: 65574 18 14
 BeginPrivate: 0
 EndPrivate
 AnchorClass2: "Anchor-0"  "'mark' Mark Positioning in Hebrew lookup 0 subtable" "Anchor-1"  "'mark' Mark Positioning in Hebrew lookup 2 subtable" "Anchor-2"  "'mark' Mark Positioning in Hebrew lookup 3 subtable" "Anchor-3"  "'mark' Mark Positioning in Hebrew lookup 4 subtable" "Anchor-4"  "'mark' Mark Positioning in Hebrew lookup 4 subtable" "Anchor-5"  "'mark' Mark Positioning in Hebrew lookup 5 subtable" "Anchor-6"  "'mark' Mark Positioning in Hebrew lookup 5 subtable" "Anchor-7"  "'mark' Mark Positioning in Hebrew lookup 10 subtable" "Anchor-8"  "'mark' Mark Positioning in Hebrew lookup 11 subtable" "Anchor-9"  "'mark' Mark Positioning in Hebrew lookup 12 subtable" "Anchor-10"  "Mark to base attachment lookup 18 subtable" "Anchor-11"  "Mark to base attachment lookup 19 subtable" "Anchor-12"  "Mark to base attachment lookup 20 subtable" "Anchor-13"  "Mark to base attachment lookup 21 subtable" 
-BeginChars: 65816 2576
+BeginChars: 65816 2575
 
 StartChar: .notdef
 Encoding: 65536 -1 0
@@ -22842,7 +22842,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni2126
+StartChar: Ohm
 Encoding: 8486 8486 158
 Width: 1573
 GlyphClass: 2
@@ -67754,7 +67754,7 @@ EndTTInstrs
 LayerCount: 2
 Fore
 Refer: 36 65 N 1 0 0 1 0 0 3
-Refer: 2409 -1 N 1 0 0 1 811 334 2
+Refer: 2408 -1 N 1 0 0 1 811 334 2
 EndChar
 
 StartChar: uni1EA5
@@ -67777,7 +67777,7 @@ EndTTInstrs
 LayerCount: 2
 Fore
 Refer: 68 97 N 1 0 0 1 0 0 3
-Refer: 2409 -1 N 1 0 0 1 616 0 2
+Refer: 2408 -1 N 1 0 0 1 616 0 2
 EndChar
 
 StartChar: uni1EA6
@@ -67800,7 +67800,7 @@ EndTTInstrs
 LayerCount: 2
 Fore
 Refer: 36 65 N 1 0 0 1 0 0 3
-Refer: 2410 -1 N 1 0 0 1 813 334 2
+Refer: 2409 -1 N 1 0 0 1 813 334 2
 EndChar
 
 StartChar: uni1EA7
@@ -67823,7 +67823,7 @@ EndTTInstrs
 LayerCount: 2
 Fore
 Refer: 68 97 N 1 0 0 1 0 0 3
-Refer: 2410 -1 N 1 0 0 1 610 0 2
+Refer: 2409 -1 N 1 0 0 1 610 0 2
 EndChar
 
 StartChar: uni1EA8
@@ -67846,7 +67846,7 @@ EndTTInstrs
 LayerCount: 2
 Fore
 Refer: 36 65 N 1 0 0 1 0 0 3
-Refer: 2411 -1 N 1 0 0 1 813 334 2
+Refer: 2410 -1 N 1 0 0 1 813 334 2
 EndChar
 
 StartChar: uni1EA9
@@ -67869,7 +67869,7 @@ EndTTInstrs
 LayerCount: 2
 Fore
 Refer: 68 97 N 1 0 0 1 0 0 3
-Refer: 2411 -1 N 1 0 0 1 610 0 2
+Refer: 2410 -1 N 1 0 0 1 610 0 2
 EndChar
 
 StartChar: uni1EAA
@@ -67892,7 +67892,7 @@ EndTTInstrs
 LayerCount: 2
 Fore
 Refer: 36 65 N 1 0 0 1 0 0 3
-Refer: 2412 -1 N 1 0 0 1 813 295 2
+Refer: 2411 -1 N 1 0 0 1 813 295 2
 EndChar
 
 StartChar: uni1EAB
@@ -67915,7 +67915,7 @@ EndTTInstrs
 LayerCount: 2
 Fore
 Refer: 68 97 N 1 0 0 1 0 0 3
-Refer: 2412 -1 N 1 0 0 1 610 0 2
+Refer: 2411 -1 N 1 0 0 1 610 0 2
 EndChar
 
 StartChar: uni1EAC
@@ -67972,7 +67972,7 @@ EndTTInstrs
 LayerCount: 2
 Fore
 Refer: 36 65 N 1 0 0 1 0 0 3
-Refer: 2413 -1 N 1 0 0 1 813 334 2
+Refer: 2412 -1 N 1 0 0 1 813 334 2
 EndChar
 
 StartChar: uni1EAF
@@ -67995,7 +67995,7 @@ EndTTInstrs
 LayerCount: 2
 Fore
 Refer: 68 97 N 1 0 0 1 0 0 3
-Refer: 2413 -1 N 1 0 0 1 616 0 2
+Refer: 2412 -1 N 1 0 0 1 616 0 2
 EndChar
 
 StartChar: uni1EB0
@@ -68018,7 +68018,7 @@ EndTTInstrs
 LayerCount: 2
 Fore
 Refer: 36 65 N 1 0 0 1 0 0 3
-Refer: 2414 -1 N 1 0 0 1 813 334 2
+Refer: 2413 -1 N 1 0 0 1 813 334 2
 EndChar
 
 StartChar: uni1EB1
@@ -68041,7 +68041,7 @@ EndTTInstrs
 LayerCount: 2
 Fore
 Refer: 68 97 N 1 0 0 1 0 0 3
-Refer: 2414 -1 N 1 0 0 1 616 0 2
+Refer: 2413 -1 N 1 0 0 1 616 0 2
 EndChar
 
 StartChar: uni1EB2
@@ -68064,7 +68064,7 @@ EndTTInstrs
 LayerCount: 2
 Fore
 Refer: 36 65 N 1 0 0 1 0 0 3
-Refer: 2415 -1 N 1 0 0 1 813 334 2
+Refer: 2414 -1 N 1 0 0 1 813 334 2
 EndChar
 
 StartChar: uni1EB3
@@ -68087,7 +68087,7 @@ EndTTInstrs
 LayerCount: 2
 Fore
 Refer: 68 97 N 1 0 0 1 0 0 3
-Refer: 2415 -1 N 1 0 0 1 616 0 2
+Refer: 2414 -1 N 1 0 0 1 616 0 2
 EndChar
 
 StartChar: uni1EB4
@@ -68110,7 +68110,7 @@ EndTTInstrs
 LayerCount: 2
 Fore
 Refer: 36 65 N 1 0 0 1 0 0 3
-Refer: 2416 -1 N 1 0 0 1 813 304 2
+Refer: 2415 -1 N 1 0 0 1 813 304 2
 EndChar
 
 StartChar: uni1EB5
@@ -68133,7 +68133,7 @@ EndTTInstrs
 LayerCount: 2
 Fore
 Refer: 68 97 N 1 0 0 1 0 0 3
-Refer: 2416 -1 N 1 0 0 1 616 0 2
+Refer: 2415 -1 N 1 0 0 1 616 0 2
 EndChar
 
 StartChar: uni1EB6
@@ -68296,7 +68296,7 @@ EndTTInstrs
 LayerCount: 2
 Fore
 Refer: 40 69 N 1 0 0 1 0 0 3
-Refer: 2409 -1 N 1 0 0 1 813 334 2
+Refer: 2408 -1 N 1 0 0 1 813 334 2
 EndChar
 
 StartChar: uni1EBF
@@ -68319,7 +68319,7 @@ EndTTInstrs
 LayerCount: 2
 Fore
 Refer: 72 101 N 1 0 0 1 0 0 3
-Refer: 2409 -1 N 1 0 0 1 616 0 2
+Refer: 2408 -1 N 1 0 0 1 616 0 2
 EndChar
 
 StartChar: uni1EC0
@@ -68342,7 +68342,7 @@ EndTTInstrs
 LayerCount: 2
 Fore
 Refer: 40 69 N 1 0 0 1 0 0 3
-Refer: 2410 -1 N 1 0 0 1 813 334 2
+Refer: 2409 -1 N 1 0 0 1 813 334 2
 EndChar
 
 StartChar: uni1EC1
@@ -68365,7 +68365,7 @@ EndTTInstrs
 LayerCount: 2
 Fore
 Refer: 72 101 N 1 0 0 1 0 0 3
-Refer: 2410 -1 N 1 0 0 1 616 0 2
+Refer: 2409 -1 N 1 0 0 1 616 0 2
 EndChar
 
 StartChar: uni1EC2
@@ -68388,7 +68388,7 @@ EndTTInstrs
 LayerCount: 2
 Fore
 Refer: 40 69 N 1 0 0 1 0 0 3
-Refer: 2411 -1 N 1 0 0 1 813 334 2
+Refer: 2410 -1 N 1 0 0 1 813 334 2
 EndChar
 
 StartChar: uni1EC3
@@ -68411,7 +68411,7 @@ EndTTInstrs
 LayerCount: 2
 Fore
 Refer: 72 101 N 1 0 0 1 0 0 3
-Refer: 2411 -1 N 1 0 0 1 616 0 2
+Refer: 2410 -1 N 1 0 0 1 616 0 2
 EndChar
 
 StartChar: uni1EC4
@@ -68434,7 +68434,7 @@ EndTTInstrs
 LayerCount: 2
 Fore
 Refer: 40 69 N 1 0 0 1 0 0 3
-Refer: 2412 -1 N 1 0 0 1 813 334 2
+Refer: 2411 -1 N 1 0 0 1 813 334 2
 EndChar
 
 StartChar: uni1EC5
@@ -68457,7 +68457,7 @@ EndTTInstrs
 LayerCount: 2
 Fore
 Refer: 72 101 N 1 0 0 1 0 0 3
-Refer: 2412 -1 N 1 0 0 1 616 0 2
+Refer: 2411 -1 N 1 0 0 1 616 0 2
 EndChar
 
 StartChar: uni1EC6
@@ -68654,7 +68654,7 @@ EndTTInstrs
 LayerCount: 2
 Fore
 Refer: 50 79 N 1 0 0 1 0 0 3
-Refer: 2409 -1 N 1 0 0 1 920 334 2
+Refer: 2408 -1 N 1 0 0 1 920 334 2
 EndChar
 
 StartChar: uni1ED1
@@ -68677,7 +68677,7 @@ EndTTInstrs
 LayerCount: 2
 Fore
 Refer: 82 111 N 1 0 0 1 0 0 3
-Refer: 2409 -1 N 1 0 0 1 629 0 2
+Refer: 2408 -1 N 1 0 0 1 629 0 2
 EndChar
 
 StartChar: uni1ED2
@@ -68700,7 +68700,7 @@ EndTTInstrs
 LayerCount: 2
 Fore
 Refer: 50 79 N 1 0 0 1 0 0 3
-Refer: 2410 -1 N 1 0 0 1 920 334 2
+Refer: 2409 -1 N 1 0 0 1 920 334 2
 EndChar
 
 StartChar: uni1ED3
@@ -68723,7 +68723,7 @@ EndTTInstrs
 LayerCount: 2
 Fore
 Refer: 82 111 N 1 0 0 1 0 0 3
-Refer: 2410 -1 N 1 0 0 1 629 0 2
+Refer: 2409 -1 N 1 0 0 1 629 0 2
 EndChar
 
 StartChar: uni1ED4
@@ -68746,7 +68746,7 @@ EndTTInstrs
 LayerCount: 2
 Fore
 Refer: 50 79 N 1 0 0 1 0 0 3
-Refer: 2411 -1 N 1 0 0 1 920 334 2
+Refer: 2410 -1 N 1 0 0 1 920 334 2
 EndChar
 
 StartChar: uni1ED5
@@ -68769,7 +68769,7 @@ EndTTInstrs
 LayerCount: 2
 Fore
 Refer: 82 111 N 1 0 0 1 0 0 3
-Refer: 2411 -1 N 1 0 0 1 629 0 2
+Refer: 2410 -1 N 1 0 0 1 629 0 2
 EndChar
 
 StartChar: uni1ED6
@@ -68792,7 +68792,7 @@ EndTTInstrs
 LayerCount: 2
 Fore
 Refer: 50 79 N 1 0 0 1 0 0 3
-Refer: 2412 -1 N 1 0 0 1 920 295 2
+Refer: 2411 -1 N 1 0 0 1 920 295 2
 EndChar
 
 StartChar: uni1ED7
@@ -68815,7 +68815,7 @@ EndTTInstrs
 LayerCount: 2
 Fore
 Refer: 82 111 N 1 0 0 1 0 0 3
-Refer: 2412 -1 N 1 0 0 1 629 0 2
+Refer: 2411 -1 N 1 0 0 1 629 0 2
 EndChar
 
 StartChar: uni1ED8
@@ -172692,7 +172692,7 @@ LayerCount: 2
 Fore
 Refer: 535 953 N 1 0 0 1 0 0 3
 Refer: 142 168 N 1 0 0 1 -75 -79 2
-Refer: 2414 -1 N 1 0 0 1 443 245 2
+Refer: 2413 -1 N 1 0 0 1 443 245 2
 EndChar
 
 StartChar: uni03B9030803060301
@@ -172720,7 +172720,7 @@ LayerCount: 2
 Fore
 Refer: 535 953 N 1 0 0 1 0 0 3
 Refer: 142 168 N 1 0 0 1 -75 -79 2
-Refer: 2413 -1 N 1 0 0 1 443 245 2
+Refer: 2412 -1 N 1 0 0 1 443 245 2
 EndChar
 
 StartChar: uni03C5030803040300
@@ -172862,7 +172862,7 @@ LayerCount: 2
 Fore
 Refer: 544 965 N 1 0 0 1 0 0 3
 Refer: 142 168 N 1 0 0 1 150 -79 2
-Refer: 2414 -1 N 1 0 0 1 669 245 2
+Refer: 2413 -1 N 1 0 0 1 669 245 2
 EndChar
 
 StartChar: uni03C5030803060301
@@ -172890,7 +172890,7 @@ LayerCount: 2
 Fore
 Refer: 544 965 N 1 0 0 1 0 0 3
 Refer: 142 168 N 1 0 0 1 150 -79 2
-Refer: 2413 -1 N 1 0 0 1 669 245 2
+Refer: 2412 -1 N 1 0 0 1 669 245 2
 EndChar
 
 StartChar: uni0242
@@ -182625,150 +182625,8 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: Ohm
-Encoding: 65794 -1 2407
-Width: 1573
-GlyphClass: 2
-Flags: W
-TtInstrs:
-NPUSHB
- 40
- 8
- 3
- 18
- 15
- 7
- 6
- 37
- 29
- 36
- 40
- 34
- 25
- 25
- 36
- 6
- 18
- 4
- 43
- 44
- 28
- 15
- 6
- 15
- 95
- 89
- 37
- 6
- 6
- 8
- 22
- 22
- 0
- 95
- 89
- 22
- 4
- 29
- 13
- 8
- 13
-PUSHW_1
- 272
-PUSHB_7
- 89
- 33
- 9
- 9
- 36
- 8
- 18
-SVTCA[y-axis]
-MIAP[rnd]
-SHP[rp1]
-SHP[rp1]
-SRP1
-SHP[rp1]
-CALL
-SRP1
-SVTCA[y-axis]
-SHP[rp1]
-RTG
-MIAP[rnd]
-CALL
-SRP1
-SRP2
-SVTCA[y-axis]
-IP
-RTG
-MDAP[rnd]
-SHP[rp1]
-CALL
-SRP1
-SVTCA[y-axis]
-SHP[rp1]
-SRP1
-SRP2
-SVTCA[x-axis]
-SLOOP
-IP
-SRP1
-SHP[rp1]
-SHP[rp1]
-SRP1
-SHP[rp1]
-SHP[rp1]
-SRP1
-SHP[rp1]
-SHP[rp1]
-SRP1
-SHP[rp1]
-SHP[rp1]
-IUP[x]
-IUP[y]
-EndTTInstrs
-LayerCount: 2
-Fore
-SplineSet
-877 1251 m 0,0,1
- 658 1251 658 1251 539.5 1116.5 c 128,-1,2
- 421 982 421 982 421 742 c 0,3,4
- 421 608 421 608 483 519 c 128,-1,5
- 545 430 545 430 658 404 c 1,6,-1
- 612 0 l 1,7,-1
- 33 0 l 1,8,-1
- 78 370 l 1,9,-1
- 144 370 l 1,10,-1
- 178 236 l 1,11,12
- 258 220 258 220 449 220 c 2,13,-1
- 516 220 l 1,14,-1
- 527 327 l 1,15,16
- 349 360 349 360 232.5 474 c 128,-1,17
- 116 588 116 588 116 743 c 0,18,19
- 116 930 116 930 210.5 1069.5 c 128,-1,20
- 305 1209 305 1209 481 1282.5 c 128,-1,21
- 657 1356 657 1356 889 1356 c 0,22,23
- 1183 1356 1183 1356 1345 1238 c 128,-1,24
- 1507 1120 1507 1120 1507 909 c 0,25,26
- 1507 675 1507 675 1357.5 519 c 128,-1,27
- 1208 363 1208 363 950 327 c 1,28,-1
- 919 220 l 1,29,-1
- 973 220 l 2,30,31
- 1175 220 1175 220 1260 236 c 1,32,-1
- 1340 370 l 1,33,-1
- 1426 370 l 1,34,-1
- 1343 0 l 1,35,-1
- 744 0 l 1,36,-1
- 844 404 l 1,37,38
- 1015 428 1015 428 1108.5 555.5 c 128,-1,39
- 1202 683 1202 683 1202 895 c 0,40,41
- 1202 1069 1202 1069 1120 1160 c 128,-1,42
- 1038 1251 1038 1251 877 1251 c 0,0,1
-EndSplineSet
-EndChar
-
 StartChar: UNI2206
-Encoding: 65795 -1 2408
+Encoding: 65795 -1 2407
 Width: 1284
 GlyphClass: 2
 Flags: W
@@ -182847,7 +182705,7 @@ EndSplineSet
 EndChar
 
 StartChar: circumflexacute
-Encoding: 65796 -1 2409
+Encoding: 65796 -1 2408
 Width: 0
 GlyphClass: 2
 Flags: W
@@ -182941,7 +182799,7 @@ EndSplineSet
 EndChar
 
 StartChar: circumflexgrave
-Encoding: 65797 -1 2410
+Encoding: 65797 -1 2409
 Width: 0
 GlyphClass: 2
 Flags: W
@@ -183037,7 +182895,7 @@ EndSplineSet
 EndChar
 
 StartChar: circumflexhook
-Encoding: 65798 -1 2411
+Encoding: 65798 -1 2410
 Width: 0
 GlyphClass: 2
 Flags: W
@@ -183153,7 +183011,7 @@ EndSplineSet
 EndChar
 
 StartChar: circumflextilde
-Encoding: 65799 -1 2412
+Encoding: 65799 -1 2411
 Width: 0
 GlyphClass: 2
 Flags: W
@@ -183295,7 +183153,7 @@ EndSplineSet
 EndChar
 
 StartChar: breveacute
-Encoding: 65800 -1 2413
+Encoding: 65800 -1 2412
 Width: 0
 GlyphClass: 2
 Flags: W
@@ -183408,7 +183266,7 @@ EndSplineSet
 EndChar
 
 StartChar: brevegrave
-Encoding: 65801 -1 2414
+Encoding: 65801 -1 2413
 Width: 0
 GlyphClass: 2
 Flags: W
@@ -183521,7 +183379,7 @@ EndSplineSet
 EndChar
 
 StartChar: brevehook
-Encoding: 65802 -1 2415
+Encoding: 65802 -1 2414
 Width: 0
 GlyphClass: 2
 Flags: W
@@ -183647,7 +183505,7 @@ EndSplineSet
 EndChar
 
 StartChar: brevetilde
-Encoding: 65803 -1 2416
+Encoding: 65803 -1 2415
 Width: 0
 GlyphClass: 2
 Flags: W
@@ -183789,7 +183647,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni2012
-Encoding: 8210 8210 2417
+Encoding: 8210 8210 2416
 Width: 1024
 GlyphClass: 2
 Flags: W
@@ -183799,7 +183657,7 @@ Refer: 176 8211 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni201F
-Encoding: 8223 8223 2418
+Encoding: 8223 8223 2417
 Width: 1024
 GlyphClass: 2
 Flags: W
@@ -183810,7 +183668,7 @@ Refer: 482 8219 N 1 0 0 1 409 0 2
 EndChar
 
 StartChar: uni2034
-Encoding: 8244 8244 2419
+Encoding: 8244 8244 2418
 Width: 1137
 GlyphClass: 2
 Flags: W
@@ -183879,7 +183737,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0591
-Encoding: 1425 1425 2420
+Encoding: 1425 1425 2419
 Width: 0
 GlyphClass: 4
 Flags: W
@@ -183945,7 +183803,7 @@ Position2: "Single Positioning lookup 23 subtable" dx=-500 dy=0 dh=0 dv=0
 EndChar
 
 StartChar: uni0592
-Encoding: 1426 1426 2421
+Encoding: 1426 1426 2420
 Width: 0
 GlyphClass: 4
 Flags: W
@@ -184018,7 +183876,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0593
-Encoding: 1427 1427 2422
+Encoding: 1427 1427 2421
 Width: 0
 GlyphClass: 4
 Flags: W
@@ -184056,7 +183914,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0594
-Encoding: 1428 1428 2423
+Encoding: 1428 1428 2422
 Width: 0
 GlyphClass: 4
 Flags: W
@@ -184118,7 +183976,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0595
-Encoding: 1429 1429 2424
+Encoding: 1429 1429 2423
 Width: 0
 GlyphClass: 4
 Flags: W
@@ -184191,7 +184049,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0596
-Encoding: 1430 1430 2425
+Encoding: 1430 1430 2424
 Width: 0
 GlyphClass: 4
 Flags: W
@@ -184230,7 +184088,7 @@ Position2: "Single Positioning lookup 23 subtable" dx=-400 dy=0 dh=0 dv=0
 EndChar
 
 StartChar: uni0597
-Encoding: 1431 1431 2426
+Encoding: 1431 1431 2425
 Width: 0
 GlyphClass: 4
 Flags: W
@@ -184266,7 +184124,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0598
-Encoding: 1432 1432 2427
+Encoding: 1432 1432 2426
 Width: 0
 GlyphClass: 4
 Flags: W
@@ -184344,7 +184202,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0599
-Encoding: 1433 1433 2428
+Encoding: 1433 1433 2427
 Width: 0
 GlyphClass: 4
 Flags: W
@@ -184409,7 +184267,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni059A
-Encoding: 1434 1434 2429
+Encoding: 1434 1434 2428
 Width: 0
 GlyphClass: 4
 Flags: W
@@ -184439,7 +184297,7 @@ Position2: "Single Positioning lookup 22 subtable" dx=380 dy=0 dh=0 dv=0
 EndChar
 
 StartChar: uni059B
-Encoding: 1435 1435 2430
+Encoding: 1435 1435 2429
 Width: 0
 GlyphClass: 4
 Flags: W
@@ -184491,7 +184349,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni059C
-Encoding: 1436 1436 2431
+Encoding: 1436 1436 2430
 Width: 0
 GlyphClass: 4
 Flags: W
@@ -184555,7 +184413,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni059D
-Encoding: 1437 1437 2432
+Encoding: 1437 1437 2431
 Width: 0
 GlyphClass: 4
 Flags: W
@@ -184618,7 +184476,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni059E
-Encoding: 1438 1438 2433
+Encoding: 1438 1438 2432
 Width: 0
 GlyphClass: 4
 Flags: W
@@ -184696,7 +184554,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni059F
-Encoding: 1439 1439 2434
+Encoding: 1439 1439 2433
 Width: 0
 GlyphClass: 4
 Flags: W
@@ -184814,7 +184672,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni05A0
-Encoding: 1440 1440 2435
+Encoding: 1440 1440 2434
 Width: 0
 GlyphClass: 4
 Flags: W
@@ -184896,7 +184754,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni05A1
-Encoding: 1441 1441 2436
+Encoding: 1441 1441 2435
 Width: 0
 GlyphClass: 4
 Flags: W
@@ -184944,7 +184802,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni05A2
-Encoding: 1442 1442 2437
+Encoding: 1442 1442 2436
 Width: 0
 GlyphClass: 4
 Flags: W
@@ -185010,7 +184868,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni05A3
-Encoding: 1443 1443 2438
+Encoding: 1443 1443 2437
 Width: 0
 GlyphClass: 4
 Flags: W
@@ -185048,7 +184906,7 @@ Position2: "Single Positioning lookup 23 subtable" dx=-420 dy=0 dh=0 dv=0
 EndChar
 
 StartChar: uni05A4
-Encoding: 1444 1444 2439
+Encoding: 1444 1444 2438
 Width: 0
 GlyphClass: 4
 Flags: W
@@ -185081,7 +184939,7 @@ Position2: "Single Positioning lookup 23 subtable" dx=-380 dy=0 dh=0 dv=0
 EndChar
 
 StartChar: uni05A5
-Encoding: 1445 1445 2440
+Encoding: 1445 1445 2439
 Width: 0
 GlyphClass: 4
 Flags: W
@@ -185118,7 +184976,7 @@ Position2: "Single Positioning lookup 23 subtable" dx=-380 dy=0 dh=0 dv=0
 EndChar
 
 StartChar: uni05A6
-Encoding: 1446 1446 2441
+Encoding: 1446 1446 2440
 Width: 0
 GlyphClass: 4
 Flags: W
@@ -185169,7 +185027,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni05A7
-Encoding: 1447 1447 2442
+Encoding: 1447 1447 2441
 Width: 0
 GlyphClass: 4
 Flags: W
@@ -185206,7 +185064,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni05A8
-Encoding: 1448 1448 2443
+Encoding: 1448 1448 2442
 Width: 0
 GlyphClass: 4
 Flags: W
@@ -185272,7 +185130,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni05A9
-Encoding: 1449 1449 2444
+Encoding: 1449 1449 2443
 Width: 0
 GlyphClass: 4
 Flags: W
@@ -185354,7 +185212,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni05AA
-Encoding: 1450 1450 2445
+Encoding: 1450 1450 2444
 Width: 0
 GlyphClass: 4
 Flags: W
@@ -185420,7 +185278,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni05AB
-Encoding: 1451 1451 2446
+Encoding: 1451 1451 2445
 Width: 0
 GlyphClass: 4
 Flags: W
@@ -185479,7 +185337,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni05AC
-Encoding: 1452 1452 2447
+Encoding: 1452 1452 2446
 Width: 0
 GlyphClass: 4
 Flags: W
@@ -185530,7 +185388,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni05AD
-Encoding: 1453 1453 2448
+Encoding: 1453 1453 2447
 Width: 0
 GlyphClass: 4
 Flags: W
@@ -185567,7 +185425,7 @@ Position2: "Single Positioning lookup 22 subtable" dx=380 dy=0 dh=0 dv=0
 EndChar
 
 StartChar: uni05AE
-Encoding: 1454 1454 2449
+Encoding: 1454 1454 2448
 Width: 0
 GlyphClass: 4
 Flags: W
@@ -185644,7 +185502,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni05AF
-Encoding: 1455 1455 2450
+Encoding: 1455 1455 2449
 Width: 0
 GlyphClass: 4
 Flags: W
@@ -185724,7 +185582,7 @@ EndSplineSet
 EndChar
 
 StartChar: sheva
-Encoding: 1456 1456 2451
+Encoding: 1456 1456 2450
 Width: 0
 GlyphClass: 4
 Flags: W
@@ -185781,7 +185639,7 @@ EndSplineSet
 EndChar
 
 StartChar: hatafsegol
-Encoding: 1457 1457 2452
+Encoding: 1457 1457 2451
 Width: 0
 GlyphClass: 4
 Flags: W
@@ -185871,7 +185729,7 @@ EndSplineSet
 EndChar
 
 StartChar: hatafpatah
-Encoding: 1458 1458 2453
+Encoding: 1458 1458 2452
 Width: 0
 GlyphClass: 4
 Flags: W
@@ -185928,7 +185786,7 @@ EndSplineSet
 EndChar
 
 StartChar: hatafqamats
-Encoding: 1459 1459 2454
+Encoding: 1459 1459 2453
 Width: 0
 GlyphClass: 4
 Flags: W
@@ -185994,7 +185852,7 @@ EndSplineSet
 EndChar
 
 StartChar: hiriq
-Encoding: 1460 1460 2455
+Encoding: 1460 1460 2454
 Width: 0
 GlyphClass: 4
 Flags: W
@@ -186027,7 +185885,7 @@ EndSplineSet
 EndChar
 
 StartChar: tsere
-Encoding: 1461 1461 2456
+Encoding: 1461 1461 2455
 Width: 0
 GlyphClass: 4
 Flags: W
@@ -186075,7 +185933,7 @@ EndSplineSet
 EndChar
 
 StartChar: segol
-Encoding: 1462 1462 2457
+Encoding: 1462 1462 2456
 Width: 0
 GlyphClass: 4
 Flags: W
@@ -186136,7 +185994,7 @@ EndSplineSet
 EndChar
 
 StartChar: patah
-Encoding: 1463 1463 2458
+Encoding: 1463 1463 2457
 Width: 0
 GlyphClass: 4
 Flags: W
@@ -186165,7 +186023,7 @@ EndSplineSet
 EndChar
 
 StartChar: qamats
-Encoding: 1464 1464 2459
+Encoding: 1464 1464 2458
 Width: 0
 GlyphClass: 4
 Flags: W
@@ -186198,7 +186056,7 @@ EndSplineSet
 EndChar
 
 StartChar: holam
-Encoding: 1465 1465 2460
+Encoding: 1465 1465 2459
 Width: 0
 GlyphClass: 4
 Flags: W
@@ -186243,7 +186101,7 @@ Position2: "Single Positioning lookup 17 subtable" dx=25 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: uni05BA
-Encoding: 1466 1466 2461
+Encoding: 1466 1466 2460
 Width: 0
 GlyphClass: 4
 Flags: W
@@ -186284,7 +186142,7 @@ EndSplineSet
 EndChar
 
 StartChar: qubuts
-Encoding: 1467 1467 2462
+Encoding: 1467 1467 2461
 Width: 0
 GlyphClass: 4
 Flags: W
@@ -186358,7 +186216,7 @@ EndSplineSet
 EndChar
 
 StartChar: dagesh
-Encoding: 1468 1468 2463
+Encoding: 1468 1468 2462
 Width: 0
 GlyphClass: 4
 Flags: W
@@ -186393,7 +186251,7 @@ EndSplineSet
 EndChar
 
 StartChar: meteg
-Encoding: 1469 1469 2464
+Encoding: 1469 1469 2463
 Width: 0
 GlyphClass: 4
 Flags: W
@@ -186423,7 +186281,7 @@ Position2: "Single Positioning lookup 23 subtable" dx=-300 dy=0 dh=0 dv=0
 EndChar
 
 StartChar: maqaf
-Encoding: 1470 1470 2465
+Encoding: 1470 1470 2464
 Width: 784
 GlyphClass: 2
 Flags: W
@@ -186449,7 +186307,7 @@ EndSplineSet
 EndChar
 
 StartChar: rafe
-Encoding: 1471 1471 2466
+Encoding: 1471 1471 2465
 Width: 0
 GlyphClass: 4
 Flags: W
@@ -186500,7 +186358,7 @@ EndSplineSet
 EndChar
 
 StartChar: paseq
-Encoding: 1472 1472 2467
+Encoding: 1472 1472 2466
 Width: 1153
 GlyphClass: 2
 Flags: W
@@ -186526,7 +186384,7 @@ EndSplineSet
 EndChar
 
 StartChar: shindot
-Encoding: 1473 1473 2468
+Encoding: 1473 1473 2467
 Width: 0
 GlyphClass: 4
 Flags: W
@@ -186572,7 +186430,7 @@ EndSplineSet
 EndChar
 
 StartChar: sindot
-Encoding: 1474 1474 2469
+Encoding: 1474 1474 2468
 Width: 0
 GlyphClass: 4
 Flags: W
@@ -186602,7 +186460,7 @@ EndSplineSet
 EndChar
 
 StartChar: sofpasuq
-Encoding: 1475 1475 2470
+Encoding: 1475 1475 2469
 Width: 569
 GlyphClass: 4
 Flags: W
@@ -186647,7 +186505,7 @@ EndSplineSet
 EndChar
 
 StartChar: upper_dot
-Encoding: 1476 1476 2471
+Encoding: 1476 1476 2470
 Width: 0
 GlyphClass: 4
 Flags: W
@@ -186678,7 +186536,7 @@ EndSplineSet
 EndChar
 
 StartChar: lowerdot
-Encoding: 1477 1477 2472
+Encoding: 1477 1477 2471
 Width: 0
 GlyphClass: 4
 Flags: W
@@ -186709,7 +186567,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni05C6
-Encoding: 1478 1478 2473
+Encoding: 1478 1478 2472
 Width: 666
 GlyphClass: 2
 Flags: W
@@ -186781,7 +186639,7 @@ EndSplineSet
 EndChar
 
 StartChar: qamatsqatan
-Encoding: 1479 1479 2474
+Encoding: 1479 1479 2473
 Width: 0
 GlyphClass: 4
 Flags: W
@@ -186820,7 +186678,7 @@ EndSplineSet
 EndChar
 
 StartChar: alef
-Encoding: 1488 1488 2475
+Encoding: 1488 1488 2474
 Width: 1315
 GlyphClass: 2
 Flags: W
@@ -186937,7 +186795,7 @@ EndSplineSet
 EndChar
 
 StartChar: bet
-Encoding: 1489 1489 2476
+Encoding: 1489 1489 2475
 Width: 987
 GlyphClass: 2
 Flags: W
@@ -187017,7 +186875,7 @@ EndSplineSet
 EndChar
 
 StartChar: gimel
-Encoding: 1490 1490 2477
+Encoding: 1490 1490 2476
 Width: 676
 GlyphClass: 2
 Flags: W
@@ -187109,7 +186967,7 @@ EndSplineSet
 EndChar
 
 StartChar: dalet
-Encoding: 1491 1491 2478
+Encoding: 1491 1491 2477
 Width: 1061
 GlyphClass: 2
 Flags: W
@@ -187187,7 +187045,7 @@ EndSplineSet
 EndChar
 
 StartChar: he
-Encoding: 1492 1492 2479
+Encoding: 1492 1492 2478
 Width: 1178
 GlyphClass: 2
 Flags: W
@@ -187291,7 +187149,7 @@ EndSplineSet
 EndChar
 
 StartChar: vav
-Encoding: 1493 1493 2480
+Encoding: 1493 1493 2479
 Width: 524
 GlyphClass: 2
 Flags: W
@@ -187356,7 +187214,7 @@ EndSplineSet
 EndChar
 
 StartChar: zayin
-Encoding: 1494 1494 2481
+Encoding: 1494 1494 2480
 Width: 571
 GlyphClass: 2
 Flags: W
@@ -187434,7 +187292,7 @@ EndSplineSet
 EndChar
 
 StartChar: het
-Encoding: 1495 1495 2482
+Encoding: 1495 1495 2481
 Width: 1212
 GlyphClass: 2
 Flags: W
@@ -187532,7 +187390,7 @@ EndSplineSet
 EndChar
 
 StartChar: tet
-Encoding: 1496 1496 2483
+Encoding: 1496 1496 2482
 Width: 1237
 GlyphClass: 2
 Flags: W
@@ -187665,7 +187523,7 @@ EndSplineSet
 EndChar
 
 StartChar: yod
-Encoding: 1497 1497 2484
+Encoding: 1497 1497 2483
 Width: 537
 GlyphClass: 2
 Flags: W
@@ -187737,7 +187595,7 @@ EndSplineSet
 EndChar
 
 StartChar: finalkaf
-Encoding: 1498 1498 2485
+Encoding: 1498 1498 2484
 Width: 1006
 GlyphClass: 2
 Flags: W
@@ -187802,7 +187660,7 @@ EndSplineSet
 EndChar
 
 StartChar: kaf
-Encoding: 1499 1499 2486
+Encoding: 1499 1499 2485
 Width: 1001
 GlyphClass: 2
 Flags: W
@@ -187872,7 +187730,7 @@ EndSplineSet
 EndChar
 
 StartChar: lamed
-Encoding: 1500 1500 2487
+Encoding: 1500 1500 2486
 Width: 958
 GlyphClass: 2
 Flags: W
@@ -187966,7 +187824,7 @@ EndSplineSet
 EndChar
 
 StartChar: finalmem
-Encoding: 1501 1501 2488
+Encoding: 1501 1501 2487
 Width: 1278
 GlyphClass: 2
 Flags: W
@@ -188052,7 +187910,7 @@ EndSplineSet
 EndChar
 
 StartChar: mem
-Encoding: 1502 1502 2489
+Encoding: 1502 1502 2488
 Width: 1214
 GlyphClass: 2
 Flags: W
@@ -188163,7 +188021,7 @@ EndSplineSet
 EndChar
 
 StartChar: finalnun
-Encoding: 1503 1503 2490
+Encoding: 1503 1503 2489
 Width: 522
 GlyphClass: 2
 Flags: W
@@ -188268,7 +188126,7 @@ EndSplineSet
 EndChar
 
 StartChar: nun
-Encoding: 1504 1504 2491
+Encoding: 1504 1504 2490
 Width: 666
 GlyphClass: 2
 Flags: W
@@ -188352,7 +188210,7 @@ EndSplineSet
 EndChar
 
 StartChar: samekh
-Encoding: 1505 1505 2492
+Encoding: 1505 1505 2491
 Width: 1165
 GlyphClass: 2
 Flags: W
@@ -188436,7 +188294,7 @@ EndSplineSet
 EndChar
 
 StartChar: ayin
-Encoding: 1506 1506 2493
+Encoding: 1506 1506 2492
 Width: 1159
 GlyphClass: 2
 Flags: W
@@ -188564,7 +188422,7 @@ EndSplineSet
 EndChar
 
 StartChar: finalpe
-Encoding: 1507 1507 2494
+Encoding: 1507 1507 2493
 Width: 1061
 GlyphClass: 2
 Flags: W
@@ -188671,7 +188529,7 @@ EndSplineSet
 EndChar
 
 StartChar: pe
-Encoding: 1508 1508 2495
+Encoding: 1508 1508 2494
 Width: 1114
 GlyphClass: 2
 Flags: W
@@ -188785,7 +188643,7 @@ EndSplineSet
 EndChar
 
 StartChar: finaltsadi
-Encoding: 1509 1509 2496
+Encoding: 1509 1509 2495
 Width: 1067
 GlyphClass: 2
 Flags: W
@@ -188894,7 +188752,7 @@ EndSplineSet
 EndChar
 
 StartChar: tsadi
-Encoding: 1510 1510 2497
+Encoding: 1510 1510 2496
 Width: 1073
 GlyphClass: 2
 Flags: W
@@ -189025,7 +188883,7 @@ EndSplineSet
 EndChar
 
 StartChar: qof
-Encoding: 1511 1511 2498
+Encoding: 1511 1511 2497
 Width: 1096
 GlyphClass: 2
 Flags: W
@@ -189124,7 +188982,7 @@ EndSplineSet
 EndChar
 
 StartChar: resh
-Encoding: 1512 1512 2499
+Encoding: 1512 1512 2498
 Width: 1006
 GlyphClass: 2
 Flags: W
@@ -189190,7 +189048,7 @@ EndSplineSet
 EndChar
 
 StartChar: shin
-Encoding: 1513 1513 2500
+Encoding: 1513 1513 2499
 Width: 1450
 GlyphClass: 2
 Flags: W
@@ -189319,7 +189177,7 @@ EndSplineSet
 EndChar
 
 StartChar: tav
-Encoding: 1514 1514 2501
+Encoding: 1514 1514 2500
 Width: 1249
 GlyphClass: 2
 Flags: W
@@ -189423,7 +189281,7 @@ EndSplineSet
 EndChar
 
 StartChar: vavvav
-Encoding: 1520 1520 2502
+Encoding: 1520 1520 2501
 Width: 1004
 GlyphClass: 2
 Flags: W
@@ -189442,12 +189300,12 @@ AnchorPoint: "Anchor-2" 0 560 basechar 0
 AnchorPoint: "Anchor-0" 30 1330 basechar 0
 LayerCount: 2
 Fore
-Refer: 2480 1493 N 1 0 0 1 0 0 2
-Refer: 2480 1493 N 1 0 0 1 479 0 2
+Refer: 2479 1493 N 1 0 0 1 0 0 2
+Refer: 2479 1493 N 1 0 0 1 479 0 2
 EndChar
 
 StartChar: vavyod
-Encoding: 1521 1521 2503
+Encoding: 1521 1521 2502
 Width: 1016
 GlyphClass: 2
 Flags: W
@@ -189466,12 +189324,12 @@ AnchorPoint: "Anchor-2" -50 740 basechar 0
 AnchorPoint: "Anchor-0" 60 1330 basechar 0
 LayerCount: 2
 Fore
-Refer: 2484 1497 N 1 0 0 1 0 0 2
-Refer: 2480 1493 N 1 0 0 1 492 0 2
+Refer: 2483 1497 N 1 0 0 1 0 0 2
+Refer: 2479 1493 N 1 0 0 1 492 0 2
 EndChar
 
 StartChar: yodyod
-Encoding: 1522 1522 2504
+Encoding: 1522 1522 2503
 Width: 1049
 GlyphClass: 2
 Flags: W
@@ -189490,12 +189348,12 @@ AnchorPoint: "Anchor-2" -50 740 basechar 0
 AnchorPoint: "Anchor-0" 60 1330 basechar 0
 LayerCount: 2
 Fore
-Refer: 2484 1497 N 1 0 0 1 0 0 2
-Refer: 2484 1497 N 1 0 0 1 512 0 2
+Refer: 2483 1497 N 1 0 0 1 0 0 2
+Refer: 2483 1497 N 1 0 0 1 512 0 2
 EndChar
 
 StartChar: geresh
-Encoding: 1523 1523 2505
+Encoding: 1523 1523 2504
 Width: 473
 GlyphClass: 2
 Flags: W
@@ -189536,7 +189394,7 @@ EndSplineSet
 EndChar
 
 StartChar: gershayim
-Encoding: 1524 1524 2506
+Encoding: 1524 1524 2505
 Width: 778
 GlyphClass: 2
 Flags: W
@@ -189599,7 +189457,7 @@ EndSplineSet
 EndChar
 
 StartChar: sheqel
-Encoding: 8362 8362 2507
+Encoding: 8362 8362 2506
 Width: 1245
 GlyphClass: 2
 Flags: W
@@ -189710,7 +189568,7 @@ EndSplineSet
 EndChar
 
 StartChar: uniFB1D
-Encoding: 64285 64285 2508
+Encoding: 64285 64285 2507
 Width: 537
 GlyphClass: 2
 Flags: W
@@ -189745,13 +189603,13 @@ SHC[rp1]
 EndTTInstrs
 LayerCount: 2
 Fore
-Refer: 2484 1497 N 1 0 0 1 0 0 3
-Refer: 2463 1468 N 1 0 0 1 199 -372 2
+Refer: 2483 1497 N 1 0 0 1 0 0 3
+Refer: 2462 1468 N 1 0 0 1 199 -372 2
 Ligature2: "'ccmp' Glyph Composition/Decomposition in Hebrew lookup 1 subtable" yod hiriq
 EndChar
 
 StartChar: uniFB1E
-Encoding: 64286 64286 2509
+Encoding: 64286 64286 2508
 Width: 0
 GlyphClass: 4
 Flags: W
@@ -189797,7 +189655,7 @@ EndSplineSet
 EndChar
 
 StartChar: yodyod_patah
-Encoding: 64287 64287 2510
+Encoding: 64287 64287 2509
 Width: 1049
 GlyphClass: 2
 Flags: W
@@ -189815,24 +189673,24 @@ AnchorPoint: "Anchor-3" 460 1330 basechar 0
 AnchorPoint: "Anchor-0" 60 1330 basechar 0
 LayerCount: 2
 Fore
-Refer: 2458 1463 N 1 0 0 1 594 514 2
-Refer: 2484 1497 N 1 0 0 1 0 0 2
-Refer: 2484 1497 N 1 0 0 1 512 0 2
+Refer: 2457 1463 N 1 0 0 1 594 514 2
+Refer: 2483 1497 N 1 0 0 1 0 0 2
+Refer: 2483 1497 N 1 0 0 1 512 0 2
 Ligature2: "Ligature Substitution lookup 4 subtable" yodyod patah
 EndChar
 
 StartChar: alternativeayin
-Encoding: 64288 64288 2511
+Encoding: 64288 64288 2510
 Width: 1159
 GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
-Refer: 2493 1506 N 1 0 0 1 0 0 3
+Refer: 2492 1506 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: alefwide
-Encoding: 64289 64289 2512
+Encoding: 64289 64289 2511
 Width: 1315
 GlyphClass: 2
 Flags: W
@@ -189851,11 +189709,11 @@ AnchorPoint: "Anchor-2" 540 260 basechar 0
 AnchorPoint: "Anchor-0" 100 1330 basechar 0
 LayerCount: 2
 Fore
-Refer: 2475 1488 N 1 0 0 1 0 0 3
+Refer: 2474 1488 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: daletwide
-Encoding: 64290 64290 2513
+Encoding: 64290 64290 2512
 Width: 1061
 GlyphClass: 2
 Flags: W
@@ -189874,11 +189732,11 @@ AnchorPoint: "Anchor-2" 380 560 basechar 0
 AnchorPoint: "Anchor-0" 30 1330 basechar 0
 LayerCount: 2
 Fore
-Refer: 2478 1491 N 1 0 0 1 0 0 3
+Refer: 2477 1491 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: hewide
-Encoding: 64291 64291 2514
+Encoding: 64291 64291 2513
 Width: 1178
 GlyphClass: 2
 Flags: W
@@ -189897,11 +189755,11 @@ AnchorPoint: "Anchor-2" 560 560 basechar 0
 AnchorPoint: "Anchor-0" 100 1330 basechar 0
 LayerCount: 2
 Fore
-Refer: 2479 1492 N 1 0 0 1 0 0 3
+Refer: 2478 1492 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: kafwide
-Encoding: 64292 64292 2515
+Encoding: 64292 64292 2514
 Width: 1001
 GlyphClass: 2
 Flags: W
@@ -189920,11 +189778,11 @@ AnchorPoint: "Anchor-2" 420 560 basechar 0
 AnchorPoint: "Anchor-0" 60 1330 basechar 0
 LayerCount: 2
 Fore
-Refer: 2486 1499 N 1 0 0 1 0 0 3
+Refer: 2485 1499 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: lamedwide
-Encoding: 64293 64293 2516
+Encoding: 64293 64293 2515
 Width: 958
 GlyphClass: 2
 Flags: W
@@ -189943,11 +189801,11 @@ AnchorPoint: "Anchor-2" 430 620 basechar 0
 AnchorPoint: "Anchor-0" -200 1330 basechar 0
 LayerCount: 2
 Fore
-Refer: 2487 1500 N 1 0 0 1 0 0 3
+Refer: 2486 1500 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: finalmemwide
-Encoding: 64294 64294 2517
+Encoding: 64294 64294 2516
 Width: 1278
 GlyphClass: 2
 Flags: W
@@ -189965,11 +189823,11 @@ AnchorPoint: "Anchor-3" 640 1330 basechar 0
 AnchorPoint: "Anchor-0" 160 1330 basechar 0
 LayerCount: 2
 Fore
-Refer: 2488 1501 N 1 0 0 1 0 0 3
+Refer: 2487 1501 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: reshwide
-Encoding: 64295 64295 2518
+Encoding: 64295 64295 2517
 Width: 1006
 GlyphClass: 2
 Flags: W
@@ -189988,11 +189846,11 @@ AnchorPoint: "Anchor-2" 430 560 basechar 0
 AnchorPoint: "Anchor-0" 20 1330 basechar 0
 LayerCount: 2
 Fore
-Refer: 2499 1512 N 1 0 0 1 0 0 3
+Refer: 2498 1512 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: tavwide
-Encoding: 64296 64296 2519
+Encoding: 64296 64296 2518
 Width: 1249
 GlyphClass: 2
 Flags: W
@@ -190011,11 +189869,11 @@ AnchorPoint: "Anchor-2" 620 560 basechar 0
 AnchorPoint: "Anchor-0" 130 1330 basechar 0
 LayerCount: 2
 Fore
-Refer: 2501 1514 N 1 0 0 1 0 0 3
+Refer: 2500 1514 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: alt_plussign
-Encoding: 64297 64297 2520
+Encoding: 64297 64297 2519
 Width: 1151
 GlyphClass: 2
 Flags: W
@@ -190059,7 +189917,7 @@ EndSplineSet
 EndChar
 
 StartChar: shinshindot
-Encoding: 64298 64298 2521
+Encoding: 64298 64298 2520
 Width: 1450
 GlyphClass: 2
 Flags: W
@@ -190078,13 +189936,13 @@ AnchorPoint: "Anchor-2" 760 500 basechar 0
 AnchorPoint: "Anchor-0" 60 1330 basechar 0
 LayerCount: 2
 Fore
-Refer: 2500 1513 N 1 0 0 1 0 0 3
-Refer: 2468 1473 N 1 0 0 1 1300 0 2
+Refer: 2499 1513 N 1 0 0 1 0 0 3
+Refer: 2467 1473 N 1 0 0 1 1300 0 2
 Ligature2: "'ccmp' Glyph Composition/Decomposition in Hebrew lookup 1 subtable" shin shindot
 EndChar
 
 StartChar: shinsindot
-Encoding: 64299 64299 2522
+Encoding: 64299 64299 2521
 Width: 1450
 GlyphClass: 2
 Flags: W
@@ -190103,13 +189961,13 @@ AnchorPoint: "Anchor-2" 760 500 basechar 0
 AnchorPoint: "Anchor-0" -30 1330 basechar 0
 LayerCount: 2
 Fore
-Refer: 2500 1513 N 1 0 0 1 0 0 3
-Refer: 2468 1473 N 1 0 0 1 205 0 2
+Refer: 2499 1513 N 1 0 0 1 0 0 3
+Refer: 2467 1473 N 1 0 0 1 205 0 2
 Ligature2: "'ccmp' Glyph Composition/Decomposition in Hebrew lookup 1 subtable" shin sindot
 EndChar
 
 StartChar: shindageshshindot
-Encoding: 64300 64300 2523
+Encoding: 64300 64300 2522
 Width: 1450
 GlyphClass: 2
 Flags: W
@@ -190127,15 +189985,15 @@ AnchorPoint: "Anchor-3" 760 1330 basechar 0
 AnchorPoint: "Anchor-0" 60 1330 basechar 0
 LayerCount: 2
 Fore
-Refer: 2500 1513 N 1 0 0 1 0 0 3
-Refer: 2463 1468 N 1 0 0 1 831 -101 2
-Refer: 2468 1473 N 1 0 0 1 1300 0 2
+Refer: 2499 1513 N 1 0 0 1 0 0 3
+Refer: 2462 1468 N 1 0 0 1 831 -101 2
+Refer: 2467 1473 N 1 0 0 1 1300 0 2
 Ligature2: "'ccmp' Glyph Composition/Decomposition in Hebrew lookup 1 subtable" shin dagesh shindot
 Ligature2: "'ccmp' Glyph Composition/Decomposition in Hebrew lookup 1 subtable" shin shindot dagesh
 EndChar
 
 StartChar: shindageshsindot
-Encoding: 64301 64301 2524
+Encoding: 64301 64301 2523
 Width: 1450
 GlyphClass: 2
 Flags: W
@@ -190153,15 +190011,15 @@ AnchorPoint: "Anchor-3" 760 1330 basechar 0
 AnchorPoint: "Anchor-0" -30 1330 basechar 0
 LayerCount: 2
 Fore
-Refer: 2500 1513 N 1 0 0 1 0 0 3
-Refer: 2468 1473 N 1 0 0 1 225 0 2
-Refer: 2463 1468 N 1 0 0 1 831 -101 2
+Refer: 2499 1513 N 1 0 0 1 0 0 3
+Refer: 2467 1473 N 1 0 0 1 225 0 2
+Refer: 2462 1468 N 1 0 0 1 831 -101 2
 Ligature2: "'ccmp' Glyph Composition/Decomposition in Hebrew lookup 1 subtable" shin dagesh sindot
 Ligature2: "'ccmp' Glyph Composition/Decomposition in Hebrew lookup 1 subtable" shin sindot dagesh
 EndChar
 
 StartChar: alefpatah
-Encoding: 64302 64302 2525
+Encoding: 64302 64302 2524
 Width: 1315
 GlyphClass: 2
 Flags: W
@@ -190179,13 +190037,13 @@ AnchorPoint: "Anchor-3" 660 1330 basechar 0
 AnchorPoint: "Anchor-0" 100 1330 basechar 0
 LayerCount: 2
 Fore
-Refer: 2475 1488 N 1 0 0 1 0 0 3
-Refer: 2458 1463 N 1 0 0 1 696 0 2
+Refer: 2474 1488 N 1 0 0 1 0 0 3
+Refer: 2457 1463 N 1 0 0 1 696 0 2
 Ligature2: "Ligature Substitution lookup 4 subtable" alef patah
 EndChar
 
 StartChar: alefqamats
-Encoding: 64303 64303 2526
+Encoding: 64303 64303 2525
 Width: 1315
 GlyphClass: 2
 Flags: W
@@ -190203,13 +190061,13 @@ AnchorPoint: "Anchor-3" 660 1330 basechar 0
 AnchorPoint: "Anchor-0" 100 1330 basechar 0
 LayerCount: 2
 Fore
-Refer: 2475 1488 N 1 0 0 1 0 0 3
-Refer: 2459 1464 N 1 0 0 1 696 0 2
+Refer: 2474 1488 N 1 0 0 1 0 0 3
+Refer: 2458 1464 N 1 0 0 1 696 0 2
 Ligature2: "Ligature Substitution lookup 4 subtable" alef qamats
 EndChar
 
 StartChar: alefmapiq
-Encoding: 64304 64304 2527
+Encoding: 64304 64304 2526
 Width: 1315
 GlyphClass: 2
 Flags: W
@@ -190227,12 +190085,12 @@ AnchorPoint: "Anchor-3" 660 1330 basechar 0
 AnchorPoint: "Anchor-0" 100 1330 basechar 0
 LayerCount: 2
 Fore
-Refer: 2475 1488 N 1 0 0 1 0 0 3
-Refer: 2463 1468 N 1 0 0 1 596 -548 2
+Refer: 2474 1488 N 1 0 0 1 0 0 3
+Refer: 2462 1468 N 1 0 0 1 596 -548 2
 EndChar
 
 StartChar: betdagesh
-Encoding: 64305 64305 2528
+Encoding: 64305 64305 2527
 Width: 987
 GlyphClass: 2
 Flags: W
@@ -190250,13 +190108,13 @@ AnchorPoint: "Anchor-3" 440 1330 basechar 0
 AnchorPoint: "Anchor-0" 60 1330 basechar 0
 LayerCount: 2
 Fore
-Refer: 2476 1489 N 1 0 0 1 0 0 3
-Refer: 2463 1468 N 1 0 0 1 440 -101 2
+Refer: 2475 1489 N 1 0 0 1 0 0 3
+Refer: 2462 1468 N 1 0 0 1 440 -101 2
 Ligature2: "'ccmp' Glyph Composition/Decomposition in Hebrew lookup 1 subtable" bet dagesh
 EndChar
 
 StartChar: gimeldagesh
-Encoding: 64306 64306 2529
+Encoding: 64306 64306 2528
 Width: 676
 GlyphClass: 2
 Flags: W
@@ -190274,13 +190132,13 @@ AnchorPoint: "Anchor-3" 340 1330 basechar 0
 AnchorPoint: "Anchor-0" 130 1330 basechar 0
 LayerCount: 2
 Fore
-Refer: 2477 1490 N 1 0 0 1 0 0 3
-Refer: 2463 1468 N 1 0 0 1 176 -101 2
+Refer: 2476 1490 N 1 0 0 1 0 0 3
+Refer: 2462 1468 N 1 0 0 1 176 -101 2
 Ligature2: "'ccmp' Glyph Composition/Decomposition in Hebrew lookup 1 subtable" gimel dagesh
 EndChar
 
 StartChar: daletdagesh
-Encoding: 64307 64307 2530
+Encoding: 64307 64307 2529
 Width: 1061
 GlyphClass: 2
 Flags: W
@@ -190298,13 +190156,13 @@ AnchorPoint: "Anchor-3" 460 1330 basechar 0
 AnchorPoint: "Anchor-0" 30 1330 basechar 0
 LayerCount: 2
 Fore
-Refer: 2478 1491 N 1 0 0 1 0 0 3
-Refer: 2463 1468 N 1 0 0 1 377 -167 2
+Refer: 2477 1491 N 1 0 0 1 0 0 3
+Refer: 2462 1468 N 1 0 0 1 377 -167 2
 Ligature2: "'ccmp' Glyph Composition/Decomposition in Hebrew lookup 1 subtable" dalet dagesh
 EndChar
 
 StartChar: hedagesh
-Encoding: 64308 64308 2531
+Encoding: 64308 64308 2530
 Width: 1178
 GlyphClass: 2
 Flags: W
@@ -190322,13 +190180,13 @@ AnchorPoint: "Anchor-3" 560 1330 basechar 0
 AnchorPoint: "Anchor-0" 100 1330 basechar 0
 LayerCount: 2
 Fore
-Refer: 2479 1492 N 1 0 0 1 0 0 3
-Refer: 2463 1468 N 1 0 0 1 565 -167 2
+Refer: 2478 1492 N 1 0 0 1 0 0 3
+Refer: 2462 1468 N 1 0 0 1 565 -167 2
 Ligature2: "'ccmp' Glyph Composition/Decomposition in Hebrew lookup 1 subtable" he dagesh
 EndChar
 
 StartChar: vavdagesh
-Encoding: 64309 64309 2532
+Encoding: 64309 64309 2531
 Width: 524
 GlyphClass: 2
 Flags: W
@@ -190346,13 +190204,13 @@ AnchorPoint: "Anchor-3" 220 1330 basechar 0
 AnchorPoint: "Anchor-0" 30 1330 basechar 0
 LayerCount: 2
 Fore
-Refer: 2480 1493 N 1 0 0 1 0 0 3
-Refer: 2463 1468 N 1 0 0 1 33 -167 2
+Refer: 2479 1493 N 1 0 0 1 0 0 3
+Refer: 2462 1468 N 1 0 0 1 33 -167 2
 Ligature2: "'ccmp' Glyph Composition/Decomposition in Hebrew lookup 1 subtable" vav dagesh
 EndChar
 
 StartChar: zayindagesh
-Encoding: 64310 64310 2533
+Encoding: 64310 64310 2532
 Width: 571
 GlyphClass: 2
 Flags: W
@@ -190370,13 +190228,13 @@ AnchorPoint: "Anchor-3" 320 1330 basechar 0
 AnchorPoint: "Anchor-0" 120 1330 basechar 0
 LayerCount: 2
 Fore
-Refer: 2481 1494 N 1 0 0 1 0 0 3
-Refer: 2463 1468 N 1 0 0 1 2 -167 2
+Refer: 2480 1494 N 1 0 0 1 0 0 3
+Refer: 2462 1468 N 1 0 0 1 2 -167 2
 Ligature2: "'ccmp' Glyph Composition/Decomposition in Hebrew lookup 1 subtable" zayin dagesh
 EndChar
 
 StartChar: tetdagesh
-Encoding: 64312 64312 2534
+Encoding: 64312 64312 2533
 Width: 1237
 GlyphClass: 2
 Flags: W
@@ -190419,13 +190277,13 @@ AnchorPoint: "Anchor-3" 600 1330 basechar 0
 AnchorPoint: "Anchor-0" 80 1330 basechar 0
 LayerCount: 2
 Fore
-Refer: 2483 1496 N 1 0 0 1 0 0 3
-Refer: 2463 1468 N 1 0 0 1 606 -261 2
+Refer: 2482 1496 N 1 0 0 1 0 0 3
+Refer: 2462 1468 N 1 0 0 1 606 -261 2
 Ligature2: "'ccmp' Glyph Composition/Decomposition in Hebrew lookup 1 subtable" tet dagesh
 EndChar
 
 StartChar: yoddagesh
-Encoding: 64313 64313 2535
+Encoding: 64313 64313 2534
 Width: 537
 GlyphClass: 2
 Flags: W
@@ -190443,13 +190301,13 @@ AnchorPoint: "Anchor-3" 240 1330 basechar 0
 AnchorPoint: "Anchor-0" 60 1330 basechar 0
 LayerCount: 2
 Fore
-Refer: 2484 1497 N 1 0 0 1 0 0 3
-Refer: 2463 1468 N 1 0 0 1 35 0 2
+Refer: 2483 1497 N 1 0 0 1 0 0 3
+Refer: 2462 1468 N 1 0 0 1 35 0 2
 Ligature2: "'ccmp' Glyph Composition/Decomposition in Hebrew lookup 1 subtable" yod dagesh
 EndChar
 
 StartChar: finalkafdagesh
-Encoding: 64314 64314 2536
+Encoding: 64314 64314 2535
 Width: 1006
 GlyphClass: 2
 Flags: W
@@ -190467,13 +190325,13 @@ AnchorPoint: "Anchor-3" 460 1330 basechar 0
 AnchorPoint: "Anchor-0" 30 1330 basechar 0
 LayerCount: 2
 Fore
-Refer: 2485 1498 N 1 0 0 1 0 0 3
-Refer: 2463 1468 N 1 0 0 1 395 -167 2
+Refer: 2484 1498 N 1 0 0 1 0 0 3
+Refer: 2462 1468 N 1 0 0 1 395 -167 2
 Ligature2: "'ccmp' Glyph Composition/Decomposition in Hebrew lookup 1 subtable" finalkaf dagesh
 EndChar
 
 StartChar: kafdagesh
-Encoding: 64315 64315 2537
+Encoding: 64315 64315 2536
 Width: 1001
 GlyphClass: 2
 Flags: W
@@ -190491,13 +190349,13 @@ AnchorPoint: "Anchor-3" 460 1330 basechar 0
 AnchorPoint: "Anchor-0" 60 1330 basechar 0
 LayerCount: 2
 Fore
-Refer: 2486 1499 N 1 0 0 1 0 0 3
-Refer: 2463 1468 N 1 0 0 1 432 -101 2
+Refer: 2485 1499 N 1 0 0 1 0 0 3
+Refer: 2462 1468 N 1 0 0 1 432 -101 2
 Ligature2: "'ccmp' Glyph Composition/Decomposition in Hebrew lookup 1 subtable" kaf dagesh
 EndChar
 
 StartChar: lameddagesh
-Encoding: 64316 64316 2538
+Encoding: 64316 64316 2537
 Width: 958
 GlyphClass: 2
 Flags: W
@@ -190515,13 +190373,13 @@ AnchorPoint: "Anchor-3" 520 1330 basechar 0
 AnchorPoint: "Anchor-0" -200 1330 basechar 0
 LayerCount: 2
 Fore
-Refer: 2487 1500 N 1 0 0 1 0 0 3
-Refer: 2463 1468 N 1 0 0 1 410 -60 2
+Refer: 2486 1500 N 1 0 0 1 0 0 3
+Refer: 2462 1468 N 1 0 0 1 410 -60 2
 Ligature2: "'ccmp' Glyph Composition/Decomposition in Hebrew lookup 1 subtable" lamed dagesh
 EndChar
 
 StartChar: memdagesh
-Encoding: 64318 64318 2539
+Encoding: 64318 64318 2538
 Width: 1214
 GlyphClass: 2
 Flags: W
@@ -190539,13 +190397,13 @@ AnchorPoint: "Anchor-3" 600 1330 basechar 0
 AnchorPoint: "Anchor-0" 60 1330 basechar 0
 LayerCount: 2
 Fore
-Refer: 2489 1502 N 1 0 0 1 0 0 3
-Refer: 2463 1468 N 1 0 0 1 659 -101 2
+Refer: 2488 1502 N 1 0 0 1 0 0 3
+Refer: 2462 1468 N 1 0 0 1 659 -101 2
 Ligature2: "'ccmp' Glyph Composition/Decomposition in Hebrew lookup 1 subtable" mem dagesh
 EndChar
 
 StartChar: nundagesh
-Encoding: 64320 64320 2540
+Encoding: 64320 64320 2539
 Width: 666
 GlyphClass: 2
 Flags: W
@@ -190563,13 +190421,13 @@ AnchorPoint: "Anchor-3" 340 1330 basechar 0
 AnchorPoint: "Anchor-0" 130 1330 basechar 0
 LayerCount: 2
 Fore
-Refer: 2491 1504 N 1 0 0 1 0 0 3
-Refer: 2463 1468 N 1 0 0 1 129 -101 2
+Refer: 2490 1504 N 1 0 0 1 0 0 3
+Refer: 2462 1468 N 1 0 0 1 129 -101 2
 Ligature2: "'ccmp' Glyph Composition/Decomposition in Hebrew lookup 1 subtable" nun dagesh
 EndChar
 
 StartChar: samekhdagesh
-Encoding: 64321 64321 2541
+Encoding: 64321 64321 2540
 Width: 1165
 GlyphClass: 2
 Flags: W
@@ -190603,13 +190461,13 @@ AnchorPoint: "Anchor-3" 560 1330 basechar 0
 AnchorPoint: "Anchor-0" 100 1330 basechar 0
 LayerCount: 2
 Fore
-Refer: 2492 1505 N 1 0 0 1 0 0 3
-Refer: 2463 1468 N 1 0 0 1 586 -132 2
+Refer: 2491 1505 N 1 0 0 1 0 0 3
+Refer: 2462 1468 N 1 0 0 1 586 -132 2
 Ligature2: "'ccmp' Glyph Composition/Decomposition in Hebrew lookup 1 subtable" samekh dagesh
 EndChar
 
 StartChar: finalpedagesh
-Encoding: 64323 64323 2542
+Encoding: 64323 64323 2541
 Width: 1061
 GlyphClass: 2
 Flags: W
@@ -190627,13 +190485,13 @@ AnchorPoint: "Anchor-3" 520 1330 basechar 0
 AnchorPoint: "Anchor-0" 80 1330 basechar 0
 LayerCount: 2
 Fore
-Refer: 2494 1507 N 1 0 0 1 0 0 3
-Refer: 2463 1468 N 1 0 0 1 612 -183 2
+Refer: 2493 1507 N 1 0 0 1 0 0 3
+Refer: 2462 1468 N 1 0 0 1 612 -183 2
 Ligature2: "'ccmp' Glyph Composition/Decomposition in Hebrew lookup 1 subtable" finalpe dagesh
 EndChar
 
 StartChar: pedagesh
-Encoding: 64324 64324 2543
+Encoding: 64324 64324 2542
 Width: 1114
 GlyphClass: 2
 Flags: W
@@ -190651,13 +190509,13 @@ AnchorPoint: "Anchor-3" 540 1330 basechar 0
 AnchorPoint: "Anchor-0" 120 1330 basechar 0
 LayerCount: 2
 Fore
-Refer: 2495 1508 N 1 0 0 1 0 0 3
-Refer: 2463 1468 N 1 0 0 1 684 -132 2
+Refer: 2494 1508 N 1 0 0 1 0 0 3
+Refer: 2462 1468 N 1 0 0 1 684 -132 2
 Ligature2: "'ccmp' Glyph Composition/Decomposition in Hebrew lookup 1 subtable" pe dagesh
 EndChar
 
 StartChar: tsadidagesh
-Encoding: 64326 64326 2544
+Encoding: 64326 64326 2543
 Width: 1073
 GlyphClass: 2
 Flags: W
@@ -190675,13 +190533,13 @@ AnchorPoint: "Anchor-3" 520 1330 basechar 0
 AnchorPoint: "Anchor-0" 60 1330 basechar 0
 LayerCount: 2
 Fore
-Refer: 2497 1510 N 1 0 0 1 0 0 3
-Refer: 2463 1468 N 1 0 0 1 205 -273 2
+Refer: 2496 1510 N 1 0 0 1 0 0 3
+Refer: 2462 1468 N 1 0 0 1 205 -273 2
 Ligature2: "'ccmp' Glyph Composition/Decomposition in Hebrew lookup 1 subtable" tsadi dagesh
 EndChar
 
 StartChar: qofdagesh
-Encoding: 64327 64327 2545
+Encoding: 64327 64327 2544
 Width: 1096
 GlyphClass: 2
 Flags: W
@@ -190699,13 +190557,13 @@ AnchorPoint: "Anchor-3" 560 1330 basechar 0
 AnchorPoint: "Anchor-0" 100 1330 basechar 0
 LayerCount: 2
 Fore
-Refer: 2498 1511 N 1 0 0 1 0 0 3
-Refer: 2463 1468 N 1 0 0 1 535 -71 2
+Refer: 2497 1511 N 1 0 0 1 0 0 3
+Refer: 2462 1468 N 1 0 0 1 535 -71 2
 Ligature2: "'ccmp' Glyph Composition/Decomposition in Hebrew lookup 1 subtable" qof dagesh
 EndChar
 
 StartChar: reshdagesh
-Encoding: 64328 64328 2546
+Encoding: 64328 64328 2545
 Width: 1006
 GlyphClass: 2
 Flags: W
@@ -190723,13 +190581,13 @@ AnchorPoint: "Anchor-3" 460 1330 basechar 0
 AnchorPoint: "Anchor-0" 30 1330 basechar 0
 LayerCount: 2
 Fore
-Refer: 2499 1512 N 1 0 0 1 0 0 3
-Refer: 2463 1468 N 1 0 0 1 395 -167 2
+Refer: 2498 1512 N 1 0 0 1 0 0 3
+Refer: 2462 1468 N 1 0 0 1 395 -167 2
 Ligature2: "'ccmp' Glyph Composition/Decomposition in Hebrew lookup 1 subtable" resh dagesh
 EndChar
 
 StartChar: shindagesh
-Encoding: 64329 64329 2547
+Encoding: 64329 64329 2546
 Width: 1450
 GlyphClass: 2
 Flags: W
@@ -190747,13 +190605,13 @@ AnchorPoint: "Anchor-3" 760 1330 basechar 0
 AnchorPoint: "Anchor-0" 60 1330 basechar 0
 LayerCount: 2
 Fore
-Refer: 2500 1513 N 1 0 0 1 0 0 3
-Refer: 2463 1468 N 1 0 0 1 831 -101 2
+Refer: 2499 1513 N 1 0 0 1 0 0 3
+Refer: 2462 1468 N 1 0 0 1 831 -101 2
 Ligature2: "'ccmp' Glyph Composition/Decomposition in Hebrew lookup 1 subtable" shin dagesh
 EndChar
 
 StartChar: tavdagesh
-Encoding: 64330 64330 2548
+Encoding: 64330 64330 2547
 Width: 1249
 GlyphClass: 2
 Flags: W
@@ -190771,13 +190629,13 @@ AnchorPoint: "Anchor-3" 600 1330 basechar 0
 AnchorPoint: "Anchor-0" 130 1330 basechar 0
 LayerCount: 2
 Fore
-Refer: 2501 1514 N 1 0 0 1 0 0 3
-Refer: 2463 1468 N 1 0 0 1 598 -167 2
+Refer: 2500 1514 N 1 0 0 1 0 0 3
+Refer: 2462 1468 N 1 0 0 1 598 -167 2
 Ligature2: "'ccmp' Glyph Composition/Decomposition in Hebrew lookup 1 subtable" tav dagesh
 EndChar
 
 StartChar: vavholam
-Encoding: 64331 64331 2549
+Encoding: 64331 64331 2548
 Width: 524
 GlyphClass: 2
 Flags: W
@@ -190795,13 +190653,13 @@ AnchorPoint: "Anchor-3" 220 1520 basechar 0
 AnchorPoint: "Anchor-0" -20 1330 basechar 0
 LayerCount: 2
 Fore
-Refer: 2480 1493 N 1 0 0 1 0 0 3
-Refer: 2460 1465 N 1 0 0 1 168 0 2
+Refer: 2479 1493 N 1 0 0 1 0 0 3
+Refer: 2459 1465 N 1 0 0 1 168 0 2
 Ligature2: "'ccmp' Glyph Composition/Decomposition in Hebrew lookup 1 subtable" vav holam
 EndChar
 
 StartChar: betrafe
-Encoding: 64332 64332 2550
+Encoding: 64332 64332 2549
 Width: 987
 GlyphClass: 2
 Flags: W
@@ -190819,13 +190677,13 @@ AnchorPoint: "Anchor-3" 460 1500 basechar 0
 AnchorPoint: "Anchor-0" 60 1330 basechar 0
 LayerCount: 2
 Fore
-Refer: 2476 1489 N 1 0 0 1 0 0 3
-Refer: 2466 1471 N 1 0 0 1 444 0 2
+Refer: 2475 1489 N 1 0 0 1 0 0 3
+Refer: 2465 1471 N 1 0 0 1 444 0 2
 Ligature2: "Ligature Substitution lookup 4 subtable" bet rafe
 EndChar
 
 StartChar: kafrafe
-Encoding: 64333 64333 2551
+Encoding: 64333 64333 2550
 Width: 1001
 GlyphClass: 2
 Flags: W
@@ -190843,13 +190701,13 @@ AnchorPoint: "Anchor-3" 430 1500 basechar 0
 AnchorPoint: "Anchor-0" 60 1330 basechar 0
 LayerCount: 2
 Fore
-Refer: 2486 1499 N 1 0 0 1 0 0 3
-Refer: 2466 1471 N 1 0 0 1 401 0 2
+Refer: 2485 1499 N 1 0 0 1 0 0 3
+Refer: 2465 1471 N 1 0 0 1 401 0 2
 Ligature2: "Ligature Substitution lookup 4 subtable" kaf rafe
 EndChar
 
 StartChar: perafe
-Encoding: 64334 64334 2552
+Encoding: 64334 64334 2551
 Width: 1114
 GlyphClass: 2
 Flags: W
@@ -190867,13 +190725,13 @@ AnchorPoint: "Anchor-3" 520 1500 basechar 0
 AnchorPoint: "Anchor-0" 130 1330 basechar 0
 LayerCount: 2
 Fore
-Refer: 2495 1508 N 1 0 0 1 0 0 3
-Refer: 2466 1471 N 1 0 0 1 494 0 2
+Refer: 2494 1508 N 1 0 0 1 0 0 3
+Refer: 2465 1471 N 1 0 0 1 494 0 2
 Ligature2: "Ligature Substitution lookup 4 subtable" pe rafe
 EndChar
 
 StartChar: aleflamed
-Encoding: 64335 64335 2553
+Encoding: 64335 64335 2552
 Width: 1315
 GlyphClass: 3
 Flags: W
@@ -190992,7 +190850,7 @@ Ligature2: "'dlig' Discretionary Ligatures in Hebrew lookup 0 subtable" alef lam
 EndChar
 
 StartChar: lamedholamdagesh
-Encoding: 65804 -1 2554
+Encoding: 65804 -1 2553
 Width: 958
 GlyphClass: 2
 Flags: W
@@ -191010,14 +190868,14 @@ AnchorPoint: "Anchor-3" 520 1330 basechar 0
 AnchorPoint: "Anchor-0" -320 1300 basechar 0
 LayerCount: 2
 Fore
-Refer: 2487 1500 N 1 0 0 1 0 0 3
-Refer: 2460 1465 N 1 0 0 1 -126 0 2
-Refer: 2463 1468 N 1 0 0 1 406 -60 2
+Refer: 2486 1500 N 1 0 0 1 0 0 3
+Refer: 2459 1465 N 1 0 0 1 -126 0 2
+Refer: 2462 1468 N 1 0 0 1 406 -60 2
 Ligature2: "'ccmp' Glyph Composition/Decomposition in Hebrew lookup 1 subtable" lamed dagesh holam
 EndChar
 
 StartChar: lamedholam
-Encoding: 65805 -1 2555
+Encoding: 65805 -1 2554
 Width: 958
 GlyphClass: 2
 Flags: W
@@ -191035,13 +190893,13 @@ AnchorPoint: "Anchor-3" 520 1330 basechar 0
 AnchorPoint: "Anchor-0" -320 1300 basechar 0
 LayerCount: 2
 Fore
-Refer: 2487 1500 N 1 0 0 1 0 0 3
-Refer: 2460 1465 N 1 0 0 1 -126 0 2
+Refer: 2486 1500 N 1 0 0 1 0 0 3
+Refer: 2459 1465 N 1 0 0 1 -126 0 2
 Ligature2: "'ccmp' Glyph Composition/Decomposition in Hebrew lookup 1 subtable" lamed holam
 EndChar
 
 StartChar: finalkafqamats
-Encoding: 65806 -1 2556
+Encoding: 65806 -1 2555
 Width: 1006
 GlyphClass: 2
 Flags: W
@@ -191059,13 +190917,13 @@ AnchorPoint: "Anchor-3" 460 1330 basechar 0
 AnchorPoint: "Anchor-0" 30 1330 basechar 0
 LayerCount: 2
 Fore
-Refer: 2485 1498 N 1 0 0 1 0 0 3
-Refer: 2459 1464 N 1 0 0 1 543 780 2
+Refer: 2484 1498 N 1 0 0 1 0 0 3
+Refer: 2458 1464 N 1 0 0 1 543 780 2
 Ligature2: "'ccmp' Glyph Composition/Decomposition in Hebrew lookup 1 subtable" finalkaf qamats
 EndChar
 
 StartChar: finalkafsheva
-Encoding: 65807 -1 2557
+Encoding: 65807 -1 2556
 Width: 1006
 GlyphClass: 2
 Flags: W
@@ -191083,68 +190941,68 @@ AnchorPoint: "Anchor-3" 460 1330 basechar 0
 AnchorPoint: "Anchor-0" 30 1330 basechar 0
 LayerCount: 2
 Fore
-Refer: 2485 1498 N 1 0 0 1 0 0 3
-Refer: 2451 1456 N 1 0 0 1 573 750 2
+Refer: 2484 1498 N 1 0 0 1 0 0 3
+Refer: 2450 1456 N 1 0 0 1 573 750 2
 Ligature2: "'ccmp' Glyph Composition/Decomposition in Hebrew lookup 1 subtable" finalkaf sheva
 EndChar
 
 StartChar: aleflamedhatafsegol
-Encoding: 65808 -1 2558
+Encoding: 65808 -1 2557
 Width: 1315
 GlyphClass: 3
 Flags: W
 LayerCount: 2
 Fore
-Refer: 2553 64335 N 1 0 0 1 0 0 3
-Refer: 2452 1457 N 1 0 0 1 625 0 2
+Refer: 2552 64335 N 1 0 0 1 0 0 3
+Refer: 2451 1457 N 1 0 0 1 625 0 2
 EndChar
 
 StartChar: aleflamedsegol
-Encoding: 65809 -1 2559
+Encoding: 65809 -1 2558
 Width: 1315
 GlyphClass: 3
 Flags: W
 LayerCount: 2
 Fore
-Refer: 2553 64335 N 1 0 0 1 0 0 3
-Refer: 2457 1462 N 1 0 0 1 645 0 2
+Refer: 2552 64335 N 1 0 0 1 0 0 3
+Refer: 2456 1462 N 1 0 0 1 645 0 2
 EndChar
 
 StartChar: aleflamedtsere
-Encoding: 65810 -1 2560
+Encoding: 65810 -1 2559
 Width: 1315
 GlyphClass: 3
 Flags: W
 LayerCount: 2
 Fore
-Refer: 2553 64335 N 1 0 0 1 0 0 3
-Refer: 2456 1461 N 1 0 0 1 647 12 2
+Refer: 2552 64335 N 1 0 0 1 0 0 3
+Refer: 2455 1461 N 1 0 0 1 647 12 2
 EndChar
 
 StartChar: alternativelamed
-Encoding: 65811 -1 2561
+Encoding: 65811 -1 2560
 Width: 958
 GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
-Refer: 2487 1500 N 1 0 0 1 0 0 3
+Refer: 2486 1500 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: alefdagesh
-Encoding: 65812 -1 2562
+Encoding: 65812 -1 2561
 Width: 1315
 GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
-Refer: 2475 1488 N 1 0 0 1 0 0 3
-Refer: 2463 1468 N 1 0 0 1 596 -548 2
+Refer: 2474 1488 N 1 0 0 1 0 0 3
+Refer: 2462 1468 N 1 0 0 1 596 -548 2
 Ligature2: "'ccmp' Glyph Composition/Decomposition in Hebrew lookup 1 subtable" alef dagesh
 EndChar
 
 StartChar: uni05B105BD
-Encoding: 65813 -1 2563
+Encoding: 65813 -1 2562
 Width: 0
 GlyphClass: 4
 Flags: W
@@ -191258,7 +191116,7 @@ Ligature2: "'ccmp' Glyph Composition/Decomposition in Hebrew lookup 1 subtable" 
 EndChar
 
 StartChar: uni05B205BD
-Encoding: 65814 -1 2564
+Encoding: 65814 -1 2563
 Width: 0
 GlyphClass: 4
 Flags: W
@@ -191336,7 +191194,7 @@ Ligature2: "'ccmp' Glyph Composition/Decomposition in Hebrew lookup 1 subtable" 
 EndChar
 
 StartChar: uni05B305BD
-Encoding: 65815 -1 2565
+Encoding: 65815 -1 2564
 Width: 0
 GlyphClass: 4
 Flags: W
@@ -191416,7 +191274,7 @@ Ligature2: "'ccmp' Glyph Composition/Decomposition in Hebrew lookup 1 subtable" 
 EndChar
 
 StartChar: uni00A0
-Encoding: 160 160 2566
+Encoding: 160 160 2565
 Width: 512
 Flags: W
 LayerCount: 2
@@ -191425,7 +191283,7 @@ Refer: 3 32 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni00AD
-Encoding: 173 173 2567
+Encoding: 173 173 2566
 Width: 682
 Flags: W
 LayerCount: 2
@@ -191434,7 +191292,7 @@ Refer: 16 45 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni037E
-Encoding: 894 894 2568
+Encoding: 894 894 2567
 Width: 682
 Flags: W
 LayerCount: 2
@@ -191443,7 +191301,7 @@ Refer: 30 59 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni2215
-Encoding: 8725 8725 2569
+Encoding: 8725 8725 2568
 Width: 342
 Flags: W
 LayerCount: 2
@@ -191452,7 +191310,7 @@ Refer: 186 8260 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni04D8
-Encoding: 1240 1240 2570
+Encoding: 1240 1240 2569
 Width: 1479
 Flags: W
 LayerCount: 2
@@ -191461,7 +191319,7 @@ Refer: 861 399 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: afii10846
-Encoding: 1241 1241 2571
+Encoding: 1241 1241 2570
 Width: 909
 Flags: W
 LayerCount: 2
@@ -191470,7 +191328,7 @@ Refer: 862 601 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni2016
-Encoding: 8214 8214 2572
+Encoding: 8214 8214 2571
 Width: 708
 Flags: W
 LayerCount: 2
@@ -191479,7 +191337,7 @@ Refer: 924 449 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni202F
-Encoding: 8239 8239 2573
+Encoding: 8239 8239 2572
 Width: 410
 Flags: W
 LayerCount: 2
@@ -191488,9 +191346,9 @@ Refer: 2146 8201 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uniFB01
-Encoding: 64257 64257 2574
+Encoding: 64257 64257 2573
 Width: 1139
-Flags: HW
+Flags: W
 LayerCount: 2
 Fore
 SplineSet
@@ -191524,9 +191382,9 @@ EndSplineSet
 EndChar
 
 StartChar: uniFB02
-Encoding: 64258 64258 2575
+Encoding: 64258 64258 2574
 Width: 1139
-Flags: HW
+Flags: W
 LayerCount: 2
 Fore
 SplineSet
