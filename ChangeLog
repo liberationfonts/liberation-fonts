@@ -1,5 +1,6 @@
 - Resolved "Glyphs with multiple unicode encodings inhibit subsetting" #851790
 - Resolved #851791, #854601 and #851825
+- Following GASP table version 1 as per Croscore fonts
 
 * Fri Jul 06 2012 Pravin Satpute <psatpute AT redhat DOT com>
 - Initial version of Liberation fonts based on croscore fonts version 1.21.0

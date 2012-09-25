@@ -13,14 +13,13 @@ Descent: 410
 LayerCount: 2
 Layer: 0 1 "Back"  1
 Layer: 1 1 "Fore"  0
-NeedsXUIDChange: 1
 XUID: [1021 445 290132255 15991547]
 FSType: 0
 OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1123398000
-ModificationTime: 1347511080
+ModificationTime: 1348548366
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -3779,14 +3778,14 @@ ShortTable: maxp 16
   1
 EndShort
 LangName: 1033 "" "" "" "Ascender - Liberation Serif" "" "Version 2.00.0" "" "Liberation is a trademark of Red Hat, Inc. registered in U.S. Patent and Trademark Office and certain other jurisdictions." "Ascender Corporation" "Steve Matteson" "Based on Tinos, which was designed by Steve Matteson as an innovative, refreshing serif design that is metrically compatible with Times New Roman+ISIA. Tinos offers improved on-screen readability characteristics and the pan-European WGL character set and solves the needs of developers looking for width-compatible fonts to address document portability across platforms." "http://www.ascendercorp.com/" "http://www.ascendercorp.com/typedesigners.html" "Licensed under the SIL Open Font License, Version 1.1" "http://scripts.sil.org/OFL" 
-GaspTable: 2 8 2 65535 3
+GaspTable: 2 8 14 65535 15
 Encoding: UnicodeBmp
 UnicodeInterp: none
 NameList: Adobe Glyph List
 DisplaySize: -36
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 65574 18 14
+WinInfo: 18 18 14
 BeginPrivate: 0
 EndPrivate
 TeXData: 1 0 -613545 262144 131072 87381 481280 -1048576 87381 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144

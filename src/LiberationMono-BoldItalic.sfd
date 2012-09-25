@@ -13,14 +13,13 @@ Descent: 410
 LayerCount: 2
 Layer: 0 1 "Back"  1
 Layer: 1 1 "Fore"  0
-NeedsXUIDChange: 1
 XUID: [1021 445 290132255 6927612]
 FSType: 0
 OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1277899326
-ModificationTime: 1346833834
+ModificationTime: 1348548761
 PfmFamily: 17
 TTFWeight: 700
 TTFWidth: 5
@@ -3698,14 +3697,14 @@ ShortTable: maxp 16
   1
 EndShort
 LangName: 1033 "" "" "Bold Italic" "Ascender - Liberation Mono" "" "Version 2.00.0" "" "Liberation is a trademark of Red Hat, Inc. registered in U.S. Patent and Trademark Office and certain other jurisdictions." "Ascender Corporation" "Steve Matteson" "Based on Cousine, which was designed by Steve Matteson as an innovative, refreshing sans serif design that is metrically compatible with Courier New+ISIA. Cousine offers improved on-screen readability characteristics and the pan-European WGL character set and solves the needs of developers looking for width-compatible fonts to address document portability across platforms." "http://www.ascendercorp.com/" "http://www.ascendercorp.com/typedesigners.html" "Licensed under the SIL Open Font License, Version 1.1" "http://scripts.sil.org/OFL" 
-GaspTable: 3 8 2 14 3 65535 3
+GaspTable: 3 8 14 14 15 65535 15
 Encoding: UnicodeBmp
 UnicodeInterp: none
 NameList: Adobe Glyph List
 DisplaySize: -36
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 65412 18 14
+WinInfo: 18 18 14
 BeginPrivate: 0
 EndPrivate
 AnchorClass2: "Anchor-0"  "'mark' Mark Positioning in Hebrew lookup 0 subtable" "Anchor-1"  "'mark' Mark Positioning in Hebrew lookup 1 subtable" "Anchor-2"  "'mark' Mark Positioning in Hebrew lookup 2 subtable" "Anchor-3"  "'mark' Mark Positioning in Hebrew lookup 3 subtable" "Anchor-4"  "'mark' Mark Positioning in Hebrew lookup 3 subtable" "Anchor-5"  "'mark' Mark Positioning in Hebrew lookup 4 subtable" "Anchor-6"  "'mark' Mark Positioning in Hebrew lookup 4 subtable" "Anchor-7"  "'mark' Mark Positioning in Hebrew lookup 9 subtable" "Anchor-8"  "'mark' Mark Positioning in Hebrew lookup 10 subtable" "Anchor-9"  "'mark' Mark Positioning in Hebrew lookup 11 subtable" "Anchor-10"  "Mark to base attachment lookup 15 subtable" "Anchor-11"  "Mark to base attachment lookup 16 subtable" "Anchor-12"  "Mark to base attachment lookup 17 subtable" "Anchor-13"  "Mark to base attachment lookup 18 subtable" 
