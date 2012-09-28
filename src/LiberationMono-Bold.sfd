@@ -19,7 +19,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1277890270
-ModificationTime: 1348548823
+ModificationTime: 1348655045
 PfmFamily: 17
 TTFWeight: 700
 TTFWidth: 5
@@ -53,6 +53,7 @@ OS2FamilyClass: 2053
 OS2Vendor: '1ASC'
 OS2CodePages: 600001bf.dff70000
 OS2UnicodeRanges: e0000aff.400078ff.00000001.00000000
+Lookup: 1 0 0 "'locl' Localized Forms lookup 4"  {"'locl' Localized Forms lookup 4-1"  } ['locl' ('cyrl' <'SRB ' > 'cyrl' <'MKD ' > ) ]
 Lookup: 4 1 0 "'dlig' Discretionary Ligatures in Hebrew lookup 0"  {"'dlig' Discretionary Ligatures in Hebrew lookup 0 subtable"  } ['dlig' ('hebr' <'dflt' > ) ]
 Lookup: 4 1 0 "'ccmp' Glyph Composition/Decomposition in Hebrew lookup 1"  {"'ccmp' Glyph Composition/Decomposition in Hebrew lookup 1 subtable"  } ['ccmp' ('hebr' <'dflt' > ) ]
 Lookup: 6 1 0 "'ccmp' Glyph Composition/Decomposition in Hebrew lookup 2"  {"'ccmp' Glyph Composition/Decomposition in Hebrew lookup 2 subtable"  } ['ccmp' ('hebr' <'dflt' > ) ]
@@ -3974,11 +3975,11 @@ NameList: Adobe Glyph List
 DisplaySize: -36
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 0 22 17
+WinInfo: 65296 22 17
 BeginPrivate: 0
 EndPrivate
 AnchorClass2: "Anchor-0"  "'mark' Mark Positioning in Hebrew lookup 0 subtable" "Anchor-1"  "'mark' Mark Positioning in Hebrew lookup 1 subtable" "Anchor-2"  "'mark' Mark Positioning in Hebrew lookup 2 subtable" "Anchor-3"  "'mark' Mark Positioning in Hebrew lookup 3 subtable" "Anchor-4"  "'mark' Mark Positioning in Hebrew lookup 3 subtable" "Anchor-5"  "'mark' Mark Positioning in Hebrew lookup 4 subtable" "Anchor-6"  "'mark' Mark Positioning in Hebrew lookup 4 subtable" "Anchor-7"  "'mark' Mark Positioning in Hebrew lookup 9 subtable" "Anchor-8"  "'mark' Mark Positioning in Hebrew lookup 10 subtable" "Anchor-9"  "'mark' Mark Positioning in Hebrew lookup 11 subtable" "Anchor-10"  "Mark to base attachment lookup 15 subtable" "Anchor-11"  "Mark to base attachment lookup 16 subtable" "Anchor-12"  "Mark to base attachment lookup 17 subtable" "Anchor-13"  "Mark to base attachment lookup 18 subtable" 
-BeginChars: 65653 2391
+BeginChars: 65654 2392
 
 StartChar: .notdef
 Encoding: 65536 -1 0
@@ -48052,6 +48053,7 @@ SplineSet
  315 869 315 869 421.5 948 c 128,-1,35
  528 1027 528 1027 685 1027 c 0,11,12
 EndSplineSet
+Substitution2: "'locl' Localized Forms lookup 4-1" S_BE
 EndChar
 
 StartChar: uni0432
@@ -157736,6 +157738,54 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 822 601 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: S_BE
+Encoding: 65653 -1 2391
+Width: 1229
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+853 487 m 0,0,1
+ 853 556 853 556 837 614.5 c 128,-1,2
+ 821 673 821 673 793.5 724 c 128,-1,3
+ 766 775 766 775 730 819 c 128,-1,4
+ 694 863 694 863 654 903 c 1,5,6
+ 587 879 587 879 533.5 841 c 128,-1,7
+ 480 803 480 803 442 750.5 c 128,-1,8
+ 404 698 404 698 383.5 631 c 128,-1,9
+ 363 564 363 564 363 481 c 0,10,11
+ 363 415 363 415 377 359 c 128,-1,12
+ 391 303 391 303 420 262.5 c 128,-1,13
+ 449 222 449 222 493.5 199 c 128,-1,14
+ 538 176 538 176 599 176 c 0,15,16
+ 669 176 669 176 717.5 199.5 c 128,-1,17
+ 766 223 766 223 796 264 c 128,-1,18
+ 826 305 826 305 839.5 362.5 c 128,-1,19
+ 853 420 853 420 853 487 c 0,0,1
+580.8 1297.6 m 1,20,21
+ 976.407 928.474 976.407 928.474 1001 898 c 0,22,23
+ 1047 841 1047 841 1078.5 777 c 128,-1,24
+ 1110 713 1110 713 1126.5 640 c 128,-1,25
+ 1143 567 1143 567 1143 483 c 0,26,27
+ 1143 375 1143 375 1107.5 282.5 c 128,-1,28
+ 1072 190 1072 190 1003 123 c 128,-1,29
+ 934 56 934 56 833.5 18 c 128,-1,30
+ 733 -20 733 -20 604 -20 c 0,31,32
+ 477 -20 477 -20 378 14.5 c 128,-1,33
+ 279 49 279 49 211.5 113.5 c 128,-1,34
+ 144 178 144 178 108.5 271 c 128,-1,35
+ 73 364 73 364 73 481 c 0,36,37
+ 73 591 73 591 109.5 677 c 128,-1,38
+ 146 763 146 763 209.5 829 c 128,-1,39
+ 273 895 273 895 357.5 942.5 c 128,-1,40
+ 442 990 442 990 538 1023 c 1,41,-1
+ 226 1337 l 1,42,43
+ 441.8 1673.84 441.8 1673.84 1079 1562 c 1,44,-1
+ 1079 1372 l 1,45,46
+ 782.523 1446.6 782.523 1446.6 580.8 1297.6 c 1,20,21
+EndSplineSet
 EndChar
 EndChars
 EndSplineFont

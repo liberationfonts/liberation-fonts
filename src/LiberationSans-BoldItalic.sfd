@@ -19,7 +19,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1277744832
-ModificationTime: 1348547857
+ModificationTime: 1348662641
 PfmFamily: 17
 TTFWeight: 700
 TTFWidth: 5
@@ -53,6 +53,7 @@ OS2FamilyClass: 2053
 OS2Vendor: '1ASC'
 OS2CodePages: 600001bf.dff70000
 OS2UnicodeRanges: e0000aff.500078ff.00000021.00000000
+Lookup: 1 0 0 "'locl' Localized Forms lookup 5"  {"'locl' Localized Forms lookup 5-1"  } ['locl' ('cyrl' <'SRB ' > 'cyrl' <'MKD ' > ) ]
 Lookup: 4 1 0 "'dlig' Discretionary Ligatures in Hebrew lookup 0"  {"'dlig' Discretionary Ligatures in Hebrew lookup 0 subtable"  } ['dlig' ('hebr' <'dflt' > ) ]
 Lookup: 4 1 0 "'ccmp' Glyph Composition/Decomposition in Hebrew lookup 1"  {"'ccmp' Glyph Composition/Decomposition in Hebrew lookup 1 subtable"  } ['ccmp' ('hebr' <'dflt' > ) ]
 Lookup: 6 1 0 "'ccmp' Glyph Composition/Decomposition in Hebrew lookup 2"  {"'ccmp' Glyph Composition/Decomposition in Hebrew lookup 2 subtable"  } ['ccmp' ('hebr' <'dflt' > ) ]
@@ -75,7 +76,7 @@ Lookup: 260 1 0 "'mark' Mark Positioning in Hebrew lookup 13"  {"'mark' Mark Pos
 Lookup: 264 1 0 "'mark' Mark Positioning in Hebrew lookup 14"  {"'mark' Mark Positioning in Hebrew lookup 14 contextual 0"  "'mark' Mark Positioning in Hebrew lookup 14 contextual 1"  "'mark' Mark Positioning in Hebrew lookup 14 contextual 2"  "'mark' Mark Positioning in Hebrew lookup 14 contextual 3"  "'mark' Mark Positioning in Hebrew lookup 14 contextual 4"  "'mark' Mark Positioning in Hebrew lookup 14 contextual 5"  "'mark' Mark Positioning in Hebrew lookup 14 contextual 6"  "'mark' Mark Positioning in Hebrew lookup 14 contextual 7"  } ['mark' ('hebr' <'dflt' > ) ]
 Lookup: 264 1 0 "'mark' Mark Positioning in Hebrew lookup 15"  {"'mark' Mark Positioning in Hebrew lookup 15 contextual 0"  "'mark' Mark Positioning in Hebrew lookup 15 contextual 1"  } ['mark' ('hebr' <'dflt' > ) ]
 Lookup: 264 1 0 "'mark' Mark Positioning in Hebrew lookup 16"  {"'mark' Mark Positioning in Hebrew lookup 16 contextual 0"  "'mark' Mark Positioning in Hebrew lookup 16 contextual 1"  "'mark' Mark Positioning in Hebrew lookup 16 contextual 2"  "'mark' Mark Positioning in Hebrew lookup 16 contextual 3"  "'mark' Mark Positioning in Hebrew lookup 16 contextual 4"  "'mark' Mark Positioning in Hebrew lookup 16 contextual 5"  "'mark' Mark Positioning in Hebrew lookup 16 contextual 6"  "'mark' Mark Positioning in Hebrew lookup 16 contextual 7"  "'mark' Mark Positioning in Hebrew lookup 16 contextual 8"  "'mark' Mark Positioning in Hebrew lookup 16 contextual 9"  "'mark' Mark Positioning in Hebrew lookup 16 contextual 10"  "'mark' Mark Positioning in Hebrew lookup 16 contextual 11"  "'mark' Mark Positioning in Hebrew lookup 16 contextual 12"  } ['mark' ('hebr' <'dflt' > ) ]
-Lookup: 258 8 0 "'kern' Horizontal Kerning lookup 17"  {"'kern' Horizontal Kerning lookup 17 subtable"  } ['kern' ('cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 258 8 0 "'kern' Horizontal Kerning lookup 17"  {"'kern' Horizontal Kerning lookup 17 subtable"  } ['kern' ('cyrl' <'dflt' > 'cyrl' <'SRB ' > 'cyrl' <'MKD ' > 'grek' <'dflt' > 'latn' <'dflt' > ) ]
 Lookup: 257 1 0 "Single Positioning lookup 18"  {"Single Positioning lookup 18 subtable"  } []
 Lookup: 260 1 0 "Mark to base attachment lookup 19"  {"Mark to base attachment lookup 19 subtable"  } []
 Lookup: 260 1 0 "Mark to base attachment lookup 20"  {"Mark to base attachment lookup 20 subtable"  } []
@@ -3671,11 +3672,11 @@ NameList: Adobe Glyph List
 DisplaySize: -36
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 36 18 12
+WinInfo: 65412 18 12
 BeginPrivate: 0
 EndPrivate
 AnchorClass2: "Anchor-0"  "'mark' Mark Positioning in Hebrew lookup 1 subtable" "Anchor-1"  "'mark' Mark Positioning in Hebrew lookup 3 subtable" "Anchor-2"  "'mark' Mark Positioning in Hebrew lookup 4 subtable" "Anchor-3"  "'mark' Mark Positioning in Hebrew lookup 5 subtable" "Anchor-4"  "'mark' Mark Positioning in Hebrew lookup 5 subtable" "Anchor-5"  "'mark' Mark Positioning in Hebrew lookup 6 subtable" "Anchor-6"  "'mark' Mark Positioning in Hebrew lookup 6 subtable" "Anchor-7"  "'mark' Mark Positioning in Hebrew lookup 11 subtable" "Anchor-8"  "'mark' Mark Positioning in Hebrew lookup 12 subtable" "Anchor-9"  "'mark' Mark Positioning in Hebrew lookup 13 subtable" "Anchor-10"  "Mark to base attachment lookup 19 subtable" "Anchor-11"  "Mark to base attachment lookup 20 subtable" "Anchor-12"  "Mark to base attachment lookup 21 subtable" "Anchor-13"  "Mark to base attachment lookup 22 subtable" 
-BeginChars: 65828 2586
+BeginChars: 65831 2589
 
 StartChar: .notdef
 Encoding: 65536 -1 0
@@ -27690,11 +27691,11 @@ EndTTInstrs
 LayerCount: 2
 Fore
 SplineSet
-753 1203 m 1,0,-1
- 167 1203 l 1,1,-1
- 200 1371 l 1,2,-1
- 790 1371 l 1,3,-1
- 753 1203 l 1,0,-1
+753 1203 m 5,0,-1
+ 167 1203 l 5,1,-1
+ 200 1371 l 5,2,-1
+ 790 1371 l 5,3,-1
+ 753 1203 l 5,0,-1
 EndSplineSet
 EndChar
 
@@ -55013,6 +55014,7 @@ SplineSet
  728 -20 728 -20 574 -20 c 0,15,16
 EndSplineSet
 Kerns2: 626 -27 "'kern' Horizontal Kerning lookup 17 subtable"  623 -104 "'kern' Horizontal Kerning lookup 17 subtable"  620 -78 "'kern' Horizontal Kerning lookup 17 subtable"  618 -51 "'kern' Horizontal Kerning lookup 17 subtable"  616 -51 "'kern' Horizontal Kerning lookup 17 subtable"  609 -27 "'kern' Horizontal Kerning lookup 17 subtable"  608 -27 "'kern' Horizontal Kerning lookup 17 subtable"  604 -27 "'kern' Horizontal Kerning lookup 17 subtable"  603 -27 "'kern' Horizontal Kerning lookup 17 subtable" 
+Substitution2: "'locl' Localized Forms lookup 5-1" S_BE
 EndChar
 
 StartChar: uni0432
@@ -55259,6 +55261,7 @@ SplineSet
  635 911 635 911 580 911 c 0,0,1
 EndSplineSet
 Kerns2: 628 -27 "'kern' Horizontal Kerning lookup 17 subtable"  614 -51 "'kern' Horizontal Kerning lookup 17 subtable"  611 -51 "'kern' Horizontal Kerning lookup 17 subtable"  609 -51 "'kern' Horizontal Kerning lookup 17 subtable"  604 -51 "'kern' Horizontal Kerning lookup 17 subtable"  602 -51 "'kern' Horizontal Kerning lookup 17 subtable"  601 -78 "'kern' Horizontal Kerning lookup 17 subtable"  597 -27 "'kern' Horizontal Kerning lookup 17 subtable"  17 -27 "'kern' Horizontal Kerning lookup 17 subtable"  15 -27 "'kern' Horizontal Kerning lookup 17 subtable" 
+Substitution2: "'locl' Localized Forms lookup 5-1" imacron
 EndChar
 
 StartChar: uni0434
@@ -55376,6 +55379,7 @@ SplineSet
  460 172 460 172 567 172 c 0,29,30
 EndSplineSet
 Kerns2: 604 -27 "'kern' Horizontal Kerning lookup 17 subtable" 
+Substitution2: "'locl' Localized Forms lookup 5-1" g
 EndChar
 
 StartChar: uni0435
@@ -56323,6 +56327,7 @@ SplineSet
  246 1082 l 1,7,-1
  1215 1082 l 1,0,-1
 EndSplineSet
+Substitution2: "'locl' Localized Forms lookup 5-1" S_PE
 EndChar
 
 StartChar: uni0440
@@ -56356,6 +56361,7 @@ LayerCount: 2
 Fore
 Refer: 80 109 N 1 0 0 1 0 0 3
 Kerns2: 626 -51 "'kern' Horizontal Kerning lookup 17 subtable"  616 -51 "'kern' Horizontal Kerning lookup 17 subtable"  614 -27 "'kern' Horizontal Kerning lookup 17 subtable"  611 -27 "'kern' Horizontal Kerning lookup 17 subtable"  609 -27 "'kern' Horizontal Kerning lookup 17 subtable"  608 -27 "'kern' Horizontal Kerning lookup 17 subtable"  604 -51 "'kern' Horizontal Kerning lookup 17 subtable"  603 -27 "'kern' Horizontal Kerning lookup 17 subtable"  602 -27 "'kern' Horizontal Kerning lookup 17 subtable"  601 -27 "'kern' Horizontal Kerning lookup 17 subtable"  17 -27 "'kern' Horizontal Kerning lookup 17 subtable"  15 -27 "'kern' Horizontal Kerning lookup 17 subtable" 
+Substitution2: "'locl' Localized Forms lookup 5-1" S_TE
 EndChar
 
 StartChar: uni0443
@@ -101057,11 +101063,11 @@ EndTTInstrs
 LayerCount: 2
 Fore
 SplineSet
--390 1600 m 1,0,-1
- -390 1678 l 1,1,-1
- 787 1678 l 1,2,-1
- 787 1600 l 1,3,-1
- -390 1600 l 1,0,-1
+-390 1600 m 5,0,-1
+ -390 1678 l 5,1,-1
+ 787 1678 l 5,2,-1
+ 787 1600 l 5,3,-1
+ -390 1600 l 5,0,-1
 EndSplineSet
 EndChar
 
@@ -179650,6 +179656,86 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 2154 8201 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: S_BE
+Encoding: 65828 -1 2586
+Width: 1242
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+805.634 487 m 0,0,1
+ 820.301 556 820.301 556 816.734 614.5 c 128,-1,2
+ 813.17 673 813.17 673 796.51 724 c 128,-1,3
+ 779.851 775 779.851 775 753.203 819 c 128,-1,4
+ 726.555 863 726.555 863 695.058 903 c 1,5,6
+ 622.956 879 622.956 879 561.379 841 c 128,-1,7
+ 499.802 803 499.802 803 450.643 750.5 c 128,-1,8
+ 401.483 698 401.483 698 366.742 631 c 128,-1,9
+ 332.001 564 332.001 564 314.358 481 c 0,10,11
+ 300.33 415 300.33 415 302.427 359 c 128,-1,12
+ 304.523 303 304.523 303 324.915 262.5 c 128,-1,13
+ 345.307 222 345.307 222 384.918 199 c 128,-1,14
+ 424.529 176 424.529 176 485.529 176 c 0,15,16
+ 555.529 176 555.529 176 609.023 199.5 c 128,-1,17
+ 662.519 223 662.519 223 701.233 264 c 128,-1,18
+ 739.948 305 739.948 305 765.671 362.5 c 128,-1,19
+ 791.393 420 791.393 420 805.634 487 c 0,0,1
+705.732 1297.6 m 1,20,21
+ 1022.88 928.474 1022.88 928.474 1040.99 898 c 0,22,23
+ 1074.88 841 1074.88 841 1092.78 777 c 128,-1,24
+ 1110.67 713 1110.67 713 1111.66 640 c 128,-1,25
+ 1112.64 567 1112.64 567 1094.78 483 c 0,26,27
+ 1071.83 375 1071.83 375 1016.67 282.5 c 128,-1,28
+ 961.505 190 961.505 190 878.264 123 c 128,-1,29
+ 795.022 56 795.022 56 686.445 18 c 128,-1,30
+ 577.868 -20 577.868 -20 448.868 -20 c 0,31,32
+ 321.868 -20 321.868 -20 230.201 14.5 c 128,-1,33
+ 138.534 49 138.534 49 84.7441 113.5 c 128,-1,34
+ 30.9541 178 30.9541 178 15.2217 271 c 128,-1,35
+ -0.510736 364 -0.510736 364 24.3584 481 c 0,36,37
+ 47.7402 591 47.7402 591 102.52 677 c 128,-1,38
+ 157.3 763 157.3 763 234.828 829 c 128,-1,39
+ 312.357 895 312.357 895 406.953 942.5 c 128,-1,40
+ 501.55 990 501.55 990 604.564 1023 c 1,41,-1
+ 359.307 1337 l 1,42,43
+ 646.704 1673.84 646.704 1673.84 1260.13 1562 c 1,44,-1
+ 1219.75 1372 l 1,45,46
+ 939.126 1446.6 939.126 1446.6 705.732 1297.6 c 1,20,21
+EndSplineSet
+EndChar
+
+StartChar: S_TE
+Encoding: 65829 -1 2587
+Width: 1821
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+1763 1203 m 5
+ 297 1203 l 5
+ 330 1371 l 5
+ 1800 1371 l 5
+ 1763 1203 l 5
+EndSplineSet
+Refer: 621 1096 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: S_PE
+Encoding: 65830 -1 2588
+Width: 1251
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+1203 1203 m 1
+ 284 1203 l 1
+ 317 1371 l 1
+ 1240 1371 l 1
+ 1203 1203 l 1
+EndSplineSet
+Refer: 88 117 N 1 0 0 1 0 0 2
 EndChar
 EndChars
 EndSplineFont

@@ -19,7 +19,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1123398000
-ModificationTime: 1348548366
+ModificationTime: 1348727064
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -53,6 +53,7 @@ OS2FamilyClass: 261
 OS2Vendor: '1ASC'
 OS2CodePages: 600001bf.dff70000
 OS2UnicodeRanges: e0000aff.500078ff.00000021.00000000
+Lookup: 1 0 0 "'locl' Localized Forms lookup 5"  {"'locl' Localized Forms lookup 5-1"  } ['locl' ('cyrl' <'SRB ' > 'cyrl' <'MKD ' > ) ]
 Lookup: 4 1 0 "'dlig' Discretionary Ligatures in Hebrew lookup 0"  {"'dlig' Discretionary Ligatures in Hebrew lookup 0 subtable"  } ['dlig' ('hebr' <'dflt' > ) ]
 Lookup: 4 1 0 "'ccmp' Glyph Composition/Decomposition in Hebrew lookup 1"  {"'ccmp' Glyph Composition/Decomposition in Hebrew lookup 1 subtable"  } ['ccmp' ('hebr' <'dflt' > ) ]
 Lookup: 6 1 0 "'ccmp' Glyph Composition/Decomposition in Hebrew lookup 2"  {"'ccmp' Glyph Composition/Decomposition in Hebrew lookup 2 subtable"  } ['ccmp' ('hebr' <'dflt' > ) ]
@@ -3785,12 +3786,12 @@ NameList: Adobe Glyph List
 DisplaySize: -36
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 18 18 14
+WinInfo: 65574 18 14
 BeginPrivate: 0
 EndPrivate
 TeXData: 1 0 -613545 262144 131072 87381 481280 -1048576 87381 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
 AnchorClass2: "Anchor-0"  "'mark' Mark Positioning in Hebrew lookup 0 subtable" "Anchor-1"  "'mark' Mark Positioning in Hebrew lookup 2 subtable" "Anchor-2"  "'mark' Mark Positioning in Hebrew lookup 3 subtable" "Anchor-3"  "'mark' Mark Positioning in Hebrew lookup 4 subtable" "Anchor-4"  "'mark' Mark Positioning in Hebrew lookup 4 subtable" "Anchor-5"  "'mark' Mark Positioning in Hebrew lookup 5 subtable" "Anchor-6"  "'mark' Mark Positioning in Hebrew lookup 5 subtable" "Anchor-7"  "'mark' Mark Positioning in Hebrew lookup 10 subtable" "Anchor-8"  "'mark' Mark Positioning in Hebrew lookup 11 subtable" "Anchor-9"  "'mark' Mark Positioning in Hebrew lookup 12 subtable" "Anchor-10"  "Mark to base attachment lookup 18 subtable" "Anchor-11"  "Mark to base attachment lookup 19 subtable" "Anchor-12"  "Mark to base attachment lookup 20 subtable" "Anchor-13"  "Mark to base attachment lookup 21 subtable" 
-BeginChars: 65816 2580
+BeginChars: 65818 2583
 
 StartChar: .notdef
 Encoding: 65536 -1 0
@@ -32437,11 +32438,11 @@ EndTTInstrs
 LayerCount: 2
 Fore
 SplineSet
-158 1161 m 1,0,-1
- 177 1270 l 1,1,-1
- 805 1270 l 1,2,-1
- 786 1161 l 1,3,-1
- 158 1161 l 1,0,-1
+158 1161 m 5,0,-1
+ 177 1270 l 5,1,-1
+ 805 1270 l 5,2,-1
+ 786 1161 l 5,3,-1
+ 158 1161 l 5,0,-1
 EndSplineSet
 EndChar
 
@@ -62141,6 +62142,7 @@ SplineSet
  90 223 90 223 90 429 c 0,14,15
 EndSplineSet
 Kerns2: 632 -51 "'kern' Horizontal Kerning lookup 16 subtable"  630 -27 "'kern' Horizontal Kerning lookup 16 subtable"  627 -51 "'kern' Horizontal Kerning lookup 16 subtable"  624 -27 "'kern' Horizontal Kerning lookup 16 subtable"  622 -41 "'kern' Horizontal Kerning lookup 16 subtable"  621 -27 "'kern' Horizontal Kerning lookup 16 subtable"  620 -27 "'kern' Horizontal Kerning lookup 16 subtable"  618 -27 "'kern' Horizontal Kerning lookup 16 subtable"  615 -27 "'kern' Horizontal Kerning lookup 16 subtable"  613 -78 "'kern' Horizontal Kerning lookup 16 subtable"  612 -51 "'kern' Horizontal Kerning lookup 16 subtable"  608 -27 "'kern' Horizontal Kerning lookup 16 subtable"  607 -27 "'kern' Horizontal Kerning lookup 16 subtable" 
+Substitution2: "'locl' Localized Forms lookup 5-1" S_BE
 EndChar
 
 StartChar: uni0432
@@ -62460,6 +62462,7 @@ SplineSet
  753 854 753 854 753 748 c 0,0,1
 EndSplineSet
 Kerns2: 612 -27 "'kern' Horizontal Kerning lookup 16 subtable"  17 -27 "'kern' Horizontal Kerning lookup 16 subtable" 
+Substitution2: "'locl' Localized Forms lookup 5-1" imacron
 EndChar
 
 StartChar: uni0434
@@ -62564,6 +62567,7 @@ SplineSet
  680 858 680 858 579 858 c 0,26,27
 EndSplineSet
 Kerns2: 630 -27 "'kern' Horizontal Kerning lookup 16 subtable"  627 -27 "'kern' Horizontal Kerning lookup 16 subtable"  620 -27 "'kern' Horizontal Kerning lookup 16 subtable"  606 25 "'kern' Horizontal Kerning lookup 16 subtable" 
+Substitution2: "'locl' Localized Forms lookup 5-1" g
 EndChar
 
 StartChar: uni0435
@@ -63607,6 +63611,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 81 110 N 1 0 0 1 0 0 3
+Substitution2: "'locl' Localized Forms lookup 5-1" S_PE
 EndChar
 
 StartChar: uni0440
@@ -63640,6 +63645,7 @@ LayerCount: 2
 Fore
 Refer: 80 109 N 1 0 0 1 0 0 3
 Kerns2: 632 25 "'kern' Horizontal Kerning lookup 16 subtable"  620 -51 "'kern' Horizontal Kerning lookup 16 subtable"  608 25 "'kern' Horizontal Kerning lookup 16 subtable"  601 25 "'kern' Horizontal Kerning lookup 16 subtable"  17 25 "'kern' Horizontal Kerning lookup 16 subtable"  15 51 "'kern' Horizontal Kerning lookup 16 subtable" 
+Substitution2: "'locl' Localized Forms lookup 5-1" S_TE
 EndChar
 
 StartChar: uni0443
@@ -181788,7 +181794,7 @@ EndSplineSet
 EndChar
 
 StartChar: UNI2206
-Encoding: 65795 -1 2414
+Encoding: 65794 -1 2414
 Width: 1202
 GlyphClass: 2
 Flags: W
@@ -181798,7 +181804,7 @@ Refer: 506 916 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: circumflexacute
-Encoding: 65796 -1 2415
+Encoding: 65795 -1 2415
 Width: 0
 GlyphClass: 2
 Flags: W
@@ -181846,7 +181852,7 @@ EndSplineSet
 EndChar
 
 StartChar: circumflexgrave
-Encoding: 65797 -1 2416
+Encoding: 65796 -1 2416
 Width: 0
 GlyphClass: 2
 Flags: W
@@ -181894,7 +181900,7 @@ EndSplineSet
 EndChar
 
 StartChar: circumflexhook
-Encoding: 65798 -1 2417
+Encoding: 65797 -1 2417
 Width: 0
 GlyphClass: 2
 Flags: W
@@ -181951,7 +181957,7 @@ EndSplineSet
 EndChar
 
 StartChar: circumflextilde
-Encoding: 65799 -1 2418
+Encoding: 65798 -1 2418
 Width: 0
 GlyphClass: 2
 Flags: W
@@ -182018,7 +182024,7 @@ EndSplineSet
 EndChar
 
 StartChar: breveacute
-Encoding: 65800 -1 2419
+Encoding: 65799 -1 2419
 Width: 0
 GlyphClass: 2
 Flags: W
@@ -182081,7 +182087,7 @@ EndSplineSet
 EndChar
 
 StartChar: brevegrave
-Encoding: 65801 -1 2420
+Encoding: 65800 -1 2420
 Width: 0
 GlyphClass: 2
 Flags: W
@@ -182144,7 +182150,7 @@ EndSplineSet
 EndChar
 
 StartChar: brevehook
-Encoding: 65802 -1 2421
+Encoding: 65801 -1 2421
 Width: 0
 GlyphClass: 2
 Flags: W
@@ -182214,7 +182220,7 @@ EndSplineSet
 EndChar
 
 StartChar: brevetilde
-Encoding: 65803 -1 2422
+Encoding: 65802 -1 2422
 Width: 0
 GlyphClass: 2
 Flags: W
@@ -189403,7 +189409,7 @@ Ligature2: "'dlig' Discretionary Ligatures in Hebrew lookup 0 subtable" alef lam
 EndChar
 
 StartChar: lamedholamdagesh
-Encoding: 65804 -1 2560
+Encoding: 65803 -1 2560
 Width: 958
 GlyphClass: 2
 Flags: W
@@ -189440,7 +189446,7 @@ Ligature2: "'ccmp' Glyph Composition/Decomposition in Hebrew lookup 1 subtable" 
 EndChar
 
 StartChar: lamedholam
-Encoding: 65805 -1 2561
+Encoding: 65804 -1 2561
 Width: 958
 GlyphClass: 2
 Flags: W
@@ -189464,7 +189470,7 @@ Ligature2: "'ccmp' Glyph Composition/Decomposition in Hebrew lookup 1 subtable" 
 EndChar
 
 StartChar: finalkafqamats
-Encoding: 65806 -1 2562
+Encoding: 65805 -1 2562
 Width: 1006
 GlyphClass: 2
 Flags: W
@@ -189488,7 +189494,7 @@ Ligature2: "'ccmp' Glyph Composition/Decomposition in Hebrew lookup 1 subtable" 
 EndChar
 
 StartChar: finalkafsheva
-Encoding: 65807 -1 2563
+Encoding: 65806 -1 2563
 Width: 1006
 GlyphClass: 2
 Flags: W
@@ -189512,7 +189518,7 @@ Ligature2: "'ccmp' Glyph Composition/Decomposition in Hebrew lookup 1 subtable" 
 EndChar
 
 StartChar: aleflamedhatafsegol
-Encoding: 65808 -1 2564
+Encoding: 65807 -1 2564
 Width: 1206
 GlyphClass: 3
 Flags: W
@@ -189523,7 +189529,7 @@ Refer: 2458 1457 N 1 0 0 1 641 0 2
 EndChar
 
 StartChar: aleflamedsegol
-Encoding: 65809 -1 2565
+Encoding: 65808 -1 2565
 Width: 1206
 GlyphClass: 3
 Flags: W
@@ -189534,7 +189540,7 @@ Refer: 2463 1462 N 1 0 0 1 641 0 2
 EndChar
 
 StartChar: aleflamedtsere
-Encoding: 65810 -1 2566
+Encoding: 65809 -1 2566
 Width: 1206
 GlyphClass: 3
 Flags: W
@@ -189545,7 +189551,7 @@ Refer: 2462 1461 N 1 0 0 1 641 0 2
 EndChar
 
 StartChar: alternativelamed
-Encoding: 65811 -1 2567
+Encoding: 65810 -1 2567
 Width: 958
 GlyphClass: 2
 Flags: W
@@ -189555,7 +189561,7 @@ Refer: 2493 1500 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: alefdagesh
-Encoding: 65812 -1 2568
+Encoding: 65811 -1 2568
 Width: 1229
 GlyphClass: 2
 Flags: W
@@ -189567,7 +189573,7 @@ Ligature2: "'ccmp' Glyph Composition/Decomposition in Hebrew lookup 1 subtable" 
 EndChar
 
 StartChar: uni05B105BD
-Encoding: 65813 -1 2569
+Encoding: 65812 -1 2569
 Width: 0
 GlyphClass: 4
 Flags: W
@@ -189667,7 +189673,7 @@ Ligature2: "'ccmp' Glyph Composition/Decomposition in Hebrew lookup 1 subtable" 
 EndChar
 
 StartChar: uni05B205BD
-Encoding: 65814 -1 2570
+Encoding: 65813 -1 2570
 Width: 0
 GlyphClass: 4
 Flags: W
@@ -189745,7 +189751,7 @@ Ligature2: "'ccmp' Glyph Composition/Decomposition in Hebrew lookup 1 subtable" 
 EndChar
 
 StartChar: uni05B305BD
-Encoding: 65815 -1 2571
+Encoding: 65814 -1 2571
 Width: 0
 GlyphClass: 4
 Flags: W
@@ -189900,6 +189906,100 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 2153 8201 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: S_BE
+Encoding: 65815 -1 2580
+Width: 965
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+369.559 1188 m 0,0,1
+ 381.887 1246 381.887 1246 414.452 1291 c 128,-1,2
+ 447.017 1336 447.017 1336 495.106 1367 c 128,-1,3
+ 543.195 1398 543.195 1398 604.203 1414.5 c 128,-1,4
+ 665.21 1431 665.21 1431 734.21 1431 c 0,5,6
+ 802.21 1431 802.21 1431 851.939 1401.5 c 128,-1,7
+ 901.669 1372 901.669 1372 924.08 1341 c 1,8,-1
+ 864.215 1304 l 1,9,10
+ 821.205 1351 821.205 1351 719.205 1351 c 0,11,12
+ 638.205 1351 638.205 1351 587.203 1311 c 128,-1,13
+ 536.201 1271 536.201 1271 521.747 1203 c 0,14,15
+ 513.883 1166 513.883 1166 523.262 1132.5 c 128,-1,16
+ 532.641 1099 532.641 1099 555.414 1065 c 128,-1,17
+ 578.188 1031 578.188 1031 612.929 994.5 c 128,-1,18
+ 647.671 958 647.671 958 691.53 915 c 0,19,20
+ 744.266 862 744.266 862 781.712 810 c 128,-1,21
+ 819.159 758 819.159 758 839.362 702.5 c 128,-1,22
+ 859.565 647 859.565 647 862.387 585 c 128,-1,23
+ 865.208 523 865.208 523 849.691 450 c 0,24,25
+ 826.311 340 826.311 340 781.318 253 c 128,-1,26
+ 736.326 166 736.326 166 672.359 105 c 128,-1,27
+ 608.394 44 608.394 44 526.592 12 c 128,-1,28
+ 444.79 -20 444.79 -20 347.79 -20 c 0,29,30
+ 252.79 -20 252.79 -20 182.423 6.5 c 128,-1,31
+ 112.056 33 112.056 33 70.215 85.5 c 128,-1,32
+ 28.3742 138 28.3742 138 17.0598 216.5 c 128,-1,33
+ 5.74527 295 5.74527 295 27.8518 399 c 0,34,35
+ 50.1701 504 50.1701 504 96.0686 583.5 c 128,-1,36
+ 141.967 663 141.967 663 204.189 720.5 c 128,-1,37
+ 266.411 778 266.411 778 340.882 815.5 c 128,-1,38
+ 415.354 853 415.354 853 495.605 873 c 1,39,40
+ 459.894 912 459.894 912 432.259 949 c 128,-1,41
+ 404.623 986 404.623 986 387.2 1024 c 128,-1,42
+ 369.777 1062 369.777 1062 364.886 1102.5 c 128,-1,43
+ 359.994 1143 359.994 1143 369.559 1188 c 0,0,1
+198.151 391 m 0,44,45
+ 181.997 315 181.997 315 183.531 254 c 128,-1,46
+ 185.064 193 185.064 193 205.818 149.5 c 128,-1,47
+ 226.572 106 226.572 106 266.077 82.5 c 128,-1,48
+ 305.582 59 305.582 59 365.582 59 c 0,49,50
+ 474.582 59 474.582 59 552.606 148.5 c 128,-1,51
+ 630.63 238 630.63 238 669.74 422 c 0,52,53
+ 682.494 482 682.494 482 682.547 534 c 128,-1,54
+ 682.6 586 682.6 586 669.377 632 c 128,-1,55
+ 656.154 678 656.154 678 629.976 719.5 c 128,-1,56
+ 603.797 761 603.797 761 565.299 801 c 0,57,58
+ 559.362 806 559.362 806 554.425 811 c 128,-1,59
+ 549.487 816 549.487 816 544.551 821 c 1,60,61
+ 491.937 804 491.937 804 439.985 776 c 128,-1,62
+ 388.033 748 388.033 748 342.118 699 c 128,-1,63
+ 296.203 650 296.203 650 258.867 575.5 c 128,-1,64
+ 221.532 501 221.532 501 198.151 391 c 0,44,45
+EndSplineSet
+EndChar
+
+StartChar: S_TE
+Encoding: 65816 -1 2581
+Width: 1546
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+298 1161 m 5
+ 317 1270 l 5
+ 1515 1270 l 5
+ 1496 1161 l 5
+ 298 1161 l 5
+EndSplineSet
+Refer: 625 1096 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: S_PE
+Encoding: 65817 -1 2582
+Width: 1024
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+268 1161 m 1
+ 287 1270 l 1
+ 1005 1270 l 5
+ 986 1161 l 5
+ 268 1161 l 1
+EndSplineSet
+Refer: 88 117 N 1 0 0 1 0 0 2
 EndChar
 EndChars
 EndSplineFont

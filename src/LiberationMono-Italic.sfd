@@ -19,7 +19,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1277886966
-ModificationTime: 1348548925
+ModificationTime: 1348730337
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -53,6 +53,7 @@ OS2FamilyClass: 2053
 OS2Vendor: '1ASC'
 OS2CodePages: 600001bf.dff70000
 OS2UnicodeRanges: e0000aff.400078ff.00000001.00000000
+Lookup: 1 0 0 "'locl' Localized Forms lookup 4"  {"'locl' Localized Forms lookup 4-1"  } ['locl' ('cyrl' <'SRB ' > 'cyrl' <'MKD ' > ) ]
 Lookup: 4 1 0 "'dlig' Discretionary Ligatures in Hebrew lookup 0"  {"'dlig' Discretionary Ligatures in Hebrew lookup 0 subtable"  } ['dlig' ('hebr' <'dflt' > ) ]
 Lookup: 4 1 0 "'ccmp' Glyph Composition/Decomposition in Hebrew lookup 1"  {"'ccmp' Glyph Composition/Decomposition in Hebrew lookup 1 subtable"  } ['ccmp' ('hebr' <'dflt' > ) ]
 Lookup: 6 1 0 "'ccmp' Glyph Composition/Decomposition in Hebrew lookup 2"  {"'ccmp' Glyph Composition/Decomposition in Hebrew lookup 2 subtable"  } ['ccmp' ('hebr' <'dflt' > ) ]
@@ -4117,12 +4118,12 @@ NameList: Adobe Glyph List
 DisplaySize: -36
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 65412 18 14
+WinInfo: 72 18 14
 BeginPrivate: 0
 EndPrivate
 TeXData: 1 0 -562637 629248 314624 209749 553984 -1048576 209749 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
 AnchorClass2: "Anchor-0"  "'mark' Mark Positioning in Hebrew lookup 0 subtable" "Anchor-1"  "'mark' Mark Positioning in Hebrew lookup 1 subtable" "Anchor-2"  "'mark' Mark Positioning in Hebrew lookup 2 subtable" "Anchor-3"  "'mark' Mark Positioning in Hebrew lookup 3 subtable" "Anchor-4"  "'mark' Mark Positioning in Hebrew lookup 3 subtable" "Anchor-5"  "'mark' Mark Positioning in Hebrew lookup 4 subtable" "Anchor-6"  "'mark' Mark Positioning in Hebrew lookup 4 subtable" "Anchor-7"  "'mark' Mark Positioning in Hebrew lookup 9 subtable" "Anchor-8"  "'mark' Mark Positioning in Hebrew lookup 10 subtable" "Anchor-9"  "'mark' Mark Positioning in Hebrew lookup 11 subtable" "Anchor-10"  "Mark to base attachment lookup 15 subtable" "Anchor-11"  "Mark to base attachment lookup 16 subtable" "Anchor-12"  "Mark to base attachment lookup 17 subtable" "Anchor-13"  "Mark to base attachment lookup 18 subtable" 
-BeginChars: 65653 2391
+BeginChars: 65656 2394
 
 StartChar: .notdef
 Encoding: 65536 -1 0
@@ -16979,11 +16980,11 @@ EndTTInstrs
 LayerCount: 2
 Fore
 SplineSet
-1023 1236 m 1,0,-1
- 472 1236 l 1,1,-1
- 497 1363 l 1,2,-1
- 1048 1363 l 1,3,-1
- 1023 1236 l 1,0,-1
+1023 1236 m 5,0,-1
+ 472 1236 l 5,1,-1
+ 497 1363 l 5,2,-1
+ 1048 1363 l 5,3,-1
+ 1023 1236 l 5,0,-1
 EndSplineSet
 EndChar
 
@@ -38043,6 +38044,7 @@ SplineSet
  396 886 396 886 511.5 956.5 c 128,-1,40
  627 1027 627 1027 770 1027 c 0,16,17
 EndSplineSet
+Substitution2: "'locl' Localized Forms lookup 4-1" S_BE
 EndChar
 
 StartChar: uni0432
@@ -38173,6 +38175,7 @@ SplineSet
  370 1082 l 1,5,-1
  1155 1082 l 1,0,-1
 EndSplineSet
+Substitution2: "'locl' Localized Forms lookup 4-1" imacron
 EndChar
 
 StartChar: uni0434
@@ -38256,6 +38259,7 @@ SplineSet
  1065 142 l 1,19,-1
  958 -408 l 1,6,-1
 EndSplineSet
+Substitution2: "'locl' Localized Forms lookup 4-1" g
 EndChar
 
 StartChar: uni0435
@@ -38903,6 +38907,7 @@ SplineSet
  286 1082 l 1,7,-1
  1153 1082 l 1,0,-1
 EndSplineSet
+Substitution2: "'locl' Localized Forms lookup 4-1" S_PE
 EndChar
 
 StartChar: uni0440
@@ -38971,6 +38976,7 @@ SplineSet
  208 940 l 1,7,-1
  235 1082 l 1,0,-1
 EndSplineSet
+Substitution2: "'locl' Localized Forms lookup 4-1" S_TE
 EndChar
 
 StartChar: uni0443
@@ -123829,6 +123835,88 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 822 601 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: S_BE
+Encoding: 65653 -1 2391
+Width: 1229
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+865.127 471 m 0,0,1
+ 883.194 556 883.194 556 874.104 628.5 c 128,-1,2
+ 865.015 701 865.015 701 842.736 758.5 c 128,-1,3
+ 820.459 816 820.459 816 791.599 859 c 128,-1,4
+ 762.738 902 762.738 902 742.479 929 c 1,5,6
+ 663.951 903 663.951 903 588.343 862.5 c 128,-1,7
+ 512.734 822 512.734 822 449.618 765 c 128,-1,8
+ 386.503 708 386.503 708 340.986 635 c 128,-1,9
+ 295.47 562 295.47 562 276.127 471 c 0,10,11
+ 259.973 395 259.973 395 263.55 329.5 c 128,-1,12
+ 267.128 264 267.128 264 293.425 216 c 128,-1,13
+ 319.722 168 319.722 168 369.377 140.5 c 128,-1,14
+ 419.031 113 419.031 113 496.031 113 c 0,15,16
+ 577.031 113 577.031 113 638.771 140 c 128,-1,17
+ 700.51 167 700.51 167 745.106 214.5 c 128,-1,18
+ 789.702 262 789.702 262 819.125 327.5 c 128,-1,19
+ 848.547 393 848.547 393 865.127 471 c 0,0,1
+655.877 1359 m 1,20,-1
+ 890.222 1036 l 2,21,22
+ 959.821 940.069 959.821 940.069 971.202 923 c 0,23,24
+ 1009.87 865 1009.87 865 1035.13 798 c 128,-1,25
+ 1060.39 731 1060.39 731 1067.99 651.5 c 128,-1,26
+ 1075.59 572 1075.59 572 1054.98 475 c 0,27,28
+ 1031.6 365 1031.6 365 980.253 274 c 128,-1,29
+ 928.91 183 928.91 183 853.488 117.5 c 128,-1,30
+ 778.065 52 778.065 52 680.413 16 c 128,-1,31
+ 582.762 -20 582.762 -20 467.762 -20 c 0,32,33
+ 353.762 -20 353.762 -20 270.988 14 c 128,-1,34
+ 188.216 48 188.216 48 139.213 111.5 c 128,-1,35
+ 90.21 175 90.21 175 76.6592 266.5 c 128,-1,36
+ 63.1074 358 63.1074 358 87.5518 473 c 0,37,38
+ 111.358 585 111.358 585 166.563 673 c 128,-1,39
+ 221.77 761 221.77 761 299.615 828.5 c 128,-1,40
+ 377.463 896 377.463 896 472.272 944.5 c 128,-1,41
+ 567.081 993 567.081 993 670.096 1026 c 1,42,-1
+ 450.839 1340 l 1,43,44
+ 443.1 1349.11 443.1 1349.11 476.133 1459 c 1,45,46
+ 922.538 1647.01 922.538 1647.01 1206.24 1563 c 1,47,-1
+ 1178.18 1431 l 1,48,49
+ 963.967 1514.01 963.967 1514.01 655.877 1359 c 1,20,-1
+EndSplineSet
+EndChar
+
+StartChar: S_TE
+Encoding: 65654 -1 2392
+Width: 1229
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+1207 1236 m 5,0,-1
+ 247 1236 l 5,1,-1
+ 272 1363 l 5,2,-1
+ 1232 1363 l 5,3,-1
+ 1207 1236 l 5,0,-1
+EndSplineSet
+Refer: 624 1096 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: S_PE
+Encoding: 65655 -1 2393
+Width: 1229
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+1167 1236 m 1,0,-1
+ 327 1236 l 1,1,-1
+ 352 1363 l 1,2,-1
+ 1192 1363 l 1,3,-1
+ 1167 1236 l 1,0,-1
+EndSplineSet
+Refer: 88 117 N 1 0 0 1 0 0 2
 EndChar
 EndChars
 EndSplineFont
