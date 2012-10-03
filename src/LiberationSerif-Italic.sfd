@@ -19,7 +19,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1123398000
-ModificationTime: 1348727064
+ModificationTime: 1349275094
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -3779,7 +3779,7 @@ ShortTable: maxp 16
   1
 EndShort
 LangName: 1033 "" "" "" "Ascender - Liberation Serif" "" "Version 2.00.0" "" "Liberation is a trademark of Red Hat, Inc. registered in U.S. Patent and Trademark Office and certain other jurisdictions." "Ascender Corporation" "Steve Matteson" "Based on Tinos, which was designed by Steve Matteson as an innovative, refreshing serif design that is metrically compatible with Times New Roman+ISIA. Tinos offers improved on-screen readability characteristics and the pan-European WGL character set and solves the needs of developers looking for width-compatible fonts to address document portability across platforms." "http://www.ascendercorp.com/" "http://www.ascendercorp.com/typedesigners.html" "Licensed under the SIL Open Font License, Version 1.1" "http://scripts.sil.org/OFL" 
-GaspTable: 2 8 14 65535 15
+GaspTable: 3 8 2 20 1 65535 3 0
 Encoding: UnicodeBmp
 UnicodeInterp: none
 NameList: Adobe Glyph List
@@ -189911,7 +189911,7 @@ EndChar
 StartChar: S_BE
 Encoding: 65815 -1 2580
 Width: 965
-Flags: HW
+Flags: W
 LayerCount: 2
 Fore
 SplineSet
@@ -189973,15 +189973,15 @@ EndChar
 StartChar: S_TE
 Encoding: 65816 -1 2581
 Width: 1546
-Flags: HW
+Flags: W
 LayerCount: 2
 Fore
 SplineSet
-298 1161 m 5
- 317 1270 l 5
- 1515 1270 l 5
- 1496 1161 l 5
- 298 1161 l 5
+298 1161 m 5,0,-1
+ 317 1270 l 5,1,-1
+ 1515 1270 l 5,2,-1
+ 1496 1161 l 5,3,-1
+ 298 1161 l 5,0,-1
 EndSplineSet
 Refer: 625 1096 N 1 0 0 1 0 0 2
 EndChar
@@ -189989,15 +189989,15 @@ EndChar
 StartChar: S_PE
 Encoding: 65817 -1 2582
 Width: 1024
-Flags: HW
+Flags: W
 LayerCount: 2
 Fore
 SplineSet
-268 1161 m 1
- 287 1270 l 1
- 1005 1270 l 5
- 986 1161 l 5
- 268 1161 l 1
+268 1161 m 1,0,-1
+ 287 1270 l 1,1,-1
+ 1005 1270 l 5,2,-1
+ 986 1161 l 5,3,-1
+ 268 1161 l 1,0,-1
 EndSplineSet
 Refer: 88 117 N 1 0 0 1 0 0 2
 EndChar

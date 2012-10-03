@@ -1,7 +1,9 @@
+* Wed Oct 03 2012 Pravin Satpute <psatpute AT redhat DOT com>
 - Resolved "Glyphs with multiple unicode encodings inhibit subsetting" #851790
 - Resolved #851791, #854601 and #851825
-- Following GASP table version 1 as per Croscore fonts
+- Following GASP table version as per Liberation old version. (Anti-aliasing disabled)
 - Added support for Serbian glyphs for wikipedia #657849
+- In Monospace fonts, isFixedPitch bit set via script for getting it recognized as Monospace in putty.exe
 
 * Fri Jul 06 2012 Pravin Satpute <psatpute AT redhat DOT com>
 - Initial version of Liberation fonts based on croscore fonts version 1.21.0

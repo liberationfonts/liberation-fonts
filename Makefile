@@ -4,6 +4,7 @@
 # 4web:                        dtto for TTF, WOFF, SVG, and EOT
 
 FONTFORGE    = fontforge
+PYTHON       = python
 FONTLINT     = fontlint
 
 # TTF->EOT converters in fallback order
@@ -24,13 +25,14 @@ else
 endif
 
 EXPORTSCRIPT = scripts/fontexport.pe
+FONTTOOLSCRIPT = scripts/setisFixedPitch-fonttools.py
 SCRIPTS      = $(EXPORTSCRIPT) scripts/sfd2ttf.pe scripts/ttf2sfd.pe
 MISCFILES    = AUTHORS ChangeLog LICENSE README TODO
 SRCDIR       = src
 EXPORTDIR    = export
 CHECK_PREFIX = check
 
-VER          = 2.00.0
+VER          = 2.00.1
 NAME         = Liberation
 VARIANTS     = \
     Mono-Regular       Mono-Bold        Mono-Italic       Mono-BoldItalic       \
@@ -54,6 +56,7 @@ $(EXPORTDIR):
 FORMATS = ttf
 ttf-dir:: $(SFDFILES)
 	$(FONTFORGE) -script $(EXPORTSCRIPT) -ttf $^
+	$(PYTHON) $(FONTTOOLSCRIPT) src/LiberationMono-*.ttf	
 	mkdir -p $(DISTPREFIX_TTF)
 	mv $(addsuffix .ttf,$(basename $^)) $(DISTPREFIX_TTF)
 
