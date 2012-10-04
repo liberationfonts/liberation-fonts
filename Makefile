@@ -56,7 +56,11 @@ $(EXPORTDIR):
 FORMATS = ttf
 ttf-dir:: $(SFDFILES)
 	$(FONTFORGE) -script $(EXPORTSCRIPT) -ttf $^
-	$(PYTHON) $(FONTTOOLSCRIPT) src/LiberationMono-*.ttf	
+	$(PYTHON) $(FONTTOOLSCRIPT) src/LiberationMono-*.ttf
+	mv  src/LiberationMono-Regular-fixed.ttf  src/LiberationMono-Regular.ttf
+	mv  src/LiberationMono-Italic-fixed.ttf  src/LiberationMono-Italic.ttf
+	mv  src/LiberationMono-Bold-fixed.ttf  src/LiberationMono-Bold.ttf
+	mv  src/LiberationMono-BoldItalic-fixed.ttf  src/LiberationMono-BoldItalic.ttf
 	mkdir -p $(DISTPREFIX_TTF)
 	mv $(addsuffix .ttf,$(basename $^)) $(DISTPREFIX_TTF)
 
@@ -94,10 +98,15 @@ dist-sfd:: $(SFDFILES)
 	  && mkdir -p $${tempdir}/$(DISTPREFIX)/{src,scripts} \
 	  && cp Makefile $(MISCFILES) $${tempdir}/$(DISTPREFIX) \
 	  && cp $(SFDFILES) $${tempdir}/$(DISTPREFIX)/src \
-	  && cp $(SCRIPTS) $${tempdir}/$(DISTPREFIX)/scripts \
+	  && cp $(SCRIPTS) $(FONTTOOLSCRIPT) $${tempdir}/$(DISTPREFIX)/scripts \
 	  && tar Cczvhf $${tempdir} $(DISTPREFIX).tar.gz $(DISTPREFIX) \
 	  || echo 'Problem encountered ($@)'; rm -rf -- $${tempdir}
 dist-ttf: ttf
+	$(PYTHON) $(FONTTOOLSCRIPT) export/LiberationMono-*.ttf
+	mv  export/LiberationMono-Regular-fixed.ttf  export/LiberationMono-Regular.ttf
+	mv  export/LiberationMono-Italic-fixed.ttf  export/LiberationMono-Italic.ttf
+	mv  export/LiberationMono-Bold-fixed.ttf  export/LiberationMono-Bold.ttf
+	mv  export/LiberationMono-BoldItalic-fixed.ttf  export/LiberationMono-BoldItalic.ttf
 	tempdir=$$(mktemp -d) \
 	  && mkdir -p $${tempdir}/$(DISTPREFIX_TTF) \
 	  && cp $(MISCFILES) $(TTFFILES) $${tempdir}/$(DISTPREFIX_TTF) \
