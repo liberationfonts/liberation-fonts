@@ -24,7 +24,7 @@
 # Usage:
 #
 # $ ./setisFixedPitch-fonttools.py FontIn.ttf
-# input font will be overwriten and backup will be created for input font
+# "fontname"-fixed.ttf will be created with fixed isFixedPitch bit.
 
 # Import our system library and fontTools ttLib
 import os, sys
@@ -49,13 +49,3 @@ for i in range(1, len(sys.argv)):
 	newfont = fontfile[0:-4] + '-fixed' + fontfile[-4:]
 	font.save(newfont)
 	print newfont, "saved."
-
-#os.system("mv" + " "  + "src/LiberationMono-Regular-fixed.ttf" + " " + "src/LiberationMono-Regular.ttf")
-#os.system("mv" + " "  + "src/LiberationMono-Italic-fixed.ttf" + " " + "src/LiberationMono-Italic.ttf")
-#os.system("mv" + " "  + "src/LiberationMono-Bold-fixed.ttf" + " " + "src/LiberationMono-Bold.ttf")
-#os.system("mv" + " "  + "src/LiberationMono-BoldItalic-fixed.ttf" + " " + "src/LiberationMono-BoldItalic.ttf")
-
-#os.system("mv" + " "  + "export/LiberationMono-Regular-fixed.ttf" + " " + "export/LiberationMono-Regular.ttf")
-#os.system("mv" + " "  + "export/LiberationMono-Italic-fixed.ttf" + " " + "export/LiberationMono-Italic.ttf")
-#os.system("mv" + " "  + "export/LiberationMono-Bold-fixed.ttf" + " " + "export/LiberationMono-Bold.ttf")
-#os.system("mv" + " "  + "export/LiberationMono-BoldItalic-fixed.ttf" + " " + "export/LiberationMono-BoldItalic.ttf")
