@@ -1,4 +1,5 @@
 - Added U+2007 character in Liberation Mono
+- Imported missing gpos tables from Arimo
 
 * Thu Oct 04 2012 Pravin Satpute <psatpute AT redhat DOT com>
 - Resolved "Glyphs with multiple unicode encodings inhibit subsetting" #851790
