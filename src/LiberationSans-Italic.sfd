@@ -19,7 +19,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1277743413
-ModificationTime: 1349271481
+ModificationTime: 1394533999
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -77,14 +77,14 @@ Lookup: 264 1 0 "'mark' Mark Positioning in Hebrew lookup 14"  {"'mark' Mark Pos
 Lookup: 264 1 0 "'mark' Mark Positioning in Hebrew lookup 15"  {"'mark' Mark Positioning in Hebrew lookup 15 contextual 0"  "'mark' Mark Positioning in Hebrew lookup 15 contextual 1"  "'mark' Mark Positioning in Hebrew lookup 15 contextual 2"  "'mark' Mark Positioning in Hebrew lookup 15 contextual 3"  "'mark' Mark Positioning in Hebrew lookup 15 contextual 4"  "'mark' Mark Positioning in Hebrew lookup 15 contextual 5"  "'mark' Mark Positioning in Hebrew lookup 15 contextual 6"  "'mark' Mark Positioning in Hebrew lookup 15 contextual 7"  "'mark' Mark Positioning in Hebrew lookup 15 contextual 8"  "'mark' Mark Positioning in Hebrew lookup 15 contextual 9"  "'mark' Mark Positioning in Hebrew lookup 15 contextual 10"  "'mark' Mark Positioning in Hebrew lookup 15 contextual 11"  "'mark' Mark Positioning in Hebrew lookup 15 contextual 12"  } ['mark' ('hebr' <'dflt' > ) ]
 Lookup: 264 1 0 "'mark' Mark Positioning in Hebrew lookup 16"  {"'mark' Mark Positioning in Hebrew lookup 16 contextual 0"  "'mark' Mark Positioning in Hebrew lookup 16 contextual 1"  } ['mark' ('hebr' <'dflt' > ) ]
 Lookup: 258 8 0 "'kern' Horizontal Kerning lookup 17"  {"'kern' Horizontal Kerning lookup 17 subtable"  } ['kern' ('cyrl' <'dflt' > 'cyrl' <'SRB ' > 'cyrl' <'MKD ' > 'grek' <'dflt' > 'latn' <'dflt' > ) ]
-Lookup: 257 1 0 "Single Positioning lookup 18"  {"Single Positioning lookup 18 subtable"  } []
-Lookup: 260 1 0 "Mark to base attachment lookup 19"  {"Mark to base attachment lookup 19 subtable"  } []
-Lookup: 260 1 0 "Mark to base attachment lookup 20"  {"Mark to base attachment lookup 20 subtable"  } []
-Lookup: 260 1 0 "Mark to base attachment lookup 21"  {"Mark to base attachment lookup 21 subtable"  } []
-Lookup: 260 1 0 "Mark to base attachment lookup 22"  {"Mark to base attachment lookup 22 subtable"  } []
-Lookup: 257 1 0 "Single Positioning lookup 23"  {"Single Positioning lookup 23 subtable"  } []
-Lookup: 257 1 0 "Single Positioning lookup 24"  {"Single Positioning lookup 24 subtable"  } []
-Lookup: 258 1 0 "Pairwise Positioning (kerning) lookup 25"  {"Pairwise Positioning (kerning) lookup 25 subtable"  } []
+Lookup: 257 1 0 "Single Positioning lookup 28"  {"Single Positioning lookup 28 subtable"  } []
+Lookup: 260 1 0 "Mark to base attachment lookup 29"  {"Mark to base attachment lookup 29 subtable"  } []
+Lookup: 260 1 0 "Mark to base attachment lookup 30"  {"Mark to base attachment lookup 30 subtable"  } []
+Lookup: 260 1 0 "Mark to base attachment lookup 31"  {"Mark to base attachment lookup 31 subtable"  } []
+Lookup: 260 1 0 "Mark to base attachment lookup 32"  {"Mark to base attachment lookup 32 subtable"  } []
+Lookup: 257 1 0 "Single Positioning lookup 33"  {"Single Positioning lookup 33 subtable"  } []
+Lookup: 257 1 0 "Single Positioning lookup 34"  {"Single Positioning lookup 34 subtable"  } []
+Lookup: 258 1 0 "Pairwise Positioning (kerning) lookup 35"  {"Pairwise Positioning (kerning) lookup 35 subtable"  } []
 MarkAttachClasses: 1
 DEI: 91125
 ChainSub2: coverage "'ccmp' Glyph Composition/Decomposition in Hebrew lookup 2 subtable"  0 0 0 1
@@ -102,7 +102,7 @@ ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 16 contextual 1"  
   BCoverage: 6 dagesh
   BCoverage: 4 ayin
  1
-  SeqLookup: 0 "Pairwise Positioning (kerning) lookup 25" 
+  SeqLookup: 0 "Pairwise Positioning (kerning) lookup 35" 
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 16 contextual 0"  0 0 0 1
  2 2 0
@@ -111,7 +111,7 @@ ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 16 contextual 0"  
   BCoverage: 5 holam
   BCoverage: 4 ayin
  1
-  SeqLookup: 0 "Pairwise Positioning (kerning) lookup 25" 
+  SeqLookup: 0 "Pairwise Positioning (kerning) lookup 35" 
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 15 contextual 12"  0 0 0 1
  1 2 0
@@ -119,7 +119,7 @@ ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 15 contextual 12" 
   BCoverage: 5 meteg
   BCoverage: 6 qamats
  1
-  SeqLookup: 0 "Single Positioning lookup 24" 
+  SeqLookup: 0 "Single Positioning lookup 34" 
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 15 contextual 11"  0 0 0 1
  1 2 0
@@ -127,7 +127,7 @@ ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 15 contextual 11" 
   BCoverage: 7 uni05A4
   BCoverage: 6 qamats
  1
-  SeqLookup: 0 "Single Positioning lookup 24" 
+  SeqLookup: 0 "Single Positioning lookup 34" 
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 15 contextual 10"  0 0 0 1
  1 2 0
@@ -135,7 +135,7 @@ ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 15 contextual 10" 
   BCoverage: 7 uni05A3
   BCoverage: 6 qamats
  1
-  SeqLookup: 0 "Single Positioning lookup 24" 
+  SeqLookup: 0 "Single Positioning lookup 34" 
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 15 contextual 9"  0 0 0 1
  1 2 0
@@ -143,7 +143,7 @@ ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 15 contextual 9"  
   BCoverage: 7 uni059A
   BCoverage: 6 qamats
  1
-  SeqLookup: 0 "Single Positioning lookup 24" 
+  SeqLookup: 0 "Single Positioning lookup 34" 
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 15 contextual 8"  0 0 0 1
  1 2 0
@@ -151,7 +151,7 @@ ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 15 contextual 8"  
   BCoverage: 7 uni0596
   BCoverage: 6 qamats
  1
-  SeqLookup: 0 "Single Positioning lookup 24" 
+  SeqLookup: 0 "Single Positioning lookup 34" 
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 15 contextual 7"  0 0 0 1
  1 2 0
@@ -159,7 +159,7 @@ ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 15 contextual 7"  
   BCoverage: 5 hiriq
   BCoverage: 6 qamats
  1
-  SeqLookup: 0 "Single Positioning lookup 24" 
+  SeqLookup: 0 "Single Positioning lookup 34" 
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 15 contextual 6"  0 0 0 1
  1 2 0
@@ -167,7 +167,7 @@ ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 15 contextual 6"  
   BCoverage: 5 sheva
   BCoverage: 6 qamats
  1
-  SeqLookup: 0 "Single Positioning lookup 24" 
+  SeqLookup: 0 "Single Positioning lookup 34" 
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 15 contextual 5"  0 0 0 1
  1 2 0
@@ -175,7 +175,7 @@ ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 15 contextual 5"  
   BCoverage: 7 uni0596
   BCoverage: 5 patah
  1
-  SeqLookup: 0 "Single Positioning lookup 24" 
+  SeqLookup: 0 "Single Positioning lookup 34" 
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 15 contextual 4"  0 0 0 1
  1 2 0
@@ -183,7 +183,7 @@ ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 15 contextual 4"  
   BCoverage: 7 uni059A
   BCoverage: 5 segol
  1
-  SeqLookup: 0 "Single Positioning lookup 24" 
+  SeqLookup: 0 "Single Positioning lookup 34" 
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 15 contextual 3"  0 0 0 1
  1 2 0
@@ -191,7 +191,7 @@ ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 15 contextual 3"  
   BCoverage: 7 uni05A3
   BCoverage: 5 segol
  1
-  SeqLookup: 0 "Single Positioning lookup 24" 
+  SeqLookup: 0 "Single Positioning lookup 34" 
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 15 contextual 2"  0 0 0 1
  1 2 0
@@ -199,7 +199,7 @@ ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 15 contextual 2"  
   BCoverage: 5 meteg
   BCoverage: 5 tsere
  1
-  SeqLookup: 0 "Single Positioning lookup 24" 
+  SeqLookup: 0 "Single Positioning lookup 34" 
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 15 contextual 1"  0 0 0 1
  1 2 0
@@ -207,7 +207,7 @@ ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 15 contextual 1"  
   BCoverage: 7 uni05A3
   BCoverage: 5 tsere
  1
-  SeqLookup: 0 "Single Positioning lookup 24" 
+  SeqLookup: 0 "Single Positioning lookup 34" 
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 15 contextual 0"  0 0 0 1
  1 2 0
@@ -215,7 +215,7 @@ ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 15 contextual 0"  
   BCoverage: 5 meteg
   BCoverage: 5 hiriq
  1
-  SeqLookup: 0 "Single Positioning lookup 24" 
+  SeqLookup: 0 "Single Positioning lookup 34" 
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 14 contextual 7"  0 0 0 1
  1 2 0
@@ -223,7 +223,7 @@ ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 14 contextual 7"  
   BCoverage: 5 meteg
   BCoverage: 195 gimel dalet vav zayin yod lamed nun resh daletwide lamedwide reshwide gimeldagesh daletdagesh vavdagesh zayindagesh yoddagesh lameddagesh nundagesh reshdagesh vavholam lamedholamdagesh lamedholam
  1
-  SeqLookup: 0 "Single Positioning lookup 23" 
+  SeqLookup: 0 "Single Positioning lookup 33" 
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 14 contextual 6"  0 0 0 1
  1 3 0
@@ -232,7 +232,7 @@ ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 14 contextual 6"  
   BCoverage: 6 qamats
   BCoverage: 195 gimel dalet vav zayin yod lamed nun resh daletwide lamedwide reshwide gimeldagesh daletdagesh vavdagesh zayindagesh yoddagesh lameddagesh nundagesh reshdagesh vavholam lamedholamdagesh lamedholam
  1
-  SeqLookup: 0 "Single Positioning lookup 23" 
+  SeqLookup: 0 "Single Positioning lookup 33" 
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 14 contextual 5"  0 0 0 1
  1 3 0
@@ -241,7 +241,7 @@ ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 14 contextual 5"  
   BCoverage: 5 patah
   BCoverage: 195 gimel dalet vav zayin yod lamed nun resh daletwide lamedwide reshwide gimeldagesh daletdagesh vavdagesh zayindagesh yoddagesh lameddagesh nundagesh reshdagesh vavholam lamedholamdagesh lamedholam
  1
-  SeqLookup: 0 "Single Positioning lookup 23" 
+  SeqLookup: 0 "Single Positioning lookup 33" 
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 14 contextual 4"  0 0 0 1
  1 3 0
@@ -250,7 +250,7 @@ ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 14 contextual 4"  
   BCoverage: 5 tsere
   BCoverage: 195 gimel dalet vav zayin yod lamed nun resh daletwide lamedwide reshwide gimeldagesh daletdagesh vavdagesh zayindagesh yoddagesh lameddagesh nundagesh reshdagesh vavholam lamedholamdagesh lamedholam
  1
-  SeqLookup: 0 "Single Positioning lookup 23" 
+  SeqLookup: 0 "Single Positioning lookup 33" 
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 14 contextual 3"  0 0 0 1
  1 3 0
@@ -259,7 +259,7 @@ ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 14 contextual 3"  
   BCoverage: 5 hiriq
   BCoverage: 195 gimel dalet vav zayin yod lamed nun resh daletwide lamedwide reshwide gimeldagesh daletdagesh vavdagesh zayindagesh yoddagesh lameddagesh nundagesh reshdagesh vavholam lamedholamdagesh lamedholam
  1
-  SeqLookup: 0 "Single Positioning lookup 23" 
+  SeqLookup: 0 "Single Positioning lookup 33" 
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 14 contextual 2"  0 0 0 1
  1 3 0
@@ -268,7 +268,7 @@ ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 14 contextual 2"  
   BCoverage: 5 sheva
   BCoverage: 195 gimel dalet vav zayin yod lamed nun resh daletwide lamedwide reshwide gimeldagesh daletdagesh vavdagesh zayindagesh yoddagesh lameddagesh nundagesh reshdagesh vavholam lamedholamdagesh lamedholam
  1
-  SeqLookup: 0 "Single Positioning lookup 23" 
+  SeqLookup: 0 "Single Positioning lookup 33" 
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 14 contextual 1"  0 0 0 1
  1 3 0
@@ -277,7 +277,7 @@ ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 14 contextual 1"  
   BCoverage: 5 sheva
   BCoverage: 195 gimel dalet vav zayin yod lamed nun resh daletwide lamedwide reshwide gimeldagesh daletdagesh vavdagesh zayindagesh yoddagesh lameddagesh nundagesh reshdagesh vavholam lamedholamdagesh lamedholam
  1
-  SeqLookup: 0 "Single Positioning lookup 23" 
+  SeqLookup: 0 "Single Positioning lookup 33" 
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 14 contextual 0"  0 0 0 1
  1 2 0
@@ -285,7 +285,7 @@ ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 14 contextual 0"  
   BCoverage: 131 sheva hatafsegol hatafpatah hatafqamats hiriq tsere segol patah qamats qubuts meteg qamatsqatan uni05B105BD uni05B205BD uni05B305BD
   BCoverage: 195 gimel dalet vav zayin yod lamed nun resh daletwide lamedwide reshwide gimeldagesh daletdagesh vavdagesh zayindagesh yoddagesh lameddagesh nundagesh reshdagesh vavholam lamedholamdagesh lamedholam
  1
-  SeqLookup: 0 "Single Positioning lookup 23" 
+  SeqLookup: 0 "Single Positioning lookup 33" 
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 10 contextual 3"  0 0 0 1
  1 2 0
@@ -293,7 +293,7 @@ ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 10 contextual 3"  
   BCoverage: 79 uni0591 uni0596 uni059B uni05A2 uni05A3 uni05A4 uni05A5 uni05A6 uni05A7 uni05AA
   BCoverage: 422 yodyod_patah shinshindot shinsindot shindageshshindot shindageshsindot alefpatah alefqamats alefmapiq betdagesh gimeldagesh daletdagesh hedagesh vavdagesh zayindagesh tetdagesh yoddagesh finalkafdagesh kafdagesh lameddagesh memdagesh nundagesh samekhdagesh finalpedagesh pedagesh tsadidagesh qofdagesh reshdagesh shindagesh tavdagesh vavholam betrafe kafrafe perafe lamedholamdagesh lamedholam finalkafqamats finalkafsheva
  1
-  SeqLookup: 0 "Mark to base attachment lookup 22" 
+  SeqLookup: 0 "Mark to base attachment lookup 32" 
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 10 contextual 2"  0 0 0 1
  1 2 0
@@ -301,7 +301,7 @@ ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 10 contextual 2"  
   BCoverage: 131 sheva hatafsegol hatafpatah hatafqamats hiriq tsere segol patah qamats qubuts meteg qamatsqatan uni05B105BD uni05B205BD uni05B305BD
   BCoverage: 422 yodyod_patah shinshindot shinsindot shindageshshindot shindageshsindot alefpatah alefqamats alefmapiq betdagesh gimeldagesh daletdagesh hedagesh vavdagesh zayindagesh tetdagesh yoddagesh finalkafdagesh kafdagesh lameddagesh memdagesh nundagesh samekhdagesh finalpedagesh pedagesh tsadidagesh qofdagesh reshdagesh shindagesh tavdagesh vavholam betrafe kafrafe perafe lamedholamdagesh lamedholam finalkafqamats finalkafsheva
  1
-  SeqLookup: 0 "Mark to base attachment lookup 22" 
+  SeqLookup: 0 "Mark to base attachment lookup 32" 
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 10 contextual 1"  0 0 0 1
  1 2 0
@@ -309,7 +309,7 @@ ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 10 contextual 1"  
   BCoverage: 79 uni0591 uni0596 uni059B uni05A2 uni05A3 uni05A4 uni05A5 uni05A6 uni05A7 uni05AA
   BCoverage: 251 uni25CC alef bet gimel dalet he vav zayin het tet yod finalkaf kaf lamed finalmem mem finalnun nun samekh ayin finalpe pe finaltsadi tsadi qof resh shin tav vavvav vavyod yodyod alefwide daletwide hewide kafwide lamedwide finalmemwide reshwide tavwide
  1
-  SeqLookup: 0 "Mark to base attachment lookup 22" 
+  SeqLookup: 0 "Mark to base attachment lookup 32" 
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 10 contextual 0"  0 0 0 1
  1 2 0
@@ -317,7 +317,7 @@ ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 10 contextual 0"  
   BCoverage: 131 sheva hatafsegol hatafpatah hatafqamats hiriq tsere segol patah qamats qubuts meteg qamatsqatan uni05B105BD uni05B205BD uni05B305BD
   BCoverage: 251 uni25CC alef bet gimel dalet he vav zayin het tet yod finalkaf kaf lamed finalmem mem finalnun nun samekh ayin finalpe pe finaltsadi tsadi qof resh shin tav vavvav vavyod yodyod alefwide daletwide hewide kafwide lamedwide finalmemwide reshwide tavwide
  1
-  SeqLookup: 0 "Mark to base attachment lookup 22" 
+  SeqLookup: 0 "Mark to base attachment lookup 32" 
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 9 contextual 3"  0 0 0 1
  1 1 1
@@ -325,7 +325,7 @@ ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 9 contextual 3"  0
   BCoverage: 422 yodyod_patah shinshindot shinsindot shindageshshindot shindageshsindot alefpatah alefqamats alefmapiq betdagesh gimeldagesh daletdagesh hedagesh vavdagesh zayindagesh tetdagesh yoddagesh finalkafdagesh kafdagesh lameddagesh memdagesh nundagesh samekhdagesh finalpedagesh pedagesh tsadidagesh qofdagesh reshdagesh shindagesh tavdagesh vavholam betrafe kafrafe perafe lamedholamdagesh lamedholam finalkafqamats finalkafsheva
   FCoverage: 12 rafe uniFB1E
  1
-  SeqLookup: 0 "Mark to base attachment lookup 21" 
+  SeqLookup: 0 "Mark to base attachment lookup 31" 
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 9 contextual 2"  0 0 0 1
  1 2 0
@@ -333,7 +333,7 @@ ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 9 contextual 2"  0
   BCoverage: 12 rafe uniFB1E
   BCoverage: 422 yodyod_patah shinshindot shinsindot shindageshshindot shindageshsindot alefpatah alefqamats alefmapiq betdagesh gimeldagesh daletdagesh hedagesh vavdagesh zayindagesh tetdagesh yoddagesh finalkafdagesh kafdagesh lameddagesh memdagesh nundagesh samekhdagesh finalpedagesh pedagesh tsadidagesh qofdagesh reshdagesh shindagesh tavdagesh vavholam betrafe kafrafe perafe lamedholamdagesh lamedholam finalkafqamats finalkafsheva
  1
-  SeqLookup: 0 "Mark to base attachment lookup 21" 
+  SeqLookup: 0 "Mark to base attachment lookup 31" 
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 9 contextual 1"  0 0 0 1
  1 1 1
@@ -341,7 +341,7 @@ ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 9 contextual 1"  0
   BCoverage: 251 uni25CC alef bet gimel dalet he vav zayin het tet yod finalkaf kaf lamed finalmem mem finalnun nun samekh ayin finalpe pe finaltsadi tsadi qof resh shin tav vavvav vavyod yodyod alefwide daletwide hewide kafwide lamedwide finalmemwide reshwide tavwide
   FCoverage: 12 rafe uniFB1E
  1
-  SeqLookup: 0 "Mark to base attachment lookup 21" 
+  SeqLookup: 0 "Mark to base attachment lookup 31" 
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 9 contextual 0"  0 0 0 1
  1 2 0
@@ -349,7 +349,7 @@ ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 9 contextual 0"  0
   BCoverage: 12 rafe uniFB1E
   BCoverage: 251 uni25CC alef bet gimel dalet he vav zayin het tet yod finalkaf kaf lamed finalmem mem finalnun nun samekh ayin finalpe pe finaltsadi tsadi qof resh shin tav vavvav vavyod yodyod alefwide daletwide hewide kafwide lamedwide finalmemwide reshwide tavwide
  1
-  SeqLookup: 0 "Mark to base attachment lookup 21" 
+  SeqLookup: 0 "Mark to base attachment lookup 31" 
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 8 contextual 3"  0 0 0 1
  1 1 1
@@ -357,7 +357,7 @@ ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 8 contextual 3"  0
   BCoverage: 422 yodyod_patah shinshindot shinsindot shindageshshindot shindageshsindot alefpatah alefqamats alefmapiq betdagesh gimeldagesh daletdagesh hedagesh vavdagesh zayindagesh tetdagesh yoddagesh finalkafdagesh kafdagesh lameddagesh memdagesh nundagesh samekhdagesh finalpedagesh pedagesh tsadidagesh qofdagesh reshdagesh shindagesh tavdagesh vavholam betrafe kafrafe perafe lamedholamdagesh lamedholam finalkafqamats finalkafsheva
   FCoverage: 79 uni0591 uni0596 uni059B uni05A2 uni05A3 uni05A4 uni05A5 uni05A6 uni05A7 uni05AA
  1
-  SeqLookup: 0 "Mark to base attachment lookup 20" 
+  SeqLookup: 0 "Mark to base attachment lookup 30" 
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 8 contextual 2"  0 0 0 1
  1 1 1
@@ -365,7 +365,7 @@ ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 8 contextual 2"  0
   BCoverage: 422 yodyod_patah shinshindot shinsindot shindageshshindot shindageshsindot alefpatah alefqamats alefmapiq betdagesh gimeldagesh daletdagesh hedagesh vavdagesh zayindagesh tetdagesh yoddagesh finalkafdagesh kafdagesh lameddagesh memdagesh nundagesh samekhdagesh finalpedagesh pedagesh tsadidagesh qofdagesh reshdagesh shindagesh tavdagesh vavholam betrafe kafrafe perafe lamedholamdagesh lamedholam finalkafqamats finalkafsheva
   FCoverage: 131 sheva hatafsegol hatafpatah hatafqamats hiriq tsere segol patah qamats qubuts meteg qamatsqatan uni05B105BD uni05B205BD uni05B305BD
  1
-  SeqLookup: 0 "Mark to base attachment lookup 20" 
+  SeqLookup: 0 "Mark to base attachment lookup 30" 
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 8 contextual 1"  0 0 0 1
  1 1 1
@@ -373,7 +373,7 @@ ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 8 contextual 1"  0
   BCoverage: 251 uni25CC alef bet gimel dalet he vav zayin het tet yod finalkaf kaf lamed finalmem mem finalnun nun samekh ayin finalpe pe finaltsadi tsadi qof resh shin tav vavvav vavyod yodyod alefwide daletwide hewide kafwide lamedwide finalmemwide reshwide tavwide
   FCoverage: 131 sheva hatafsegol hatafpatah hatafqamats hiriq tsere segol patah qamats qubuts meteg qamatsqatan uni05B105BD uni05B205BD uni05B305BD
  1
-  SeqLookup: 0 "Mark to base attachment lookup 20" 
+  SeqLookup: 0 "Mark to base attachment lookup 30" 
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 8 contextual 0"  0 0 0 1
  1 1 1
@@ -381,7 +381,7 @@ ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 8 contextual 0"  0
   BCoverage: 251 uni25CC alef bet gimel dalet he vav zayin het tet yod finalkaf kaf lamed finalmem mem finalnun nun samekh ayin finalpe pe finaltsadi tsadi qof resh shin tav vavvav vavyod yodyod alefwide daletwide hewide kafwide lamedwide finalmemwide reshwide tavwide
   FCoverage: 79 uni0591 uni0596 uni059B uni05A2 uni05A3 uni05A4 uni05A5 uni05A6 uni05A7 uni05AA
  1
-  SeqLookup: 0 "Mark to base attachment lookup 20" 
+  SeqLookup: 0 "Mark to base attachment lookup 30" 
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 7 contextual 3"  0 0 0 1
  1 2 0
@@ -389,7 +389,7 @@ ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 7 contextual 3"  0
   BCoverage: 111 uni0592 uni0593 uni0594 uni0595 uni0597 uni0598 uni059C uni059E uni059F uni05A1 uni05A8 uni05AB uni05AC uni05AF
   BCoverage: 422 yodyod_patah shinshindot shinsindot shindageshshindot shindageshsindot alefpatah alefqamats alefmapiq betdagesh gimeldagesh daletdagesh hedagesh vavdagesh zayindagesh tetdagesh yoddagesh finalkafdagesh kafdagesh lameddagesh memdagesh nundagesh samekhdagesh finalpedagesh pedagesh tsadidagesh qofdagesh reshdagesh shindagesh tavdagesh vavholam betrafe kafrafe perafe lamedholamdagesh lamedholam finalkafqamats finalkafsheva
  1
-  SeqLookup: 0 "Mark to base attachment lookup 19" 
+  SeqLookup: 0 "Mark to base attachment lookup 29" 
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 7 contextual 2"  0 0 0 1
  1 1 1
@@ -397,7 +397,7 @@ ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 7 contextual 2"  0
   BCoverage: 422 yodyod_patah shinshindot shinsindot shindageshshindot shindageshsindot alefpatah alefqamats alefmapiq betdagesh gimeldagesh daletdagesh hedagesh vavdagesh zayindagesh tetdagesh yoddagesh finalkafdagesh kafdagesh lameddagesh memdagesh nundagesh samekhdagesh finalpedagesh pedagesh tsadidagesh qofdagesh reshdagesh shindagesh tavdagesh vavholam betrafe kafrafe perafe lamedholamdagesh lamedholam finalkafqamats finalkafsheva
   FCoverage: 111 uni0592 uni0593 uni0594 uni0595 uni0597 uni0598 uni059C uni059E uni059F uni05A1 uni05A8 uni05AB uni05AC uni05AF
  1
-  SeqLookup: 0 "Mark to base attachment lookup 19" 
+  SeqLookup: 0 "Mark to base attachment lookup 29" 
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 7 contextual 1"  0 0 0 1
  1 2 0
@@ -405,7 +405,7 @@ ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 7 contextual 1"  0
   BCoverage: 111 uni0592 uni0593 uni0594 uni0595 uni0597 uni0598 uni059C uni059E uni059F uni05A1 uni05A8 uni05AB uni05AC uni05AF
   BCoverage: 251 uni25CC alef bet gimel dalet he vav zayin het tet yod finalkaf kaf lamed finalmem mem finalnun nun samekh ayin finalpe pe finaltsadi tsadi qof resh shin tav vavvav vavyod yodyod alefwide daletwide hewide kafwide lamedwide finalmemwide reshwide tavwide
  1
-  SeqLookup: 0 "Mark to base attachment lookup 19" 
+  SeqLookup: 0 "Mark to base attachment lookup 29" 
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 7 contextual 0"  0 0 0 1
  1 1 1
@@ -413,14 +413,14 @@ ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 7 contextual 0"  0
   BCoverage: 251 uni25CC alef bet gimel dalet he vav zayin het tet yod finalkaf kaf lamed finalmem mem finalnun nun samekh ayin finalpe pe finaltsadi tsadi qof resh shin tav vavvav vavyod yodyod alefwide daletwide hewide kafwide lamedwide finalmemwide reshwide tavwide
   FCoverage: 111 uni0592 uni0593 uni0594 uni0595 uni0597 uni0598 uni059C uni059E uni059F uni05A1 uni05A8 uni05AB uni05AC uni05AF
  1
-  SeqLookup: 0 "Mark to base attachment lookup 19" 
+  SeqLookup: 0 "Mark to base attachment lookup 29" 
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 2 subtable"  0 0 0 1
  1 1 0
   Coverage: 5 holam
   BCoverage: 232 alef bet gimel dalet he zayin het tet yod finalkaf kaf lamed finalmem mem finalnun nun samekh ayin finalpe pe finaltsadi tsadi qof resh shin tav vavyod yodyod alefwide daletwide hewide kafwide lamedwide finalmemwide reshwide tavwide
  1
-  SeqLookup: 0 "Single Positioning lookup 18" 
+  SeqLookup: 0 "Single Positioning lookup 28" 
 EndFPST
 TtTable: prep
 NPUSHW
@@ -3786,10 +3786,10 @@ NameList: Adobe Glyph List
 DisplaySize: -36
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 65340 18 14
+WinInfo: 65340 22 16
 BeginPrivate: 0
 EndPrivate
-AnchorClass2: "Anchor-0"  "'mark' Mark Positioning in Hebrew lookup 1 subtable" "Anchor-1"  "'mark' Mark Positioning in Hebrew lookup 3 subtable" "Anchor-2"  "'mark' Mark Positioning in Hebrew lookup 4 subtable" "Anchor-3"  "'mark' Mark Positioning in Hebrew lookup 5 subtable" "Anchor-4"  "'mark' Mark Positioning in Hebrew lookup 5 subtable" "Anchor-5"  "'mark' Mark Positioning in Hebrew lookup 6 subtable" "Anchor-6"  "'mark' Mark Positioning in Hebrew lookup 6 subtable" "Anchor-7"  "'mark' Mark Positioning in Hebrew lookup 11 subtable" "Anchor-8"  "'mark' Mark Positioning in Hebrew lookup 12 subtable" "Anchor-9"  "'mark' Mark Positioning in Hebrew lookup 13 subtable" "Anchor-10"  "Mark to base attachment lookup 19 subtable" "Anchor-11"  "Mark to base attachment lookup 20 subtable" "Anchor-12"  "Mark to base attachment lookup 21 subtable" "Anchor-13"  "Mark to base attachment lookup 22 subtable" 
+AnchorClass2: "Anchor-0"  "'mark' Mark Positioning in Hebrew lookup 1 subtable" "Anchor-1"  "'mark' Mark Positioning in Hebrew lookup 3 subtable" "Anchor-2"  "'mark' Mark Positioning in Hebrew lookup 4 subtable" "Anchor-3"  "'mark' Mark Positioning in Hebrew lookup 5 subtable" "Anchor-4"  "'mark' Mark Positioning in Hebrew lookup 5 subtable" "Anchor-5"  "'mark' Mark Positioning in Hebrew lookup 6 subtable" "Anchor-6"  "'mark' Mark Positioning in Hebrew lookup 6 subtable" "Anchor-7"  "'mark' Mark Positioning in Hebrew lookup 11 subtable" "Anchor-8"  "'mark' Mark Positioning in Hebrew lookup 12 subtable" "Anchor-9"  "'mark' Mark Positioning in Hebrew lookup 13 subtable" "Anchor-24"  "Mark to base attachment lookup 29 subtable" "Anchor-25"  "Mark to base attachment lookup 30 subtable" "Anchor-26"  "Mark to base attachment lookup 31 subtable" "Anchor-27"  "Mark to base attachment lookup 32 subtable" 
 BeginChars: 65831 2589
 
 StartChar: .notdef
@@ -140230,10 +140230,10 @@ SHP[rp1]
 IUP[x]
 IUP[y]
 EndTTInstrs
-AnchorPoint: "Anchor-13" 600 0 basechar 0
-AnchorPoint: "Anchor-12" 600 1350 basechar 0
-AnchorPoint: "Anchor-11" 600 0 basechar 0
-AnchorPoint: "Anchor-10" 1000 1430 basechar 0
+AnchorPoint: "Anchor-27" 600 0 basechar 0
+AnchorPoint: "Anchor-26" 600 1350 basechar 0
+AnchorPoint: "Anchor-25" 600 0 basechar 0
+AnchorPoint: "Anchor-24" 1000 1430 basechar 0
 AnchorPoint: "Anchor-9" 1000 0 basechar 0
 AnchorPoint: "Anchor-8" 1000 1350 basechar 0
 AnchorPoint: "Anchor-7" 240 1350 basechar 0
@@ -176543,8 +176543,8 @@ SHP[rp1]
 IUP[x]
 IUP[y]
 EndTTInstrs
-AnchorPoint: "Anchor-13" 220 20 mark 0
-AnchorPoint: "Anchor-11" -340 20 mark 0
+AnchorPoint: "Anchor-27" 220 20 mark 0
+AnchorPoint: "Anchor-25" -340 20 mark 0
 AnchorPoint: "Anchor-5" -120 20 mark 0
 LayerCount: 2
 Fore
@@ -176569,7 +176569,7 @@ SplineSet
  29 -302 29 -302 23 -336 c 1,23,-1
  12 -385 l 1,0,-1
 EndSplineSet
-Position2: "Single Positioning lookup 24 subtable" dx=-540 dy=0 dh=0 dv=0
+Position2: "Single Positioning lookup 34 subtable" dx=-540 dy=0 dh=0 dv=0
 EndChar
 
 StartChar: uni0592
@@ -176618,7 +176618,7 @@ SHP[rp1]
 IUP[x]
 IUP[y]
 EndTTInstrs
-AnchorPoint: "Anchor-12" 620 1350 mark 0
+AnchorPoint: "Anchor-26" 620 1350 mark 0
 AnchorPoint: "Anchor-3" 410 1350 mark 0
 LayerCount: 2
 Fore
@@ -176670,7 +176670,7 @@ MDRP[min,rnd,grey]
 IUP[x]
 IUP[y]
 EndTTInstrs
-AnchorPoint: "Anchor-12" 300 1350 mark 0
+AnchorPoint: "Anchor-26" 300 1350 mark 0
 AnchorPoint: "Anchor-3" 140 1350 mark 0
 LayerCount: 2
 Fore
@@ -176731,7 +176731,7 @@ SHP[rp2]
 IUP[x]
 IUP[y]
 EndTTInstrs
-AnchorPoint: "Anchor-12" 480 1350 mark 0
+AnchorPoint: "Anchor-26" 480 1350 mark 0
 AnchorPoint: "Anchor-3" 340 1350 mark 0
 LayerCount: 2
 Fore
@@ -176807,7 +176807,7 @@ SHP[rp1]
 IUP[x]
 IUP[y]
 EndTTInstrs
-AnchorPoint: "Anchor-12" 620 1350 mark 0
+AnchorPoint: "Anchor-26" 620 1350 mark 0
 AnchorPoint: "Anchor-3" 400 1350 mark 0
 LayerCount: 2
 Fore
@@ -176857,8 +176857,8 @@ SHP[rp2]
 IUP[x]
 IUP[y]
 EndTTInstrs
-AnchorPoint: "Anchor-13" 140 0 mark 0
-AnchorPoint: "Anchor-11" -340 20 mark 0
+AnchorPoint: "Anchor-27" 140 0 mark 0
+AnchorPoint: "Anchor-25" -340 20 mark 0
 AnchorPoint: "Anchor-5" -120 0 mark 0
 LayerCount: 2
 Fore
@@ -176873,7 +176873,7 @@ SplineSet
  -304 -120 -304 -120 -297 -82 c 1,11,-1
  -186 -82 l 1,0,1
 EndSplineSet
-Position2: "Single Positioning lookup 24 subtable" dx=-540 dy=0 dh=0 dv=0
+Position2: "Single Positioning lookup 34 subtable" dx=-540 dy=0 dh=0 dv=0
 EndChar
 
 StartChar: uni0597
@@ -176893,7 +176893,7 @@ MDRP[min,rnd,black]
 IUP[x]
 IUP[y]
 EndTTInstrs
-AnchorPoint: "Anchor-12" 320 1350 mark 0
+AnchorPoint: "Anchor-26" 320 1350 mark 0
 AnchorPoint: "Anchor-3" 160 1350 mark 0
 LayerCount: 2
 Fore
@@ -176946,7 +176946,7 @@ SHP[rp1]
 IUP[x]
 IUP[y]
 EndTTInstrs
-AnchorPoint: "Anchor-12" 440 1350 mark 0
+AnchorPoint: "Anchor-26" 440 1350 mark 0
 AnchorPoint: "Anchor-3" 160 1350 mark 0
 LayerCount: 2
 Fore
@@ -177048,7 +177048,7 @@ SplineSet
  2 -205 l 1,5,-1
  145 -385 l 1,0,-1
 EndSplineSet
-Position2: "Single Positioning lookup 23 subtable" dx=320 dy=0 dh=0 dv=0
+Position2: "Single Positioning lookup 33 subtable" dx=320 dy=0 dh=0 dv=0
 EndChar
 
 StartChar: uni059B
@@ -177076,8 +177076,8 @@ MDAP[rnd]
 IUP[x]
 IUP[y]
 EndTTInstrs
-AnchorPoint: "Anchor-13" 180 20 mark 0
-AnchorPoint: "Anchor-11" -340 20 mark 0
+AnchorPoint: "Anchor-27" 180 20 mark 0
+AnchorPoint: "Anchor-25" -340 20 mark 0
 AnchorPoint: "Anchor-5" -140 20 mark 0
 LayerCount: 2
 Fore
@@ -177122,7 +177122,7 @@ SHP[rp2]
 IUP[x]
 IUP[y]
 EndTTInstrs
-AnchorPoint: "Anchor-12" 520 1350 mark 0
+AnchorPoint: "Anchor-26" 520 1350 mark 0
 AnchorPoint: "Anchor-3" 300 1350 mark 0
 LayerCount: 2
 Fore
@@ -177177,7 +177177,7 @@ SHP[rp1]
 IUP[x]
 IUP[y]
 EndTTInstrs
-AnchorPoint: "Anchor-12" 480 1350 mark 0
+AnchorPoint: "Anchor-26" 480 1350 mark 0
 AnchorPoint: "Anchor-3" 60 1350 mark 0
 LayerCount: 2
 Fore
@@ -177239,7 +177239,7 @@ SHP[rp2]
 IUP[x]
 IUP[y]
 EndTTInstrs
-AnchorPoint: "Anchor-12" 700 1350 mark 0
+AnchorPoint: "Anchor-26" 700 1350 mark 0
 AnchorPoint: "Anchor-3" 200 1350 mark 0
 LayerCount: 2
 Fore
@@ -177372,7 +177372,7 @@ SHP[rp1]
 IUP[x]
 IUP[y]
 EndTTInstrs
-AnchorPoint: "Anchor-12" 380 1350 mark 0
+AnchorPoint: "Anchor-26" 380 1350 mark 0
 AnchorPoint: "Anchor-3" 160 1350 mark 0
 LayerCount: 2
 Fore
@@ -177431,8 +177431,8 @@ SHP[rp1]
 IUP[x]
 IUP[y]
 EndTTInstrs
-AnchorPoint: "Anchor-13" 220 20 mark 0
-AnchorPoint: "Anchor-11" -340 20 mark 0
+AnchorPoint: "Anchor-27" 220 20 mark 0
+AnchorPoint: "Anchor-25" -340 20 mark 0
 AnchorPoint: "Anchor-5" -120 20 mark 0
 LayerCount: 2
 Fore
@@ -177476,8 +177476,8 @@ SHP[rp2]
 IUP[x]
 IUP[y]
 EndTTInstrs
-AnchorPoint: "Anchor-13" 180 20 mark 0
-AnchorPoint: "Anchor-11" -340 20 mark 0
+AnchorPoint: "Anchor-27" 180 20 mark 0
+AnchorPoint: "Anchor-25" -340 20 mark 0
 AnchorPoint: "Anchor-5" -100 20 mark 0
 LayerCount: 2
 Fore
@@ -177490,7 +177490,7 @@ SplineSet
  -74 -35 l 1,5,-1
  35 -35 l 1,0,-1
 EndSplineSet
-Position2: "Single Positioning lookup 24 subtable" dx=-540 dy=0 dh=0 dv=0
+Position2: "Single Positioning lookup 34 subtable" dx=-540 dy=0 dh=0 dv=0
 EndChar
 
 StartChar: uni05A4
@@ -177514,8 +177514,8 @@ DELTAP1
 IUP[x]
 IUP[y]
 EndTTInstrs
-AnchorPoint: "Anchor-13" 160 20 mark 0
-AnchorPoint: "Anchor-11" -340 20 mark 0
+AnchorPoint: "Anchor-27" 160 20 mark 0
+AnchorPoint: "Anchor-25" -340 20 mark 0
 AnchorPoint: "Anchor-5" -120 20 mark 0
 LayerCount: 2
 Fore
@@ -177528,8 +177528,8 @@ SplineSet
  -160 -205 l 1,5,-1
  -14 -385 l 1,0,-1
 EndSplineSet
-PairPos2: "Pairwise Positioning (kerning) lookup 25 subtable" uni05A5 dx=200 dy=0 dh=0 dv=0 dx=-200 dy=0 dh=0 dv=0
-Position2: "Single Positioning lookup 24 subtable" dx=-540 dy=0 dh=0 dv=0
+PairPos2: "Pairwise Positioning (kerning) lookup 35 subtable" uni05A5 dx=200 dy=0 dh=0 dv=0 dx=-200 dy=0 dh=0 dv=0
+Position2: "Single Positioning lookup 34 subtable" dx=-540 dy=0 dh=0 dv=0
 EndChar
 
 StartChar: uni05A5
@@ -177551,8 +177551,8 @@ SHP[rp2]
 IUP[x]
 IUP[y]
 EndTTInstrs
-AnchorPoint: "Anchor-13" 200 0 mark 0
-AnchorPoint: "Anchor-11" -340 20 mark 0
+AnchorPoint: "Anchor-27" 200 0 mark 0
+AnchorPoint: "Anchor-25" -340 20 mark 0
 AnchorPoint: "Anchor-5" -100 0 mark 0
 LayerCount: 2
 Fore
@@ -177565,7 +177565,7 @@ SplineSet
  -70 -174 -70 -174 -51 -82 c 1,7,-1
  59 -82 l 1,0,1
 EndSplineSet
-Position2: "Single Positioning lookup 24 subtable" dx=-540 dy=0 dh=0 dv=0
+Position2: "Single Positioning lookup 34 subtable" dx=-540 dy=0 dh=0 dv=0
 EndChar
 
 StartChar: uni05A6
@@ -177595,8 +177595,8 @@ SHP[rp1]
 IUP[x]
 IUP[y]
 EndTTInstrs
-AnchorPoint: "Anchor-13" 360 0 mark 0
-AnchorPoint: "Anchor-11" -440 20 mark 0
+AnchorPoint: "Anchor-27" 360 0 mark 0
+AnchorPoint: "Anchor-25" -440 20 mark 0
 AnchorPoint: "Anchor-5" -100 0 mark 0
 LayerCount: 2
 Fore
@@ -177637,8 +177637,8 @@ DELTAP1
 IUP[x]
 IUP[y]
 EndTTInstrs
-AnchorPoint: "Anchor-13" 180 20 mark 0
-AnchorPoint: "Anchor-11" -340 20 mark 0
+AnchorPoint: "Anchor-27" 180 20 mark 0
+AnchorPoint: "Anchor-25" -340 20 mark 0
 AnchorPoint: "Anchor-5" -120 20 mark 0
 LayerCount: 2
 Fore
@@ -177676,7 +177676,7 @@ SHP[rp2]
 IUP[x]
 IUP[y]
 EndTTInstrs
-AnchorPoint: "Anchor-12" 360 1350 mark 0
+AnchorPoint: "Anchor-26" 360 1350 mark 0
 AnchorPoint: "Anchor-3" 160 1350 mark 0
 LayerCount: 2
 Fore
@@ -177751,8 +177751,8 @@ Encoding: 1450 1450 2455
 Width: 0
 GlyphClass: 4
 Flags: W
-AnchorPoint: "Anchor-13" 220 20 mark 0
-AnchorPoint: "Anchor-11" -340 20 mark 0
+AnchorPoint: "Anchor-27" 220 20 mark 0
+AnchorPoint: "Anchor-25" -340 20 mark 0
 AnchorPoint: "Anchor-5" -120 20 mark 0
 LayerCount: 2
 Fore
@@ -177782,7 +177782,7 @@ DELTAP1
 IUP[x]
 IUP[y]
 EndTTInstrs
-AnchorPoint: "Anchor-12" 310 1350 mark 0
+AnchorPoint: "Anchor-26" 310 1350 mark 0
 AnchorPoint: "Anchor-3" 180 1350 mark 0
 LayerCount: 2
 Fore
@@ -177827,7 +177827,7 @@ SHP[rp1]
 IUP[x]
 IUP[y]
 EndTTInstrs
-AnchorPoint: "Anchor-12" 340 1350 mark 0
+AnchorPoint: "Anchor-26" 340 1350 mark 0
 AnchorPoint: "Anchor-3" 140 1350 mark 0
 LayerCount: 2
 Fore
@@ -177875,7 +177875,7 @@ SplineSet
  -127 -130 -127 -130 -119 -82 c 1,11,-1
  -8 -82 l 1,0,1
 EndSplineSet
-Position2: "Single Positioning lookup 23 subtable" dx=320 dy=0 dh=0 dv=0
+Position2: "Single Positioning lookup 33 subtable" dx=320 dy=0 dh=0 dv=0
 EndChar
 
 StartChar: uni05AE
@@ -177972,7 +177972,7 @@ SHP[rp2]
 IUP[x]
 IUP[y]
 EndTTInstrs
-AnchorPoint: "Anchor-12" 420 1390 mark 0
+AnchorPoint: "Anchor-26" 420 1390 mark 0
 AnchorPoint: "Anchor-3" 180 1390 mark 0
 LayerCount: 2
 Fore
@@ -178028,8 +178028,8 @@ SHP[rp2]
 IUP[x]
 IUP[y]
 EndTTInstrs
-AnchorPoint: "Anchor-13" 40 20 mark 0
-AnchorPoint: "Anchor-11" -360 20 mark 0
+AnchorPoint: "Anchor-27" 40 20 mark 0
+AnchorPoint: "Anchor-25" -360 20 mark 0
 AnchorPoint: "Anchor-5" -120 20 mark 0
 LayerCount: 2
 Fore
@@ -178101,8 +178101,8 @@ SHP[rp1]
 IUP[x]
 IUP[y]
 EndTTInstrs
-AnchorPoint: "Anchor-13" 210 20 mark 0
-AnchorPoint: "Anchor-11" -360 20 mark 0
+AnchorPoint: "Anchor-27" 210 20 mark 0
+AnchorPoint: "Anchor-25" -360 20 mark 0
 AnchorPoint: "Anchor-5" -120 20 mark 0
 LayerCount: 2
 Fore
@@ -178191,8 +178191,8 @@ SHP[rp2]
 IUP[x]
 IUP[y]
 EndTTInstrs
-AnchorPoint: "Anchor-13" 180 20 mark 0
-AnchorPoint: "Anchor-11" -360 20 mark 0
+AnchorPoint: "Anchor-27" 180 20 mark 0
+AnchorPoint: "Anchor-25" -360 20 mark 0
 AnchorPoint: "Anchor-5" -120 20 mark 0
 LayerCount: 2
 Fore
@@ -178271,8 +178271,8 @@ SHP[rp1]
 IUP[x]
 IUP[y]
 EndTTInstrs
-AnchorPoint: "Anchor-13" 180 20 mark 0
-AnchorPoint: "Anchor-11" -360 20 mark 0
+AnchorPoint: "Anchor-27" 180 20 mark 0
+AnchorPoint: "Anchor-25" -360 20 mark 0
 AnchorPoint: "Anchor-5" -120 20 mark 0
 LayerCount: 2
 Fore
@@ -178322,8 +178322,8 @@ SHP[rp1]
 IUP[x]
 IUP[y]
 EndTTInstrs
-AnchorPoint: "Anchor-13" 20 20 mark 0
-AnchorPoint: "Anchor-11" -360 20 mark 0
+AnchorPoint: "Anchor-27" 20 20 mark 0
+AnchorPoint: "Anchor-25" -360 20 mark 0
 AnchorPoint: "Anchor-5" -160 0 mark 0
 LayerCount: 2
 Fore
@@ -178361,8 +178361,8 @@ SHP[rp1]
 IUP[x]
 IUP[y]
 EndTTInstrs
-AnchorPoint: "Anchor-13" 100 20 mark 0
-AnchorPoint: "Anchor-11" -360 20 mark 0
+AnchorPoint: "Anchor-27" 100 20 mark 0
+AnchorPoint: "Anchor-25" -360 20 mark 0
 AnchorPoint: "Anchor-5" -160 0 mark 0
 LayerCount: 2
 Fore
@@ -178424,8 +178424,8 @@ SHP[rp2]
 IUP[x]
 IUP[y]
 EndTTInstrs
-AnchorPoint: "Anchor-13" 100 20 mark 0
-AnchorPoint: "Anchor-11" -360 20 mark 0
+AnchorPoint: "Anchor-27" 100 20 mark 0
+AnchorPoint: "Anchor-25" -360 20 mark 0
 AnchorPoint: "Anchor-5" -120 20 mark 0
 LayerCount: 2
 Fore
@@ -178479,8 +178479,8 @@ SHP[rp1]
 IUP[x]
 IUP[y]
 EndTTInstrs
-AnchorPoint: "Anchor-13" 100 20 mark 0
-AnchorPoint: "Anchor-11" -360 20 mark 0
+AnchorPoint: "Anchor-27" 100 20 mark 0
+AnchorPoint: "Anchor-25" -360 20 mark 0
 AnchorPoint: "Anchor-5" -120 0 mark 0
 LayerCount: 2
 Fore
@@ -178506,8 +178506,8 @@ MDAP[rnd]
 IUP[x]
 IUP[y]
 EndTTInstrs
-AnchorPoint: "Anchor-13" 110 20 mark 0
-AnchorPoint: "Anchor-11" -360 20 mark 0
+AnchorPoint: "Anchor-27" 110 20 mark 0
+AnchorPoint: "Anchor-25" -360 20 mark 0
 AnchorPoint: "Anchor-5" -120 0 mark 0
 LayerCount: 2
 Fore
@@ -178555,7 +178555,7 @@ SplineSet
  163 1446 163 1446 140 1469 c 128,-1,11
  117 1492 117 1492 117 1526 c 0,0,1
 EndSplineSet
-Position2: "Single Positioning lookup 18 subtable" dx=25 dy=0 dh=10 dv=0
+Position2: "Single Positioning lookup 28 subtable" dx=25 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: uni05BA
@@ -178636,8 +178636,8 @@ SHP[rp1]
 IUP[x]
 IUP[y]
 EndTTInstrs
-AnchorPoint: "Anchor-13" 120 20 mark 0
-AnchorPoint: "Anchor-11" -360 20 mark 0
+AnchorPoint: "Anchor-27" 120 20 mark 0
+AnchorPoint: "Anchor-25" -360 20 mark 0
 AnchorPoint: "Anchor-5" -140 20 mark 0
 LayerCount: 2
 Fore
@@ -178733,8 +178733,8 @@ SHP[rp1]
 IUP[x]
 IUP[y]
 EndTTInstrs
-AnchorPoint: "Anchor-13" 60 0 mark 0
-AnchorPoint: "Anchor-11" -360 0 mark 0
+AnchorPoint: "Anchor-27" 60 0 mark 0
+AnchorPoint: "Anchor-25" -360 0 mark 0
 AnchorPoint: "Anchor-5" -120 0 mark 0
 LayerCount: 2
 Fore
@@ -178745,7 +178745,7 @@ SplineSet
  -115 -348 l 1,3,-1
  -225 -348 l 1,0,-1
 EndSplineSet
-Position2: "Single Positioning lookup 24 subtable" dx=-400 dy=0 dh=0 dv=0
+Position2: "Single Positioning lookup 34 subtable" dx=-400 dy=0 dh=0 dv=0
 EndChar
 
 StartChar: maqaf
@@ -178793,7 +178793,7 @@ SHP[rp1]
 IUP[x]
 IUP[y]
 EndTTInstrs
-AnchorPoint: "Anchor-10" 0 1430 mark 0
+AnchorPoint: "Anchor-24" 0 1430 mark 0
 AnchorPoint: "Anchor-3" 180 1430 mark 0
 LayerCount: 2
 Fore
@@ -179074,8 +179074,8 @@ MDAP[rnd]
 IUP[x]
 IUP[y]
 EndTTInstrs
-AnchorPoint: "Anchor-13" 500 0 mark 0
-AnchorPoint: "Anchor-11" -140 0 mark 0
+AnchorPoint: "Anchor-27" 500 0 mark 0
+AnchorPoint: "Anchor-25" -140 0 mark 0
 AnchorPoint: "Anchor-5" 150 0 mark 0
 LayerCount: 2
 Fore
@@ -179128,10 +179128,10 @@ SHP[rp1]
 IUP[x]
 IUP[y]
 EndTTInstrs
-AnchorPoint: "Anchor-13" 580 0 basechar 0
-AnchorPoint: "Anchor-12" 780 1350 basechar 0
-AnchorPoint: "Anchor-11" 580 0 basechar 0
-AnchorPoint: "Anchor-10" 1120 1430 basechar 0
+AnchorPoint: "Anchor-27" 580 0 basechar 0
+AnchorPoint: "Anchor-26" 780 1350 basechar 0
+AnchorPoint: "Anchor-25" 580 0 basechar 0
+AnchorPoint: "Anchor-24" 1120 1430 basechar 0
 AnchorPoint: "Anchor-9" 1060 0 basechar 0
 AnchorPoint: "Anchor-8" 1080 1350 basechar 0
 AnchorPoint: "Anchor-7" 240 1350 basechar 0
@@ -179220,10 +179220,10 @@ SHP[rp1]
 IUP[x]
 IUP[y]
 EndTTInstrs
-AnchorPoint: "Anchor-13" 480 0 basechar 0
-AnchorPoint: "Anchor-12" 600 1350 basechar 0
-AnchorPoint: "Anchor-11" 480 0 basechar 0
-AnchorPoint: "Anchor-10" 940 1430 basechar 0
+AnchorPoint: "Anchor-27" 480 0 basechar 0
+AnchorPoint: "Anchor-26" 600 1350 basechar 0
+AnchorPoint: "Anchor-25" 480 0 basechar 0
+AnchorPoint: "Anchor-24" 940 1430 basechar 0
 AnchorPoint: "Anchor-9" 840 0 basechar 0
 AnchorPoint: "Anchor-8" 900 1350 basechar 0
 AnchorPoint: "Anchor-7" 240 1350 basechar 0
@@ -179307,10 +179307,10 @@ SHP[rp1]
 IUP[x]
 IUP[y]
 EndTTInstrs
-AnchorPoint: "Anchor-13" 340 0 basechar 0
-AnchorPoint: "Anchor-12" 440 1350 basechar 0
-AnchorPoint: "Anchor-11" 340 0 basechar 0
-AnchorPoint: "Anchor-10" 640 1430 basechar 0
+AnchorPoint: "Anchor-27" 340 0 basechar 0
+AnchorPoint: "Anchor-26" 440 1350 basechar 0
+AnchorPoint: "Anchor-25" 340 0 basechar 0
+AnchorPoint: "Anchor-24" 640 1430 basechar 0
 AnchorPoint: "Anchor-9" 580 0 basechar 0
 AnchorPoint: "Anchor-8" 500 1350 basechar 0
 AnchorPoint: "Anchor-7" 240 1350 basechar 0
@@ -179393,10 +179393,10 @@ SHP[rp1]
 IUP[x]
 IUP[y]
 EndTTInstrs
-AnchorPoint: "Anchor-13" 680 0 basechar 0
-AnchorPoint: "Anchor-12" 700 1350 basechar 0
-AnchorPoint: "Anchor-11" 480 0 basechar 0
-AnchorPoint: "Anchor-10" 960 1430 basechar 0
+AnchorPoint: "Anchor-27" 680 0 basechar 0
+AnchorPoint: "Anchor-26" 700 1350 basechar 0
+AnchorPoint: "Anchor-25" 480 0 basechar 0
+AnchorPoint: "Anchor-24" 960 1430 basechar 0
 AnchorPoint: "Anchor-9" 760 0 basechar 0
 AnchorPoint: "Anchor-8" 900 1350 basechar 0
 AnchorPoint: "Anchor-7" 140 1350 basechar 0
@@ -179484,10 +179484,10 @@ MDAP[rnd]
 IUP[x]
 IUP[y]
 EndTTInstrs
-AnchorPoint: "Anchor-13" 560 0 basechar 0
-AnchorPoint: "Anchor-12" 740 1350 basechar 0
-AnchorPoint: "Anchor-11" 560 0 basechar 0
-AnchorPoint: "Anchor-10" 1000 1430 basechar 0
+AnchorPoint: "Anchor-27" 560 0 basechar 0
+AnchorPoint: "Anchor-26" 740 1350 basechar 0
+AnchorPoint: "Anchor-25" 560 0 basechar 0
+AnchorPoint: "Anchor-24" 1000 1430 basechar 0
 AnchorPoint: "Anchor-9" 960 0 basechar 0
 AnchorPoint: "Anchor-8" 1000 1350 basechar 0
 AnchorPoint: "Anchor-7" 240 1350 basechar 0
@@ -179537,10 +179537,10 @@ MIAP[rnd]
 IUP[x]
 IUP[y]
 EndTTInstrs
-AnchorPoint: "Anchor-13" 180 0 basechar 0
-AnchorPoint: "Anchor-12" 420 1350 basechar 0
-AnchorPoint: "Anchor-11" 120 0 basechar 0
-AnchorPoint: "Anchor-10" 500 1430 basechar 0
+AnchorPoint: "Anchor-27" 180 0 basechar 0
+AnchorPoint: "Anchor-26" 420 1350 basechar 0
+AnchorPoint: "Anchor-25" 120 0 basechar 0
+AnchorPoint: "Anchor-24" 500 1430 basechar 0
 AnchorPoint: "Anchor-9" 180 0 basechar 0
 AnchorPoint: "Anchor-8" 360 1350 basechar 0
 AnchorPoint: "Anchor-7" 200 1350 basechar 0
@@ -179597,10 +179597,10 @@ IP
 IUP[x]
 IUP[y]
 EndTTInstrs
-AnchorPoint: "Anchor-13" 200 0 basechar 0
-AnchorPoint: "Anchor-12" 500 1350 basechar 0
-AnchorPoint: "Anchor-11" 200 0 basechar 0
-AnchorPoint: "Anchor-10" 540 1430 basechar 0
+AnchorPoint: "Anchor-27" 200 0 basechar 0
+AnchorPoint: "Anchor-26" 500 1350 basechar 0
+AnchorPoint: "Anchor-25" 200 0 basechar 0
+AnchorPoint: "Anchor-24" 540 1430 basechar 0
 AnchorPoint: "Anchor-9" 240 0 basechar 0
 AnchorPoint: "Anchor-8" 460 1350 basechar 0
 AnchorPoint: "Anchor-7" 140 1350 basechar 0
@@ -179683,10 +179683,10 @@ CALL
 IUP[x]
 IUP[y]
 EndTTInstrs
-AnchorPoint: "Anchor-13" 560 0 basechar 0
-AnchorPoint: "Anchor-12" 760 1350 basechar 0
-AnchorPoint: "Anchor-11" 560 0 basechar 0
-AnchorPoint: "Anchor-10" 1080 1430 basechar 0
+AnchorPoint: "Anchor-27" 560 0 basechar 0
+AnchorPoint: "Anchor-26" 760 1350 basechar 0
+AnchorPoint: "Anchor-25" 560 0 basechar 0
+AnchorPoint: "Anchor-24" 1080 1430 basechar 0
 AnchorPoint: "Anchor-9" 1020 0 basechar 0
 AnchorPoint: "Anchor-8" 1060 1350 basechar 0
 AnchorPoint: "Anchor-7" 240 1350 basechar 0
@@ -179751,10 +179751,10 @@ CALL
 IUP[x]
 IUP[y]
 EndTTInstrs
-AnchorPoint: "Anchor-13" 560 0 basechar 0
-AnchorPoint: "Anchor-12" 760 1350 basechar 0
-AnchorPoint: "Anchor-11" 560 0 basechar 0
-AnchorPoint: "Anchor-10" 1080 1430 basechar 0
+AnchorPoint: "Anchor-27" 560 0 basechar 0
+AnchorPoint: "Anchor-26" 760 1350 basechar 0
+AnchorPoint: "Anchor-25" 560 0 basechar 0
+AnchorPoint: "Anchor-24" 1080 1430 basechar 0
 AnchorPoint: "Anchor-9" 1020 0 basechar 0
 AnchorPoint: "Anchor-8" 1060 1350 basechar 0
 AnchorPoint: "Anchor-7" 240 1350 basechar 0
@@ -179818,10 +179818,10 @@ DELTAP1
 IUP[x]
 IUP[y]
 EndTTInstrs
-AnchorPoint: "Anchor-13" 200 0 basechar 0
-AnchorPoint: "Anchor-12" 420 1350 basechar 0
-AnchorPoint: "Anchor-11" 140 0 basechar 0
-AnchorPoint: "Anchor-10" 500 1430 basechar 0
+AnchorPoint: "Anchor-27" 200 0 basechar 0
+AnchorPoint: "Anchor-26" 420 1350 basechar 0
+AnchorPoint: "Anchor-25" 140 0 basechar 0
+AnchorPoint: "Anchor-24" 500 1430 basechar 0
 AnchorPoint: "Anchor-9" 180 0 basechar 0
 AnchorPoint: "Anchor-8" 360 1350 basechar 0
 AnchorPoint: "Anchor-7" 200 1350 basechar 0
@@ -179892,10 +179892,10 @@ CALL
 IUP[x]
 IUP[y]
 EndTTInstrs
-AnchorPoint: "Anchor-13" 540 0 basechar 0
-AnchorPoint: "Anchor-12" 560 1350 basechar 0
-AnchorPoint: "Anchor-11" 180 0 basechar 0
-AnchorPoint: "Anchor-10" 880 1430 basechar 0
+AnchorPoint: "Anchor-27" 540 0 basechar 0
+AnchorPoint: "Anchor-26" 560 1350 basechar 0
+AnchorPoint: "Anchor-25" 180 0 basechar 0
+AnchorPoint: "Anchor-24" 880 1430 basechar 0
 AnchorPoint: "Anchor-9" 1040 0 basechar 0
 AnchorPoint: "Anchor-8" 800 1350 basechar 0
 AnchorPoint: "Anchor-7" 140 1350 basechar 0
@@ -179983,10 +179983,10 @@ CALL
 IUP[x]
 IUP[y]
 EndTTInstrs
-AnchorPoint: "Anchor-13" 340 0 basechar 0
-AnchorPoint: "Anchor-12" 560 1350 basechar 0
-AnchorPoint: "Anchor-11" 340 0 basechar 0
-AnchorPoint: "Anchor-10" 880 1430 basechar 0
+AnchorPoint: "Anchor-27" 340 0 basechar 0
+AnchorPoint: "Anchor-26" 560 1350 basechar 0
+AnchorPoint: "Anchor-25" 340 0 basechar 0
+AnchorPoint: "Anchor-24" 880 1430 basechar 0
 AnchorPoint: "Anchor-9" 760 0 basechar 0
 AnchorPoint: "Anchor-8" 800 1350 basechar 0
 AnchorPoint: "Anchor-7" 200 1350 basechar 0
@@ -180066,10 +180066,10 @@ SHP[rp1]
 IUP[x]
 IUP[y]
 EndTTInstrs
-AnchorPoint: "Anchor-13" 380 0 basechar 0
-AnchorPoint: "Anchor-12" 880 1350 basechar 0
-AnchorPoint: "Anchor-11" 380 0 basechar 0
-AnchorPoint: "Anchor-10" 880 1430 basechar 0
+AnchorPoint: "Anchor-27" 380 0 basechar 0
+AnchorPoint: "Anchor-26" 880 1350 basechar 0
+AnchorPoint: "Anchor-25" 380 0 basechar 0
+AnchorPoint: "Anchor-24" 880 1430 basechar 0
 AnchorPoint: "Anchor-9" 700 0 basechar 0
 AnchorPoint: "Anchor-8" 880 1350 basechar 0
 AnchorPoint: "Anchor-7" 0 1350 basechar 0
@@ -180176,10 +180176,10 @@ CALL
 IUP[x]
 IUP[y]
 EndTTInstrs
-AnchorPoint: "Anchor-13" 560 0 basechar 0
-AnchorPoint: "Anchor-12" 760 1350 basechar 0
-AnchorPoint: "Anchor-11" 560 0 basechar 0
-AnchorPoint: "Anchor-10" 1200 1430 basechar 0
+AnchorPoint: "Anchor-27" 560 0 basechar 0
+AnchorPoint: "Anchor-26" 760 1350 basechar 0
+AnchorPoint: "Anchor-25" 560 0 basechar 0
+AnchorPoint: "Anchor-24" 1200 1430 basechar 0
 AnchorPoint: "Anchor-9" 1080 0 basechar 0
 AnchorPoint: "Anchor-8" 1060 1350 basechar 0
 AnchorPoint: "Anchor-7" 240 1350 basechar 0
@@ -180258,10 +180258,10 @@ SHP[rp1]
 IUP[x]
 IUP[y]
 EndTTInstrs
-AnchorPoint: "Anchor-13" 560 0 basechar 0
-AnchorPoint: "Anchor-12" 900 1350 basechar 0
-AnchorPoint: "Anchor-11" 560 0 basechar 0
-AnchorPoint: "Anchor-10" 1200 1430 basechar 0
+AnchorPoint: "Anchor-27" 560 0 basechar 0
+AnchorPoint: "Anchor-26" 900 1350 basechar 0
+AnchorPoint: "Anchor-25" 560 0 basechar 0
+AnchorPoint: "Anchor-24" 1200 1430 basechar 0
 AnchorPoint: "Anchor-9" 1080 0 basechar 0
 AnchorPoint: "Anchor-8" 1060 1350 basechar 0
 AnchorPoint: "Anchor-7" 140 1350 basechar 0
@@ -180331,10 +180331,10 @@ MIAP[rnd]
 IUP[x]
 IUP[y]
 EndTTInstrs
-AnchorPoint: "Anchor-13" 60 0 basechar 0
-AnchorPoint: "Anchor-12" 420 1350 basechar 0
-AnchorPoint: "Anchor-11" 400 0 basechar 0
-AnchorPoint: "Anchor-10" 500 1430 basechar 0
+AnchorPoint: "Anchor-27" 60 0 basechar 0
+AnchorPoint: "Anchor-26" 420 1350 basechar 0
+AnchorPoint: "Anchor-25" 400 0 basechar 0
+AnchorPoint: "Anchor-24" 500 1430 basechar 0
 AnchorPoint: "Anchor-9" 460 0 basechar 0
 AnchorPoint: "Anchor-8" 360 1350 basechar 0
 AnchorPoint: "Anchor-7" 200 1350 basechar 0
@@ -180386,10 +180386,10 @@ CALL
 IUP[x]
 IUP[y]
 EndTTInstrs
-AnchorPoint: "Anchor-13" 240 0 basechar 0
-AnchorPoint: "Anchor-12" 480 1350 basechar 0
-AnchorPoint: "Anchor-11" 240 0 basechar 0
-AnchorPoint: "Anchor-10" 650 1430 basechar 0
+AnchorPoint: "Anchor-27" 240 0 basechar 0
+AnchorPoint: "Anchor-26" 480 1350 basechar 0
+AnchorPoint: "Anchor-25" 240 0 basechar 0
+AnchorPoint: "Anchor-24" 650 1430 basechar 0
 AnchorPoint: "Anchor-9" 460 0 basechar 0
 AnchorPoint: "Anchor-8" 500 1350 basechar 0
 AnchorPoint: "Anchor-7" 240 1350 basechar 0
@@ -180472,10 +180472,10 @@ CALL
 IUP[x]
 IUP[y]
 EndTTInstrs
-AnchorPoint: "Anchor-13" 580 0 basechar 0
-AnchorPoint: "Anchor-12" 760 1350 basechar 0
-AnchorPoint: "Anchor-11" 580 0 basechar 0
-AnchorPoint: "Anchor-10" 1200 1430 basechar 0
+AnchorPoint: "Anchor-27" 580 0 basechar 0
+AnchorPoint: "Anchor-26" 760 1350 basechar 0
+AnchorPoint: "Anchor-25" 580 0 basechar 0
+AnchorPoint: "Anchor-24" 1200 1430 basechar 0
 AnchorPoint: "Anchor-9" 1000 0 basechar 0
 AnchorPoint: "Anchor-8" 1060 1350 basechar 0
 AnchorPoint: "Anchor-7" 200 1350 basechar 0
@@ -180575,10 +180575,10 @@ IP
 IUP[x]
 IUP[y]
 EndTTInstrs
-AnchorPoint: "Anchor-13" 560 0 basechar 0
-AnchorPoint: "Anchor-12" 720 1350 basechar 0
-AnchorPoint: "Anchor-11" 560 0 basechar 0
-AnchorPoint: "Anchor-10" 1080 1430 basechar 0
+AnchorPoint: "Anchor-27" 560 0 basechar 0
+AnchorPoint: "Anchor-26" 720 1350 basechar 0
+AnchorPoint: "Anchor-25" 560 0 basechar 0
+AnchorPoint: "Anchor-24" 1080 1430 basechar 0
 AnchorPoint: "Anchor-9" 860 0 basechar 0
 AnchorPoint: "Anchor-8" 1000 1350 basechar 0
 AnchorPoint: "Anchor-7" 200 1350 basechar 0
@@ -180646,10 +180646,10 @@ CALL
 IUP[x]
 IUP[y]
 EndTTInstrs
-AnchorPoint: "Anchor-13" 600 0 basechar 0
-AnchorPoint: "Anchor-12" 700 1350 basechar 0
-AnchorPoint: "Anchor-11" 300 0 basechar 0
-AnchorPoint: "Anchor-10" 1100 1430 basechar 0
+AnchorPoint: "Anchor-27" 600 0 basechar 0
+AnchorPoint: "Anchor-26" 700 1350 basechar 0
+AnchorPoint: "Anchor-25" 300 0 basechar 0
+AnchorPoint: "Anchor-24" 1100 1430 basechar 0
 AnchorPoint: "Anchor-9" 1200 0 basechar 0
 AnchorPoint: "Anchor-8" 1000 1350 basechar 0
 AnchorPoint: "Anchor-7" 240 1350 basechar 0
@@ -180773,10 +180773,10 @@ CALL
 IUP[x]
 IUP[y]
 EndTTInstrs
-AnchorPoint: "Anchor-13" 460 0 basechar 0
-AnchorPoint: "Anchor-12" 700 1350 basechar 0
-AnchorPoint: "Anchor-11" 460 0 basechar 0
-AnchorPoint: "Anchor-10" 1100 1430 basechar 0
+AnchorPoint: "Anchor-27" 460 0 basechar 0
+AnchorPoint: "Anchor-26" 700 1350 basechar 0
+AnchorPoint: "Anchor-25" 460 0 basechar 0
+AnchorPoint: "Anchor-24" 1100 1430 basechar 0
 AnchorPoint: "Anchor-9" 900 0 basechar 0
 AnchorPoint: "Anchor-8" 1000 1350 basechar 0
 AnchorPoint: "Anchor-7" 240 1350 basechar 0
@@ -180842,10 +180842,10 @@ SHP[rp1]
 IUP[x]
 IUP[y]
 EndTTInstrs
-AnchorPoint: "Anchor-13" 260 0 basechar 0
-AnchorPoint: "Anchor-12" 620 1350 basechar 0
-AnchorPoint: "Anchor-11" 540 0 basechar 0
-AnchorPoint: "Anchor-10" 980 1430 basechar 0
+AnchorPoint: "Anchor-27" 260 0 basechar 0
+AnchorPoint: "Anchor-26" 620 1350 basechar 0
+AnchorPoint: "Anchor-25" 540 0 basechar 0
+AnchorPoint: "Anchor-24" 980 1430 basechar 0
 AnchorPoint: "Anchor-9" 740 0 basechar 0
 AnchorPoint: "Anchor-8" 900 1350 basechar 0
 AnchorPoint: "Anchor-7" 140 1350 basechar 0
@@ -180967,10 +180967,10 @@ SHP[rp1]
 IUP[x]
 IUP[y]
 EndTTInstrs
-AnchorPoint: "Anchor-13" 460 0 basechar 0
-AnchorPoint: "Anchor-12" 660 1350 basechar 0
-AnchorPoint: "Anchor-11" 460 0 basechar 0
-AnchorPoint: "Anchor-10" 980 1430 basechar 0
+AnchorPoint: "Anchor-27" 460 0 basechar 0
+AnchorPoint: "Anchor-26" 660 1350 basechar 0
+AnchorPoint: "Anchor-25" 460 0 basechar 0
+AnchorPoint: "Anchor-24" 980 1430 basechar 0
 AnchorPoint: "Anchor-9" 800 0 basechar 0
 AnchorPoint: "Anchor-8" 900 1350 basechar 0
 AnchorPoint: "Anchor-7" 140 1350 basechar 0
@@ -181039,10 +181039,10 @@ MDAP[rnd]
 IUP[x]
 IUP[y]
 EndTTInstrs
-AnchorPoint: "Anchor-13" 80 0 basechar 0
-AnchorPoint: "Anchor-12" 700 1350 basechar 0
-AnchorPoint: "Anchor-11" 620 0 basechar 0
-AnchorPoint: "Anchor-10" 1080 1430 basechar 0
+AnchorPoint: "Anchor-27" 80 0 basechar 0
+AnchorPoint: "Anchor-26" 700 1350 basechar 0
+AnchorPoint: "Anchor-25" 620 0 basechar 0
+AnchorPoint: "Anchor-24" 1080 1430 basechar 0
 AnchorPoint: "Anchor-9" 600 0 basechar 0
 AnchorPoint: "Anchor-8" 1000 1350 basechar 0
 AnchorPoint: "Anchor-7" 240 1350 basechar 0
@@ -181100,10 +181100,10 @@ CALL
 IUP[x]
 IUP[y]
 EndTTInstrs
-AnchorPoint: "Anchor-13" 700 0 basechar 0
-AnchorPoint: "Anchor-12" 560 1350 basechar 0
-AnchorPoint: "Anchor-11" 700 0 basechar 0
-AnchorPoint: "Anchor-10" 860 1430 basechar 0
+AnchorPoint: "Anchor-27" 700 0 basechar 0
+AnchorPoint: "Anchor-26" 560 1350 basechar 0
+AnchorPoint: "Anchor-25" 700 0 basechar 0
+AnchorPoint: "Anchor-24" 860 1430 basechar 0
 AnchorPoint: "Anchor-9" 760 0 basechar 0
 AnchorPoint: "Anchor-8" 860 1350 basechar 0
 AnchorPoint: "Anchor-7" 140 1350 basechar 0
@@ -181217,10 +181217,10 @@ CALL
 IUP[x]
 IUP[y]
 EndTTInstrs
-AnchorPoint: "Anchor-13" 600 0 basechar 0
-AnchorPoint: "Anchor-12" 880 1350 basechar 0
-AnchorPoint: "Anchor-11" 600 0 basechar 0
-AnchorPoint: "Anchor-10" 1360 1430 basechar 0
+AnchorPoint: "Anchor-27" 600 0 basechar 0
+AnchorPoint: "Anchor-26" 880 1350 basechar 0
+AnchorPoint: "Anchor-25" 600 0 basechar 0
+AnchorPoint: "Anchor-24" 1360 1430 basechar 0
 AnchorPoint: "Anchor-9" 1080 0 basechar 0
 AnchorPoint: "Anchor-8" 1300 1350 basechar 0
 AnchorPoint: "Anchor-7" 140 1350 basechar 0
@@ -181301,10 +181301,10 @@ SHP[rp1]
 IUP[x]
 IUP[y]
 EndTTInstrs
-AnchorPoint: "Anchor-13" 600 0 basechar 0
-AnchorPoint: "Anchor-12" 800 1350 basechar 0
-AnchorPoint: "Anchor-11" 600 0 basechar 0
-AnchorPoint: "Anchor-10" 1200 1430 basechar 0
+AnchorPoint: "Anchor-27" 600 0 basechar 0
+AnchorPoint: "Anchor-26" 800 1350 basechar 0
+AnchorPoint: "Anchor-25" 600 0 basechar 0
+AnchorPoint: "Anchor-24" 1200 1430 basechar 0
 AnchorPoint: "Anchor-9" 1080 0 basechar 0
 AnchorPoint: "Anchor-8" 1100 1350 basechar 0
 AnchorPoint: "Anchor-7" 200 1350 basechar 0
@@ -181364,10 +181364,10 @@ Encoding: 1520 1520 2512
 Width: 1042
 GlyphClass: 2
 Flags: W
-AnchorPoint: "Anchor-13" 400 0 basechar 0
-AnchorPoint: "Anchor-12" 640 1350 basechar 0
-AnchorPoint: "Anchor-11" 300 0 basechar 0
-AnchorPoint: "Anchor-10" 880 1430 basechar 0
+AnchorPoint: "Anchor-27" 400 0 basechar 0
+AnchorPoint: "Anchor-26" 640 1350 basechar 0
+AnchorPoint: "Anchor-25" 300 0 basechar 0
+AnchorPoint: "Anchor-24" 880 1430 basechar 0
 AnchorPoint: "Anchor-9" 700 0 basechar 0
 AnchorPoint: "Anchor-8" 780 1350 basechar 0
 AnchorPoint: "Anchor-7" 200 1350 basechar 0
@@ -181388,10 +181388,10 @@ Encoding: 1521 1521 2513
 Width: 1042
 GlyphClass: 2
 Flags: W
-AnchorPoint: "Anchor-13" 400 0 basechar 0
-AnchorPoint: "Anchor-12" 640 1350 basechar 0
-AnchorPoint: "Anchor-11" 300 0 basechar 0
-AnchorPoint: "Anchor-10" 880 1430 basechar 0
+AnchorPoint: "Anchor-27" 400 0 basechar 0
+AnchorPoint: "Anchor-26" 640 1350 basechar 0
+AnchorPoint: "Anchor-25" 300 0 basechar 0
+AnchorPoint: "Anchor-24" 880 1430 basechar 0
 AnchorPoint: "Anchor-9" 700 0 basechar 0
 AnchorPoint: "Anchor-8" 780 1350 basechar 0
 AnchorPoint: "Anchor-7" 200 1350 basechar 0
@@ -181439,10 +181439,10 @@ Encoding: 1522 1522 2514
 Width: 1042
 GlyphClass: 2
 Flags: W
-AnchorPoint: "Anchor-13" 400 0 basechar 0
-AnchorPoint: "Anchor-12" 640 1350 basechar 0
-AnchorPoint: "Anchor-11" 300 0 basechar 0
-AnchorPoint: "Anchor-10" 880 1430 basechar 0
+AnchorPoint: "Anchor-27" 400 0 basechar 0
+AnchorPoint: "Anchor-26" 640 1350 basechar 0
+AnchorPoint: "Anchor-25" 300 0 basechar 0
+AnchorPoint: "Anchor-24" 880 1430 basechar 0
 AnchorPoint: "Anchor-9" 700 0 basechar 0
 AnchorPoint: "Anchor-8" 780 1350 basechar 0
 AnchorPoint: "Anchor-7" 260 1350 basechar 0
@@ -181673,7 +181673,7 @@ SHP[rp2]
 IUP[x]
 IUP[y]
 EndTTInstrs
-AnchorPoint: "Anchor-10" 0 1430 mark 0
+AnchorPoint: "Anchor-24" 0 1430 mark 0
 AnchorPoint: "Anchor-3" 180 1430 mark 0
 LayerCount: 2
 Fore
@@ -181716,10 +181716,10 @@ DELTAP1
 DELTAP1
 SHC[rp1]
 EndTTInstrs
-AnchorPoint: "Anchor-13" 460 0 basechar 0
-AnchorPoint: "Anchor-12" 640 1350 basechar 0
-AnchorPoint: "Anchor-11" 300 0 basechar 0
-AnchorPoint: "Anchor-10" 880 1430 basechar 0
+AnchorPoint: "Anchor-27" 460 0 basechar 0
+AnchorPoint: "Anchor-26" 640 1350 basechar 0
+AnchorPoint: "Anchor-25" 300 0 basechar 0
+AnchorPoint: "Anchor-24" 880 1430 basechar 0
 AnchorPoint: "Anchor-9" 700 0 basechar 0
 AnchorPoint: "Anchor-8" 780 1350 basechar 0
 AnchorPoint: "Anchor-7" 260 1350 basechar 0
@@ -181751,10 +181751,10 @@ Encoding: 64289 64289 2522
 Width: 1286
 GlyphClass: 2
 Flags: W
-AnchorPoint: "Anchor-13" 580 0 basechar 0
-AnchorPoint: "Anchor-12" 780 1350 basechar 0
-AnchorPoint: "Anchor-11" 580 0 basechar 0
-AnchorPoint: "Anchor-10" 1120 1430 basechar 0
+AnchorPoint: "Anchor-27" 580 0 basechar 0
+AnchorPoint: "Anchor-26" 780 1350 basechar 0
+AnchorPoint: "Anchor-25" 580 0 basechar 0
+AnchorPoint: "Anchor-24" 1120 1430 basechar 0
 AnchorPoint: "Anchor-9" 1060 0 basechar 0
 AnchorPoint: "Anchor-8" 1080 1350 basechar 0
 AnchorPoint: "Anchor-7" 240 1350 basechar 0
@@ -181790,10 +181790,10 @@ Encoding: 64290 64290 2523
 Width: 1135
 GlyphClass: 2
 Flags: W
-AnchorPoint: "Anchor-13" 680 0 basechar 0
-AnchorPoint: "Anchor-12" 700 1350 basechar 0
-AnchorPoint: "Anchor-11" 480 0 basechar 0
-AnchorPoint: "Anchor-10" 960 1430 basechar 0
+AnchorPoint: "Anchor-27" 680 0 basechar 0
+AnchorPoint: "Anchor-26" 700 1350 basechar 0
+AnchorPoint: "Anchor-25" 480 0 basechar 0
+AnchorPoint: "Anchor-24" 960 1430 basechar 0
 AnchorPoint: "Anchor-9" 760 0 basechar 0
 AnchorPoint: "Anchor-8" 900 1350 basechar 0
 AnchorPoint: "Anchor-7" 140 1350 basechar 0
@@ -181842,10 +181842,10 @@ Encoding: 64291 64291 2524
 Width: 1298
 GlyphClass: 2
 Flags: W
-AnchorPoint: "Anchor-13" 560 0 basechar 0
-AnchorPoint: "Anchor-12" 740 1350 basechar 0
-AnchorPoint: "Anchor-11" 560 0 basechar 0
-AnchorPoint: "Anchor-10" 1000 1430 basechar 0
+AnchorPoint: "Anchor-27" 560 0 basechar 0
+AnchorPoint: "Anchor-26" 740 1350 basechar 0
+AnchorPoint: "Anchor-25" 560 0 basechar 0
+AnchorPoint: "Anchor-24" 1000 1430 basechar 0
 AnchorPoint: "Anchor-9" 960 0 basechar 0
 AnchorPoint: "Anchor-8" 1000 1350 basechar 0
 AnchorPoint: "Anchor-7" 240 1350 basechar 0
@@ -181865,10 +181865,10 @@ Encoding: 64292 64292 2525
 Width: 1075
 GlyphClass: 2
 Flags: W
-AnchorPoint: "Anchor-13" 340 0 basechar 0
-AnchorPoint: "Anchor-12" 560 1350 basechar 0
-AnchorPoint: "Anchor-11" 340 0 basechar 0
-AnchorPoint: "Anchor-10" 880 1430 basechar 0
+AnchorPoint: "Anchor-27" 340 0 basechar 0
+AnchorPoint: "Anchor-26" 560 1350 basechar 0
+AnchorPoint: "Anchor-25" 340 0 basechar 0
+AnchorPoint: "Anchor-24" 880 1430 basechar 0
 AnchorPoint: "Anchor-9" 760 0 basechar 0
 AnchorPoint: "Anchor-8" 800 1350 basechar 0
 AnchorPoint: "Anchor-7" 200 1350 basechar 0
@@ -181904,10 +181904,10 @@ Encoding: 64293 64293 2526
 Width: 1085
 GlyphClass: 2
 Flags: W
-AnchorPoint: "Anchor-13" 380 0 basechar 0
-AnchorPoint: "Anchor-12" 880 1350 basechar 0
-AnchorPoint: "Anchor-11" 380 0 basechar 0
-AnchorPoint: "Anchor-10" 880 1430 basechar 0
+AnchorPoint: "Anchor-27" 380 0 basechar 0
+AnchorPoint: "Anchor-26" 880 1350 basechar 0
+AnchorPoint: "Anchor-25" 380 0 basechar 0
+AnchorPoint: "Anchor-24" 880 1430 basechar 0
 AnchorPoint: "Anchor-9" 700 0 basechar 0
 AnchorPoint: "Anchor-8" 800 1350 basechar 0
 AnchorPoint: "Anchor-7" 0 1350 basechar 0
@@ -181971,10 +181971,10 @@ Encoding: 64294 64294 2527
 Width: 1389
 GlyphClass: 2
 Flags: W
-AnchorPoint: "Anchor-13" 560 0 basechar 0
-AnchorPoint: "Anchor-12" 760 1350 basechar 0
-AnchorPoint: "Anchor-11" 560 0 basechar 0
-AnchorPoint: "Anchor-10" 1200 1430 basechar 0
+AnchorPoint: "Anchor-27" 560 0 basechar 0
+AnchorPoint: "Anchor-26" 760 1350 basechar 0
+AnchorPoint: "Anchor-25" 560 0 basechar 0
+AnchorPoint: "Anchor-24" 1200 1430 basechar 0
 AnchorPoint: "Anchor-9" 1080 0 basechar 0
 AnchorPoint: "Anchor-8" 1060 1350 basechar 0
 AnchorPoint: "Anchor-7" 240 1350 basechar 0
@@ -181993,10 +181993,10 @@ Encoding: 64295 64295 2528
 Width: 1094
 GlyphClass: 2
 Flags: W
-AnchorPoint: "Anchor-13" 700 0 basechar 0
-AnchorPoint: "Anchor-12" 560 1350 basechar 0
-AnchorPoint: "Anchor-11" 700 0 basechar 0
-AnchorPoint: "Anchor-10" 860 1430 basechar 0
+AnchorPoint: "Anchor-27" 700 0 basechar 0
+AnchorPoint: "Anchor-26" 560 1350 basechar 0
+AnchorPoint: "Anchor-25" 700 0 basechar 0
+AnchorPoint: "Anchor-24" 860 1430 basechar 0
 AnchorPoint: "Anchor-9" 760 0 basechar 0
 AnchorPoint: "Anchor-8" 860 1350 basechar 0
 AnchorPoint: "Anchor-7" 140 1350 basechar 0
@@ -182045,10 +182045,10 @@ Encoding: 64296 64296 2529
 Width: 1415
 GlyphClass: 2
 Flags: W
-AnchorPoint: "Anchor-13" 600 0 basechar 0
-AnchorPoint: "Anchor-12" 800 1350 basechar 0
-AnchorPoint: "Anchor-11" 600 0 basechar 0
-AnchorPoint: "Anchor-10" 1200 1430 basechar 0
+AnchorPoint: "Anchor-27" 600 0 basechar 0
+AnchorPoint: "Anchor-26" 800 1350 basechar 0
+AnchorPoint: "Anchor-25" 600 0 basechar 0
+AnchorPoint: "Anchor-24" 1200 1430 basechar 0
 AnchorPoint: "Anchor-9" 1080 0 basechar 0
 AnchorPoint: "Anchor-8" 1100 1350 basechar 0
 AnchorPoint: "Anchor-7" 200 1350 basechar 0
@@ -182132,10 +182132,10 @@ Encoding: 64298 64298 2531
 Width: 1495
 GlyphClass: 2
 Flags: W
-AnchorPoint: "Anchor-13" 600 0 basechar 0
-AnchorPoint: "Anchor-12" 880 1350 basechar 0
-AnchorPoint: "Anchor-11" 600 0 basechar 0
-AnchorPoint: "Anchor-10" 1700 1430 basechar 0
+AnchorPoint: "Anchor-27" 600 0 basechar 0
+AnchorPoint: "Anchor-26" 880 1350 basechar 0
+AnchorPoint: "Anchor-25" 600 0 basechar 0
+AnchorPoint: "Anchor-24" 1700 1430 basechar 0
 AnchorPoint: "Anchor-9" 1080 0 basechar 0
 AnchorPoint: "Anchor-8" 1460 1350 basechar 0
 AnchorPoint: "Anchor-7" 140 1350 basechar 0
@@ -182158,10 +182158,10 @@ Encoding: 64299 64299 2532
 Width: 1495
 GlyphClass: 2
 Flags: W
-AnchorPoint: "Anchor-13" 600 0 basechar 0
-AnchorPoint: "Anchor-12" 880 1350 basechar 0
-AnchorPoint: "Anchor-11" 600 0 basechar 0
-AnchorPoint: "Anchor-10" 1360 1430 basechar 0
+AnchorPoint: "Anchor-27" 600 0 basechar 0
+AnchorPoint: "Anchor-26" 880 1350 basechar 0
+AnchorPoint: "Anchor-25" 600 0 basechar 0
+AnchorPoint: "Anchor-24" 1360 1430 basechar 0
 AnchorPoint: "Anchor-9" 1080 0 basechar 0
 AnchorPoint: "Anchor-8" 1300 1350 basechar 0
 AnchorPoint: "Anchor-7" 0 1350 basechar 0
@@ -182208,10 +182208,10 @@ DELTAP1
 DELTAP1
 SHC[rp1]
 EndTTInstrs
-AnchorPoint: "Anchor-13" 600 0 basechar 0
-AnchorPoint: "Anchor-12" 880 1350 basechar 0
-AnchorPoint: "Anchor-11" 600 0 basechar 0
-AnchorPoint: "Anchor-10" 1700 1430 basechar 0
+AnchorPoint: "Anchor-27" 600 0 basechar 0
+AnchorPoint: "Anchor-26" 880 1350 basechar 0
+AnchorPoint: "Anchor-25" 600 0 basechar 0
+AnchorPoint: "Anchor-24" 1700 1430 basechar 0
 AnchorPoint: "Anchor-9" 1080 0 basechar 0
 AnchorPoint: "Anchor-8" 1460 1350 basechar 0
 AnchorPoint: "Anchor-7" 140 1350 basechar 0
@@ -182259,10 +182259,10 @@ DELTAP1
 DELTAP1
 SHC[rp1]
 EndTTInstrs
-AnchorPoint: "Anchor-13" 600 0 basechar 0
-AnchorPoint: "Anchor-12" 880 1350 basechar 0
-AnchorPoint: "Anchor-11" 600 0 basechar 0
-AnchorPoint: "Anchor-10" 1360 1430 basechar 0
+AnchorPoint: "Anchor-27" 600 0 basechar 0
+AnchorPoint: "Anchor-26" 880 1350 basechar 0
+AnchorPoint: "Anchor-25" 600 0 basechar 0
+AnchorPoint: "Anchor-24" 1360 1430 basechar 0
 AnchorPoint: "Anchor-9" 1080 0 basechar 0
 AnchorPoint: "Anchor-8" 1300 1350 basechar 0
 AnchorPoint: "Anchor-7" 0 1350 basechar 0
@@ -182286,10 +182286,10 @@ Encoding: 64302 64302 2535
 Width: 1286
 GlyphClass: 2
 Flags: W
-AnchorPoint: "Anchor-13" 400 0 basechar 0
-AnchorPoint: "Anchor-12" 780 1350 basechar 0
-AnchorPoint: "Anchor-11" 820 0 basechar 0
-AnchorPoint: "Anchor-10" 1120 1430 basechar 0
+AnchorPoint: "Anchor-27" 400 0 basechar 0
+AnchorPoint: "Anchor-26" 780 1350 basechar 0
+AnchorPoint: "Anchor-25" 820 0 basechar 0
+AnchorPoint: "Anchor-24" 1120 1430 basechar 0
 AnchorPoint: "Anchor-9" 1060 0 basechar 0
 AnchorPoint: "Anchor-8" 1080 1350 basechar 0
 AnchorPoint: "Anchor-7" 240 1350 basechar 0
@@ -182326,10 +182326,10 @@ Encoding: 64303 64303 2536
 Width: 1286
 GlyphClass: 2
 Flags: W
-AnchorPoint: "Anchor-13" 400 0 basechar 0
-AnchorPoint: "Anchor-12" 780 1350 basechar 0
-AnchorPoint: "Anchor-11" 820 0 basechar 0
-AnchorPoint: "Anchor-10" 1120 1430 basechar 0
+AnchorPoint: "Anchor-27" 400 0 basechar 0
+AnchorPoint: "Anchor-26" 780 1350 basechar 0
+AnchorPoint: "Anchor-25" 820 0 basechar 0
+AnchorPoint: "Anchor-24" 1120 1430 basechar 0
 AnchorPoint: "Anchor-9" 1060 0 basechar 0
 AnchorPoint: "Anchor-8" 1080 1350 basechar 0
 AnchorPoint: "Anchor-7" 240 1350 basechar 0
@@ -182382,10 +182382,10 @@ DELTAP1
 DELTAP2
 SHC[rp1]
 EndTTInstrs
-AnchorPoint: "Anchor-13" 580 0 basechar 0
-AnchorPoint: "Anchor-12" 780 1350 basechar 0
-AnchorPoint: "Anchor-11" 580 0 basechar 0
-AnchorPoint: "Anchor-10" 1120 1430 basechar 0
+AnchorPoint: "Anchor-27" 580 0 basechar 0
+AnchorPoint: "Anchor-26" 780 1350 basechar 0
+AnchorPoint: "Anchor-25" 580 0 basechar 0
+AnchorPoint: "Anchor-24" 1120 1430 basechar 0
 AnchorPoint: "Anchor-9" 1060 0 basechar 0
 AnchorPoint: "Anchor-8" 1080 1350 basechar 0
 AnchorPoint: "Anchor-7" 240 1350 basechar 0
@@ -182421,10 +182421,10 @@ Encoding: 64305 64305 2538
 Width: 1225
 GlyphClass: 2
 Flags: W
-AnchorPoint: "Anchor-13" 480 0 basechar 0
-AnchorPoint: "Anchor-12" 600 1350 basechar 0
-AnchorPoint: "Anchor-11" 480 0 basechar 0
-AnchorPoint: "Anchor-10" 940 1430 basechar 0
+AnchorPoint: "Anchor-27" 480 0 basechar 0
+AnchorPoint: "Anchor-26" 600 1350 basechar 0
+AnchorPoint: "Anchor-25" 480 0 basechar 0
+AnchorPoint: "Anchor-24" 940 1430 basechar 0
 AnchorPoint: "Anchor-9" 840 0 basechar 0
 AnchorPoint: "Anchor-8" 900 1350 basechar 0
 AnchorPoint: "Anchor-7" 240 1350 basechar 0
@@ -182502,10 +182502,10 @@ DELTAP1
 DELTAP1
 SHC[rp1]
 EndTTInstrs
-AnchorPoint: "Anchor-13" 340 0 basechar 0
-AnchorPoint: "Anchor-12" 440 1350 basechar 0
-AnchorPoint: "Anchor-11" 340 0 basechar 0
-AnchorPoint: "Anchor-10" 640 1430 basechar 0
+AnchorPoint: "Anchor-27" 340 0 basechar 0
+AnchorPoint: "Anchor-26" 440 1350 basechar 0
+AnchorPoint: "Anchor-25" 340 0 basechar 0
+AnchorPoint: "Anchor-24" 640 1430 basechar 0
 AnchorPoint: "Anchor-9" 580 0 basechar 0
 AnchorPoint: "Anchor-8" 500 1350 basechar 0
 AnchorPoint: "Anchor-7" 240 1350 basechar 0
@@ -182537,10 +182537,10 @@ SRP1
 DELTAP1
 SHC[rp1]
 EndTTInstrs
-AnchorPoint: "Anchor-13" 680 0 basechar 0
-AnchorPoint: "Anchor-12" 700 1350 basechar 0
-AnchorPoint: "Anchor-11" 480 0 basechar 0
-AnchorPoint: "Anchor-10" 960 1430 basechar 0
+AnchorPoint: "Anchor-27" 680 0 basechar 0
+AnchorPoint: "Anchor-26" 700 1350 basechar 0
+AnchorPoint: "Anchor-25" 480 0 basechar 0
+AnchorPoint: "Anchor-24" 960 1430 basechar 0
 AnchorPoint: "Anchor-9" 760 0 basechar 0
 AnchorPoint: "Anchor-8" 900 1350 basechar 0
 AnchorPoint: "Anchor-7" 140 1350 basechar 0
@@ -182601,10 +182601,10 @@ SRP1
 DELTAP1
 SHC[rp1]
 EndTTInstrs
-AnchorPoint: "Anchor-13" 560 0 basechar 0
-AnchorPoint: "Anchor-12" 740 1350 basechar 0
-AnchorPoint: "Anchor-11" 560 0 basechar 0
-AnchorPoint: "Anchor-10" 1000 1430 basechar 0
+AnchorPoint: "Anchor-27" 560 0 basechar 0
+AnchorPoint: "Anchor-26" 740 1350 basechar 0
+AnchorPoint: "Anchor-25" 560 0 basechar 0
+AnchorPoint: "Anchor-24" 1000 1430 basechar 0
 AnchorPoint: "Anchor-9" 960 0 basechar 0
 AnchorPoint: "Anchor-8" 1000 1350 basechar 0
 AnchorPoint: "Anchor-7" 240 1350 basechar 0
@@ -182625,10 +182625,10 @@ Encoding: 64309 64309 2542
 Width: 532
 GlyphClass: 2
 Flags: W
-AnchorPoint: "Anchor-13" 200 0 basechar 0
-AnchorPoint: "Anchor-12" 420 1350 basechar 0
-AnchorPoint: "Anchor-11" 120 0 basechar 0
-AnchorPoint: "Anchor-10" 500 1430 basechar 0
+AnchorPoint: "Anchor-27" 200 0 basechar 0
+AnchorPoint: "Anchor-26" 420 1350 basechar 0
+AnchorPoint: "Anchor-25" 120 0 basechar 0
+AnchorPoint: "Anchor-24" 500 1430 basechar 0
 AnchorPoint: "Anchor-9" 180 0 basechar 0
 AnchorPoint: "Anchor-8" 360 1350 basechar 0
 AnchorPoint: "Anchor-7" 260 1350 basechar 0
@@ -182649,10 +182649,10 @@ Encoding: 64310 64310 2543
 Width: 662
 GlyphClass: 2
 Flags: W
-AnchorPoint: "Anchor-13" 200 0 basechar 0
-AnchorPoint: "Anchor-12" 500 1350 basechar 0
-AnchorPoint: "Anchor-11" 200 0 basechar 0
-AnchorPoint: "Anchor-10" 540 1430 basechar 0
+AnchorPoint: "Anchor-27" 200 0 basechar 0
+AnchorPoint: "Anchor-26" 500 1350 basechar 0
+AnchorPoint: "Anchor-25" 200 0 basechar 0
+AnchorPoint: "Anchor-24" 540 1430 basechar 0
 AnchorPoint: "Anchor-9" 240 0 basechar 0
 AnchorPoint: "Anchor-8" 460 1350 basechar 0
 AnchorPoint: "Anchor-7" 140 1350 basechar 0
@@ -182673,10 +182673,10 @@ Encoding: 64312 64312 2544
 Width: 1337
 GlyphClass: 2
 Flags: W
-AnchorPoint: "Anchor-13" 560 0 basechar 0
-AnchorPoint: "Anchor-12" 760 1350 basechar 0
-AnchorPoint: "Anchor-11" 560 0 basechar 0
-AnchorPoint: "Anchor-10" 1180 1430 basechar 0
+AnchorPoint: "Anchor-27" 560 0 basechar 0
+AnchorPoint: "Anchor-26" 760 1350 basechar 0
+AnchorPoint: "Anchor-25" 560 0 basechar 0
+AnchorPoint: "Anchor-24" 1180 1430 basechar 0
 AnchorPoint: "Anchor-9" 1020 0 basechar 0
 AnchorPoint: "Anchor-8" 1060 1350 basechar 0
 AnchorPoint: "Anchor-7" 240 1350 basechar 0
@@ -182712,10 +182712,10 @@ SRP1
 CALL
 SHC[rp1]
 EndTTInstrs
-AnchorPoint: "Anchor-13" 200 0 basechar 0
-AnchorPoint: "Anchor-12" 420 1350 basechar 0
-AnchorPoint: "Anchor-11" 140 0 basechar 0
-AnchorPoint: "Anchor-10" 500 1430 basechar 0
+AnchorPoint: "Anchor-27" 200 0 basechar 0
+AnchorPoint: "Anchor-26" 420 1350 basechar 0
+AnchorPoint: "Anchor-25" 140 0 basechar 0
+AnchorPoint: "Anchor-24" 500 1430 basechar 0
 AnchorPoint: "Anchor-9" 180 0 basechar 0
 AnchorPoint: "Anchor-8" 360 1350 basechar 0
 AnchorPoint: "Anchor-7" 260 1350 basechar 0
@@ -182751,10 +182751,10 @@ DELTAP1
 DELTAP1
 SHC[rp1]
 EndTTInstrs
-AnchorPoint: "Anchor-13" 540 0 basechar 0
-AnchorPoint: "Anchor-12" 560 1350 basechar 0
-AnchorPoint: "Anchor-11" 200 0 basechar 0
-AnchorPoint: "Anchor-10" 880 1430 basechar 0
+AnchorPoint: "Anchor-27" 540 0 basechar 0
+AnchorPoint: "Anchor-26" 560 1350 basechar 0
+AnchorPoint: "Anchor-25" 200 0 basechar 0
+AnchorPoint: "Anchor-24" 880 1430 basechar 0
 AnchorPoint: "Anchor-9" 1040 0 basechar 0
 AnchorPoint: "Anchor-8" 800 1350 basechar 0
 AnchorPoint: "Anchor-7" 140 1350 basechar 0
@@ -182824,10 +182824,10 @@ DELTAP1
 DELTAP1
 SHC[rp1]
 EndTTInstrs
-AnchorPoint: "Anchor-13" 340 0 basechar 0
-AnchorPoint: "Anchor-12" 560 1350 basechar 0
-AnchorPoint: "Anchor-11" 340 0 basechar 0
-AnchorPoint: "Anchor-10" 880 1430 basechar 0
+AnchorPoint: "Anchor-27" 340 0 basechar 0
+AnchorPoint: "Anchor-26" 560 1350 basechar 0
+AnchorPoint: "Anchor-25" 340 0 basechar 0
+AnchorPoint: "Anchor-24" 880 1430 basechar 0
 AnchorPoint: "Anchor-9" 760 0 basechar 0
 AnchorPoint: "Anchor-8" 800 1350 basechar 0
 AnchorPoint: "Anchor-7" 200 1350 basechar 0
@@ -182863,10 +182863,10 @@ DELTAP1
 DELTAP1
 SHC[rp1]
 EndTTInstrs
-AnchorPoint: "Anchor-13" 380 0 basechar 0
-AnchorPoint: "Anchor-12" 880 1350 basechar 0
-AnchorPoint: "Anchor-11" 380 0 basechar 0
-AnchorPoint: "Anchor-10" 880 1430 basechar 0
+AnchorPoint: "Anchor-27" 380 0 basechar 0
+AnchorPoint: "Anchor-26" 880 1350 basechar 0
+AnchorPoint: "Anchor-25" 380 0 basechar 0
+AnchorPoint: "Anchor-24" 880 1430 basechar 0
 AnchorPoint: "Anchor-9" 700 0 basechar 0
 AnchorPoint: "Anchor-8" 800 1350 basechar 0
 AnchorPoint: "Anchor-7" 0 1350 basechar 0
@@ -182946,10 +182946,10 @@ DELTAP1
 DELTAP1
 SHC[rp1]
 EndTTInstrs
-AnchorPoint: "Anchor-13" 560 0 basechar 0
-AnchorPoint: "Anchor-12" 900 1350 basechar 0
-AnchorPoint: "Anchor-11" 560 0 basechar 0
-AnchorPoint: "Anchor-10" 1200 1430 basechar 0
+AnchorPoint: "Anchor-27" 560 0 basechar 0
+AnchorPoint: "Anchor-26" 900 1350 basechar 0
+AnchorPoint: "Anchor-25" 560 0 basechar 0
+AnchorPoint: "Anchor-24" 1200 1430 basechar 0
 AnchorPoint: "Anchor-9" 1060 0 basechar 0
 AnchorPoint: "Anchor-8" 1060 1350 basechar 0
 AnchorPoint: "Anchor-7" 140 1350 basechar 0
@@ -182981,10 +182981,10 @@ SRP1
 DELTAP1
 SHC[rp1]
 EndTTInstrs
-AnchorPoint: "Anchor-13" 240 0 basechar 0
-AnchorPoint: "Anchor-12" 480 1350 basechar 0
-AnchorPoint: "Anchor-11" 240 0 basechar 0
-AnchorPoint: "Anchor-10" 650 1430 basechar 0
+AnchorPoint: "Anchor-27" 240 0 basechar 0
+AnchorPoint: "Anchor-26" 480 1350 basechar 0
+AnchorPoint: "Anchor-25" 240 0 basechar 0
+AnchorPoint: "Anchor-24" 650 1430 basechar 0
 AnchorPoint: "Anchor-9" 460 0 basechar 0
 AnchorPoint: "Anchor-8" 500 1350 basechar 0
 AnchorPoint: "Anchor-7" 200 1350 basechar 0
@@ -183005,10 +183005,10 @@ Encoding: 64321 64321 2551
 Width: 1343
 GlyphClass: 2
 Flags: W
-AnchorPoint: "Anchor-13" 580 0 basechar 0
-AnchorPoint: "Anchor-12" 760 1350 basechar 0
-AnchorPoint: "Anchor-11" 580 0 basechar 0
-AnchorPoint: "Anchor-10" 1200 1430 basechar 0
+AnchorPoint: "Anchor-27" 580 0 basechar 0
+AnchorPoint: "Anchor-26" 760 1350 basechar 0
+AnchorPoint: "Anchor-25" 580 0 basechar 0
+AnchorPoint: "Anchor-24" 1200 1430 basechar 0
 AnchorPoint: "Anchor-9" 1000 0 basechar 0
 AnchorPoint: "Anchor-8" 1060 1350 basechar 0
 AnchorPoint: "Anchor-7" 200 1350 basechar 0
@@ -183045,10 +183045,10 @@ DELTAP1
 DELTAP1
 SHC[rp1]
 EndTTInstrs
-AnchorPoint: "Anchor-13" 600 0 basechar 0
-AnchorPoint: "Anchor-12" 700 1350 basechar 0
-AnchorPoint: "Anchor-11" 300 0 basechar 0
-AnchorPoint: "Anchor-10" 1100 1430 basechar 0
+AnchorPoint: "Anchor-27" 600 0 basechar 0
+AnchorPoint: "Anchor-26" 700 1350 basechar 0
+AnchorPoint: "Anchor-25" 300 0 basechar 0
+AnchorPoint: "Anchor-24" 1100 1430 basechar 0
 AnchorPoint: "Anchor-9" 1200 0 basechar 0
 AnchorPoint: "Anchor-8" 1000 1350 basechar 0
 AnchorPoint: "Anchor-7" 240 1350 basechar 0
@@ -183138,10 +183138,10 @@ DELTAP1
 DELTAP1
 SHC[rp1]
 EndTTInstrs
-AnchorPoint: "Anchor-13" 460 0 basechar 0
-AnchorPoint: "Anchor-12" 700 1350 basechar 0
-AnchorPoint: "Anchor-11" 460 0 basechar 0
-AnchorPoint: "Anchor-10" 1100 1430 basechar 0
+AnchorPoint: "Anchor-27" 460 0 basechar 0
+AnchorPoint: "Anchor-26" 700 1350 basechar 0
+AnchorPoint: "Anchor-25" 460 0 basechar 0
+AnchorPoint: "Anchor-24" 1100 1430 basechar 0
 AnchorPoint: "Anchor-9" 900 0 basechar 0
 AnchorPoint: "Anchor-8" 1000 1350 basechar 0
 AnchorPoint: "Anchor-7" 240 1350 basechar 0
@@ -183203,10 +183203,10 @@ DELTAP1
 DELTAP1
 SHC[rp1]
 EndTTInstrs
-AnchorPoint: "Anchor-13" 460 0 basechar 0
-AnchorPoint: "Anchor-12" 660 1350 basechar 0
-AnchorPoint: "Anchor-11" 460 0 basechar 0
-AnchorPoint: "Anchor-10" 980 1430 basechar 0
+AnchorPoint: "Anchor-27" 460 0 basechar 0
+AnchorPoint: "Anchor-26" 660 1350 basechar 0
+AnchorPoint: "Anchor-25" 460 0 basechar 0
+AnchorPoint: "Anchor-24" 980 1430 basechar 0
 AnchorPoint: "Anchor-9" 800 0 basechar 0
 AnchorPoint: "Anchor-8" 900 1350 basechar 0
 AnchorPoint: "Anchor-7" 140 1350 basechar 0
@@ -183242,10 +183242,10 @@ DELTAP1
 DELTAP1
 SHC[rp1]
 EndTTInstrs
-AnchorPoint: "Anchor-13" 80 0 basechar 0
-AnchorPoint: "Anchor-12" 700 1350 basechar 0
-AnchorPoint: "Anchor-11" 620 0 basechar 0
-AnchorPoint: "Anchor-10" 1080 1430 basechar 0
+AnchorPoint: "Anchor-27" 80 0 basechar 0
+AnchorPoint: "Anchor-26" 700 1350 basechar 0
+AnchorPoint: "Anchor-25" 620 0 basechar 0
+AnchorPoint: "Anchor-24" 1080 1430 basechar 0
 AnchorPoint: "Anchor-9" 600 0 basechar 0
 AnchorPoint: "Anchor-8" 1000 1350 basechar 0
 AnchorPoint: "Anchor-7" 240 1350 basechar 0
@@ -183281,10 +183281,10 @@ DELTAP1
 DELTAP1
 SHC[rp1]
 EndTTInstrs
-AnchorPoint: "Anchor-13" 700 0 basechar 0
-AnchorPoint: "Anchor-12" 560 1350 basechar 0
-AnchorPoint: "Anchor-11" 700 0 basechar 0
-AnchorPoint: "Anchor-10" 860 1430 basechar 0
+AnchorPoint: "Anchor-27" 700 0 basechar 0
+AnchorPoint: "Anchor-26" 560 1350 basechar 0
+AnchorPoint: "Anchor-25" 700 0 basechar 0
+AnchorPoint: "Anchor-24" 860 1430 basechar 0
 AnchorPoint: "Anchor-9" 760 0 basechar 0
 AnchorPoint: "Anchor-8" 860 1350 basechar 0
 AnchorPoint: "Anchor-7" 140 1350 basechar 0
@@ -183358,10 +183358,10 @@ DELTAP1
 DELTAP1
 SHC[rp1]
 EndTTInstrs
-AnchorPoint: "Anchor-13" 600 0 basechar 0
-AnchorPoint: "Anchor-12" 880 1350 basechar 0
-AnchorPoint: "Anchor-11" 600 0 basechar 0
-AnchorPoint: "Anchor-10" 1360 1430 basechar 0
+AnchorPoint: "Anchor-27" 600 0 basechar 0
+AnchorPoint: "Anchor-26" 880 1350 basechar 0
+AnchorPoint: "Anchor-25" 600 0 basechar 0
+AnchorPoint: "Anchor-24" 1360 1430 basechar 0
 AnchorPoint: "Anchor-9" 1080 0 basechar 0
 AnchorPoint: "Anchor-8" 1300 1350 basechar 0
 AnchorPoint: "Anchor-7" 140 1350 basechar 0
@@ -183398,10 +183398,10 @@ DELTAP1
 DELTAP1
 SHC[rp1]
 EndTTInstrs
-AnchorPoint: "Anchor-13" 600 0 basechar 0
-AnchorPoint: "Anchor-12" 800 1350 basechar 0
-AnchorPoint: "Anchor-11" 600 0 basechar 0
-AnchorPoint: "Anchor-10" 1200 1430 basechar 0
+AnchorPoint: "Anchor-27" 600 0 basechar 0
+AnchorPoint: "Anchor-26" 800 1350 basechar 0
+AnchorPoint: "Anchor-25" 600 0 basechar 0
+AnchorPoint: "Anchor-24" 1200 1430 basechar 0
 AnchorPoint: "Anchor-9" 1060 0 basechar 0
 AnchorPoint: "Anchor-8" 1100 1350 basechar 0
 AnchorPoint: "Anchor-7" 200 1350 basechar 0
@@ -183438,10 +183438,10 @@ Encoding: 64331 64331 2559
 Width: 532
 GlyphClass: 2
 Flags: W
-AnchorPoint: "Anchor-13" 200 0 basechar 0
-AnchorPoint: "Anchor-12" 320 1350 basechar 0
-AnchorPoint: "Anchor-11" 120 0 basechar 0
-AnchorPoint: "Anchor-10" 660 1430 basechar 0
+AnchorPoint: "Anchor-27" 200 0 basechar 0
+AnchorPoint: "Anchor-26" 320 1350 basechar 0
+AnchorPoint: "Anchor-25" 120 0 basechar 0
+AnchorPoint: "Anchor-24" 660 1430 basechar 0
 AnchorPoint: "Anchor-9" 180 0 basechar 0
 AnchorPoint: "Anchor-8" 420 1350 basechar 0
 AnchorPoint: "Anchor-7" 100 1350 basechar 0
@@ -183462,10 +183462,10 @@ Encoding: 64332 64332 2560
 Width: 1225
 GlyphClass: 2
 Flags: W
-AnchorPoint: "Anchor-13" 480 0 basechar 0
-AnchorPoint: "Anchor-12" 420 1350 basechar 0
-AnchorPoint: "Anchor-11" 480 0 basechar 0
-AnchorPoint: "Anchor-10" 1020 1430 basechar 0
+AnchorPoint: "Anchor-27" 480 0 basechar 0
+AnchorPoint: "Anchor-26" 420 1350 basechar 0
+AnchorPoint: "Anchor-25" 480 0 basechar 0
+AnchorPoint: "Anchor-24" 1020 1430 basechar 0
 AnchorPoint: "Anchor-9" 840 0 basechar 0
 AnchorPoint: "Anchor-8" 900 1350 basechar 0
 AnchorPoint: "Anchor-7" 240 1350 basechar 0
@@ -183502,10 +183502,10 @@ Encoding: 64333 64333 2561
 Width: 1075
 GlyphClass: 2
 Flags: W
-AnchorPoint: "Anchor-13" 340 0 basechar 0
-AnchorPoint: "Anchor-12" 300 1350 basechar 0
-AnchorPoint: "Anchor-11" 340 0 basechar 0
-AnchorPoint: "Anchor-10" 980 1430 basechar 0
+AnchorPoint: "Anchor-27" 340 0 basechar 0
+AnchorPoint: "Anchor-26" 300 1350 basechar 0
+AnchorPoint: "Anchor-25" 340 0 basechar 0
+AnchorPoint: "Anchor-24" 980 1430 basechar 0
 AnchorPoint: "Anchor-9" 760 0 basechar 0
 AnchorPoint: "Anchor-8" 800 1350 basechar 0
 AnchorPoint: "Anchor-7" 200 1350 basechar 0
@@ -183526,10 +183526,10 @@ Encoding: 64334 64334 2562
 Width: 1249
 GlyphClass: 2
 Flags: W
-AnchorPoint: "Anchor-13" 460 0 basechar 0
-AnchorPoint: "Anchor-12" 400 1350 basechar 0
-AnchorPoint: "Anchor-11" 460 0 basechar 0
-AnchorPoint: "Anchor-10" 1100 1430 basechar 0
+AnchorPoint: "Anchor-27" 460 0 basechar 0
+AnchorPoint: "Anchor-26" 400 1350 basechar 0
+AnchorPoint: "Anchor-25" 460 0 basechar 0
+AnchorPoint: "Anchor-24" 1100 1430 basechar 0
 AnchorPoint: "Anchor-9" 900 0 basechar 0
 AnchorPoint: "Anchor-8" 1000 1350 basechar 0
 AnchorPoint: "Anchor-7" 240 1350 basechar 0
@@ -183623,10 +183623,10 @@ DELTAP1
 DELTAP1
 SHC[rp1]
 EndTTInstrs
-AnchorPoint: "Anchor-13" 380 0 basechar 0
-AnchorPoint: "Anchor-12" 880 1350 basechar 0
-AnchorPoint: "Anchor-11" 380 0 basechar 0
-AnchorPoint: "Anchor-10" 880 1430 basechar 0
+AnchorPoint: "Anchor-27" 380 0 basechar 0
+AnchorPoint: "Anchor-26" 880 1350 basechar 0
+AnchorPoint: "Anchor-25" 380 0 basechar 0
+AnchorPoint: "Anchor-24" 880 1430 basechar 0
 AnchorPoint: "Anchor-9" 700 0 basechar 0
 AnchorPoint: "Anchor-8" 800 1350 basechar 0
 AnchorPoint: "Anchor-7" -180 1350 basechar 0
@@ -183692,10 +183692,10 @@ Encoding: 65817 -1 2565
 Width: 1085
 GlyphClass: 2
 Flags: W
-AnchorPoint: "Anchor-13" 380 0 basechar 0
-AnchorPoint: "Anchor-12" 880 1350 basechar 0
-AnchorPoint: "Anchor-11" 380 0 basechar 0
-AnchorPoint: "Anchor-10" 880 1430 basechar 0
+AnchorPoint: "Anchor-27" 380 0 basechar 0
+AnchorPoint: "Anchor-26" 880 1350 basechar 0
+AnchorPoint: "Anchor-25" 380 0 basechar 0
+AnchorPoint: "Anchor-24" 880 1430 basechar 0
 AnchorPoint: "Anchor-9" 700 0 basechar 0
 AnchorPoint: "Anchor-8" 800 1350 basechar 0
 AnchorPoint: "Anchor-7" -180 1350 basechar 0
@@ -183773,10 +183773,10 @@ SRP1
 DELTAP1
 SHC[rp1]
 EndTTInstrs
-AnchorPoint: "Anchor-13" 540 0 basechar 0
-AnchorPoint: "Anchor-12" 560 1350 basechar 0
-AnchorPoint: "Anchor-11" 200 0 basechar 0
-AnchorPoint: "Anchor-10" 880 1430 basechar 0
+AnchorPoint: "Anchor-27" 540 0 basechar 0
+AnchorPoint: "Anchor-26" 560 1350 basechar 0
+AnchorPoint: "Anchor-25" 200 0 basechar 0
+AnchorPoint: "Anchor-24" 880 1430 basechar 0
 AnchorPoint: "Anchor-9" 1040 0 basechar 0
 AnchorPoint: "Anchor-8" 800 1350 basechar 0
 AnchorPoint: "Anchor-7" 140 1350 basechar 0
@@ -183853,10 +183853,10 @@ DELTAP1
 SHC[rp1]
 SHC[rp1]
 EndTTInstrs
-AnchorPoint: "Anchor-13" 540 0 basechar 0
-AnchorPoint: "Anchor-12" 560 1350 basechar 0
-AnchorPoint: "Anchor-11" 200 0 basechar 0
-AnchorPoint: "Anchor-10" 880 1430 basechar 0
+AnchorPoint: "Anchor-27" 540 0 basechar 0
+AnchorPoint: "Anchor-26" 560 1350 basechar 0
+AnchorPoint: "Anchor-25" 200 0 basechar 0
+AnchorPoint: "Anchor-24" 880 1430 basechar 0
 AnchorPoint: "Anchor-9" 1040 0 basechar 0
 AnchorPoint: "Anchor-8" 800 1350 basechar 0
 AnchorPoint: "Anchor-7" 140 1350 basechar 0
@@ -184094,8 +184094,8 @@ SHP[rp1]
 IUP[y]
 IUP[x]
 EndTTInstrs
-AnchorPoint: "Anchor-13" 340 20 mark 0
-AnchorPoint: "Anchor-11" -360 20 mark 0
+AnchorPoint: "Anchor-27" 340 20 mark 0
+AnchorPoint: "Anchor-25" -360 20 mark 0
 AnchorPoint: "Anchor-5" -60 20 mark 0
 LayerCount: 2
 Fore
@@ -184202,8 +184202,8 @@ MDAP[rnd]
 IUP[y]
 IUP[x]
 EndTTInstrs
-AnchorPoint: "Anchor-13" 300 20 mark 0
-AnchorPoint: "Anchor-11" -360 20 mark 0
+AnchorPoint: "Anchor-27" 300 20 mark 0
+AnchorPoint: "Anchor-25" -360 20 mark 0
 AnchorPoint: "Anchor-5" -60 20 mark 0
 LayerCount: 2
 Fore
@@ -184298,8 +184298,8 @@ MDAP[rnd]
 IUP[y]
 IUP[x]
 EndTTInstrs
-AnchorPoint: "Anchor-13" 300 20 mark 0
-AnchorPoint: "Anchor-11" -360 20 mark 0
+AnchorPoint: "Anchor-27" 300 20 mark 0
+AnchorPoint: "Anchor-25" -360 20 mark 0
 AnchorPoint: "Anchor-5" -60 20 mark 0
 LayerCount: 2
 Fore
