@@ -1,6 +1,7 @@
 - Added U+2007 character in Liberation Mono
 - Imported missing gpos tables from Arimo #1072095
 - Missing MIDDLE DOT (u+00B7) glyph for Liberation Sans Italic #1084493
+- Rendering of Unicode tie bars could be improved #1076190
 
 * Thu Oct 04 2012 Pravin Satpute <psatpute AT redhat DOT com>
 - Resolved "Glyphs with multiple unicode encodings inhibit subsetting" #851790

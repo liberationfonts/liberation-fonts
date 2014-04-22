@@ -19,7 +19,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1277409190
-ModificationTime: 1394535711
+ModificationTime: 1398165471
 PfmFamily: 17
 TTFWeight: 700
 TTFWidth: 5
@@ -3760,10 +3760,10 @@ GaspTable: 3 8 2 10 3 65535 3 0
 Encoding: UnicodeBmp
 UnicodeInterp: none
 NameList: Adobe Glyph List
-DisplaySize: -36
+DisplaySize: -24
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 66 22 17
+WinInfo: 0 66 21
 BeginPrivate: 0
 EndPrivate
 AnchorClass2: "Anchor23"  "mkmkMarktoMarklookup27 subtable" "Anchor22"  "mkmkMarktoMarklookup26 subtable" "Anchor21"  "markMarkPositioninglookup25 subtable" "Anchor20"  "markMarkPositioninglookup24 subtable" "Anchor19"  "markMarkPositioninglookup23 subtable" "Anchor18"  "markMarkPositioninglookup23 subtable" "Anchor17"  "markMarkPositioninglookup22 subtable" "Anchor16"  "markMarkPositioninglookup22 subtable" "Anchor15"  "markMarkPositioninglookup21 subtable" "Anchor14"  "markMarkPositioninglookup20 subtable" "Anchor13"  "markMarkPositioninglookup19 subtable" "Anchor12"  "markMarkPositioninglookup18 subtable" "Anchor11"  "markMarkPositioninglookup18 subtable" "Anchor10"  "markMarkPositioninglookup18 subtable" "Anchor-0"  "'mark' Mark Positioning in Hebrew lookup 1 subtable" "Anchor-1"  "'mark' Mark Positioning in Hebrew lookup 3 subtable" "Anchor-2"  "'mark' Mark Positioning in Hebrew lookup 4 subtable" "Anchor-3"  "'mark' Mark Positioning in Hebrew lookup 5 subtable" "Anchor-4"  "'mark' Mark Positioning in Hebrew lookup 5 subtable" "Anchor-5"  "'mark' Mark Positioning in Hebrew lookup 6 subtable" "Anchor-6"  "'mark' Mark Positioning in Hebrew lookup 6 subtable" "Anchor-7"  "'mark' Mark Positioning in Hebrew lookup 11 subtable" "Anchor-8"  "'mark' Mark Positioning in Hebrew lookup 12 subtable" "Anchor-9"  "'mark' Mark Positioning in Hebrew lookup 13 subtable" "Anchor-24"  "Mark to base attachment lookup 29 subtable" "Anchor-25"  "Mark to base attachment lookup 30 subtable" "Anchor-26"  "Mark to base attachment lookup 31 subtable" "Anchor-27"  "Mark to base attachment lookup 32 subtable" 
@@ -13446,8 +13446,8 @@ AnchorPoint: "Anchor21" 940 0 basechar 0
 AnchorPoint: "Anchor20" 500 0 basechar 0
 AnchorPoint: "Anchor18" 1479 1840 basechar 0
 AnchorPoint: "Anchor19" 0 1840 basechar 0
-AnchorPoint: "Anchor16" 1139 1540 basechar 0
-AnchorPoint: "Anchor17" 1139 -380 basechar 0
+AnchorPoint: "Anchor16" 1139 1230 basechar 0
+AnchorPoint: "Anchor17" 1139 -90 basechar 0
 AnchorPoint: "Anchor15" 820 1000 basechar 0
 AnchorPoint: "Anchor14" 950 900 basechar 0
 AnchorPoint: "Anchor10" 560 1200 basechar 0
@@ -13570,7 +13570,7 @@ AnchorPoint: "Anchor21" 680 0 basechar 0
 AnchorPoint: "Anchor18" 1479 1840 basechar 0
 AnchorPoint: "Anchor19" 0 1840 basechar 0
 AnchorPoint: "Anchor16" 1251 1540 basechar 0
-AnchorPoint: "Anchor17" 1251 -380 basechar 0
+AnchorPoint: "Anchor17" 1251 -110 basechar 0
 AnchorPoint: "Anchor15" 980 1000 basechar 0
 AnchorPoint: "Anchor14" 1120 900 basechar 0
 AnchorPoint: "Anchor10" 680 1540 basechar 0
@@ -13685,8 +13685,8 @@ AnchorPoint: "Anchor21" 580 0 basechar 0
 AnchorPoint: "Anchor20" 600 0 basechar 0
 AnchorPoint: "Anchor18" 1479 1840 basechar 0
 AnchorPoint: "Anchor19" 0 1840 basechar 0
-AnchorPoint: "Anchor16" 1139 1540 basechar 0
-AnchorPoint: "Anchor17" 1139 -380 basechar 0
+AnchorPoint: "Anchor16" 1139 1220 basechar 0
+AnchorPoint: "Anchor17" 1139 -100 basechar 0
 AnchorPoint: "Anchor15" 900 1000 basechar 0
 AnchorPoint: "Anchor14" 900 940 basechar 0
 AnchorPoint: "Anchor10" 800 1540 basechar 0
@@ -13789,7 +13789,7 @@ AnchorPoint: "Anchor21" 920 0 basechar 0
 AnchorPoint: "Anchor18" 1479 1840 basechar 0
 AnchorPoint: "Anchor19" 0 1840 basechar 0
 AnchorPoint: "Anchor16" 1251 1540 basechar 0
-AnchorPoint: "Anchor17" 1251 -380 basechar 0
+AnchorPoint: "Anchor17" 1251 -110 basechar 0
 AnchorPoint: "Anchor15" 1060 1300 basechar 0
 AnchorPoint: "Anchor14" 1080 1500 basechar 0
 AnchorPoint: "Anchor10" 580 1540 basechar 0
@@ -13949,8 +13949,8 @@ AnchorPoint: "Anchor21" 680 0 basechar 0
 AnchorPoint: "Anchor20" 580 0 basechar 0
 AnchorPoint: "Anchor18" 1479 1840 basechar 0
 AnchorPoint: "Anchor19" 0 1840 basechar 0
-AnchorPoint: "Anchor16" 1139 1540 basechar 0
-AnchorPoint: "Anchor17" 1139 -380 basechar 0
+AnchorPoint: "Anchor16" 1139 1210 basechar 0
+AnchorPoint: "Anchor17" 1139 -120 basechar 0
 AnchorPoint: "Anchor15" 900 1000 basechar 0
 AnchorPoint: "Anchor14" 1020 900 basechar 0
 AnchorPoint: "Anchor10" 580 1540 basechar 0
@@ -14060,7 +14060,7 @@ AnchorPoint: "Anchor21" 280 0 basechar 0
 AnchorPoint: "Anchor18" 1479 1840 basechar 0
 AnchorPoint: "Anchor19" 0 1840 basechar 0
 AnchorPoint: "Anchor16" 682 1540 basechar 0
-AnchorPoint: "Anchor17" 682 -380 basechar 0
+AnchorPoint: "Anchor17" 682 -110 basechar 0
 AnchorPoint: "Anchor15" 680 1440 basechar 0
 AnchorPoint: "Anchor14" 680 1500 basechar 0
 AnchorPoint: "Anchor10" 460 1580 basechar 0
@@ -14200,7 +14200,7 @@ AnchorPoint: "Anchor21" 660 -400 basechar 0
 AnchorPoint: "Anchor20" 600 -420 basechar 0
 AnchorPoint: "Anchor18" 1479 1840 basechar 0
 AnchorPoint: "Anchor19" 0 1840 basechar 0
-AnchorPoint: "Anchor16" 1251 1540 basechar 0
+AnchorPoint: "Anchor16" 1251 1210 basechar 0
 AnchorPoint: "Anchor17" 1251 -380 basechar 0
 AnchorPoint: "Anchor15" 1080 1000 basechar 0
 AnchorPoint: "Anchor14" 1080 1100 basechar 0
@@ -14336,7 +14336,7 @@ AnchorPoint: "Anchor21" 920 0 basechar 0
 AnchorPoint: "Anchor18" 1479 1840 basechar 0
 AnchorPoint: "Anchor19" 0 1840 basechar 0
 AnchorPoint: "Anchor16" 1251 1540 basechar 0
-AnchorPoint: "Anchor17" 1251 -380 basechar 0
+AnchorPoint: "Anchor17" 1251 -110 basechar 0
 AnchorPoint: "Anchor15" 980 1000 basechar 0
 AnchorPoint: "Anchor14" 1080 900 basechar 0
 AnchorPoint: "Anchor10" 640 1540 basechar 0
@@ -14464,7 +14464,7 @@ AnchorPoint: "Anchor20" 280 0 basechar 0
 AnchorPoint: "Anchor18" 1479 1840 basechar 0
 AnchorPoint: "Anchor19" 0 1840 basechar 0
 AnchorPoint: "Anchor16" 569 1540 basechar 0
-AnchorPoint: "Anchor17" 569 -380 basechar 0
+AnchorPoint: "Anchor17" 569 -100 basechar 0
 AnchorPoint: "Anchor15" 380 1000 basechar 0
 AnchorPoint: "Anchor14" 410 1100 basechar 0
 AnchorPoint: "Anchor10" 280 1540 basechar 0
@@ -14791,7 +14791,7 @@ AnchorPoint: "Anchor20" 580 0 basechar 0
 AnchorPoint: "Anchor18" 1479 1840 basechar 0
 AnchorPoint: "Anchor19" 0 1840 basechar 0
 AnchorPoint: "Anchor16" 1139 1540 basechar 0
-AnchorPoint: "Anchor17" 1139 -380 basechar 0
+AnchorPoint: "Anchor17" 1139 -110 basechar 0
 AnchorPoint: "Anchor15" 860 1000 basechar 0
 AnchorPoint: "Anchor14" 940 1100 basechar 0
 AnchorPoint: "Anchor10" 580 1540 basechar 0
@@ -14898,7 +14898,7 @@ AnchorPoint: "Anchor20" 280 0 basechar 0
 AnchorPoint: "Anchor18" 1479 1840 basechar 0
 AnchorPoint: "Anchor19" 0 1840 basechar 0
 AnchorPoint: "Anchor16" 569 1540 basechar 0
-AnchorPoint: "Anchor17" 569 -380 basechar 0
+AnchorPoint: "Anchor17" 569 -110 basechar 0
 AnchorPoint: "Anchor15" 380 1300 basechar 0
 AnchorPoint: "Anchor14" 410 1500 basechar 0
 AnchorPoint: "Anchor10" 280 1540 basechar 0
@@ -15072,8 +15072,8 @@ EndTTInstrs
 AnchorPoint: "Anchor21" 1480 0 basechar 0
 AnchorPoint: "Anchor18" 1479 1840 basechar 0
 AnchorPoint: "Anchor19" 0 1840 basechar 0
-AnchorPoint: "Anchor16" 1821 1540 basechar 0
-AnchorPoint: "Anchor17" 1821 -380 basechar 0
+AnchorPoint: "Anchor16" 1821 1220 basechar 0
+AnchorPoint: "Anchor17" 1821 -110 basechar 0
 AnchorPoint: "Anchor15" 1600 1000 basechar 0
 AnchorPoint: "Anchor14" 1680 900 basechar 0
 AnchorPoint: "Anchor10" 920 1200 basechar 0
@@ -15205,8 +15205,8 @@ AnchorPoint: "Anchor21" 920 0 basechar 0
 AnchorPoint: "Anchor20" 630 0 basechar 0
 AnchorPoint: "Anchor18" 1479 1840 basechar 0
 AnchorPoint: "Anchor19" 0 1840 basechar 0
-AnchorPoint: "Anchor16" 1251 1540 basechar 0
-AnchorPoint: "Anchor17" 1251 -380 basechar 0
+AnchorPoint: "Anchor16" 1251 1220 basechar 0
+AnchorPoint: "Anchor17" 1251 -90 basechar 0
 AnchorPoint: "Anchor15" 980 1000 basechar 0
 AnchorPoint: "Anchor14" 1080 900 basechar 0
 AnchorPoint: "Anchor10" 620 1540 basechar 0
@@ -15297,8 +15297,8 @@ AnchorPoint: "Anchor21" 680 0 basechar 0
 AnchorPoint: "Anchor20" 630 0 basechar 0
 AnchorPoint: "Anchor18" 1479 1840 basechar 0
 AnchorPoint: "Anchor19" 0 1840 basechar 0
-AnchorPoint: "Anchor16" 1251 1540 basechar 0
-AnchorPoint: "Anchor17" 1251 -380 basechar 0
+AnchorPoint: "Anchor16" 1251 1240 basechar 0
+AnchorPoint: "Anchor17" 1251 -90 basechar 0
 AnchorPoint: "Anchor15" 980 1000 basechar 0
 AnchorPoint: "Anchor14" 1120 900 basechar 0
 AnchorPoint: "Anchor10" 630 1200 basechar 0
@@ -15396,7 +15396,7 @@ EndTTInstrs
 AnchorPoint: "Anchor21" 200 -400 basechar 0
 AnchorPoint: "Anchor18" 1479 1840 basechar 0
 AnchorPoint: "Anchor19" 0 1840 basechar 0
-AnchorPoint: "Anchor16" 1251 1540 basechar 0
+AnchorPoint: "Anchor16" 1251 1230 basechar 0
 AnchorPoint: "Anchor17" 1251 -380 basechar 0
 AnchorPoint: "Anchor15" 980 1000 basechar 0
 AnchorPoint: "Anchor14" 1120 900 basechar 0
@@ -15504,7 +15504,7 @@ EndTTInstrs
 AnchorPoint: "Anchor21" 900 -400 basechar 0
 AnchorPoint: "Anchor18" 1479 1840 basechar 0
 AnchorPoint: "Anchor19" 0 1840 basechar 0
-AnchorPoint: "Anchor16" 1251 1540 basechar 0
+AnchorPoint: "Anchor16" 1251 1220 basechar 0
 AnchorPoint: "Anchor17" 1251 -380 basechar 0
 AnchorPoint: "Anchor15" 1080 1000 basechar 0
 AnchorPoint: "Anchor14" 1080 1100 basechar 0
@@ -15613,8 +15613,8 @@ AnchorPoint: "Anchor21" 200 0 basechar 0
 AnchorPoint: "Anchor20" 280 0 basechar 0
 AnchorPoint: "Anchor18" 1479 1840 basechar 0
 AnchorPoint: "Anchor19" 0 1840 basechar 0
-AnchorPoint: "Anchor16" 797 1540 basechar 0
-AnchorPoint: "Anchor17" 797 -380 basechar 0
+AnchorPoint: "Anchor16" 797 1520 basechar 0
+AnchorPoint: "Anchor17" 797 -100 basechar 0
 AnchorPoint: "Anchor15" 727 1000 basechar 0
 AnchorPoint: "Anchor14" 760 1100 basechar 0
 AnchorPoint: "Anchor10" 280 1540 basechar 0
@@ -15770,8 +15770,8 @@ AnchorPoint: "Anchor21" 550 0 basechar 0
 AnchorPoint: "Anchor20" 580 0 basechar 0
 AnchorPoint: "Anchor18" 1479 1840 basechar 0
 AnchorPoint: "Anchor19" 0 1840 basechar 0
-AnchorPoint: "Anchor16" 1139 1540 basechar 0
-AnchorPoint: "Anchor17" 1139 -380 basechar 0
+AnchorPoint: "Anchor16" 1139 1220 basechar 0
+AnchorPoint: "Anchor17" 1139 -110 basechar 0
 AnchorPoint: "Anchor15" 900 1000 basechar 0
 AnchorPoint: "Anchor14" 960 1020 basechar 0
 AnchorPoint: "Anchor10" 580 1540 basechar 0
@@ -15884,7 +15884,7 @@ AnchorPoint: "Anchor20" 420 0 basechar 0
 AnchorPoint: "Anchor18" 1479 1840 basechar 0
 AnchorPoint: "Anchor19" 0 1840 basechar 0
 AnchorPoint: "Anchor16" 682 1540 basechar 0
-AnchorPoint: "Anchor17" 682 -380 basechar 0
+AnchorPoint: "Anchor17" 682 -110 basechar 0
 AnchorPoint: "Anchor15" 380 1300 basechar 0
 AnchorPoint: "Anchor14" 600 1100 basechar 0
 AnchorPoint: "Anchor10" 340 1480 basechar 0
@@ -16005,8 +16005,8 @@ AnchorPoint: "Anchor21" 920 0 basechar 0
 AnchorPoint: "Anchor20" 580 0 basechar 0
 AnchorPoint: "Anchor18" 1479 1840 basechar 0
 AnchorPoint: "Anchor19" 0 1840 basechar 0
-AnchorPoint: "Anchor16" 1251 1540 basechar 0
-AnchorPoint: "Anchor17" 1251 -380 basechar 0
+AnchorPoint: "Anchor16" 1251 1210 basechar 0
+AnchorPoint: "Anchor17" 1251 -120 basechar 0
 AnchorPoint: "Anchor15" 1080 1000 basechar 0
 AnchorPoint: "Anchor14" 1080 1100 basechar 0
 AnchorPoint: "Anchor10" 620 1540 basechar 0
@@ -16385,8 +16385,8 @@ EndTTInstrs
 AnchorPoint: "Anchor21" 440 0 basechar 0
 AnchorPoint: "Anchor18" 1479 1840 basechar 0
 AnchorPoint: "Anchor19" 0 1840 basechar 0
-AnchorPoint: "Anchor16" 1139 1540 basechar 0
-AnchorPoint: "Anchor17" 1139 -380 basechar 0
+AnchorPoint: "Anchor16" 1139 1200 basechar 0
+AnchorPoint: "Anchor17" 1139 -100 basechar 0
 AnchorPoint: "Anchor15" 980 1000 basechar 0
 AnchorPoint: "Anchor14" 1020 1100 basechar 0
 AnchorPoint: "Anchor10" 560 1200 basechar 0
@@ -16861,8 +16861,8 @@ EndTTInstrs
 AnchorPoint: "Anchor21" 1100 0 basechar 0
 AnchorPoint: "Anchor18" 1479 1840 basechar 0
 AnchorPoint: "Anchor19" 0 1840 basechar 0
-AnchorPoint: "Anchor16" 1593 1540 basechar 0
-AnchorPoint: "Anchor17" 1593 -380 basechar 0
+AnchorPoint: "Anchor16" 1593 1200 basechar 0
+AnchorPoint: "Anchor17" 1593 -90 basechar 0
 AnchorPoint: "Anchor15" 1500 1000 basechar 0
 AnchorPoint: "Anchor14" 1520 1100 basechar 0
 AnchorPoint: "Anchor10" 800 1540 basechar 0
@@ -16969,8 +16969,8 @@ EndTTInstrs
 AnchorPoint: "Anchor21" 900 0 basechar 0
 AnchorPoint: "Anchor18" 1479 1840 basechar 0
 AnchorPoint: "Anchor19" 0 1840 basechar 0
-AnchorPoint: "Anchor16" 1139 1540 basechar 0
-AnchorPoint: "Anchor17" 1139 -380 basechar 0
+AnchorPoint: "Anchor16" 1139 1180 basechar 0
+AnchorPoint: "Anchor17" 1139 -100 basechar 0
 AnchorPoint: "Anchor15" 900 1000 basechar 0
 AnchorPoint: "Anchor14" 940 1100 basechar 0
 AnchorPoint: "Anchor10" 560 1200 basechar 0
@@ -17447,7 +17447,7 @@ EndTTInstrs
 AnchorPoint: "Anchor21" 280 -400 basechar 0
 AnchorPoint: "Anchor18" 1479 1840 basechar 0
 AnchorPoint: "Anchor19" 0 1840 basechar 0
-AnchorPoint: "Anchor16" 1139 1540 basechar 0
+AnchorPoint: "Anchor16" 1139 1210 basechar 0
 AnchorPoint: "Anchor17" 1139 -380 basechar 0
 AnchorPoint: "Anchor15" 980 1000 basechar 0
 AnchorPoint: "Anchor14" 1020 1100 basechar 0
@@ -17557,8 +17557,8 @@ EndTTInstrs
 AnchorPoint: "Anchor21" 740 0 basechar 0
 AnchorPoint: "Anchor18" 1479 1840 basechar 0
 AnchorPoint: "Anchor19" 0 1840 basechar 0
-AnchorPoint: "Anchor16" 1024 1540 basechar 0
-AnchorPoint: "Anchor17" 1024 -380 basechar 0
+AnchorPoint: "Anchor16" 1024 1210 basechar 0
+AnchorPoint: "Anchor17" 1024 -110 basechar 0
 AnchorPoint: "Anchor15" 870 1000 basechar 0
 AnchorPoint: "Anchor14" 880 1100 basechar 0
 AnchorPoint: "Anchor10" 500 1200 basechar 0
@@ -154210,11 +154210,11 @@ AnchorPoint: "Anchor16" 370 1180 mark 0
 LayerCount: 2
 Fore
 SplineSet
--173 1368 m 1,0,-1
- 1051 1368 l 1,1,-1
- 1051 1206 l 1,2,-1
- -173 1206 l 1,3,-1
- -173 1368 l 1,0,-1
+-573 1368 m 1,0,-1
+ 1351 1368 l 5,1,-1
+ 1351 1206 l 5,2,-1
+ -573 1206 l 1,3,-1
+ -573 1368 l 1,0,-1
 EndSplineSet
 EndChar
 
@@ -154237,11 +154237,11 @@ AnchorPoint: "Anchor17" 420 -100 mark 0
 LayerCount: 2
 Fore
 SplineSet
--173 -162 m 1,0,-1
- 1051 -162 l 1,1,-1
- 1051 -324 l 1,2,-1
- -173 -324 l 1,3,-1
- -173 -162 l 1,0,-1
+-573 -162 m 1,0,-1
+ 1411 -162 l 1,1,-1
+ 1411 -324 l 1,2,-1
+ -573 -324 l 1,3,-1
+ -573 -162 l 1,0,-1
 EndSplineSet
 EndChar
 
