@@ -19,7 +19,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1123398000
-ModificationTime: 1349275094
+ModificationTime: 1399881554
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -3786,12 +3786,12 @@ NameList: Adobe Glyph List
 DisplaySize: -36
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 65574 18 14
+WinInfo: 8190 18 14
 BeginPrivate: 0
 EndPrivate
 TeXData: 1 0 -613545 262144 131072 87381 481280 -1048576 87381 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
 AnchorClass2: "Anchor-0"  "'mark' Mark Positioning in Hebrew lookup 0 subtable" "Anchor-1"  "'mark' Mark Positioning in Hebrew lookup 2 subtable" "Anchor-2"  "'mark' Mark Positioning in Hebrew lookup 3 subtable" "Anchor-3"  "'mark' Mark Positioning in Hebrew lookup 4 subtable" "Anchor-4"  "'mark' Mark Positioning in Hebrew lookup 4 subtable" "Anchor-5"  "'mark' Mark Positioning in Hebrew lookup 5 subtable" "Anchor-6"  "'mark' Mark Positioning in Hebrew lookup 5 subtable" "Anchor-7"  "'mark' Mark Positioning in Hebrew lookup 10 subtable" "Anchor-8"  "'mark' Mark Positioning in Hebrew lookup 11 subtable" "Anchor-9"  "'mark' Mark Positioning in Hebrew lookup 12 subtable" "Anchor-10"  "Mark to base attachment lookup 18 subtable" "Anchor-11"  "Mark to base attachment lookup 19 subtable" "Anchor-12"  "Mark to base attachment lookup 20 subtable" "Anchor-13"  "Mark to base attachment lookup 21 subtable" 
-BeginChars: 65818 2583
+BeginChars: 65818 2584
 
 StartChar: .notdef
 Encoding: 65536 -1 0
@@ -190000,6 +190000,15 @@ SplineSet
  268 1161 l 1,0,-1
 EndSplineSet
 Refer: 88 117 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni2010
+Encoding: 8208 8208 2583
+Width: 682
+Flags: W
+LayerCount: 2
+Fore
+Refer: 16 45 N 1 0 0 1 0 0 2
 EndChar
 EndChars
 EndSplineFont

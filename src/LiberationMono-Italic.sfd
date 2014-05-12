@@ -19,7 +19,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1277886966
-ModificationTime: 1374478051
+ModificationTime: 1399881394
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -4123,7 +4123,7 @@ BeginPrivate: 0
 EndPrivate
 TeXData: 1 0 -562637 629248 314624 209749 553984 -1048576 209749 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
 AnchorClass2: "Anchor-0"  "'mark' Mark Positioning in Hebrew lookup 0 subtable" "Anchor-1"  "'mark' Mark Positioning in Hebrew lookup 1 subtable" "Anchor-2"  "'mark' Mark Positioning in Hebrew lookup 2 subtable" "Anchor-3"  "'mark' Mark Positioning in Hebrew lookup 3 subtable" "Anchor-4"  "'mark' Mark Positioning in Hebrew lookup 3 subtable" "Anchor-5"  "'mark' Mark Positioning in Hebrew lookup 4 subtable" "Anchor-6"  "'mark' Mark Positioning in Hebrew lookup 4 subtable" "Anchor-7"  "'mark' Mark Positioning in Hebrew lookup 9 subtable" "Anchor-8"  "'mark' Mark Positioning in Hebrew lookup 10 subtable" "Anchor-9"  "'mark' Mark Positioning in Hebrew lookup 11 subtable" "Anchor-10"  "Mark to base attachment lookup 15 subtable" "Anchor-11"  "Mark to base attachment lookup 16 subtable" "Anchor-12"  "Mark to base attachment lookup 17 subtable" "Anchor-13"  "Mark to base attachment lookup 18 subtable" 
-BeginChars: 65656 2395
+BeginChars: 65656 2396
 
 StartChar: .notdef
 Encoding: 65536 -1 0
@@ -123924,6 +123924,15 @@ Encoding: 8199 8199 2394
 Width: 1229
 Flags: W
 LayerCount: 2
+EndChar
+
+StartChar: uni2010
+Encoding: 8208 8208 2395
+Width: 1229
+Flags: W
+LayerCount: 2
+Fore
+Refer: 16 45 N 1 0 0 1 0 0 2
 EndChar
 EndChars
 EndSplineFont

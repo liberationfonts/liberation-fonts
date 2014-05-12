@@ -19,7 +19,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1277744832
-ModificationTime: 1394534624
+ModificationTime: 1399881323
 PfmFamily: 17
 TTFWeight: 700
 TTFWidth: 5
@@ -3685,11 +3685,11 @@ NameList: Adobe Glyph List
 DisplaySize: -36
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 65384 22 17
+WinInfo: 8184 22 17
 BeginPrivate: 0
 EndPrivate
 AnchorClass2: "Anchor23"  "mkmkMarktoMarklookup27 subtable" "Anchor22"  "mkmkMarktoMarklookup26 subtable" "Anchor21"  "markMarkPositioninglookup25 subtable" "Anchor20"  "markMarkPositioninglookup24 subtable" "Anchor19"  "markMarkPositioninglookup23 subtable" "Anchor18"  "markMarkPositioninglookup23 subtable" "Anchor17"  "markMarkPositioninglookup22 subtable" "Anchor16"  "markMarkPositioninglookup22 subtable" "Anchor15"  "markMarkPositioninglookup21 subtable" "Anchor14"  "markMarkPositioninglookup20 subtable" "Anchor13"  "markMarkPositioninglookup19 subtable" "Anchor12"  "markMarkPositioninglookup18 subtable" "Anchor11"  "markMarkPositioninglookup18 subtable" "Anchor10"  "markMarkPositioninglookup18 subtable" "Anchor-0"  "'mark' Mark Positioning in Hebrew lookup 1 subtable" "Anchor-1"  "'mark' Mark Positioning in Hebrew lookup 3 subtable" "Anchor-2"  "'mark' Mark Positioning in Hebrew lookup 4 subtable" "Anchor-3"  "'mark' Mark Positioning in Hebrew lookup 5 subtable" "Anchor-4"  "'mark' Mark Positioning in Hebrew lookup 5 subtable" "Anchor-5"  "'mark' Mark Positioning in Hebrew lookup 6 subtable" "Anchor-6"  "'mark' Mark Positioning in Hebrew lookup 6 subtable" "Anchor-7"  "'mark' Mark Positioning in Hebrew lookup 11 subtable" "Anchor-8"  "'mark' Mark Positioning in Hebrew lookup 12 subtable" "Anchor-9"  "'mark' Mark Positioning in Hebrew lookup 13 subtable" "Anchor-24"  "Mark to base attachment lookup 29 subtable" "Anchor-25"  "Mark to base attachment lookup 30 subtable" "Anchor-26"  "Mark to base attachment lookup 31 subtable" "Anchor-27"  "Mark to base attachment lookup 32 subtable" 
-BeginChars: 65831 2589
+BeginChars: 65831 2590
 
 StartChar: .notdef
 Encoding: 65536 -1 0
@@ -186609,6 +186609,15 @@ SplineSet
  1203 1203 l 1,0,-1
 EndSplineSet
 Refer: 88 117 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni2010
+Encoding: 8208 8208 2589
+Width: 682
+Flags: W
+LayerCount: 2
+Fore
+Refer: 16 45 N 1 0 0 1 0 0 2
 EndChar
 EndChars
 EndSplineFont
