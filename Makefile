@@ -4,7 +4,7 @@
 # 4web:                        dtto for TTF, WOFF, SVG, and EOT
 
 FONTFORGE    = fontforge
-PYTHON       = python
+PYTHON       = python3
 FONTLINT     = fontlint
 
 # TTF->EOT converters in fallback order
