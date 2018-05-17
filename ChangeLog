@@ -1,3 +1,8 @@
+* Thu May 17 2018 Pravin Satpute <psatpute AT redhat DOT com> - 2.00.3
+- Releasing liberation-fonts 2.00.3 version, it includes fix for few bugs.
+- This release was pending from long time, will work on other open bugs
+  post this release.
+
 * Tue Oct 14 2014 Pravin Satpute <psatpute AT redhat DOT com>
 - Resolved #1096336:  Liberation 2.00.x missing unicode hyphen (U+2010)
 - Added U+2007 character in Liberation Mono
