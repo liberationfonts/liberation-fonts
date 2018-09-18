@@ -53,7 +53,6 @@ OS2FamilyClass: 2053
 OS2Vendor: '1ASC'
 OS2CodePages: 600001bf.dff70000
 OS2UnicodeRanges: e0000aff.400078ff.00000001.00000000
-Lookup: 1 0 0 "'locl' Localized Forms lookup 4"  {"'locl' Localized Forms lookup 4-1"  } ['locl' ('cyrl' <'SRB ' > 'cyrl' <'MKD ' > ) ]
 Lookup: 4 1 0 "'dlig' Discretionary Ligatures in Hebrew lookup 0"  {"'dlig' Discretionary Ligatures in Hebrew lookup 0 subtable"  } ['dlig' ('hebr' <'dflt' > ) ]
 Lookup: 4 1 0 "'ccmp' Glyph Composition/Decomposition in Hebrew lookup 1"  {"'ccmp' Glyph Composition/Decomposition in Hebrew lookup 1 subtable"  } ['ccmp' ('hebr' <'dflt' > ) ]
 Lookup: 6 1 0 "'ccmp' Glyph Composition/Decomposition in Hebrew lookup 2"  {"'ccmp' Glyph Composition/Decomposition in Hebrew lookup 2 subtable"  } ['ccmp' ('hebr' <'dflt' > ) ]
@@ -48053,7 +48052,6 @@ SplineSet
  315 869 315 869 421.5 948 c 128,-1,35
  528 1027 528 1027 685 1027 c 0,11,12
 EndSplineSet
-Substitution2: "'locl' Localized Forms lookup 4-1" S_BE
 EndChar
 
 StartChar: uni0432

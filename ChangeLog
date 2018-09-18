@@ -1,3 +1,8 @@
+* Tue Sep 18 2018 Vishal Vijayraghavan <vishalvijayraghavan@gmail.com>
+- Resolved #1574410:  Incorrect lowercase Cyrillic BE for Macedonian language in liberation v2 (look like Greek delta)
+- Patch fix by Dimitrij Mijoski: https://pagure.io/liberation-fonts/pull-request/21
+- Updated LiberationMono-Bold, LiberationMono-Regular, LiberationSans-Bold, LiberationSans-Regular, LiberationSerif-Bold, LiberationSerif-Regular
+
 * Thu May 17 2018 Pravin Satpute <psatpute AT redhat DOT com> - 2.00.3
 - Releasing liberation-fonts 2.00.3 version, it includes fix for few bugs.
 - This release was pending from long time, will work on other open bugs

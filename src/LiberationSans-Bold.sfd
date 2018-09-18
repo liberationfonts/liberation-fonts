@@ -53,7 +53,6 @@ OS2FamilyClass: 2053
 OS2Vendor: '1ASC'
 OS2CodePages: 600001bf.dff70000
 OS2UnicodeRanges: e0000aff.500078ff.00000021.00000000
-Lookup: 1 0 0 "'locl' Localized Forms lookup 5"  {"'locl' Localized Forms lookup 5-1"  } ['locl' ('cyrl' <'SRB ' > 'cyrl' <'MKD ' > ) ]
 Lookup: 4 1 0 "'dlig' Discretionary Ligatures in Hebrew lookup 0"  {"'dlig' Discretionary Ligatures in Hebrew lookup 0 subtable"  } ['dlig' ('hebr' <'dflt' > ) ]
 Lookup: 4 1 0 "'ccmp' Glyph Composition/Decomposition in Hebrew lookup 1"  {"'ccmp' Glyph Composition/Decomposition in Hebrew lookup 1 subtable"  } ['ccmp' ('hebr' <'dflt' > ) ]
 Lookup: 6 1 0 "'ccmp' Glyph Composition/Decomposition in Hebrew lookup 2"  {"'ccmp' Glyph Composition/Decomposition in Hebrew lookup 2 subtable"  } ['ccmp' ('hebr' <'dflt' > ) ]
@@ -62928,7 +62927,6 @@ SplineSet
  362 1027 362 1027 697 1027 c 0,12,13
 EndSplineSet
 Kerns2: 628 -27 "'kern' Horizontal Kerning lookup 17 subtable"  626 -27 "'kern' Horizontal Kerning lookup 17 subtable"  623 -27 "'kern' Horizontal Kerning lookup 17 subtable"  620 -51 "'kern' Horizontal Kerning lookup 17 subtable"  618 -51 "'kern' Horizontal Kerning lookup 17 subtable"  616 -27 "'kern' Horizontal Kerning lookup 17 subtable"  614 -27 "'kern' Horizontal Kerning lookup 17 subtable"  609 -27 "'kern' Horizontal Kerning lookup 17 subtable"  608 -51 "'kern' Horizontal Kerning lookup 17 subtable"  604 -27 "'kern' Horizontal Kerning lookup 17 subtable"  603 -27 "'kern' Horizontal Kerning lookup 17 subtable"  601 -51 "'kern' Horizontal Kerning lookup 17 subtable" 
-Substitution2: "'locl' Localized Forms lookup 5-1" S_BE
 EndChar
 
 StartChar: uni0432
