@@ -17,7 +17,7 @@ XUID: [1021 445 290132255 16497751]
 FSType: 0
 OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
-OS2_UseTypoMetrics: 1
+OS2_UseTypoMetrics: 0
 CreationTime: 1277020711
 ModificationTime: 1399881351
 PfmFamily: 17
@@ -3934,6 +3934,7 @@ EndShort
 LangName: 1033 "" "" "Regular" "Ascender - Liberation Mono" "" "Version 2.00.3" "" "Liberation is a trademark of Red Hat, Inc. registered in U.S. Patent and Trademark Office and certain other jurisdictions." "Ascender Corporation" "Steve Matteson" "Based on Cousine, which was designed by Steve Matteson as an innovative, refreshing sans serif design that is metrically compatible with Courier New+ISIA. Cousine offers improved on-screen readability characteristics and the pan-European WGL character set and solves the needs of developers looking for width-compatible fonts to address document portability across platforms." "http://www.ascendercorp.com/" "http://www.ascendercorp.com/typedesigners.html" "Licensed under the SIL Open Font License, Version 1.1" "http://scripts.sil.org/OFL" 
 GaspTable: 3 8 2 17 1 65535 3 0
 Encoding: UnicodeBmp
+Compacted: 1
 UnicodeInterp: none
 NameList: Adobe Glyph List
 DisplaySize: -36
@@ -3944,7 +3945,7 @@ BeginPrivate: 0
 EndPrivate
 TeXData: 1 0 0 629248 314624 209749 553984 -1048576 209749 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
 AnchorClass2: "Anchor-0"  "'mark' Mark Positioning in Hebrew lookup 0 subtable" "Anchor-1"  "'mark' Mark Positioning in Hebrew lookup 1 subtable" "Anchor-2"  "'mark' Mark Positioning in Hebrew lookup 2 subtable" "Anchor-3"  "'mark' Mark Positioning in Hebrew lookup 3 subtable" "Anchor-4"  "'mark' Mark Positioning in Hebrew lookup 3 subtable" "Anchor-5"  "'mark' Mark Positioning in Hebrew lookup 4 subtable" "Anchor-6"  "'mark' Mark Positioning in Hebrew lookup 4 subtable" "Anchor-7"  "'mark' Mark Positioning in Hebrew lookup 9 subtable" "Anchor-8"  "'mark' Mark Positioning in Hebrew lookup 10 subtable" "Anchor-9"  "'mark' Mark Positioning in Hebrew lookup 11 subtable" "Anchor-10"  "Mark to base attachment lookup 15 subtable" "Anchor-11"  "Mark to base attachment lookup 16 subtable" "Anchor-12"  "Mark to base attachment lookup 17 subtable" "Anchor-13"  "Mark to base attachment lookup 18 subtable" 
-BeginChars: 65654 2394
+BeginChars: 65654 2395
 
 StartChar: .notdef
 Encoding: 65536 -1 0
@@ -11196,66 +11197,29 @@ Encoding: 108 108 79
 Width: 1229
 GlyphClass: 2
 Flags: W
-TtInstrs:
-NPUSHB
- 22
- 1
- 0
- 0
- 4
- 5
- 5
- 10
- 11
- 8
- 7
- 80
- 89
- 8
- 0
- 0
- 4
- 3
- 4
- 80
- 89
- 3
- 21
-SVTCA[y-axis]
-MIAP[rnd]
-CALL
-SRP1
-SVTCA[y-axis]
-SHP[rp1]
-RTG
-MIAP[rnd]
-CALL
-SRP1
-SRP2
-SVTCA[x-axis]
-IP
-SRP1
-SHP[rp1]
-SHP[rp1]
-SRP1
-SHP[rp1]
-IUP[x]
-IUP[y]
-EndTTInstrs
+HStem: 4 143<761.664 1116> 1342 142<267 556>
+VStem: 556 180<170.686 1342>
 LayerCount: 2
 Fore
 SplineSet
-736 142 m 1,0,-1
+835 147 m 16,0,-1
  1116 142 l 1,1,-1
  1116 0 l 1,2,-1
- 134 0 l 1,3,-1
- 134 142 l 1,4,-1
- 556 142 l 1,5,-1
- 556 1342 l 1,6,-1
- 267 1342 l 1,7,-1
- 267 1484 l 1,8,-1
- 736 1484 l 1,9,-1
- 736 142 l 1,0,-1
+ 746 4 l 8,3,4
+ 633 24 633 24 581 94 c 24,5,6
+ 559 124 559 124 556 258 c 17,7,-1
+ 556 1342 l 1,8,-1
+ 267 1342 l 1,9,-1
+ 267 1484 l 1,10,-1
+ 736 1484 l 1,11,-1
+ 736 237 l 9,12,13
+ 737 192 737 192 761 170 c 28,14,15
+ 782 151 782 151 835 147 c 16,0,-1
+839 142 m 1025,16,-1
+736 237 m 1025,17,-1
+752 0 m 1025,18,-1
+556 142 m 1,19,-1
+ 556 258 l 1025,20,-1
 EndSplineSet
 EndChar
 
@@ -168773,6 +168737,64 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 16 45 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni20BF
+Encoding: 8383 8383 2394
+Width: 1369
+Flags: WO
+HStem: 0 153<493 568.5 712.591 991.25> 0 136.218<142 302> 631 149<493 927.194> 1196 153<493 559.044 704 931> 1211 138<142 302>
+VStem: 302 191<153 631 780 1196> 325.71 148.846<-240 0 1349 1569> 568.5 144.091<-240 0 1349 1569> 1018 192<864.771 1125.27> 1099 193<250.816 530.698>
+LayerCount: 2
+Fore
+SplineSet
+712.590820312 -240 m 21,0,-1
+ 568.5 -240 l 5,1,-1
+ 568.5 0 l 5,2,-1
+ 474.555664062 0 l 5,3,-1
+ 474.555664062 -240 l 5,4,-1
+ 325.709960938 -240 l 5,5,-1
+ 325.709960938 0 l 5,6,-1
+ 142 0 l 5,7,-1
+ 142 136.217773438 l 13,8,-1
+ 302 136.217773438 l 21,9,-1
+ 302 1211 l 5,10,-1
+ 142 1211 l 5,11,-1
+ 142 1349 l 5,12,-1
+ 334.713867188 1349 l 5,13,-1
+ 334.713867188 1569 l 5,14,-1
+ 476.333007812 1569 l 5,15,-1
+ 476.333007812 1349 l 5,16,-1
+ 559.043945312 1349 l 5,17,-1
+ 559.043945312 1569 l 5,18,-1
+ 704 1569 l 5,19,-1
+ 704 1349 l 5,20,-1
+ 714 1349 l 6,21,22
+ 1210 1349 1210 1349 1210 1022 c 4,23,24
+ 1210 900 1210 900 1138 818 c 132,-1,25
+ 1066 736 1066 736 942 711 c 5,26,27
+ 1109 693 1109 693 1200.5 604 c 132,-1,28
+ 1292 515 1292 515 1292 380 c 4,29,30
+ 1292 200 1292 200 1155 100 c 132,-1,31
+ 1018 0 1018 0 774 0 c 6,32,-1
+ 712.590820312 0 l 13,33,-1
+ 712.590820312 -240 l 21,0,-1
+1018 998 m 4,34,35
+ 1018 1105 1018 1105 942.5 1150.5 c 132,-1,36
+ 867 1196 867 1196 716 1196 c 6,37,-1
+ 493 1196 l 5,38,-1
+ 493 780 l 5,39,-1
+ 718 780 l 6,40,41
+ 1018 780 1018 780 1018 998 c 4,34,35
+1099 397 m 4,42,43
+ 1099 511 1099 511 1010 571 c 132,-1,44
+ 921 631 921 631 745 631 c 6,45,-1
+ 493 631 l 5,46,-1
+ 493 153 l 5,47,-1
+ 759 153 l 6,48,49
+ 934 153 934 153 1016.5 213.5 c 132,-1,50
+ 1099 274 1099 274 1099 397 c 4,42,43
+EndSplineSet
 EndChar
 EndChars
 EndSplineFont

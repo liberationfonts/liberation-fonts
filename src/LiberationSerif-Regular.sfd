@@ -17,7 +17,7 @@ XUID: [1021 445 290132255 4443462]
 FSType: 0
 OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
-OS2_UseTypoMetrics: 1
+OS2_UseTypoMetrics: 0
 CreationTime: 1277108302
 ModificationTime: 1399881544
 PfmFamily: 17
@@ -3532,7 +3532,7 @@ BeginPrivate: 0
 EndPrivate
 TeXData: 1 0 0 262144 131072 87381 481280 -1048576 87381 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
 AnchorClass2: "Anchor-0"  "'mark' Mark Positioning in Hebrew lookup 0 subtable" "Anchor-1"  "'mark' Mark Positioning in Hebrew lookup 2 subtable" "Anchor-2"  "'mark' Mark Positioning in Hebrew lookup 3 subtable" "Anchor-3"  "'mark' Mark Positioning in Hebrew lookup 4 subtable" "Anchor-4"  "'mark' Mark Positioning in Hebrew lookup 4 subtable" "Anchor-5"  "'mark' Mark Positioning in Hebrew lookup 5 subtable" "Anchor-6"  "'mark' Mark Positioning in Hebrew lookup 5 subtable" "Anchor-7"  "'mark' Mark Positioning in Hebrew lookup 10 subtable" "Anchor-8"  "'mark' Mark Positioning in Hebrew lookup 11 subtable" "Anchor-9"  "'mark' Mark Positioning in Hebrew lookup 12 subtable" "Anchor-10"  "Mark to base attachment lookup 18 subtable" "Anchor-11"  "Mark to base attachment lookup 19 subtable" "Anchor-12"  "Mark to base attachment lookup 20 subtable" "Anchor-13"  "Mark to base attachment lookup 21 subtable" 
-BeginChars: 65816 2576
+BeginChars: 65816 2577
 
 StartChar: .notdef
 Encoding: 65536 -1 0
@@ -210326,6 +210326,64 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 16 45 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni20BF
+Encoding: 8383 8383 2576
+Width: 1416
+Flags: W
+HStem: 0 80<253.378 281 483.171 614.043 793 961.179> 0 53<109 200.326> 654 90<474 902.677> 1251 90<214.357 281 483.343 609.634 793 910.171> 1288 53<109 203.838>
+VStem: 281 193<90 654 744 1251> 296.235 187.107<-302.769 -1.76855 1341 1631> 614.043 178.957<-301 -6 1341 1631> 1008 205<863.66 1163.46> 1109 207<203.259 540.062>
+LayerCount: 2
+Fore
+SplineSet
+1008 1016 m 0,0,1
+ 1008 1139 1008 1139 931 1195 c 128,-1,2
+ 854 1251 854 1251 681 1251 c 2,3,-1
+ 474 1251 l 1,4,-1
+ 474 744 l 1,5,-1
+ 693 744 l 2,6,7
+ 855 744 855 744 931.5 808 c 128,-1,8
+ 1008 872 1008 872 1008 1016 c 0,0,1
+1109 382 m 0,9,10
+ 1109 523 1109 523 1015 588.5 c 128,-1,11
+ 921 654 921 654 714 654 c 2,12,-1
+ 474 654 l 1,13,-1
+ 474 90 l 1,14,15
+ 612 84 612 84 768 84 c 0,16,17
+ 939 84 939 84 1024 156.5 c 128,-1,18
+ 1109 229 1109 229 1109 382 c 0,9,10
+614.04296875 -303.546875 m 21,19,-1
+ 614.04296875 -3.546875 l 1,20,-1
+ 483.170898438 -1.7685546875 l 1,21,-1
+ 483.170898438 -302.768554688 l 13,22,-1
+ 297 -303 l 29,23,-1
+ 298 0 l 17,24,-1
+ 109 0 l 1,25,-1
+ 109 53 l 1,26,-1
+ 281 80 l 1,27,-1
+ 281 1262 l 1,28,-1
+ 109 1288 l 1,29,-1
+ 109 1341 l 1,30,-1
+ 296.235351562 1341 l 1,31,-1
+ 296.235351562 1631 l 1,32,-1
+ 483.342773438 1631 l 1,33,-1
+ 483.342773438 1341 l 1,34,-1
+ 609.633789062 1341 l 1,35,-1
+ 609.633789062 1631 l 9,36,-1
+ 793 1631 l 25,37,-1
+ 793 1339 l 17,38,39
+ 985 1336 985 1336 1095 1265.5 c 0,40,41
+ 1213 1190 1213 1190 1213 1026 c 0,42,43
+ 1213 908 1213 908 1140.5 825 c 128,-1,44
+ 1068 742 1068 742 937 714 c 1,45,46
+ 1118 695 1118 695 1217 608.5 c 128,-1,47
+ 1316 522 1316 522 1316 386 c 0,48,49
+ 1316 193 1316 193 1182.5 93.5 c 128,-1,50
+ 1049 -6 1049 -6 793 -6 c 9,51,-1
+ 791 -301 l 29,52,-1
+ 614.04296875 -303.546875 l 21,19,-1
+EndSplineSet
 EndChar
 EndChars
 EndSplineFont
