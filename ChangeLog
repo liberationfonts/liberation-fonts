@@ -1,3 +1,9 @@
+* Mon Nov 05 2018 Vishal Vijayraghavan <vishalvijayraghavan@gmail.com>
+- Releasing liberation-fonts 2.00.4 version, it includes few bug fixes and enhancements as follows:
+-- Added Bitcoin sign #1533798 
+-- Fixed Incorrect lowercase Cyrillic BE for Macedonian language in liberation v2 (look like Greek delta), Patch fix by Dimitrij Mijoski #1574410
+-- Fixed Liberation Sans Mono Enhancement Request: Modification needed for "l" Character, Patch fix by Nikolaus Waxweiler #1574410 
+
 * Tue Sep 18 2018 Vishal Vijayraghavan <vishalvijayraghavan@gmail.com>
 - Resolved #1574410:  Incorrect lowercase Cyrillic BE for Macedonian language in liberation v2 (look like Greek delta)
 - Patch fix by Dimitrij Mijoski: https://pagure.io/liberation-fonts/pull-request/21
