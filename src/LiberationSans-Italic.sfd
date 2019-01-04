@@ -20,7 +20,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1277743413
-ModificationTime: 1399881298
+ModificationTime: 1546612735
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -56337,7 +56337,6 @@ SplineSet
  422 1027 422 1027 700 1027 c 0,15,16
 EndSplineSet
 Kerns2: 628 -23 "'kern' Horizontal Kerning lookup 17 subtable" 623 -68 "'kern' Horizontal Kerning lookup 17 subtable" 620 -68 "'kern' Horizontal Kerning lookup 17 subtable" 618 -68 "'kern' Horizontal Kerning lookup 17 subtable" 616 -45 "'kern' Horizontal Kerning lookup 17 subtable" 608 -45 "'kern' Horizontal Kerning lookup 17 subtable" 603 -23 "'kern' Horizontal Kerning lookup 17 subtable" 601 23 "'kern' Horizontal Kerning lookup 17 subtable"
-Substitution2: "'locl' Localized Forms lookup 5-1" S_BE
 EndChar
 
 StartChar: uni0432
