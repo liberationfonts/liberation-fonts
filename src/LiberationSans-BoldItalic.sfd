@@ -20,7 +20,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1277744832
-ModificationTime: 1546612781
+ModificationTime: 1546624200
 PfmFamily: 17
 TTFWeight: 700
 TTFWidth: 5
@@ -57474,7 +57474,6 @@ SplineSet
  635 911 635 911 580 911 c 0,0,1
 EndSplineSet
 Kerns2: 628 -27 "'kern' Horizontal Kerning lookup 17 subtable" 614 -51 "'kern' Horizontal Kerning lookup 17 subtable" 611 -51 "'kern' Horizontal Kerning lookup 17 subtable" 609 -51 "'kern' Horizontal Kerning lookup 17 subtable" 604 -51 "'kern' Horizontal Kerning lookup 17 subtable" 602 -51 "'kern' Horizontal Kerning lookup 17 subtable" 601 -78 "'kern' Horizontal Kerning lookup 17 subtable" 597 -27 "'kern' Horizontal Kerning lookup 17 subtable" 17 -27 "'kern' Horizontal Kerning lookup 17 subtable" 15 -27 "'kern' Horizontal Kerning lookup 17 subtable"
-Substitution2: "'locl' Localized Forms lookup 5-1" imacron
 EndChar
 
 StartChar: uni0434
