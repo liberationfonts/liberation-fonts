@@ -10,9 +10,10 @@ UnderlinePosition: -142
 UnderlineWidth: 150
 Ascent: 1638
 Descent: 410
+InvalidEm: 0
 LayerCount: 2
-Layer: 0 1 "Back"  1
-Layer: 1 1 "Fore"  0
+Layer: 0 1 "Back" 1
+Layer: 1 1 "Fore" 0
 XUID: [1021 445 290132255 11463017]
 FSType: 0
 OS2Version: 3
@@ -53,387 +54,387 @@ OS2FamilyClass: 2053
 OS2Vendor: '1ASC'
 OS2CodePages: 600001bf.dff70000
 OS2UnicodeRanges: e0000aff.500078ff.00000021.00000000
-Lookup: 1 0 0 "'locl' Localized Forms lookup 5"  {"'locl' Localized Forms lookup 5-1"  } ['locl' ('cyrl' <'SRB ' > 'cyrl' <'MKD ' > ) ]
-Lookup: 4 1 0 "'dlig' Discretionary Ligatures in Hebrew lookup 0"  {"'dlig' Discretionary Ligatures in Hebrew lookup 0 subtable"  } ['dlig' ('hebr' <'dflt' > ) ]
-Lookup: 4 1 0 "'ccmp' Glyph Composition/Decomposition in Hebrew lookup 1"  {"'ccmp' Glyph Composition/Decomposition in Hebrew lookup 1 subtable"  } ['ccmp' ('hebr' <'dflt' > ) ]
-Lookup: 6 1 0 "'ccmp' Glyph Composition/Decomposition in Hebrew lookup 2"  {"'ccmp' Glyph Composition/Decomposition in Hebrew lookup 2 subtable"  } ['ccmp' ('hebr' <'dflt' > ) ]
-Lookup: 4 0 0 "'ccmp' Glyph Composition/Decomposition lookup 3"  {"'ccmp' Glyph Composition/Decomposition lookup 3 subtable"  } ['ccmp' ('grek' <'dflt' > 'latn' <'dflt' > ) ]
-Lookup: 4 1 0 "Ligature Substitution lookup 4"  {"Ligature Substitution lookup 4 subtable"  } []
-Lookup: 258 9 0 "'kern' Horizontal Kerning in Hebrew lookup 0"  {"'kern' Horizontal Kerning in Hebrew lookup 0 subtable"  } ['kern' ('hebr' <'dflt' > ) ]
-Lookup: 260 1 0 "'mark' Mark Positioning in Hebrew lookup 1"  {"'mark' Mark Positioning in Hebrew lookup 1 subtable"  } ['mark' ('hebr' <'dflt' > ) ]
-Lookup: 264 1 0 "'mark' Mark Positioning in Hebrew lookup 2"  {"'mark' Mark Positioning in Hebrew lookup 2 subtable"  } ['mark' ('hebr' <'dflt' > ) ]
-Lookup: 260 7 0 "'mark' Mark Positioning in Hebrew lookup 3"  {"'mark' Mark Positioning in Hebrew lookup 3 subtable"  } ['mark' ('hebr' <'dflt' > ) ]
-Lookup: 260 1 0 "'mark' Mark Positioning in Hebrew lookup 4"  {"'mark' Mark Positioning in Hebrew lookup 4 subtable"  } ['mark' ('hebr' <'dflt' > ) ]
-Lookup: 260 1 0 "'mark' Mark Positioning in Hebrew lookup 5"  {"'mark' Mark Positioning in Hebrew lookup 5 subtable"  } ['mark' ('hebr' <'dflt' > ) ]
-Lookup: 260 1 0 "'mark' Mark Positioning in Hebrew lookup 6"  {"'mark' Mark Positioning in Hebrew lookup 6 subtable"  } ['mark' ('hebr' <'dflt' > ) ]
-Lookup: 264 1 0 "'mark' Mark Positioning in Hebrew lookup 7"  {"'mark' Mark Positioning in Hebrew lookup 7 contextual 0"  "'mark' Mark Positioning in Hebrew lookup 7 contextual 1"  "'mark' Mark Positioning in Hebrew lookup 7 contextual 2"  "'mark' Mark Positioning in Hebrew lookup 7 contextual 3"  } ['mark' ('hebr' <'dflt' > ) ]
-Lookup: 264 1 0 "'mark' Mark Positioning in Hebrew lookup 8"  {"'mark' Mark Positioning in Hebrew lookup 8 contextual 0"  "'mark' Mark Positioning in Hebrew lookup 8 contextual 1"  "'mark' Mark Positioning in Hebrew lookup 8 contextual 2"  "'mark' Mark Positioning in Hebrew lookup 8 contextual 3"  } ['mark' ('hebr' <'dflt' > ) ]
-Lookup: 264 1 0 "'mark' Mark Positioning in Hebrew lookup 9"  {"'mark' Mark Positioning in Hebrew lookup 9 contextual 0"  "'mark' Mark Positioning in Hebrew lookup 9 contextual 1"  "'mark' Mark Positioning in Hebrew lookup 9 contextual 2"  "'mark' Mark Positioning in Hebrew lookup 9 contextual 3"  } ['mark' ('hebr' <'dflt' > ) ]
-Lookup: 264 1 0 "'mark' Mark Positioning in Hebrew lookup 10"  {"'mark' Mark Positioning in Hebrew lookup 10 contextual 0"  "'mark' Mark Positioning in Hebrew lookup 10 contextual 1"  "'mark' Mark Positioning in Hebrew lookup 10 contextual 2"  "'mark' Mark Positioning in Hebrew lookup 10 contextual 3"  } ['mark' ('hebr' <'dflt' > ) ]
-Lookup: 260 1 0 "'mark' Mark Positioning in Hebrew lookup 11"  {"'mark' Mark Positioning in Hebrew lookup 11 subtable"  } ['mark' ('hebr' <'dflt' > ) ]
-Lookup: 260 1 0 "'mark' Mark Positioning in Hebrew lookup 12"  {"'mark' Mark Positioning in Hebrew lookup 12 subtable"  } ['mark' ('hebr' <'dflt' > ) ]
-Lookup: 260 1 0 "'mark' Mark Positioning in Hebrew lookup 13"  {"'mark' Mark Positioning in Hebrew lookup 13 subtable"  } ['mark' ('hebr' <'dflt' > ) ]
-Lookup: 264 1 0 "'mark' Mark Positioning in Hebrew lookup 14"  {"'mark' Mark Positioning in Hebrew lookup 14 contextual 0"  "'mark' Mark Positioning in Hebrew lookup 14 contextual 1"  "'mark' Mark Positioning in Hebrew lookup 14 contextual 2"  "'mark' Mark Positioning in Hebrew lookup 14 contextual 3"  "'mark' Mark Positioning in Hebrew lookup 14 contextual 4"  "'mark' Mark Positioning in Hebrew lookup 14 contextual 5"  "'mark' Mark Positioning in Hebrew lookup 14 contextual 6"  "'mark' Mark Positioning in Hebrew lookup 14 contextual 7"  } ['mark' ('hebr' <'dflt' > ) ]
-Lookup: 264 1 0 "'mark' Mark Positioning in Hebrew lookup 15"  {"'mark' Mark Positioning in Hebrew lookup 15 contextual 0"  "'mark' Mark Positioning in Hebrew lookup 15 contextual 1"  "'mark' Mark Positioning in Hebrew lookup 15 contextual 2"  "'mark' Mark Positioning in Hebrew lookup 15 contextual 3"  "'mark' Mark Positioning in Hebrew lookup 15 contextual 4"  "'mark' Mark Positioning in Hebrew lookup 15 contextual 5"  "'mark' Mark Positioning in Hebrew lookup 15 contextual 6"  "'mark' Mark Positioning in Hebrew lookup 15 contextual 7"  "'mark' Mark Positioning in Hebrew lookup 15 contextual 8"  "'mark' Mark Positioning in Hebrew lookup 15 contextual 9"  "'mark' Mark Positioning in Hebrew lookup 15 contextual 10"  "'mark' Mark Positioning in Hebrew lookup 15 contextual 11"  "'mark' Mark Positioning in Hebrew lookup 15 contextual 12"  } ['mark' ('hebr' <'dflt' > ) ]
-Lookup: 264 1 0 "'mark' Mark Positioning in Hebrew lookup 16"  {"'mark' Mark Positioning in Hebrew lookup 16 contextual 0"  "'mark' Mark Positioning in Hebrew lookup 16 contextual 1"  } ['mark' ('hebr' <'dflt' > ) ]
-Lookup: 258 8 0 "'kern' Horizontal Kerning lookup 17"  {"'kern' Horizontal Kerning lookup 17 subtable"  } ['kern' ('cyrl' <'dflt' > 'cyrl' <'SRB ' > 'cyrl' <'MKD ' > 'grek' <'dflt' > 'latn' <'dflt' > ) ]
-Lookup: 257 1 0 "Single Positioning lookup 28"  {"Single Positioning lookup 28 subtable"  } []
-Lookup: 260 1 0 "Mark to base attachment lookup 29"  {"Mark to base attachment lookup 29 subtable"  } []
-Lookup: 260 1 0 "Mark to base attachment lookup 30"  {"Mark to base attachment lookup 30 subtable"  } []
-Lookup: 260 1 0 "Mark to base attachment lookup 31"  {"Mark to base attachment lookup 31 subtable"  } []
-Lookup: 260 1 0 "Mark to base attachment lookup 32"  {"Mark to base attachment lookup 32 subtable"  } []
-Lookup: 257 1 0 "Single Positioning lookup 33"  {"Single Positioning lookup 33 subtable"  } []
-Lookup: 257 1 0 "Single Positioning lookup 34"  {"Single Positioning lookup 34 subtable"  } []
-Lookup: 258 1 0 "Pairwise Positioning (kerning) lookup 35"  {"Pairwise Positioning (kerning) lookup 35 subtable"  } []
-Lookup: 260 0 0 "markMarkPositioninglookup18"  {"markMarkPositioninglookup18 subtable"  } ['mark' ('latn' <'dflt' > 'grek' <'dflt' > ) ]
-Lookup: 260 0 0 "markMarkPositioninglookup19"  {"markMarkPositioninglookup19 subtable"  } ['mark' ('latn' <'dflt' > 'grek' <'dflt' > 'cyrl' <'dflt' > ) ]
-Lookup: 260 0 0 "markMarkPositioninglookup20"  {"markMarkPositioninglookup20 subtable"  } ['mark' ('latn' <'dflt' > 'grek' <'dflt' > ) ]
-Lookup: 260 0 0 "markMarkPositioninglookup21"  {"markMarkPositioninglookup21 subtable"  } ['mark' ('latn' <'dflt' > 'grek' <'dflt' > ) ]
-Lookup: 260 0 0 "markMarkPositioninglookup22"  {"markMarkPositioninglookup22 subtable"  } ['mark' ('latn' <'dflt' > 'grek' <'dflt' > ) ]
-Lookup: 260 256 0 "markMarkPositioninglookup23"  {"markMarkPositioninglookup23 subtable"  } ['mark' ('latn' <'dflt' > 'grek' <'dflt' > ) ]
-Lookup: 260 0 0 "markMarkPositioninglookup24"  {"markMarkPositioninglookup24 subtable"  } ['mark' ('latn' <'dflt' > 'grek' <'dflt' > ) ]
-Lookup: 260 0 0 "markMarkPositioninglookup25"  {"markMarkPositioninglookup25 subtable"  } ['mark' ('latn' <'dflt' > 'grek' <'dflt' > ) ]
-Lookup: 262 512 0 "mkmkMarktoMarklookup26"  {"mkmkMarktoMarklookup26 subtable"  } ['mkmk' ('latn' <'dflt' > 'grek' <'dflt' > 'cyrl' <'dflt' > ) ]
-Lookup: 262 768 0 "mkmkMarktoMarklookup27"  {"mkmkMarktoMarklookup27 subtable"  } ['mkmk' ('latn' <'dflt' > 'grek' <'dflt' > 'cyrl' <'dflt' > ) ]
+Lookup: 1 0 0 "'locl' Localized Forms lookup 5" { "'locl' Localized Forms lookup 5-1"  } ['locl' ('cyrl' <'SRB ' > 'cyrl' <'MKD ' > ) ]
+Lookup: 4 1 0 "'dlig' Discretionary Ligatures in Hebrew lookup 0" { "'dlig' Discretionary Ligatures in Hebrew lookup 0 subtable"  } ['dlig' ('hebr' <'dflt' > ) ]
+Lookup: 4 1 0 "'ccmp' Glyph Composition/Decomposition in Hebrew lookup 1" { "'ccmp' Glyph Composition/Decomposition in Hebrew lookup 1 subtable"  } ['ccmp' ('hebr' <'dflt' > ) ]
+Lookup: 6 1 0 "'ccmp' Glyph Composition/Decomposition in Hebrew lookup 2" { "'ccmp' Glyph Composition/Decomposition in Hebrew lookup 2 subtable"  } ['ccmp' ('hebr' <'dflt' > ) ]
+Lookup: 4 0 0 "'ccmp' Glyph Composition/Decomposition lookup 3" { "'ccmp' Glyph Composition/Decomposition lookup 3 subtable"  } ['ccmp' ('grek' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 4 1 0 "Ligature Substitution lookup 4" { "Ligature Substitution lookup 4 subtable"  } []
+Lookup: 258 9 0 "'kern' Horizontal Kerning in Hebrew lookup 0" { "'kern' Horizontal Kerning in Hebrew lookup 0 subtable"  } ['kern' ('hebr' <'dflt' > ) ]
+Lookup: 260 1 0 "'mark' Mark Positioning in Hebrew lookup 1" { "'mark' Mark Positioning in Hebrew lookup 1 subtable"  } ['mark' ('hebr' <'dflt' > ) ]
+Lookup: 264 1 0 "'mark' Mark Positioning in Hebrew lookup 2" { "'mark' Mark Positioning in Hebrew lookup 2 subtable"  } ['mark' ('hebr' <'dflt' > ) ]
+Lookup: 260 7 0 "'mark' Mark Positioning in Hebrew lookup 3" { "'mark' Mark Positioning in Hebrew lookup 3 subtable"  } ['mark' ('hebr' <'dflt' > ) ]
+Lookup: 260 1 0 "'mark' Mark Positioning in Hebrew lookup 4" { "'mark' Mark Positioning in Hebrew lookup 4 subtable"  } ['mark' ('hebr' <'dflt' > ) ]
+Lookup: 260 1 0 "'mark' Mark Positioning in Hebrew lookup 5" { "'mark' Mark Positioning in Hebrew lookup 5 subtable"  } ['mark' ('hebr' <'dflt' > ) ]
+Lookup: 260 1 0 "'mark' Mark Positioning in Hebrew lookup 6" { "'mark' Mark Positioning in Hebrew lookup 6 subtable"  } ['mark' ('hebr' <'dflt' > ) ]
+Lookup: 264 1 0 "'mark' Mark Positioning in Hebrew lookup 7" { "'mark' Mark Positioning in Hebrew lookup 7 contextual 0"  "'mark' Mark Positioning in Hebrew lookup 7 contextual 1"  "'mark' Mark Positioning in Hebrew lookup 7 contextual 2"  "'mark' Mark Positioning in Hebrew lookup 7 contextual 3"  } ['mark' ('hebr' <'dflt' > ) ]
+Lookup: 264 1 0 "'mark' Mark Positioning in Hebrew lookup 8" { "'mark' Mark Positioning in Hebrew lookup 8 contextual 0"  "'mark' Mark Positioning in Hebrew lookup 8 contextual 1"  "'mark' Mark Positioning in Hebrew lookup 8 contextual 2"  "'mark' Mark Positioning in Hebrew lookup 8 contextual 3"  } ['mark' ('hebr' <'dflt' > ) ]
+Lookup: 264 1 0 "'mark' Mark Positioning in Hebrew lookup 9" { "'mark' Mark Positioning in Hebrew lookup 9 contextual 0"  "'mark' Mark Positioning in Hebrew lookup 9 contextual 1"  "'mark' Mark Positioning in Hebrew lookup 9 contextual 2"  "'mark' Mark Positioning in Hebrew lookup 9 contextual 3"  } ['mark' ('hebr' <'dflt' > ) ]
+Lookup: 264 1 0 "'mark' Mark Positioning in Hebrew lookup 10" { "'mark' Mark Positioning in Hebrew lookup 10 contextual 0"  "'mark' Mark Positioning in Hebrew lookup 10 contextual 1"  "'mark' Mark Positioning in Hebrew lookup 10 contextual 2"  "'mark' Mark Positioning in Hebrew lookup 10 contextual 3"  } ['mark' ('hebr' <'dflt' > ) ]
+Lookup: 260 1 0 "'mark' Mark Positioning in Hebrew lookup 11" { "'mark' Mark Positioning in Hebrew lookup 11 subtable"  } ['mark' ('hebr' <'dflt' > ) ]
+Lookup: 260 1 0 "'mark' Mark Positioning in Hebrew lookup 12" { "'mark' Mark Positioning in Hebrew lookup 12 subtable"  } ['mark' ('hebr' <'dflt' > ) ]
+Lookup: 260 1 0 "'mark' Mark Positioning in Hebrew lookup 13" { "'mark' Mark Positioning in Hebrew lookup 13 subtable"  } ['mark' ('hebr' <'dflt' > ) ]
+Lookup: 264 1 0 "'mark' Mark Positioning in Hebrew lookup 14" { "'mark' Mark Positioning in Hebrew lookup 14 contextual 0"  "'mark' Mark Positioning in Hebrew lookup 14 contextual 1"  "'mark' Mark Positioning in Hebrew lookup 14 contextual 2"  "'mark' Mark Positioning in Hebrew lookup 14 contextual 3"  "'mark' Mark Positioning in Hebrew lookup 14 contextual 4"  "'mark' Mark Positioning in Hebrew lookup 14 contextual 5"  "'mark' Mark Positioning in Hebrew lookup 14 contextual 6"  "'mark' Mark Positioning in Hebrew lookup 14 contextual 7"  } ['mark' ('hebr' <'dflt' > ) ]
+Lookup: 264 1 0 "'mark' Mark Positioning in Hebrew lookup 15" { "'mark' Mark Positioning in Hebrew lookup 15 contextual 0"  "'mark' Mark Positioning in Hebrew lookup 15 contextual 1"  "'mark' Mark Positioning in Hebrew lookup 15 contextual 2"  "'mark' Mark Positioning in Hebrew lookup 15 contextual 3"  "'mark' Mark Positioning in Hebrew lookup 15 contextual 4"  "'mark' Mark Positioning in Hebrew lookup 15 contextual 5"  "'mark' Mark Positioning in Hebrew lookup 15 contextual 6"  "'mark' Mark Positioning in Hebrew lookup 15 contextual 7"  "'mark' Mark Positioning in Hebrew lookup 15 contextual 8"  "'mark' Mark Positioning in Hebrew lookup 15 contextual 9"  "'mark' Mark Positioning in Hebrew lookup 15 contextual 10"  "'mark' Mark Positioning in Hebrew lookup 15 contextual 11"  "'mark' Mark Positioning in Hebrew lookup 15 contextual 12"  } ['mark' ('hebr' <'dflt' > ) ]
+Lookup: 264 1 0 "'mark' Mark Positioning in Hebrew lookup 16" { "'mark' Mark Positioning in Hebrew lookup 16 contextual 0"  "'mark' Mark Positioning in Hebrew lookup 16 contextual 1"  } ['mark' ('hebr' <'dflt' > ) ]
+Lookup: 258 8 0 "'kern' Horizontal Kerning lookup 17" { "'kern' Horizontal Kerning lookup 17 subtable"  } ['kern' ('cyrl' <'dflt' > 'cyrl' <'SRB ' > 'cyrl' <'MKD ' > 'grek' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 257 1 0 "Single Positioning lookup 28" { "Single Positioning lookup 28 subtable"  } []
+Lookup: 260 1 0 "Mark to base attachment lookup 29" { "Mark to base attachment lookup 29 subtable"  } []
+Lookup: 260 1 0 "Mark to base attachment lookup 30" { "Mark to base attachment lookup 30 subtable"  } []
+Lookup: 260 1 0 "Mark to base attachment lookup 31" { "Mark to base attachment lookup 31 subtable"  } []
+Lookup: 260 1 0 "Mark to base attachment lookup 32" { "Mark to base attachment lookup 32 subtable"  } []
+Lookup: 257 1 0 "Single Positioning lookup 33" { "Single Positioning lookup 33 subtable"  } []
+Lookup: 257 1 0 "Single Positioning lookup 34" { "Single Positioning lookup 34 subtable"  } []
+Lookup: 258 1 0 "Pairwise Positioning (kerning) lookup 35" { "Pairwise Positioning (kerning) lookup 35 subtable"  } []
+Lookup: 260 0 0 "markMarkPositioninglookup18" { "markMarkPositioninglookup18 subtable"  } ['mark' ('latn' <'dflt' > 'grek' <'dflt' > ) ]
+Lookup: 260 0 0 "markMarkPositioninglookup19" { "markMarkPositioninglookup19 subtable"  } ['mark' ('latn' <'dflt' > 'grek' <'dflt' > 'cyrl' <'dflt' > ) ]
+Lookup: 260 0 0 "markMarkPositioninglookup20" { "markMarkPositioninglookup20 subtable"  } ['mark' ('latn' <'dflt' > 'grek' <'dflt' > ) ]
+Lookup: 260 0 0 "markMarkPositioninglookup21" { "markMarkPositioninglookup21 subtable"  } ['mark' ('latn' <'dflt' > 'grek' <'dflt' > ) ]
+Lookup: 260 0 0 "markMarkPositioninglookup22" { "markMarkPositioninglookup22 subtable"  } ['mark' ('latn' <'dflt' > 'grek' <'dflt' > ) ]
+Lookup: 260 256 0 "markMarkPositioninglookup23" { "markMarkPositioninglookup23 subtable"  } ['mark' ('latn' <'dflt' > 'grek' <'dflt' > ) ]
+Lookup: 260 0 0 "markMarkPositioninglookup24" { "markMarkPositioninglookup24 subtable"  } ['mark' ('latn' <'dflt' > 'grek' <'dflt' > ) ]
+Lookup: 260 0 0 "markMarkPositioninglookup25" { "markMarkPositioninglookup25 subtable"  } ['mark' ('latn' <'dflt' > 'grek' <'dflt' > ) ]
+Lookup: 262 512 0 "mkmkMarktoMarklookup26" { "mkmkMarktoMarklookup26 subtable"  } ['mkmk' ('latn' <'dflt' > 'grek' <'dflt' > 'cyrl' <'dflt' > ) ]
+Lookup: 262 768 0 "mkmkMarktoMarklookup27" { "mkmkMarktoMarklookup27 subtable"  } ['mkmk' ('latn' <'dflt' > 'grek' <'dflt' > 'cyrl' <'dflt' > ) ]
 MarkAttachClasses: 4
 "MarkClass1" 31 uniFE20 uniFE21 uniFE22 uniFE23
 "MarkClass2" 523 hookabovecomb tildecomb gravecomb acutecomb uni0302 uni0304 uni0305 uni0306 uni0307 uni0308 uni030A uni030B uni030C uni030D uni030E uni030F uni0310 uni0311 uni0312 uni0313 uni0314 uni031A uni033D uni033E uni033F uni0342 uni0343 uni0344 uni0346 uni034A uni034B uni034C uni0363 uni0364 uni0365 uni0366 uni0367 uni0368 uni0369 uni036A uni036B uni036C uni036D uni036E uni036F uni0483 uni0484 uni0485 uni0486 uni0350 uni0351 uni0352 uni0357 uni035B uni1DC0 uni1DC1 uni1DC3 uni1DC4 uni1DC5 uni1DC6 uni1DC7 uni1DC8 uni1DC9 uni1DFE
 "MarkClass3" 348 dotbelowcomb uni0316 uni0317 uni0318 uni0319 uni031C uni031D uni031E uni031F uni0320 uni0324 uni0325 uni0326 uni0329 uni032A uni032B uni032C uni032D uni032E uni032F uni0330 uni0331 uni0332 uni0333 uni0339 uni033A uni033B uni033C uni0345 uni0347 uni0348 uni0349 uni034D uni034E uni0353 uni0354 uni0355 uni0356 uni0359 uni035A uni1DC2 uni1DCA uni1DFF
 DEI: 91125
-ChainSub2: coverage "'ccmp' Glyph Composition/Decomposition in Hebrew lookup 2 subtable"  0 0 0 1
+ChainSub2: coverage "'ccmp' Glyph Composition/Decomposition in Hebrew lookup 2 subtable" 0 0 0 1
  2 0 1
   Coverage: 22 alef bet kaf pe yodyod
   Coverage: 17 patah qamats rafe
   FCoverage: 251 uni25CC alef bet gimel dalet he vav zayin het tet yod finalkaf kaf lamed finalmem mem finalnun nun samekh ayin finalpe pe finaltsadi tsadi qof resh shin tav vavvav vavyod yodyod alefwide daletwide hewide kafwide lamedwide finalmemwide reshwide tavwide
  1
-  SeqLookup: 0 "Ligature Substitution lookup 4" 
+  SeqLookup: 0 "Ligature Substitution lookup 4"
 EndFPST
-ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 16 contextual 1"  0 0 0 1
+ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 16 contextual 1" 0 0 0 1
  2 2 0
   Coverage: 7 uni05A4
   Coverage: 7 uni05A5
   BCoverage: 6 dagesh
   BCoverage: 4 ayin
  1
-  SeqLookup: 0 "Pairwise Positioning (kerning) lookup 35" 
+  SeqLookup: 0 "Pairwise Positioning (kerning) lookup 35"
 EndFPST
-ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 16 contextual 0"  0 0 0 1
+ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 16 contextual 0" 0 0 0 1
  2 2 0
   Coverage: 7 uni05A4
   Coverage: 7 uni05A5
   BCoverage: 5 holam
   BCoverage: 4 ayin
  1
-  SeqLookup: 0 "Pairwise Positioning (kerning) lookup 35" 
+  SeqLookup: 0 "Pairwise Positioning (kerning) lookup 35"
 EndFPST
-ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 15 contextual 12"  0 0 0 1
+ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 15 contextual 12" 0 0 0 1
  1 2 0
   Coverage: 45 uni0591 uni0596 uni05A3 uni05A4 uni05A5 meteg
   BCoverage: 5 meteg
   BCoverage: 6 qamats
  1
-  SeqLookup: 0 "Single Positioning lookup 34" 
+  SeqLookup: 0 "Single Positioning lookup 34"
 EndFPST
-ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 15 contextual 11"  0 0 0 1
+ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 15 contextual 11" 0 0 0 1
  1 2 0
   Coverage: 45 uni0591 uni0596 uni05A3 uni05A4 uni05A5 meteg
   BCoverage: 7 uni05A4
   BCoverage: 6 qamats
  1
-  SeqLookup: 0 "Single Positioning lookup 34" 
+  SeqLookup: 0 "Single Positioning lookup 34"
 EndFPST
-ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 15 contextual 10"  0 0 0 1
+ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 15 contextual 10" 0 0 0 1
  1 2 0
   Coverage: 45 uni0591 uni0596 uni05A3 uni05A4 uni05A5 meteg
   BCoverage: 7 uni05A3
   BCoverage: 6 qamats
  1
-  SeqLookup: 0 "Single Positioning lookup 34" 
+  SeqLookup: 0 "Single Positioning lookup 34"
 EndFPST
-ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 15 contextual 9"  0 0 0 1
+ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 15 contextual 9" 0 0 0 1
  1 2 0
   Coverage: 45 uni0591 uni0596 uni05A3 uni05A4 uni05A5 meteg
   BCoverage: 7 uni059A
   BCoverage: 6 qamats
  1
-  SeqLookup: 0 "Single Positioning lookup 34" 
+  SeqLookup: 0 "Single Positioning lookup 34"
 EndFPST
-ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 15 contextual 8"  0 0 0 1
+ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 15 contextual 8" 0 0 0 1
  1 2 0
   Coverage: 45 uni0591 uni0596 uni05A3 uni05A4 uni05A5 meteg
   BCoverage: 7 uni0596
   BCoverage: 6 qamats
  1
-  SeqLookup: 0 "Single Positioning lookup 34" 
+  SeqLookup: 0 "Single Positioning lookup 34"
 EndFPST
-ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 15 contextual 7"  0 0 0 1
+ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 15 contextual 7" 0 0 0 1
  1 2 0
   Coverage: 45 uni0591 uni0596 uni05A3 uni05A4 uni05A5 meteg
   BCoverage: 5 hiriq
   BCoverage: 6 qamats
  1
-  SeqLookup: 0 "Single Positioning lookup 34" 
+  SeqLookup: 0 "Single Positioning lookup 34"
 EndFPST
-ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 15 contextual 6"  0 0 0 1
+ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 15 contextual 6" 0 0 0 1
  1 2 0
   Coverage: 45 uni0591 uni0596 uni05A3 uni05A4 uni05A5 meteg
   BCoverage: 5 sheva
   BCoverage: 6 qamats
  1
-  SeqLookup: 0 "Single Positioning lookup 34" 
+  SeqLookup: 0 "Single Positioning lookup 34"
 EndFPST
-ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 15 contextual 5"  0 0 0 1
+ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 15 contextual 5" 0 0 0 1
  1 2 0
   Coverage: 45 uni0591 uni0596 uni05A3 uni05A4 uni05A5 meteg
   BCoverage: 7 uni0596
   BCoverage: 5 patah
  1
-  SeqLookup: 0 "Single Positioning lookup 34" 
+  SeqLookup: 0 "Single Positioning lookup 34"
 EndFPST
-ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 15 contextual 4"  0 0 0 1
+ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 15 contextual 4" 0 0 0 1
  1 2 0
   Coverage: 45 uni0591 uni0596 uni05A3 uni05A4 uni05A5 meteg
   BCoverage: 7 uni059A
   BCoverage: 5 segol
  1
-  SeqLookup: 0 "Single Positioning lookup 34" 
+  SeqLookup: 0 "Single Positioning lookup 34"
 EndFPST
-ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 15 contextual 3"  0 0 0 1
+ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 15 contextual 3" 0 0 0 1
  1 2 0
   Coverage: 45 uni0591 uni0596 uni05A3 uni05A4 uni05A5 meteg
   BCoverage: 7 uni05A3
   BCoverage: 5 segol
  1
-  SeqLookup: 0 "Single Positioning lookup 34" 
+  SeqLookup: 0 "Single Positioning lookup 34"
 EndFPST
-ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 15 contextual 2"  0 0 0 1
+ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 15 contextual 2" 0 0 0 1
  1 2 0
   Coverage: 45 uni0591 uni0596 uni05A3 uni05A4 uni05A5 meteg
   BCoverage: 5 meteg
   BCoverage: 5 tsere
  1
-  SeqLookup: 0 "Single Positioning lookup 34" 
+  SeqLookup: 0 "Single Positioning lookup 34"
 EndFPST
-ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 15 contextual 1"  0 0 0 1
+ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 15 contextual 1" 0 0 0 1
  1 2 0
   Coverage: 45 uni0591 uni0596 uni05A3 uni05A4 uni05A5 meteg
   BCoverage: 7 uni05A3
   BCoverage: 5 tsere
  1
-  SeqLookup: 0 "Single Positioning lookup 34" 
+  SeqLookup: 0 "Single Positioning lookup 34"
 EndFPST
-ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 15 contextual 0"  0 0 0 1
+ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 15 contextual 0" 0 0 0 1
  1 2 0
   Coverage: 45 uni0591 uni0596 uni05A3 uni05A4 uni05A5 meteg
   BCoverage: 5 meteg
   BCoverage: 5 hiriq
  1
-  SeqLookup: 0 "Single Positioning lookup 34" 
+  SeqLookup: 0 "Single Positioning lookup 34"
 EndFPST
-ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 14 contextual 7"  0 0 0 1
+ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 14 contextual 7" 0 0 0 1
  1 2 0
   Coverage: 15 uni059A uni05AD
   BCoverage: 5 meteg
   BCoverage: 195 gimel dalet vav zayin yod lamed nun resh daletwide lamedwide reshwide gimeldagesh daletdagesh vavdagesh zayindagesh yoddagesh lameddagesh nundagesh reshdagesh vavholam lamedholamdagesh lamedholam
  1
-  SeqLookup: 0 "Single Positioning lookup 33" 
+  SeqLookup: 0 "Single Positioning lookup 33"
 EndFPST
-ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 14 contextual 6"  0 0 0 1
+ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 14 contextual 6" 0 0 0 1
  1 3 0
   Coverage: 15 uni059A uni05AD
   BCoverage: 5 meteg
   BCoverage: 6 qamats
   BCoverage: 195 gimel dalet vav zayin yod lamed nun resh daletwide lamedwide reshwide gimeldagesh daletdagesh vavdagesh zayindagesh yoddagesh lameddagesh nundagesh reshdagesh vavholam lamedholamdagesh lamedholam
  1
-  SeqLookup: 0 "Single Positioning lookup 33" 
+  SeqLookup: 0 "Single Positioning lookup 33"
 EndFPST
-ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 14 contextual 5"  0 0 0 1
+ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 14 contextual 5" 0 0 0 1
  1 3 0
   Coverage: 15 uni059A uni05AD
   BCoverage: 5 meteg
   BCoverage: 5 patah
   BCoverage: 195 gimel dalet vav zayin yod lamed nun resh daletwide lamedwide reshwide gimeldagesh daletdagesh vavdagesh zayindagesh yoddagesh lameddagesh nundagesh reshdagesh vavholam lamedholamdagesh lamedholam
  1
-  SeqLookup: 0 "Single Positioning lookup 33" 
+  SeqLookup: 0 "Single Positioning lookup 33"
 EndFPST
-ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 14 contextual 4"  0 0 0 1
+ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 14 contextual 4" 0 0 0 1
  1 3 0
   Coverage: 15 uni059A uni05AD
   BCoverage: 5 meteg
   BCoverage: 5 tsere
   BCoverage: 195 gimel dalet vav zayin yod lamed nun resh daletwide lamedwide reshwide gimeldagesh daletdagesh vavdagesh zayindagesh yoddagesh lameddagesh nundagesh reshdagesh vavholam lamedholamdagesh lamedholam
  1
-  SeqLookup: 0 "Single Positioning lookup 33" 
+  SeqLookup: 0 "Single Positioning lookup 33"
 EndFPST
-ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 14 contextual 3"  0 0 0 1
+ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 14 contextual 3" 0 0 0 1
  1 3 0
   Coverage: 15 uni059A uni05AD
   BCoverage: 5 meteg
   BCoverage: 5 hiriq
   BCoverage: 195 gimel dalet vav zayin yod lamed nun resh daletwide lamedwide reshwide gimeldagesh daletdagesh vavdagesh zayindagesh yoddagesh lameddagesh nundagesh reshdagesh vavholam lamedholamdagesh lamedholam
  1
-  SeqLookup: 0 "Single Positioning lookup 33" 
+  SeqLookup: 0 "Single Positioning lookup 33"
 EndFPST
-ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 14 contextual 2"  0 0 0 1
+ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 14 contextual 2" 0 0 0 1
  1 3 0
   Coverage: 15 uni059A uni05AD
   BCoverage: 5 meteg
   BCoverage: 5 sheva
   BCoverage: 195 gimel dalet vav zayin yod lamed nun resh daletwide lamedwide reshwide gimeldagesh daletdagesh vavdagesh zayindagesh yoddagesh lameddagesh nundagesh reshdagesh vavholam lamedholamdagesh lamedholam
  1
-  SeqLookup: 0 "Single Positioning lookup 33" 
+  SeqLookup: 0 "Single Positioning lookup 33"
 EndFPST
-ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 14 contextual 1"  0 0 0 1
+ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 14 contextual 1" 0 0 0 1
  1 3 0
   Coverage: 15 uni059A uni05AD
   BCoverage: 5 hiriq
   BCoverage: 5 sheva
   BCoverage: 195 gimel dalet vav zayin yod lamed nun resh daletwide lamedwide reshwide gimeldagesh daletdagesh vavdagesh zayindagesh yoddagesh lameddagesh nundagesh reshdagesh vavholam lamedholamdagesh lamedholam
  1
-  SeqLookup: 0 "Single Positioning lookup 33" 
+  SeqLookup: 0 "Single Positioning lookup 33"
 EndFPST
-ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 14 contextual 0"  0 0 0 1
+ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 14 contextual 0" 0 0 0 1
  1 2 0
   Coverage: 15 uni059A uni05AD
   BCoverage: 131 sheva hatafsegol hatafpatah hatafqamats hiriq tsere segol patah qamats qubuts meteg qamatsqatan uni05B105BD uni05B205BD uni05B305BD
   BCoverage: 195 gimel dalet vav zayin yod lamed nun resh daletwide lamedwide reshwide gimeldagesh daletdagesh vavdagesh zayindagesh yoddagesh lameddagesh nundagesh reshdagesh vavholam lamedholamdagesh lamedholam
  1
-  SeqLookup: 0 "Single Positioning lookup 33" 
+  SeqLookup: 0 "Single Positioning lookup 33"
 EndFPST
-ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 10 contextual 3"  0 0 0 1
+ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 10 contextual 3" 0 0 0 1
  1 2 0
   Coverage: 211 uni0591 uni0596 uni059B uni05A2 uni05A3 uni05A4 uni05A5 uni05A6 uni05A7 uni05AA sheva hatafsegol hatafpatah hatafqamats hiriq tsere segol patah qamats qubuts meteg qamatsqatan uni05B105BD uni05B205BD uni05B305BD
   BCoverage: 79 uni0591 uni0596 uni059B uni05A2 uni05A3 uni05A4 uni05A5 uni05A6 uni05A7 uni05AA
   BCoverage: 422 yodyod_patah shinshindot shinsindot shindageshshindot shindageshsindot alefpatah alefqamats alefmapiq betdagesh gimeldagesh daletdagesh hedagesh vavdagesh zayindagesh tetdagesh yoddagesh finalkafdagesh kafdagesh lameddagesh memdagesh nundagesh samekhdagesh finalpedagesh pedagesh tsadidagesh qofdagesh reshdagesh shindagesh tavdagesh vavholam betrafe kafrafe perafe lamedholamdagesh lamedholam finalkafqamats finalkafsheva
  1
-  SeqLookup: 0 "Mark to base attachment lookup 32" 
+  SeqLookup: 0 "Mark to base attachment lookup 32"
 EndFPST
-ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 10 contextual 2"  0 0 0 1
+ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 10 contextual 2" 0 0 0 1
  1 2 0
   Coverage: 211 uni0591 uni0596 uni059B uni05A2 uni05A3 uni05A4 uni05A5 uni05A6 uni05A7 uni05AA sheva hatafsegol hatafpatah hatafqamats hiriq tsere segol patah qamats qubuts meteg qamatsqatan uni05B105BD uni05B205BD uni05B305BD
   BCoverage: 131 sheva hatafsegol hatafpatah hatafqamats hiriq tsere segol patah qamats qubuts meteg qamatsqatan uni05B105BD uni05B205BD uni05B305BD
   BCoverage: 422 yodyod_patah shinshindot shinsindot shindageshshindot shindageshsindot alefpatah alefqamats alefmapiq betdagesh gimeldagesh daletdagesh hedagesh vavdagesh zayindagesh tetdagesh yoddagesh finalkafdagesh kafdagesh lameddagesh memdagesh nundagesh samekhdagesh finalpedagesh pedagesh tsadidagesh qofdagesh reshdagesh shindagesh tavdagesh vavholam betrafe kafrafe perafe lamedholamdagesh lamedholam finalkafqamats finalkafsheva
  1
-  SeqLookup: 0 "Mark to base attachment lookup 32" 
+  SeqLookup: 0 "Mark to base attachment lookup 32"
 EndFPST
-ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 10 contextual 1"  0 0 0 1
+ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 10 contextual 1" 0 0 0 1
  1 2 0
   Coverage: 211 uni0591 uni0596 uni059B uni05A2 uni05A3 uni05A4 uni05A5 uni05A6 uni05A7 uni05AA sheva hatafsegol hatafpatah hatafqamats hiriq tsere segol patah qamats qubuts meteg qamatsqatan uni05B105BD uni05B205BD uni05B305BD
   BCoverage: 79 uni0591 uni0596 uni059B uni05A2 uni05A3 uni05A4 uni05A5 uni05A6 uni05A7 uni05AA
   BCoverage: 251 uni25CC alef bet gimel dalet he vav zayin het tet yod finalkaf kaf lamed finalmem mem finalnun nun samekh ayin finalpe pe finaltsadi tsadi qof resh shin tav vavvav vavyod yodyod alefwide daletwide hewide kafwide lamedwide finalmemwide reshwide tavwide
  1
-  SeqLookup: 0 "Mark to base attachment lookup 32" 
+  SeqLookup: 0 "Mark to base attachment lookup 32"
 EndFPST
-ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 10 contextual 0"  0 0 0 1
+ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 10 contextual 0" 0 0 0 1
  1 2 0
   Coverage: 211 uni0591 uni0596 uni059B uni05A2 uni05A3 uni05A4 uni05A5 uni05A6 uni05A7 uni05AA sheva hatafsegol hatafpatah hatafqamats hiriq tsere segol patah qamats qubuts meteg qamatsqatan uni05B105BD uni05B205BD uni05B305BD
   BCoverage: 131 sheva hatafsegol hatafpatah hatafqamats hiriq tsere segol patah qamats qubuts meteg qamatsqatan uni05B105BD uni05B205BD uni05B305BD
   BCoverage: 251 uni25CC alef bet gimel dalet he vav zayin het tet yod finalkaf kaf lamed finalmem mem finalnun nun samekh ayin finalpe pe finaltsadi tsadi qof resh shin tav vavvav vavyod yodyod alefwide daletwide hewide kafwide lamedwide finalmemwide reshwide tavwide
  1
-  SeqLookup: 0 "Mark to base attachment lookup 32" 
+  SeqLookup: 0 "Mark to base attachment lookup 32"
 EndFPST
-ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 9 contextual 3"  0 0 0 1
+ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 9 contextual 3" 0 0 0 1
  1 1 1
   Coverage: 111 uni0592 uni0593 uni0594 uni0595 uni0597 uni0598 uni059C uni059E uni059F uni05A1 uni05A8 uni05AB uni05AC uni05AF
   BCoverage: 422 yodyod_patah shinshindot shinsindot shindageshshindot shindageshsindot alefpatah alefqamats alefmapiq betdagesh gimeldagesh daletdagesh hedagesh vavdagesh zayindagesh tetdagesh yoddagesh finalkafdagesh kafdagesh lameddagesh memdagesh nundagesh samekhdagesh finalpedagesh pedagesh tsadidagesh qofdagesh reshdagesh shindagesh tavdagesh vavholam betrafe kafrafe perafe lamedholamdagesh lamedholam finalkafqamats finalkafsheva
   FCoverage: 12 rafe uniFB1E
  1
-  SeqLookup: 0 "Mark to base attachment lookup 31" 
+  SeqLookup: 0 "Mark to base attachment lookup 31"
 EndFPST
-ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 9 contextual 2"  0 0 0 1
+ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 9 contextual 2" 0 0 0 1
  1 2 0
   Coverage: 111 uni0592 uni0593 uni0594 uni0595 uni0597 uni0598 uni059C uni059E uni059F uni05A1 uni05A8 uni05AB uni05AC uni05AF
   BCoverage: 12 rafe uniFB1E
   BCoverage: 422 yodyod_patah shinshindot shinsindot shindageshshindot shindageshsindot alefpatah alefqamats alefmapiq betdagesh gimeldagesh daletdagesh hedagesh vavdagesh zayindagesh tetdagesh yoddagesh finalkafdagesh kafdagesh lameddagesh memdagesh nundagesh samekhdagesh finalpedagesh pedagesh tsadidagesh qofdagesh reshdagesh shindagesh tavdagesh vavholam betrafe kafrafe perafe lamedholamdagesh lamedholam finalkafqamats finalkafsheva
  1
-  SeqLookup: 0 "Mark to base attachment lookup 31" 
+  SeqLookup: 0 "Mark to base attachment lookup 31"
 EndFPST
-ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 9 contextual 1"  0 0 0 1
+ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 9 contextual 1" 0 0 0 1
  1 1 1
   Coverage: 111 uni0592 uni0593 uni0594 uni0595 uni0597 uni0598 uni059C uni059E uni059F uni05A1 uni05A8 uni05AB uni05AC uni05AF
   BCoverage: 251 uni25CC alef bet gimel dalet he vav zayin het tet yod finalkaf kaf lamed finalmem mem finalnun nun samekh ayin finalpe pe finaltsadi tsadi qof resh shin tav vavvav vavyod yodyod alefwide daletwide hewide kafwide lamedwide finalmemwide reshwide tavwide
   FCoverage: 12 rafe uniFB1E
  1
-  SeqLookup: 0 "Mark to base attachment lookup 31" 
+  SeqLookup: 0 "Mark to base attachment lookup 31"
 EndFPST
-ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 9 contextual 0"  0 0 0 1
+ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 9 contextual 0" 0 0 0 1
  1 2 0
   Coverage: 111 uni0592 uni0593 uni0594 uni0595 uni0597 uni0598 uni059C uni059E uni059F uni05A1 uni05A8 uni05AB uni05AC uni05AF
   BCoverage: 12 rafe uniFB1E
   BCoverage: 251 uni25CC alef bet gimel dalet he vav zayin het tet yod finalkaf kaf lamed finalmem mem finalnun nun samekh ayin finalpe pe finaltsadi tsadi qof resh shin tav vavvav vavyod yodyod alefwide daletwide hewide kafwide lamedwide finalmemwide reshwide tavwide
  1
-  SeqLookup: 0 "Mark to base attachment lookup 31" 
+  SeqLookup: 0 "Mark to base attachment lookup 31"
 EndFPST
-ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 8 contextual 3"  0 0 0 1
+ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 8 contextual 3" 0 0 0 1
  1 1 1
   Coverage: 211 uni0591 uni0596 uni059B uni05A2 uni05A3 uni05A4 uni05A5 uni05A6 uni05A7 uni05AA sheva hatafsegol hatafpatah hatafqamats hiriq tsere segol patah qamats qubuts meteg qamatsqatan uni05B105BD uni05B205BD uni05B305BD
   BCoverage: 422 yodyod_patah shinshindot shinsindot shindageshshindot shindageshsindot alefpatah alefqamats alefmapiq betdagesh gimeldagesh daletdagesh hedagesh vavdagesh zayindagesh tetdagesh yoddagesh finalkafdagesh kafdagesh lameddagesh memdagesh nundagesh samekhdagesh finalpedagesh pedagesh tsadidagesh qofdagesh reshdagesh shindagesh tavdagesh vavholam betrafe kafrafe perafe lamedholamdagesh lamedholam finalkafqamats finalkafsheva
   FCoverage: 79 uni0591 uni0596 uni059B uni05A2 uni05A3 uni05A4 uni05A5 uni05A6 uni05A7 uni05AA
  1
-  SeqLookup: 0 "Mark to base attachment lookup 30" 
+  SeqLookup: 0 "Mark to base attachment lookup 30"
 EndFPST
-ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 8 contextual 2"  0 0 0 1
+ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 8 contextual 2" 0 0 0 1
  1 1 1
   Coverage: 211 uni0591 uni0596 uni059B uni05A2 uni05A3 uni05A4 uni05A5 uni05A6 uni05A7 uni05AA sheva hatafsegol hatafpatah hatafqamats hiriq tsere segol patah qamats qubuts meteg qamatsqatan uni05B105BD uni05B205BD uni05B305BD
   BCoverage: 422 yodyod_patah shinshindot shinsindot shindageshshindot shindageshsindot alefpatah alefqamats alefmapiq betdagesh gimeldagesh daletdagesh hedagesh vavdagesh zayindagesh tetdagesh yoddagesh finalkafdagesh kafdagesh lameddagesh memdagesh nundagesh samekhdagesh finalpedagesh pedagesh tsadidagesh qofdagesh reshdagesh shindagesh tavdagesh vavholam betrafe kafrafe perafe lamedholamdagesh lamedholam finalkafqamats finalkafsheva
   FCoverage: 131 sheva hatafsegol hatafpatah hatafqamats hiriq tsere segol patah qamats qubuts meteg qamatsqatan uni05B105BD uni05B205BD uni05B305BD
  1
-  SeqLookup: 0 "Mark to base attachment lookup 30" 
+  SeqLookup: 0 "Mark to base attachment lookup 30"
 EndFPST
-ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 8 contextual 1"  0 0 0 1
+ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 8 contextual 1" 0 0 0 1
  1 1 1
   Coverage: 211 uni0591 uni0596 uni059B uni05A2 uni05A3 uni05A4 uni05A5 uni05A6 uni05A7 uni05AA sheva hatafsegol hatafpatah hatafqamats hiriq tsere segol patah qamats qubuts meteg qamatsqatan uni05B105BD uni05B205BD uni05B305BD
   BCoverage: 251 uni25CC alef bet gimel dalet he vav zayin het tet yod finalkaf kaf lamed finalmem mem finalnun nun samekh ayin finalpe pe finaltsadi tsadi qof resh shin tav vavvav vavyod yodyod alefwide daletwide hewide kafwide lamedwide finalmemwide reshwide tavwide
   FCoverage: 131 sheva hatafsegol hatafpatah hatafqamats hiriq tsere segol patah qamats qubuts meteg qamatsqatan uni05B105BD uni05B205BD uni05B305BD
  1
-  SeqLookup: 0 "Mark to base attachment lookup 30" 
+  SeqLookup: 0 "Mark to base attachment lookup 30"
 EndFPST
-ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 8 contextual 0"  0 0 0 1
+ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 8 contextual 0" 0 0 0 1
  1 1 1
   Coverage: 211 uni0591 uni0596 uni059B uni05A2 uni05A3 uni05A4 uni05A5 uni05A6 uni05A7 uni05AA sheva hatafsegol hatafpatah hatafqamats hiriq tsere segol patah qamats qubuts meteg qamatsqatan uni05B105BD uni05B205BD uni05B305BD
   BCoverage: 251 uni25CC alef bet gimel dalet he vav zayin het tet yod finalkaf kaf lamed finalmem mem finalnun nun samekh ayin finalpe pe finaltsadi tsadi qof resh shin tav vavvav vavyod yodyod alefwide daletwide hewide kafwide lamedwide finalmemwide reshwide tavwide
   FCoverage: 79 uni0591 uni0596 uni059B uni05A2 uni05A3 uni05A4 uni05A5 uni05A6 uni05A7 uni05AA
  1
-  SeqLookup: 0 "Mark to base attachment lookup 30" 
+  SeqLookup: 0 "Mark to base attachment lookup 30"
 EndFPST
-ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 7 contextual 3"  0 0 0 1
+ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 7 contextual 3" 0 0 0 1
  1 2 0
   Coverage: 12 rafe uniFB1E
   BCoverage: 111 uni0592 uni0593 uni0594 uni0595 uni0597 uni0598 uni059C uni059E uni059F uni05A1 uni05A8 uni05AB uni05AC uni05AF
   BCoverage: 422 yodyod_patah shinshindot shinsindot shindageshshindot shindageshsindot alefpatah alefqamats alefmapiq betdagesh gimeldagesh daletdagesh hedagesh vavdagesh zayindagesh tetdagesh yoddagesh finalkafdagesh kafdagesh lameddagesh memdagesh nundagesh samekhdagesh finalpedagesh pedagesh tsadidagesh qofdagesh reshdagesh shindagesh tavdagesh vavholam betrafe kafrafe perafe lamedholamdagesh lamedholam finalkafqamats finalkafsheva
  1
-  SeqLookup: 0 "Mark to base attachment lookup 29" 
+  SeqLookup: 0 "Mark to base attachment lookup 29"
 EndFPST
-ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 7 contextual 2"  0 0 0 1
+ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 7 contextual 2" 0 0 0 1
  1 1 1
   Coverage: 12 rafe uniFB1E
   BCoverage: 422 yodyod_patah shinshindot shinsindot shindageshshindot shindageshsindot alefpatah alefqamats alefmapiq betdagesh gimeldagesh daletdagesh hedagesh vavdagesh zayindagesh tetdagesh yoddagesh finalkafdagesh kafdagesh lameddagesh memdagesh nundagesh samekhdagesh finalpedagesh pedagesh tsadidagesh qofdagesh reshdagesh shindagesh tavdagesh vavholam betrafe kafrafe perafe lamedholamdagesh lamedholam finalkafqamats finalkafsheva
   FCoverage: 111 uni0592 uni0593 uni0594 uni0595 uni0597 uni0598 uni059C uni059E uni059F uni05A1 uni05A8 uni05AB uni05AC uni05AF
  1
-  SeqLookup: 0 "Mark to base attachment lookup 29" 
+  SeqLookup: 0 "Mark to base attachment lookup 29"
 EndFPST
-ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 7 contextual 1"  0 0 0 1
+ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 7 contextual 1" 0 0 0 1
  1 2 0
   Coverage: 12 rafe uniFB1E
   BCoverage: 111 uni0592 uni0593 uni0594 uni0595 uni0597 uni0598 uni059C uni059E uni059F uni05A1 uni05A8 uni05AB uni05AC uni05AF
   BCoverage: 251 uni25CC alef bet gimel dalet he vav zayin het tet yod finalkaf kaf lamed finalmem mem finalnun nun samekh ayin finalpe pe finaltsadi tsadi qof resh shin tav vavvav vavyod yodyod alefwide daletwide hewide kafwide lamedwide finalmemwide reshwide tavwide
  1
-  SeqLookup: 0 "Mark to base attachment lookup 29" 
+  SeqLookup: 0 "Mark to base attachment lookup 29"
 EndFPST
-ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 7 contextual 0"  0 0 0 1
+ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 7 contextual 0" 0 0 0 1
  1 1 1
   Coverage: 12 rafe uniFB1E
   BCoverage: 251 uni25CC alef bet gimel dalet he vav zayin het tet yod finalkaf kaf lamed finalmem mem finalnun nun samekh ayin finalpe pe finaltsadi tsadi qof resh shin tav vavvav vavyod yodyod alefwide daletwide hewide kafwide lamedwide finalmemwide reshwide tavwide
   FCoverage: 111 uni0592 uni0593 uni0594 uni0595 uni0597 uni0598 uni059C uni059E uni059F uni05A1 uni05A8 uni05AB uni05AC uni05AF
  1
-  SeqLookup: 0 "Mark to base attachment lookup 29" 
+  SeqLookup: 0 "Mark to base attachment lookup 29"
 EndFPST
-ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 2 subtable"  0 0 0 1
+ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 2 subtable" 0 0 0 1
  1 1 0
   Coverage: 5 holam
   BCoverage: 232 alef bet gimel dalet he zayin het tet yod finalkaf kaf lamed finalmem mem finalnun nun samekh ayin finalpe pe finaltsadi tsadi qof resh shin tav vavyod yodyod alefwide daletwide hewide kafwide lamedwide finalmemwide reshwide tavwide
  1
-  SeqLookup: 0 "Single Positioning lookup 28" 
+  SeqLookup: 0 "Single Positioning lookup 28"
 EndFPST
 TtTable: prep
 NPUSHW
@@ -3791,7 +3792,7 @@ ShortTable: maxp 16
   4
   1
 EndShort
-LangName: 1033 "" "" "" "Ascender - Liberation Sans" "" "Version 2.00.3" "" "Liberation is a trademark of Red Hat, Inc. registered in U.S. Patent and Trademark Office and certain other jurisdictions." "Ascender Corporation" "Steve Matteson" "Based on Arimo, which was designed by Steve Matteson as an innovative, refreshing sans serif design that is metrically compatible with Arial+ISIA. Arimo offers improved on-screen readability characteristics and the pan-European WGL character set and solves the needs of developers looking for width-compatible fonts to address document portability across platforms." "http://www.ascendercorp.com/" "http://www.ascendercorp.com/typedesigners.html" "Licensed under the SIL Open Font License, Version 1.1" "http://scripts.sil.org/OFL" 
+LangName: 1033 "" "" "" "Ascender - Liberation Sans" "" "Version 2.00.3" "" "Liberation is a trademark of Red Hat, Inc. registered in U.S. Patent and Trademark Office and certain other jurisdictions." "Ascender Corporation" "Steve Matteson" "Based on Arimo, which was designed by Steve Matteson as an innovative, refreshing sans serif design that is metrically compatible with Arial+ISIA. Arimo offers improved on-screen readability characteristics and the pan-European WGL character set and solves the needs of developers looking for width-compatible fonts to address document portability across platforms." "http://www.ascendercorp.com/" "http://www.ascendercorp.com/typedesigners.html" "Licensed under the SIL Open Font License, Version 1.1" "http://scripts.sil.org/OFL"
 GaspTable: 3 8 2 17 1 65535 3 0
 Encoding: UnicodeBmp
 UnicodeInterp: none
@@ -3799,10 +3800,10 @@ NameList: Adobe Glyph List
 DisplaySize: -36
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 8184 22 16
+WinInfo: 8184 22 12
 BeginPrivate: 0
 EndPrivate
-AnchorClass2: "Anchor23"  "mkmkMarktoMarklookup27 subtable" "Anchor22"  "mkmkMarktoMarklookup26 subtable" "Anchor21"  "markMarkPositioninglookup25 subtable" "Anchor20"  "markMarkPositioninglookup24 subtable" "Anchor19"  "markMarkPositioninglookup23 subtable" "Anchor18"  "markMarkPositioninglookup23 subtable" "Anchor17"  "markMarkPositioninglookup22 subtable" "Anchor16"  "markMarkPositioninglookup22 subtable" "Anchor15"  "markMarkPositioninglookup21 subtable" "Anchor14"  "markMarkPositioninglookup20 subtable" "Anchor13"  "markMarkPositioninglookup19 subtable" "Anchor12"  "markMarkPositioninglookup18 subtable" "Anchor11"  "markMarkPositioninglookup18 subtable" "Anchor10"  "markMarkPositioninglookup18 subtable" "Anchor-0"  "'mark' Mark Positioning in Hebrew lookup 1 subtable" "Anchor-1"  "'mark' Mark Positioning in Hebrew lookup 3 subtable" "Anchor-2"  "'mark' Mark Positioning in Hebrew lookup 4 subtable" "Anchor-3"  "'mark' Mark Positioning in Hebrew lookup 5 subtable" "Anchor-4"  "'mark' Mark Positioning in Hebrew lookup 5 subtable" "Anchor-5"  "'mark' Mark Positioning in Hebrew lookup 6 subtable" "Anchor-6"  "'mark' Mark Positioning in Hebrew lookup 6 subtable" "Anchor-7"  "'mark' Mark Positioning in Hebrew lookup 11 subtable" "Anchor-8"  "'mark' Mark Positioning in Hebrew lookup 12 subtable" "Anchor-9"  "'mark' Mark Positioning in Hebrew lookup 13 subtable" "Anchor-24"  "Mark to base attachment lookup 29 subtable" "Anchor-25"  "Mark to base attachment lookup 30 subtable" "Anchor-26"  "Mark to base attachment lookup 31 subtable" "Anchor-27"  "Mark to base attachment lookup 32 subtable" 
+AnchorClass2: "Anchor23" "mkmkMarktoMarklookup27 subtable" "Anchor22" "mkmkMarktoMarklookup26 subtable" "Anchor21" "markMarkPositioninglookup25 subtable" "Anchor20" "markMarkPositioninglookup24 subtable" "Anchor19" "markMarkPositioninglookup23 subtable" "Anchor18" "markMarkPositioninglookup23 subtable" "Anchor17" "markMarkPositioninglookup22 subtable" "Anchor16" "markMarkPositioninglookup22 subtable" "Anchor15" "markMarkPositioninglookup21 subtable" "Anchor14" "markMarkPositioninglookup20 subtable" "Anchor13" "markMarkPositioninglookup19 subtable" "Anchor12" "markMarkPositioninglookup18 subtable" "Anchor11" "markMarkPositioninglookup18 subtable" "Anchor10" "markMarkPositioninglookup18 subtable" "Anchor-0" "'mark' Mark Positioning in Hebrew lookup 1 subtable" "Anchor-1" "'mark' Mark Positioning in Hebrew lookup 3 subtable" "Anchor-2" "'mark' Mark Positioning in Hebrew lookup 4 subtable" "Anchor-3" "'mark' Mark Positioning in Hebrew lookup 5 subtable" "Anchor-4" "'mark' Mark Positioning in Hebrew lookup 5 subtable" "Anchor-5" "'mark' Mark Positioning in Hebrew lookup 6 subtable" "Anchor-6" "'mark' Mark Positioning in Hebrew lookup 6 subtable" "Anchor-7" "'mark' Mark Positioning in Hebrew lookup 11 subtable" "Anchor-8" "'mark' Mark Positioning in Hebrew lookup 12 subtable" "Anchor-9" "'mark' Mark Positioning in Hebrew lookup 13 subtable" "Anchor-24" "Mark to base attachment lookup 29 subtable" "Anchor-25" "Mark to base attachment lookup 30 subtable" "Anchor-26" "Mark to base attachment lookup 31 subtable" "Anchor-27" "Mark to base attachment lookup 32 subtable"
 BeginChars: 65831 2591
 
 StartChar: .notdef
@@ -3835,7 +3836,7 @@ Width: 569
 GlyphClass: 2
 Flags: W
 LayerCount: 2
-Kerns2: 522 -37 "'kern' Horizontal Kerning lookup 17 subtable"  517 -37 "'kern' Horizontal Kerning lookup 17 subtable"  508 -37 "'kern' Horizontal Kerning lookup 17 subtable"  502 -76 "'kern' Horizontal Kerning lookup 17 subtable"  500 -76 "'kern' Horizontal Kerning lookup 17 subtable"  497 -37 "'kern' Horizontal Kerning lookup 17 subtable"  492 -76 "'kern' Horizontal Kerning lookup 17 subtable"  60 -37 "'kern' Horizontal Kerning lookup 17 subtable"  36 -76 "'kern' Horizontal Kerning lookup 17 subtable" 
+Kerns2: 522 -37 "'kern' Horizontal Kerning lookup 17 subtable" 517 -37 "'kern' Horizontal Kerning lookup 17 subtable" 508 -37 "'kern' Horizontal Kerning lookup 17 subtable" 502 -76 "'kern' Horizontal Kerning lookup 17 subtable" 500 -76 "'kern' Horizontal Kerning lookup 17 subtable" 497 -37 "'kern' Horizontal Kerning lookup 17 subtable" 492 -76 "'kern' Horizontal Kerning lookup 17 subtable" 60 -37 "'kern' Horizontal Kerning lookup 17 subtable" 36 -76 "'kern' Horizontal Kerning lookup 17 subtable"
 EndChar
 
 StartChar: exclam
@@ -5421,7 +5422,7 @@ SplineSet
  936 0 l 1,10,-1
  53 0 l 1,0,-1
 EndSplineSet
-Kerns2: 20 -152 "'kern' Horizontal Kerning lookup 17 subtable" 
+Kerns2: 20 -152 "'kern' Horizontal Kerning lookup 17 subtable"
 EndChar
 
 StartChar: two
@@ -7294,7 +7295,7 @@ SplineSet
  856 1114 l 1,13,-1
  830 1265 l 1,8,9
 EndSplineSet
-Kerns2: 181 -76 "'kern' Horizontal Kerning lookup 17 subtable"  92 -18 "'kern' Horizontal Kerning lookup 17 subtable"  90 -37 "'kern' Horizontal Kerning lookup 17 subtable"  89 -37 "'kern' Horizontal Kerning lookup 17 subtable"  60 -152 "'kern' Horizontal Kerning lookup 17 subtable"  58 -37 "'kern' Horizontal Kerning lookup 17 subtable"  57 -113 "'kern' Horizontal Kerning lookup 17 subtable"  55 -152 "'kern' Horizontal Kerning lookup 17 subtable"  3 -76 "'kern' Horizontal Kerning lookup 17 subtable" 
+Kerns2: 181 -76 "'kern' Horizontal Kerning lookup 17 subtable" 92 -18 "'kern' Horizontal Kerning lookup 17 subtable" 90 -37 "'kern' Horizontal Kerning lookup 17 subtable" 89 -37 "'kern' Horizontal Kerning lookup 17 subtable" 60 -152 "'kern' Horizontal Kerning lookup 17 subtable" 58 -37 "'kern' Horizontal Kerning lookup 17 subtable" 57 -113 "'kern' Horizontal Kerning lookup 17 subtable" 55 -152 "'kern' Horizontal Kerning lookup 17 subtable" 3 -76 "'kern' Horizontal Kerning lookup 17 subtable"
 EndChar
 
 StartChar: B
@@ -7836,7 +7837,7 @@ SplineSet
  1317 1253 l 1,9,-1
  497 1253 l 1,0,-1
 EndSplineSet
-Kerns2: 36 -152 "'kern' Horizontal Kerning lookup 17 subtable"  17 -264 "'kern' Horizontal Kerning lookup 17 subtable"  15 -264 "'kern' Horizontal Kerning lookup 17 subtable"  3 -37 "'kern' Horizontal Kerning lookup 17 subtable" 
+Kerns2: 36 -152 "'kern' Horizontal Kerning lookup 17 subtable" 17 -264 "'kern' Horizontal Kerning lookup 17 subtable" 15 -264 "'kern' Horizontal Kerning lookup 17 subtable" 3 -37 "'kern' Horizontal Kerning lookup 17 subtable"
 EndChar
 
 StartChar: G
@@ -8447,7 +8448,7 @@ SplineSet
  966 0 l 1,5,-1
  63 0 l 1,0,-1
 EndSplineSet
-Kerns2: 181 -113 "'kern' Horizontal Kerning lookup 17 subtable"  92 -37 "'kern' Horizontal Kerning lookup 17 subtable"  60 -188 "'kern' Horizontal Kerning lookup 17 subtable"  58 -76 "'kern' Horizontal Kerning lookup 17 subtable"  57 -113 "'kern' Horizontal Kerning lookup 17 subtable"  55 -152 "'kern' Horizontal Kerning lookup 17 subtable"  3 -37 "'kern' Horizontal Kerning lookup 17 subtable" 
+Kerns2: 181 -113 "'kern' Horizontal Kerning lookup 17 subtable" 92 -37 "'kern' Horizontal Kerning lookup 17 subtable" 60 -188 "'kern' Horizontal Kerning lookup 17 subtable" 58 -76 "'kern' Horizontal Kerning lookup 17 subtable" 57 -113 "'kern' Horizontal Kerning lookup 17 subtable" 55 -152 "'kern' Horizontal Kerning lookup 17 subtable" 3 -37 "'kern' Horizontal Kerning lookup 17 subtable"
 EndChar
 
 StartChar: M
@@ -9054,7 +9055,7 @@ SplineSet
  498 1256 l 1,18,-1
  390 700 l 1,11,-1
 EndSplineSet
-Kerns2: 36 -152 "'kern' Horizontal Kerning lookup 17 subtable"  17 -264 "'kern' Horizontal Kerning lookup 17 subtable"  15 -264 "'kern' Horizontal Kerning lookup 17 subtable"  3 -76 "'kern' Horizontal Kerning lookup 17 subtable" 
+Kerns2: 36 -152 "'kern' Horizontal Kerning lookup 17 subtable" 17 -264 "'kern' Horizontal Kerning lookup 17 subtable" 15 -264 "'kern' Horizontal Kerning lookup 17 subtable" 3 -76 "'kern' Horizontal Kerning lookup 17 subtable"
 EndChar
 
 StartChar: Q
@@ -9290,7 +9291,7 @@ SplineSet
  397 736 l 1,22,-1
  857 736 l 2,14,15
 EndSplineSet
-Kerns2: 60 -76 "'kern' Horizontal Kerning lookup 17 subtable"  58 -37 "'kern' Horizontal Kerning lookup 17 subtable"  57 -37 "'kern' Horizontal Kerning lookup 17 subtable"  55 -37 "'kern' Horizontal Kerning lookup 17 subtable" 
+Kerns2: 60 -76 "'kern' Horizontal Kerning lookup 17 subtable" 58 -37 "'kern' Horizontal Kerning lookup 17 subtable" 57 -37 "'kern' Horizontal Kerning lookup 17 subtable" 55 -37 "'kern' Horizontal Kerning lookup 17 subtable"
 EndChar
 
 StartChar: S
@@ -9518,7 +9519,7 @@ SplineSet
  1342 1253 l 1,7,-1
  858 1253 l 1,0,-1
 EndSplineSet
-Kerns2: 92 -152 "'kern' Horizontal Kerning lookup 17 subtable"  90 -152 "'kern' Horizontal Kerning lookup 17 subtable"  88 -152 "'kern' Horizontal Kerning lookup 17 subtable"  86 -188 "'kern' Horizontal Kerning lookup 17 subtable"  85 -152 "'kern' Horizontal Kerning lookup 17 subtable"  82 -188 "'kern' Horizontal Kerning lookup 17 subtable"  76 -18 "'kern' Horizontal Kerning lookup 17 subtable"  72 -188 "'kern' Horizontal Kerning lookup 17 subtable"  70 -188 "'kern' Horizontal Kerning lookup 17 subtable"  68 -188 "'kern' Horizontal Kerning lookup 17 subtable"  50 -37 "'kern' Horizontal Kerning lookup 17 subtable"  36 -152 "'kern' Horizontal Kerning lookup 17 subtable"  30 -152 "'kern' Horizontal Kerning lookup 17 subtable"  29 -152 "'kern' Horizontal Kerning lookup 17 subtable"  17 -188 "'kern' Horizontal Kerning lookup 17 subtable"  16 -188 "'kern' Horizontal Kerning lookup 17 subtable"  15 -188 "'kern' Horizontal Kerning lookup 17 subtable" 
+Kerns2: 92 -152 "'kern' Horizontal Kerning lookup 17 subtable" 90 -152 "'kern' Horizontal Kerning lookup 17 subtable" 88 -152 "'kern' Horizontal Kerning lookup 17 subtable" 86 -188 "'kern' Horizontal Kerning lookup 17 subtable" 85 -152 "'kern' Horizontal Kerning lookup 17 subtable" 82 -188 "'kern' Horizontal Kerning lookup 17 subtable" 76 -18 "'kern' Horizontal Kerning lookup 17 subtable" 72 -188 "'kern' Horizontal Kerning lookup 17 subtable" 70 -188 "'kern' Horizontal Kerning lookup 17 subtable" 68 -188 "'kern' Horizontal Kerning lookup 17 subtable" 50 -37 "'kern' Horizontal Kerning lookup 17 subtable" 36 -152 "'kern' Horizontal Kerning lookup 17 subtable" 30 -152 "'kern' Horizontal Kerning lookup 17 subtable" 29 -152 "'kern' Horizontal Kerning lookup 17 subtable" 17 -188 "'kern' Horizontal Kerning lookup 17 subtable" 16 -188 "'kern' Horizontal Kerning lookup 17 subtable" 15 -188 "'kern' Horizontal Kerning lookup 17 subtable"
 EndChar
 
 StartChar: U
@@ -9686,7 +9687,7 @@ SplineSet
  1525 1409 l 1,8,-1
  677 0 l 1,0,-1
 EndSplineSet
-Kerns2: 92 -37 "'kern' Horizontal Kerning lookup 17 subtable"  88 -37 "'kern' Horizontal Kerning lookup 17 subtable"  85 -37 "'kern' Horizontal Kerning lookup 17 subtable"  82 -76 "'kern' Horizontal Kerning lookup 17 subtable"  76 -37 "'kern' Horizontal Kerning lookup 17 subtable"  72 -76 "'kern' Horizontal Kerning lookup 17 subtable"  68 -76 "'kern' Horizontal Kerning lookup 17 subtable"  36 -113 "'kern' Horizontal Kerning lookup 17 subtable"  30 -37 "'kern' Horizontal Kerning lookup 17 subtable"  29 -37 "'kern' Horizontal Kerning lookup 17 subtable"  17 -152 "'kern' Horizontal Kerning lookup 17 subtable"  16 -76 "'kern' Horizontal Kerning lookup 17 subtable"  15 -152 "'kern' Horizontal Kerning lookup 17 subtable" 
+Kerns2: 92 -37 "'kern' Horizontal Kerning lookup 17 subtable" 88 -37 "'kern' Horizontal Kerning lookup 17 subtable" 85 -37 "'kern' Horizontal Kerning lookup 17 subtable" 82 -76 "'kern' Horizontal Kerning lookup 17 subtable" 76 -37 "'kern' Horizontal Kerning lookup 17 subtable" 72 -76 "'kern' Horizontal Kerning lookup 17 subtable" 68 -76 "'kern' Horizontal Kerning lookup 17 subtable" 36 -113 "'kern' Horizontal Kerning lookup 17 subtable" 30 -37 "'kern' Horizontal Kerning lookup 17 subtable" 29 -37 "'kern' Horizontal Kerning lookup 17 subtable" 17 -152 "'kern' Horizontal Kerning lookup 17 subtable" 16 -76 "'kern' Horizontal Kerning lookup 17 subtable" 15 -152 "'kern' Horizontal Kerning lookup 17 subtable"
 EndChar
 
 StartChar: W
@@ -10044,7 +10045,7 @@ SplineSet
  2094 1409 l 1,25,-1
  1406 0 l 1,0,-1
 EndSplineSet
-Kerns2: 76 -18 "'kern' Horizontal Kerning lookup 17 subtable"  72 -37 "'kern' Horizontal Kerning lookup 17 subtable"  68 -37 "'kern' Horizontal Kerning lookup 17 subtable"  36 -37 "'kern' Horizontal Kerning lookup 17 subtable"  17 -76 "'kern' Horizontal Kerning lookup 17 subtable"  16 -37 "'kern' Horizontal Kerning lookup 17 subtable"  15 -76 "'kern' Horizontal Kerning lookup 17 subtable" 
+Kerns2: 76 -18 "'kern' Horizontal Kerning lookup 17 subtable" 72 -37 "'kern' Horizontal Kerning lookup 17 subtable" 68 -37 "'kern' Horizontal Kerning lookup 17 subtable" 36 -37 "'kern' Horizontal Kerning lookup 17 subtable" 17 -76 "'kern' Horizontal Kerning lookup 17 subtable" 16 -37 "'kern' Horizontal Kerning lookup 17 subtable" 15 -76 "'kern' Horizontal Kerning lookup 17 subtable"
 EndChar
 
 StartChar: X
@@ -10245,7 +10246,7 @@ SplineSet
  785 584 l 1,8,-1
  672 0 l 1,0,-1
 EndSplineSet
-Kerns2: 89 -76 "'kern' Horizontal Kerning lookup 17 subtable"  88 -76 "'kern' Horizontal Kerning lookup 17 subtable"  84 -113 "'kern' Horizontal Kerning lookup 17 subtable"  83 -113 "'kern' Horizontal Kerning lookup 17 subtable"  82 -113 "'kern' Horizontal Kerning lookup 17 subtable"  76 -37 "'kern' Horizontal Kerning lookup 17 subtable"  72 -113 "'kern' Horizontal Kerning lookup 17 subtable"  68 -152 "'kern' Horizontal Kerning lookup 17 subtable"  36 -113 "'kern' Horizontal Kerning lookup 17 subtable"  30 -76 "'kern' Horizontal Kerning lookup 17 subtable"  29 -76 "'kern' Horizontal Kerning lookup 17 subtable"  17 -188 "'kern' Horizontal Kerning lookup 17 subtable"  16 -152 "'kern' Horizontal Kerning lookup 17 subtable"  15 -188 "'kern' Horizontal Kerning lookup 17 subtable"  3 -37 "'kern' Horizontal Kerning lookup 17 subtable" 
+Kerns2: 89 -76 "'kern' Horizontal Kerning lookup 17 subtable" 88 -76 "'kern' Horizontal Kerning lookup 17 subtable" 84 -113 "'kern' Horizontal Kerning lookup 17 subtable" 83 -113 "'kern' Horizontal Kerning lookup 17 subtable" 82 -113 "'kern' Horizontal Kerning lookup 17 subtable" 76 -37 "'kern' Horizontal Kerning lookup 17 subtable" 72 -113 "'kern' Horizontal Kerning lookup 17 subtable" 68 -152 "'kern' Horizontal Kerning lookup 17 subtable" 36 -113 "'kern' Horizontal Kerning lookup 17 subtable" 30 -76 "'kern' Horizontal Kerning lookup 17 subtable" 29 -76 "'kern' Horizontal Kerning lookup 17 subtable" 17 -188 "'kern' Horizontal Kerning lookup 17 subtable" 16 -152 "'kern' Horizontal Kerning lookup 17 subtable" 15 -188 "'kern' Horizontal Kerning lookup 17 subtable" 3 -37 "'kern' Horizontal Kerning lookup 17 subtable"
 EndChar
 
 StartChar: Z
@@ -11484,7 +11485,7 @@ SplineSet
  645 951 l 1,22,-1
  434 951 l 1,0,-1
 EndSplineSet
-Kerns2: 181 76 "'kern' Horizontal Kerning lookup 17 subtable" 
+Kerns2: 181 76 "'kern' Horizontal Kerning lookup 17 subtable"
 EndChar
 
 StartChar: g
@@ -13205,7 +13206,7 @@ SplineSet
  702 1102 702 1102 751 1088 c 1,18,-1
  718 938 l 1,0,1
 EndSplineSet
-Kerns2: 181 76 "'kern' Horizontal Kerning lookup 17 subtable"  17 -76 "'kern' Horizontal Kerning lookup 17 subtable"  16 -37 "'kern' Horizontal Kerning lookup 17 subtable"  15 -113 "'kern' Horizontal Kerning lookup 17 subtable" 
+Kerns2: 181 76 "'kern' Horizontal Kerning lookup 17 subtable" 17 -76 "'kern' Horizontal Kerning lookup 17 subtable" 16 -37 "'kern' Horizontal Kerning lookup 17 subtable" 15 -113 "'kern' Horizontal Kerning lookup 17 subtable"
 EndChar
 
 StartChar: s
@@ -13645,7 +13646,7 @@ SplineSet
  1122 1082 l 1,12,-1
  507 0 l 1,0,-1
 EndSplineSet
-Kerns2: 17 -152 "'kern' Horizontal Kerning lookup 17 subtable"  15 -152 "'kern' Horizontal Kerning lookup 17 subtable" 
+Kerns2: 17 -152 "'kern' Horizontal Kerning lookup 17 subtable" 15 -152 "'kern' Horizontal Kerning lookup 17 subtable"
 EndChar
 
 StartChar: w
@@ -13989,7 +13990,7 @@ SplineSet
  1589 1082 l 1,20,-1
  1068 0 l 1,0,-1
 EndSplineSet
-Kerns2: 17 -113 "'kern' Horizontal Kerning lookup 17 subtable"  15 -113 "'kern' Horizontal Kerning lookup 17 subtable" 
+Kerns2: 17 -113 "'kern' Horizontal Kerning lookup 17 subtable" 15 -113 "'kern' Horizontal Kerning lookup 17 subtable"
 EndChar
 
 StartChar: x
@@ -14236,7 +14237,7 @@ SplineSet
  255 -348 255 -348 181.5 -386.5 c 128,-1,23
  108 -425 108 -425 16 -425 c 0,0,1
 EndSplineSet
-Kerns2: 17 -152 "'kern' Horizontal Kerning lookup 17 subtable"  15 -152 "'kern' Horizontal Kerning lookup 17 subtable" 
+Kerns2: 17 -152 "'kern' Horizontal Kerning lookup 17 subtable" 15 -152 "'kern' Horizontal Kerning lookup 17 subtable"
 EndChar
 
 StartChar: z
@@ -23719,7 +23720,7 @@ SplineSet
  394 952 l 1,9,-1
  199 952 l 1,0,-1
 EndSplineSet
-Kerns2: 180 -76 "'kern' Horizontal Kerning lookup 17 subtable" 
+Kerns2: 180 -76 "'kern' Horizontal Kerning lookup 17 subtable"
 EndChar
 
 StartChar: quoteright
@@ -24033,7 +24034,7 @@ SplineSet
  436 1169 436 1169 403 1094.5 c 128,-1,9
  370 1020 370 1020 315 952 c 1,0,-1
 EndSplineSet
-Kerns2: 181 -76 "'kern' Horizontal Kerning lookup 17 subtable"  86 -37 "'kern' Horizontal Kerning lookup 17 subtable"  3 -113 "'kern' Horizontal Kerning lookup 17 subtable" 
+Kerns2: 181 -76 "'kern' Horizontal Kerning lookup 17 subtable" 86 -37 "'kern' Horizontal Kerning lookup 17 subtable" 3 -113 "'kern' Horizontal Kerning lookup 17 subtable"
 EndChar
 
 StartChar: divide
@@ -25351,7 +25352,7 @@ SplineSet
  173 -43 173 -43 140.5 -118 c 128,-1,19
  108 -193 108 -193 52 -262 c 1,10,-1
 EndSplineSet
-Kerns2: 591 -227 "'kern' Horizontal Kerning lookup 17 subtable"  588 -297 "'kern' Horizontal Kerning lookup 17 subtable"  583 -274 "'kern' Horizontal Kerning lookup 17 subtable"  561 -227 "'kern' Horizontal Kerning lookup 17 subtable"  552 -250 "'kern' Horizontal Kerning lookup 17 subtable" 
+Kerns2: 591 -227 "'kern' Horizontal Kerning lookup 17 subtable" 588 -297 "'kern' Horizontal Kerning lookup 17 subtable" 583 -274 "'kern' Horizontal Kerning lookup 17 subtable" 561 -227 "'kern' Horizontal Kerning lookup 17 subtable" 552 -250 "'kern' Horizontal Kerning lookup 17 subtable"
 EndChar
 
 StartChar: perthousand
@@ -32895,7 +32896,7 @@ SplineSet
  337 1410 l 1,5,-1
  1241 1410 l 1,0,-1
 EndSplineSet
-Kerns2: 546 94 "'kern' Horizontal Kerning lookup 17 subtable"  533 -96 "'kern' Horizontal Kerning lookup 17 subtable"  508 -195 "'kern' Horizontal Kerning lookup 17 subtable"  502 -195 "'kern' Horizontal Kerning lookup 17 subtable"  500 -195 "'kern' Horizontal Kerning lookup 17 subtable"  499 209 "'kern' Horizontal Kerning lookup 17 subtable"  17 -262 "'kern' Horizontal Kerning lookup 17 subtable"  15 -262 "'kern' Horizontal Kerning lookup 17 subtable" 
+Kerns2: 546 94 "'kern' Horizontal Kerning lookup 17 subtable" 533 -96 "'kern' Horizontal Kerning lookup 17 subtable" 508 -195 "'kern' Horizontal Kerning lookup 17 subtable" 502 -195 "'kern' Horizontal Kerning lookup 17 subtable" 500 -195 "'kern' Horizontal Kerning lookup 17 subtable" 499 209 "'kern' Horizontal Kerning lookup 17 subtable" 17 -262 "'kern' Horizontal Kerning lookup 17 subtable" 15 -262 "'kern' Horizontal Kerning lookup 17 subtable"
 EndChar
 
 StartChar: Theta
@@ -33019,7 +33020,7 @@ SplineSet
  1335 1054 1335 1054 1226.5 1165 c 128,-1,31
  1118 1276 1118 1276 919 1276 c 0,18,19
 EndSplineSet
-Kerns2: 522 -111 "'kern' Horizontal Kerning lookup 17 subtable"  517 -111 "'kern' Horizontal Kerning lookup 17 subtable"  508 -23 "'kern' Horizontal Kerning lookup 17 subtable"  502 -23 "'kern' Horizontal Kerning lookup 17 subtable"  500 -23 "'kern' Horizontal Kerning lookup 17 subtable" 
+Kerns2: 522 -111 "'kern' Horizontal Kerning lookup 17 subtable" 517 -111 "'kern' Horizontal Kerning lookup 17 subtable" 508 -23 "'kern' Horizontal Kerning lookup 17 subtable" 502 -23 "'kern' Horizontal Kerning lookup 17 subtable" 500 -23 "'kern' Horizontal Kerning lookup 17 subtable"
 EndChar
 
 StartChar: Phi
@@ -33182,7 +33183,7 @@ SplineSet
  716 358 l 1,40,-1
  859 1094 l 1,32,-1
 EndSplineSet
-Kerns2: 522 -111 "'kern' Horizontal Kerning lookup 17 subtable"  517 -111 "'kern' Horizontal Kerning lookup 17 subtable"  500 -80 "'kern' Horizontal Kerning lookup 17 subtable" 
+Kerns2: 522 -111 "'kern' Horizontal Kerning lookup 17 subtable" 517 -111 "'kern' Horizontal Kerning lookup 17 subtable" 500 -80 "'kern' Horizontal Kerning lookup 17 subtable"
 EndChar
 
 StartChar: alpha
@@ -33420,7 +33421,7 @@ SplineSet
  1130 1352 l 1,31,-1
  759 1352 l 1,12,-1
 EndSplineSet
-Kerns2: 647 -45 "'kern' Horizontal Kerning lookup 17 subtable"  543 -59 "'kern' Horizontal Kerning lookup 17 subtable"  529 -37 "'kern' Horizontal Kerning lookup 17 subtable"  303 -45 "'kern' Horizontal Kerning lookup 17 subtable" 
+Kerns2: 647 -45 "'kern' Horizontal Kerning lookup 17 subtable" 543 -59 "'kern' Horizontal Kerning lookup 17 subtable" 529 -37 "'kern' Horizontal Kerning lookup 17 subtable" 303 -45 "'kern' Horizontal Kerning lookup 17 subtable"
 EndChar
 
 StartChar: epsilon
@@ -33551,7 +33552,7 @@ SplineSet
  220 206 220 206 271.5 161 c 128,-1,39
  323 116 323 116 401 116 c 0,0,1
 EndSplineSet
-Kerns2: 541 -55 "'kern' Horizontal Kerning lookup 17 subtable" 
+Kerns2: 541 -55 "'kern' Horizontal Kerning lookup 17 subtable"
 EndChar
 
 StartChar: sigma
@@ -33721,7 +33722,7 @@ SplineSet
  361 951 l 1,25,-1
  334 951 l 2,0,1
 EndSplineSet
-Kerns2: 550 -29 "'kern' Horizontal Kerning lookup 17 subtable"  545 -29 "'kern' Horizontal Kerning lookup 17 subtable"  541 -29 "'kern' Horizontal Kerning lookup 17 subtable"  539 -29 "'kern' Horizontal Kerning lookup 17 subtable"  530 -29 "'kern' Horizontal Kerning lookup 17 subtable"  523 -29 "'kern' Horizontal Kerning lookup 17 subtable"  304 -29 "'kern' Horizontal Kerning lookup 17 subtable"  302 -29 "'kern' Horizontal Kerning lookup 17 subtable"  300 -29 "'kern' Horizontal Kerning lookup 17 subtable"  299 -29 "'kern' Horizontal Kerning lookup 17 subtable" 
+Kerns2: 550 -29 "'kern' Horizontal Kerning lookup 17 subtable" 545 -29 "'kern' Horizontal Kerning lookup 17 subtable" 541 -29 "'kern' Horizontal Kerning lookup 17 subtable" 539 -29 "'kern' Horizontal Kerning lookup 17 subtable" 530 -29 "'kern' Horizontal Kerning lookup 17 subtable" 523 -29 "'kern' Horizontal Kerning lookup 17 subtable" 304 -29 "'kern' Horizontal Kerning lookup 17 subtable" 302 -29 "'kern' Horizontal Kerning lookup 17 subtable" 300 -29 "'kern' Horizontal Kerning lookup 17 subtable" 299 -29 "'kern' Horizontal Kerning lookup 17 subtable"
 EndChar
 
 StartChar: phi
@@ -33849,7 +33850,7 @@ SplineSet
  1087 655 1087 655 1087 758 c 0,38,39
  1087 971 1087 971 967 971 c 0,29,30
 EndSplineSet
-Kerns2: 647 -45 "'kern' Horizontal Kerning lookup 17 subtable"  543 -59 "'kern' Horizontal Kerning lookup 17 subtable"  529 -37 "'kern' Horizontal Kerning lookup 17 subtable"  303 -45 "'kern' Horizontal Kerning lookup 17 subtable" 
+Kerns2: 647 -45 "'kern' Horizontal Kerning lookup 17 subtable" 543 -59 "'kern' Horizontal Kerning lookup 17 subtable" 529 -37 "'kern' Horizontal Kerning lookup 17 subtable" 303 -45 "'kern' Horizontal Kerning lookup 17 subtable"
 EndChar
 
 StartChar: underscoredbl
@@ -49573,7 +49574,7 @@ LayerCount: 2
 Fore
 Refer: 36 65 N 1 0 0 1 0 0 3
 Refer: 490 900 N 1 0 0 1 -89 -133 2
-Kerns2: 543 -37 "'kern' Horizontal Kerning lookup 17 subtable"  537 -37 "'kern' Horizontal Kerning lookup 17 subtable"  529 -37 "'kern' Horizontal Kerning lookup 17 subtable"  522 -264 "'kern' Horizontal Kerning lookup 17 subtable"  517 -264 "'kern' Horizontal Kerning lookup 17 subtable"  516 -199 "'kern' Horizontal Kerning lookup 17 subtable"  512 -106 "'kern' Horizontal Kerning lookup 17 subtable"  298 -119 "'kern' Horizontal Kerning lookup 17 subtable"  297 -106 "'kern' Horizontal Kerning lookup 17 subtable"  3 -76 "'kern' Horizontal Kerning lookup 17 subtable" 
+Kerns2: 543 -37 "'kern' Horizontal Kerning lookup 17 subtable" 537 -37 "'kern' Horizontal Kerning lookup 17 subtable" 529 -37 "'kern' Horizontal Kerning lookup 17 subtable" 522 -264 "'kern' Horizontal Kerning lookup 17 subtable" 517 -264 "'kern' Horizontal Kerning lookup 17 subtable" 516 -199 "'kern' Horizontal Kerning lookup 17 subtable" 512 -106 "'kern' Horizontal Kerning lookup 17 subtable" 298 -119 "'kern' Horizontal Kerning lookup 17 subtable" 297 -106 "'kern' Horizontal Kerning lookup 17 subtable" 3 -76 "'kern' Horizontal Kerning lookup 17 subtable"
 EndChar
 
 StartChar: Epsilontonos
@@ -49702,7 +49703,7 @@ LayerCount: 2
 Fore
 Refer: 50 79 N 1 0 0 1 33 0 2
 Refer: 490 900 N 1 0 0 1 -242 -133 2
-Kerns2: 522 -111 "'kern' Horizontal Kerning lookup 17 subtable"  517 -111 "'kern' Horizontal Kerning lookup 17 subtable" 
+Kerns2: 522 -111 "'kern' Horizontal Kerning lookup 17 subtable" 517 -111 "'kern' Horizontal Kerning lookup 17 subtable"
 EndChar
 
 StartChar: Upsilontonos
@@ -49735,7 +49736,7 @@ LayerCount: 2
 Fore
 Refer: 60 89 N 1 0 0 1 406 0 2
 Refer: 490 900 N 1 0 0 1 -35 -133 2
-Kerns2: 548 -113 "'kern' Horizontal Kerning lookup 17 subtable"  546 106 "'kern' Horizontal Kerning lookup 17 subtable"  539 -113 "'kern' Horizontal Kerning lookup 17 subtable"  536 -37 "'kern' Horizontal Kerning lookup 17 subtable"  534 -37 "'kern' Horizontal Kerning lookup 17 subtable"  533 -37 "'kern' Horizontal Kerning lookup 17 subtable"  531 -37 "'kern' Horizontal Kerning lookup 17 subtable"  526 -37 "'kern' Horizontal Kerning lookup 17 subtable"  525 -37 "'kern' Horizontal Kerning lookup 17 subtable"  523 -113 "'kern' Horizontal Kerning lookup 17 subtable"  508 -152 "'kern' Horizontal Kerning lookup 17 subtable"  502 -152 "'kern' Horizontal Kerning lookup 17 subtable"  500 -152 "'kern' Horizontal Kerning lookup 17 subtable"  499 213 "'kern' Horizontal Kerning lookup 17 subtable"  304 -113 "'kern' Horizontal Kerning lookup 17 subtable"  302 -113 "'kern' Horizontal Kerning lookup 17 subtable"  300 -113 "'kern' Horizontal Kerning lookup 17 subtable"  299 -113 "'kern' Horizontal Kerning lookup 17 subtable" 
+Kerns2: 548 -113 "'kern' Horizontal Kerning lookup 17 subtable" 546 106 "'kern' Horizontal Kerning lookup 17 subtable" 539 -113 "'kern' Horizontal Kerning lookup 17 subtable" 536 -37 "'kern' Horizontal Kerning lookup 17 subtable" 534 -37 "'kern' Horizontal Kerning lookup 17 subtable" 533 -37 "'kern' Horizontal Kerning lookup 17 subtable" 531 -37 "'kern' Horizontal Kerning lookup 17 subtable" 526 -37 "'kern' Horizontal Kerning lookup 17 subtable" 525 -37 "'kern' Horizontal Kerning lookup 17 subtable" 523 -113 "'kern' Horizontal Kerning lookup 17 subtable" 508 -152 "'kern' Horizontal Kerning lookup 17 subtable" 502 -152 "'kern' Horizontal Kerning lookup 17 subtable" 500 -152 "'kern' Horizontal Kerning lookup 17 subtable" 499 213 "'kern' Horizontal Kerning lookup 17 subtable" 304 -113 "'kern' Horizontal Kerning lookup 17 subtable" 302 -113 "'kern' Horizontal Kerning lookup 17 subtable" 300 -113 "'kern' Horizontal Kerning lookup 17 subtable" 299 -113 "'kern' Horizontal Kerning lookup 17 subtable"
 EndChar
 
 StartChar: Omegatonos
@@ -49768,7 +49769,7 @@ LayerCount: 2
 Fore
 Refer: 520 937 N 1 0 0 1 29 0 2
 Refer: 490 900 N 1 0 0 1 -234 -133 2
-Kerns2: 522 -111 "'kern' Horizontal Kerning lookup 17 subtable"  517 -111 "'kern' Horizontal Kerning lookup 17 subtable" 
+Kerns2: 522 -111 "'kern' Horizontal Kerning lookup 17 subtable" 517 -111 "'kern' Horizontal Kerning lookup 17 subtable"
 EndChar
 
 StartChar: iotadieresistonos
@@ -49819,7 +49820,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 36 65 N 1 0 0 1 0 0 3
-Kerns2: 543 -37 "'kern' Horizontal Kerning lookup 17 subtable"  537 -37 "'kern' Horizontal Kerning lookup 17 subtable"  529 -37 "'kern' Horizontal Kerning lookup 17 subtable"  522 -264 "'kern' Horizontal Kerning lookup 17 subtable"  517 -264 "'kern' Horizontal Kerning lookup 17 subtable"  516 -199 "'kern' Horizontal Kerning lookup 17 subtable"  512 -106 "'kern' Horizontal Kerning lookup 17 subtable"  298 -119 "'kern' Horizontal Kerning lookup 17 subtable"  297 -106 "'kern' Horizontal Kerning lookup 17 subtable"  181 -76 "'kern' Horizontal Kerning lookup 17 subtable"  3 -76 "'kern' Horizontal Kerning lookup 17 subtable" 
+Kerns2: 543 -37 "'kern' Horizontal Kerning lookup 17 subtable" 537 -37 "'kern' Horizontal Kerning lookup 17 subtable" 529 -37 "'kern' Horizontal Kerning lookup 17 subtable" 522 -264 "'kern' Horizontal Kerning lookup 17 subtable" 517 -264 "'kern' Horizontal Kerning lookup 17 subtable" 516 -199 "'kern' Horizontal Kerning lookup 17 subtable" 512 -106 "'kern' Horizontal Kerning lookup 17 subtable" 298 -119 "'kern' Horizontal Kerning lookup 17 subtable" 297 -106 "'kern' Horizontal Kerning lookup 17 subtable" 181 -76 "'kern' Horizontal Kerning lookup 17 subtable" 3 -76 "'kern' Horizontal Kerning lookup 17 subtable"
 EndChar
 
 StartChar: Beta
@@ -49912,7 +49913,7 @@ SplineSet
  199 156 l 1,14,-1
  1042 156 l 1,6,-1
 EndSplineSet
-Kerns2: 522 -264 "'kern' Horizontal Kerning lookup 17 subtable"  517 -264 "'kern' Horizontal Kerning lookup 17 subtable"  516 -199 "'kern' Horizontal Kerning lookup 17 subtable"  512 -106 "'kern' Horizontal Kerning lookup 17 subtable"  297 -106 "'kern' Horizontal Kerning lookup 17 subtable"  3 -76 "'kern' Horizontal Kerning lookup 17 subtable" 
+Kerns2: 522 -264 "'kern' Horizontal Kerning lookup 17 subtable" 517 -264 "'kern' Horizontal Kerning lookup 17 subtable" 516 -199 "'kern' Horizontal Kerning lookup 17 subtable" 512 -106 "'kern' Horizontal Kerning lookup 17 subtable" 297 -106 "'kern' Horizontal Kerning lookup 17 subtable" 3 -76 "'kern' Horizontal Kerning lookup 17 subtable"
 EndChar
 
 StartChar: Epsilon
@@ -49963,7 +49964,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 46 75 N 1 0 0 1 0 0 3
-Kerns2: 550 -25 "'kern' Horizontal Kerning lookup 17 subtable"  548 -25 "'kern' Horizontal Kerning lookup 17 subtable"  545 -25 "'kern' Horizontal Kerning lookup 17 subtable"  539 -25 "'kern' Horizontal Kerning lookup 17 subtable"  538 -25 "'kern' Horizontal Kerning lookup 17 subtable"  532 -25 "'kern' Horizontal Kerning lookup 17 subtable"  530 -25 "'kern' Horizontal Kerning lookup 17 subtable"  523 -25 "'kern' Horizontal Kerning lookup 17 subtable"  512 -98 "'kern' Horizontal Kerning lookup 17 subtable"  304 -25 "'kern' Horizontal Kerning lookup 17 subtable"  302 -25 "'kern' Horizontal Kerning lookup 17 subtable"  300 -25 "'kern' Horizontal Kerning lookup 17 subtable"  299 -25 "'kern' Horizontal Kerning lookup 17 subtable"  298 -125 "'kern' Horizontal Kerning lookup 17 subtable"  297 -98 "'kern' Horizontal Kerning lookup 17 subtable" 
+Kerns2: 550 -25 "'kern' Horizontal Kerning lookup 17 subtable" 548 -25 "'kern' Horizontal Kerning lookup 17 subtable" 545 -25 "'kern' Horizontal Kerning lookup 17 subtable" 539 -25 "'kern' Horizontal Kerning lookup 17 subtable" 538 -25 "'kern' Horizontal Kerning lookup 17 subtable" 532 -25 "'kern' Horizontal Kerning lookup 17 subtable" 530 -25 "'kern' Horizontal Kerning lookup 17 subtable" 523 -25 "'kern' Horizontal Kerning lookup 17 subtable" 512 -98 "'kern' Horizontal Kerning lookup 17 subtable" 304 -25 "'kern' Horizontal Kerning lookup 17 subtable" 302 -25 "'kern' Horizontal Kerning lookup 17 subtable" 300 -25 "'kern' Horizontal Kerning lookup 17 subtable" 299 -25 "'kern' Horizontal Kerning lookup 17 subtable" 298 -125 "'kern' Horizontal Kerning lookup 17 subtable" 297 -98 "'kern' Horizontal Kerning lookup 17 subtable"
 EndChar
 
 StartChar: Lambda
@@ -50033,7 +50034,7 @@ SplineSet
  952 1410 l 1,10,-1
  1253 1 l 1,0,-1
 EndSplineSet
-Kerns2: 522 -264 "'kern' Horizontal Kerning lookup 17 subtable"  517 -264 "'kern' Horizontal Kerning lookup 17 subtable"  516 -199 "'kern' Horizontal Kerning lookup 17 subtable"  512 -106 "'kern' Horizontal Kerning lookup 17 subtable"  297 -106 "'kern' Horizontal Kerning lookup 17 subtable"  3 -37 "'kern' Horizontal Kerning lookup 17 subtable" 
+Kerns2: 522 -264 "'kern' Horizontal Kerning lookup 17 subtable" 517 -264 "'kern' Horizontal Kerning lookup 17 subtable" 516 -199 "'kern' Horizontal Kerning lookup 17 subtable" 512 -106 "'kern' Horizontal Kerning lookup 17 subtable" 297 -106 "'kern' Horizontal Kerning lookup 17 subtable" 3 -37 "'kern' Horizontal Kerning lookup 17 subtable"
 EndChar
 
 StartChar: Mu
@@ -50172,7 +50173,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 50 79 N 1 0 0 1 0 0 3
-Kerns2: 522 -111 "'kern' Horizontal Kerning lookup 17 subtable"  517 -111 "'kern' Horizontal Kerning lookup 17 subtable"  508 -23 "'kern' Horizontal Kerning lookup 17 subtable"  502 -23 "'kern' Horizontal Kerning lookup 17 subtable"  500 -23 "'kern' Horizontal Kerning lookup 17 subtable"  492 -23 "'kern' Horizontal Kerning lookup 17 subtable" 
+Kerns2: 522 -111 "'kern' Horizontal Kerning lookup 17 subtable" 517 -111 "'kern' Horizontal Kerning lookup 17 subtable" 508 -23 "'kern' Horizontal Kerning lookup 17 subtable" 502 -23 "'kern' Horizontal Kerning lookup 17 subtable" 500 -23 "'kern' Horizontal Kerning lookup 17 subtable" 492 -23 "'kern' Horizontal Kerning lookup 17 subtable"
 EndChar
 
 StartChar: Pi
@@ -50242,7 +50243,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 51 80 N 1 0 0 1 0 0 3
-Kerns2: 508 -152 "'kern' Horizontal Kerning lookup 17 subtable"  502 -152 "'kern' Horizontal Kerning lookup 17 subtable"  500 -152 "'kern' Horizontal Kerning lookup 17 subtable"  17 -262 "'kern' Horizontal Kerning lookup 17 subtable"  15 -262 "'kern' Horizontal Kerning lookup 17 subtable" 
+Kerns2: 508 -152 "'kern' Horizontal Kerning lookup 17 subtable" 502 -152 "'kern' Horizontal Kerning lookup 17 subtable" 500 -152 "'kern' Horizontal Kerning lookup 17 subtable" 17 -262 "'kern' Horizontal Kerning lookup 17 subtable" 15 -262 "'kern' Horizontal Kerning lookup 17 subtable"
 EndChar
 
 StartChar: Sigma
@@ -50341,7 +50342,7 @@ SplineSet
  1070 0 l 1,12,-1
  -6 0 l 1,0,-1
 EndSplineSet
-Kerns2: 303 -66 "'kern' Horizontal Kerning lookup 17 subtable" 
+Kerns2: 303 -66 "'kern' Horizontal Kerning lookup 17 subtable"
 EndChar
 
 StartChar: Tau
@@ -50352,7 +50353,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 55 84 N 1 0 0 1 0 0 3
-Kerns2: 549 -152 "'kern' Horizontal Kerning lookup 17 subtable"  548 -186 "'kern' Horizontal Kerning lookup 17 subtable"  547 -152 "'kern' Horizontal Kerning lookup 17 subtable"  546 94 "'kern' Horizontal Kerning lookup 17 subtable"  544 -170 "'kern' Horizontal Kerning lookup 17 subtable"  543 -88 "'kern' Horizontal Kerning lookup 17 subtable"  542 -152 "'kern' Horizontal Kerning lookup 17 subtable"  539 -186 "'kern' Horizontal Kerning lookup 17 subtable"  537 -88 "'kern' Horizontal Kerning lookup 17 subtable"  536 -152 "'kern' Horizontal Kerning lookup 17 subtable"  533 -16 "'kern' Horizontal Kerning lookup 17 subtable"  531 -152 "'kern' Horizontal Kerning lookup 17 subtable"  529 -88 "'kern' Horizontal Kerning lookup 17 subtable"  527 -152 "'kern' Horizontal Kerning lookup 17 subtable"  524 -186 "'kern' Horizontal Kerning lookup 17 subtable"  523 -186 "'kern' Horizontal Kerning lookup 17 subtable"  520 -37 "'kern' Horizontal Kerning lookup 17 subtable"  512 -37 "'kern' Horizontal Kerning lookup 17 subtable"  508 -152 "'kern' Horizontal Kerning lookup 17 subtable"  502 -152 "'kern' Horizontal Kerning lookup 17 subtable"  500 -152 "'kern' Horizontal Kerning lookup 17 subtable"  499 213 "'kern' Horizontal Kerning lookup 17 subtable"  304 -186 "'kern' Horizontal Kerning lookup 17 subtable"  302 -186 "'kern' Horizontal Kerning lookup 17 subtable"  301 -186 "'kern' Horizontal Kerning lookup 17 subtable"  300 -68 "'kern' Horizontal Kerning lookup 17 subtable"  299 -186 "'kern' Horizontal Kerning lookup 17 subtable"  298 -37 "'kern' Horizontal Kerning lookup 17 subtable"  297 -37 "'kern' Horizontal Kerning lookup 17 subtable"  30 -152 "'kern' Horizontal Kerning lookup 17 subtable"  29 -152 "'kern' Horizontal Kerning lookup 17 subtable"  17 -186 "'kern' Horizontal Kerning lookup 17 subtable"  16 -186 "'kern' Horizontal Kerning lookup 17 subtable"  15 -186 "'kern' Horizontal Kerning lookup 17 subtable" 
+Kerns2: 549 -152 "'kern' Horizontal Kerning lookup 17 subtable" 548 -186 "'kern' Horizontal Kerning lookup 17 subtable" 547 -152 "'kern' Horizontal Kerning lookup 17 subtable" 546 94 "'kern' Horizontal Kerning lookup 17 subtable" 544 -170 "'kern' Horizontal Kerning lookup 17 subtable" 543 -88 "'kern' Horizontal Kerning lookup 17 subtable" 542 -152 "'kern' Horizontal Kerning lookup 17 subtable" 539 -186 "'kern' Horizontal Kerning lookup 17 subtable" 537 -88 "'kern' Horizontal Kerning lookup 17 subtable" 536 -152 "'kern' Horizontal Kerning lookup 17 subtable" 533 -16 "'kern' Horizontal Kerning lookup 17 subtable" 531 -152 "'kern' Horizontal Kerning lookup 17 subtable" 529 -88 "'kern' Horizontal Kerning lookup 17 subtable" 527 -152 "'kern' Horizontal Kerning lookup 17 subtable" 524 -186 "'kern' Horizontal Kerning lookup 17 subtable" 523 -186 "'kern' Horizontal Kerning lookup 17 subtable" 520 -37 "'kern' Horizontal Kerning lookup 17 subtable" 512 -37 "'kern' Horizontal Kerning lookup 17 subtable" 508 -152 "'kern' Horizontal Kerning lookup 17 subtable" 502 -152 "'kern' Horizontal Kerning lookup 17 subtable" 500 -152 "'kern' Horizontal Kerning lookup 17 subtable" 499 213 "'kern' Horizontal Kerning lookup 17 subtable" 304 -186 "'kern' Horizontal Kerning lookup 17 subtable" 302 -186 "'kern' Horizontal Kerning lookup 17 subtable" 301 -186 "'kern' Horizontal Kerning lookup 17 subtable" 300 -68 "'kern' Horizontal Kerning lookup 17 subtable" 299 -186 "'kern' Horizontal Kerning lookup 17 subtable" 298 -37 "'kern' Horizontal Kerning lookup 17 subtable" 297 -37 "'kern' Horizontal Kerning lookup 17 subtable" 30 -152 "'kern' Horizontal Kerning lookup 17 subtable" 29 -152 "'kern' Horizontal Kerning lookup 17 subtable" 17 -186 "'kern' Horizontal Kerning lookup 17 subtable" 16 -186 "'kern' Horizontal Kerning lookup 17 subtable" 15 -186 "'kern' Horizontal Kerning lookup 17 subtable"
 EndChar
 
 StartChar: Upsilon
@@ -50363,7 +50364,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 60 89 N 1 0 0 1 0 0 3
-Kerns2: 548 -113 "'kern' Horizontal Kerning lookup 17 subtable"  546 106 "'kern' Horizontal Kerning lookup 17 subtable"  539 -113 "'kern' Horizontal Kerning lookup 17 subtable"  536 -37 "'kern' Horizontal Kerning lookup 17 subtable"  534 -37 "'kern' Horizontal Kerning lookup 17 subtable"  533 -37 "'kern' Horizontal Kerning lookup 17 subtable"  531 -37 "'kern' Horizontal Kerning lookup 17 subtable"  529 -37 "'kern' Horizontal Kerning lookup 17 subtable"  526 -37 "'kern' Horizontal Kerning lookup 17 subtable"  525 -37 "'kern' Horizontal Kerning lookup 17 subtable"  523 -113 "'kern' Horizontal Kerning lookup 17 subtable"  508 -152 "'kern' Horizontal Kerning lookup 17 subtable"  502 -152 "'kern' Horizontal Kerning lookup 17 subtable"  500 -152 "'kern' Horizontal Kerning lookup 17 subtable"  499 213 "'kern' Horizontal Kerning lookup 17 subtable"  304 -113 "'kern' Horizontal Kerning lookup 17 subtable"  302 -113 "'kern' Horizontal Kerning lookup 17 subtable"  300 -113 "'kern' Horizontal Kerning lookup 17 subtable"  299 -113 "'kern' Horizontal Kerning lookup 17 subtable"  30 -76 "'kern' Horizontal Kerning lookup 17 subtable"  29 -76 "'kern' Horizontal Kerning lookup 17 subtable"  17 -186 "'kern' Horizontal Kerning lookup 17 subtable"  16 -152 "'kern' Horizontal Kerning lookup 17 subtable"  15 -186 "'kern' Horizontal Kerning lookup 17 subtable" 
+Kerns2: 548 -113 "'kern' Horizontal Kerning lookup 17 subtable" 546 106 "'kern' Horizontal Kerning lookup 17 subtable" 539 -113 "'kern' Horizontal Kerning lookup 17 subtable" 536 -37 "'kern' Horizontal Kerning lookup 17 subtable" 534 -37 "'kern' Horizontal Kerning lookup 17 subtable" 533 -37 "'kern' Horizontal Kerning lookup 17 subtable" 531 -37 "'kern' Horizontal Kerning lookup 17 subtable" 529 -37 "'kern' Horizontal Kerning lookup 17 subtable" 526 -37 "'kern' Horizontal Kerning lookup 17 subtable" 525 -37 "'kern' Horizontal Kerning lookup 17 subtable" 523 -113 "'kern' Horizontal Kerning lookup 17 subtable" 508 -152 "'kern' Horizontal Kerning lookup 17 subtable" 502 -152 "'kern' Horizontal Kerning lookup 17 subtable" 500 -152 "'kern' Horizontal Kerning lookup 17 subtable" 499 213 "'kern' Horizontal Kerning lookup 17 subtable" 304 -113 "'kern' Horizontal Kerning lookup 17 subtable" 302 -113 "'kern' Horizontal Kerning lookup 17 subtable" 300 -113 "'kern' Horizontal Kerning lookup 17 subtable" 299 -113 "'kern' Horizontal Kerning lookup 17 subtable" 30 -76 "'kern' Horizontal Kerning lookup 17 subtable" 29 -76 "'kern' Horizontal Kerning lookup 17 subtable" 17 -186 "'kern' Horizontal Kerning lookup 17 subtable" 16 -152 "'kern' Horizontal Kerning lookup 17 subtable" 15 -186 "'kern' Horizontal Kerning lookup 17 subtable"
 EndChar
 
 StartChar: Chi
@@ -50374,7 +50375,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 59 88 N 1 0 0 1 0 0 3
-Kerns2: 550 -37 "'kern' Horizontal Kerning lookup 17 subtable"  545 -37 "'kern' Horizontal Kerning lookup 17 subtable" 
+Kerns2: 550 -37 "'kern' Horizontal Kerning lookup 17 subtable" 545 -37 "'kern' Horizontal Kerning lookup 17 subtable"
 EndChar
 
 StartChar: Psi
@@ -50490,7 +50491,7 @@ SplineSet
  838 0 l 1,32,-1
  653 0 l 1,0,-1
 EndSplineSet
-Kerns2: 550 -43 "'kern' Horizontal Kerning lookup 17 subtable"  548 -43 "'kern' Horizontal Kerning lookup 17 subtable"  545 -43 "'kern' Horizontal Kerning lookup 17 subtable"  539 -43 "'kern' Horizontal Kerning lookup 17 subtable"  523 -43 "'kern' Horizontal Kerning lookup 17 subtable"  304 -43 "'kern' Horizontal Kerning lookup 17 subtable"  302 -43 "'kern' Horizontal Kerning lookup 17 subtable"  300 -43 "'kern' Horizontal Kerning lookup 17 subtable"  299 -43 "'kern' Horizontal Kerning lookup 17 subtable" 
+Kerns2: 550 -43 "'kern' Horizontal Kerning lookup 17 subtable" 548 -43 "'kern' Horizontal Kerning lookup 17 subtable" 545 -43 "'kern' Horizontal Kerning lookup 17 subtable" 539 -43 "'kern' Horizontal Kerning lookup 17 subtable" 523 -43 "'kern' Horizontal Kerning lookup 17 subtable" 304 -43 "'kern' Horizontal Kerning lookup 17 subtable" 302 -43 "'kern' Horizontal Kerning lookup 17 subtable" 300 -43 "'kern' Horizontal Kerning lookup 17 subtable" 299 -43 "'kern' Horizontal Kerning lookup 17 subtable"
 EndChar
 
 StartChar: Omega
@@ -50609,7 +50610,7 @@ SplineSet
  346 1252 346 1252 513.5 1341 c 128,-1,38
  681 1430 681 1430 889 1430 c 0,0,1
 EndSplineSet
-Kerns2: 522 -111 "'kern' Horizontal Kerning lookup 17 subtable"  517 -111 "'kern' Horizontal Kerning lookup 17 subtable" 
+Kerns2: 522 -111 "'kern' Horizontal Kerning lookup 17 subtable" 517 -111 "'kern' Horizontal Kerning lookup 17 subtable"
 EndChar
 
 StartChar: Iotadieresis
@@ -50682,7 +50683,7 @@ LayerCount: 2
 Fore
 Refer: 60 89 N 1 0 0 1 0 0 3
 Refer: 661 -1 N 1 0 0 1 320 0 2
-Kerns2: 548 -113 "'kern' Horizontal Kerning lookup 17 subtable"  546 106 "'kern' Horizontal Kerning lookup 17 subtable"  539 -113 "'kern' Horizontal Kerning lookup 17 subtable"  536 -37 "'kern' Horizontal Kerning lookup 17 subtable"  534 -37 "'kern' Horizontal Kerning lookup 17 subtable"  533 -37 "'kern' Horizontal Kerning lookup 17 subtable"  531 -37 "'kern' Horizontal Kerning lookup 17 subtable"  525 -37 "'kern' Horizontal Kerning lookup 17 subtable"  523 -113 "'kern' Horizontal Kerning lookup 17 subtable"  508 -152 "'kern' Horizontal Kerning lookup 17 subtable"  502 -152 "'kern' Horizontal Kerning lookup 17 subtable"  500 -152 "'kern' Horizontal Kerning lookup 17 subtable"  499 213 "'kern' Horizontal Kerning lookup 17 subtable"  304 -113 "'kern' Horizontal Kerning lookup 17 subtable"  302 -113 "'kern' Horizontal Kerning lookup 17 subtable"  300 -113 "'kern' Horizontal Kerning lookup 17 subtable"  299 -113 "'kern' Horizontal Kerning lookup 17 subtable" 
+Kerns2: 548 -113 "'kern' Horizontal Kerning lookup 17 subtable" 546 106 "'kern' Horizontal Kerning lookup 17 subtable" 539 -113 "'kern' Horizontal Kerning lookup 17 subtable" 536 -37 "'kern' Horizontal Kerning lookup 17 subtable" 534 -37 "'kern' Horizontal Kerning lookup 17 subtable" 533 -37 "'kern' Horizontal Kerning lookup 17 subtable" 531 -37 "'kern' Horizontal Kerning lookup 17 subtable" 525 -37 "'kern' Horizontal Kerning lookup 17 subtable" 523 -113 "'kern' Horizontal Kerning lookup 17 subtable" 508 -152 "'kern' Horizontal Kerning lookup 17 subtable" 502 -152 "'kern' Horizontal Kerning lookup 17 subtable" 500 -152 "'kern' Horizontal Kerning lookup 17 subtable" 499 213 "'kern' Horizontal Kerning lookup 17 subtable" 304 -113 "'kern' Horizontal Kerning lookup 17 subtable" 302 -113 "'kern' Horizontal Kerning lookup 17 subtable" 300 -113 "'kern' Horizontal Kerning lookup 17 subtable" 299 -113 "'kern' Horizontal Kerning lookup 17 subtable"
 EndChar
 
 StartChar: alphatonos
@@ -50747,7 +50748,7 @@ LayerCount: 2
 Fore
 Refer: 301 949 N 1 0 0 1 0 0 3
 Refer: 490 900 N 1 0 0 1 274 0 2
-Kerns2: 541 -55 "'kern' Horizontal Kerning lookup 17 subtable" 
+Kerns2: 541 -55 "'kern' Horizontal Kerning lookup 17 subtable"
 EndChar
 
 StartChar: etatonos
@@ -51178,7 +51179,7 @@ SplineSet
  391 1484 l 1,35,-1
  1033 1484 l 1,0,-1
 EndSplineSet
-Kerns2: 647 -117 "'kern' Horizontal Kerning lookup 17 subtable"  550 -102 "'kern' Horizontal Kerning lookup 17 subtable"  549 -125 "'kern' Horizontal Kerning lookup 17 subtable"  548 -102 "'kern' Horizontal Kerning lookup 17 subtable"  546 113 "'kern' Horizontal Kerning lookup 17 subtable"  545 -102 "'kern' Horizontal Kerning lookup 17 subtable"  542 -125 "'kern' Horizontal Kerning lookup 17 subtable"  539 -193 "'kern' Horizontal Kerning lookup 17 subtable"  537 -59 "'kern' Horizontal Kerning lookup 17 subtable"  533 -115 "'kern' Horizontal Kerning lookup 17 subtable"  532 -59 "'kern' Horizontal Kerning lookup 17 subtable"  531 -115 "'kern' Horizontal Kerning lookup 17 subtable"  529 -59 "'kern' Horizontal Kerning lookup 17 subtable"  525 -115 "'kern' Horizontal Kerning lookup 17 subtable"  524 -125 "'kern' Horizontal Kerning lookup 17 subtable"  523 -102 "'kern' Horizontal Kerning lookup 17 subtable"  304 -102 "'kern' Horizontal Kerning lookup 17 subtable"  303 -117 "'kern' Horizontal Kerning lookup 17 subtable"  302 -102 "'kern' Horizontal Kerning lookup 17 subtable"  301 -125 "'kern' Horizontal Kerning lookup 17 subtable"  300 -59 "'kern' Horizontal Kerning lookup 17 subtable"  299 -102 "'kern' Horizontal Kerning lookup 17 subtable" 
+Kerns2: 647 -117 "'kern' Horizontal Kerning lookup 17 subtable" 550 -102 "'kern' Horizontal Kerning lookup 17 subtable" 549 -125 "'kern' Horizontal Kerning lookup 17 subtable" 548 -102 "'kern' Horizontal Kerning lookup 17 subtable" 546 113 "'kern' Horizontal Kerning lookup 17 subtable" 545 -102 "'kern' Horizontal Kerning lookup 17 subtable" 542 -125 "'kern' Horizontal Kerning lookup 17 subtable" 539 -193 "'kern' Horizontal Kerning lookup 17 subtable" 537 -59 "'kern' Horizontal Kerning lookup 17 subtable" 533 -115 "'kern' Horizontal Kerning lookup 17 subtable" 532 -59 "'kern' Horizontal Kerning lookup 17 subtable" 531 -115 "'kern' Horizontal Kerning lookup 17 subtable" 529 -59 "'kern' Horizontal Kerning lookup 17 subtable" 525 -115 "'kern' Horizontal Kerning lookup 17 subtable" 524 -125 "'kern' Horizontal Kerning lookup 17 subtable" 523 -102 "'kern' Horizontal Kerning lookup 17 subtable" 304 -102 "'kern' Horizontal Kerning lookup 17 subtable" 303 -117 "'kern' Horizontal Kerning lookup 17 subtable" 302 -102 "'kern' Horizontal Kerning lookup 17 subtable" 301 -125 "'kern' Horizontal Kerning lookup 17 subtable" 300 -59 "'kern' Horizontal Kerning lookup 17 subtable" 299 -102 "'kern' Horizontal Kerning lookup 17 subtable"
 EndChar
 
 StartChar: eta
@@ -51548,7 +51549,7 @@ SplineSet
  916 0 l 1,12,-1
  721 0 l 1,0,-1
 EndSplineSet
-Kerns2: 550 -25 "'kern' Horizontal Kerning lookup 17 subtable"  548 -25 "'kern' Horizontal Kerning lookup 17 subtable"  545 -25 "'kern' Horizontal Kerning lookup 17 subtable"  541 -59 "'kern' Horizontal Kerning lookup 17 subtable"  539 -25 "'kern' Horizontal Kerning lookup 17 subtable"  538 -59 "'kern' Horizontal Kerning lookup 17 subtable"  530 -59 "'kern' Horizontal Kerning lookup 17 subtable"  523 -25 "'kern' Horizontal Kerning lookup 17 subtable"  304 -25 "'kern' Horizontal Kerning lookup 17 subtable"  302 -25 "'kern' Horizontal Kerning lookup 17 subtable"  300 -25 "'kern' Horizontal Kerning lookup 17 subtable"  299 -25 "'kern' Horizontal Kerning lookup 17 subtable" 
+Kerns2: 550 -25 "'kern' Horizontal Kerning lookup 17 subtable" 548 -25 "'kern' Horizontal Kerning lookup 17 subtable" 545 -25 "'kern' Horizontal Kerning lookup 17 subtable" 541 -59 "'kern' Horizontal Kerning lookup 17 subtable" 539 -25 "'kern' Horizontal Kerning lookup 17 subtable" 538 -59 "'kern' Horizontal Kerning lookup 17 subtable" 530 -59 "'kern' Horizontal Kerning lookup 17 subtable" 523 -25 "'kern' Horizontal Kerning lookup 17 subtable" 304 -25 "'kern' Horizontal Kerning lookup 17 subtable" 302 -25 "'kern' Horizontal Kerning lookup 17 subtable" 300 -25 "'kern' Horizontal Kerning lookup 17 subtable" 299 -25 "'kern' Horizontal Kerning lookup 17 subtable"
 EndChar
 
 StartChar: lambda
@@ -51660,7 +51661,7 @@ SplineSet
  -93 0 l 1,18,-1
  556 981 l 1,0,-1
 EndSplineSet
-Kerns2: 550 -29 "'kern' Horizontal Kerning lookup 17 subtable"  549 -66 "'kern' Horizontal Kerning lookup 17 subtable"  548 -29 "'kern' Horizontal Kerning lookup 17 subtable"  547 -66 "'kern' Horizontal Kerning lookup 17 subtable"  545 -29 "'kern' Horizontal Kerning lookup 17 subtable"  542 -66 "'kern' Horizontal Kerning lookup 17 subtable"  541 -29 "'kern' Horizontal Kerning lookup 17 subtable"  539 -29 "'kern' Horizontal Kerning lookup 17 subtable"  538 -29 "'kern' Horizontal Kerning lookup 17 subtable"  530 -29 "'kern' Horizontal Kerning lookup 17 subtable"  527 -66 "'kern' Horizontal Kerning lookup 17 subtable"  523 -29 "'kern' Horizontal Kerning lookup 17 subtable"  304 -39 "'kern' Horizontal Kerning lookup 17 subtable"  302 -29 "'kern' Horizontal Kerning lookup 17 subtable"  300 -29 "'kern' Horizontal Kerning lookup 17 subtable"  299 -29 "'kern' Horizontal Kerning lookup 17 subtable" 
+Kerns2: 550 -29 "'kern' Horizontal Kerning lookup 17 subtable" 549 -66 "'kern' Horizontal Kerning lookup 17 subtable" 548 -29 "'kern' Horizontal Kerning lookup 17 subtable" 547 -66 "'kern' Horizontal Kerning lookup 17 subtable" 545 -29 "'kern' Horizontal Kerning lookup 17 subtable" 542 -66 "'kern' Horizontal Kerning lookup 17 subtable" 541 -29 "'kern' Horizontal Kerning lookup 17 subtable" 539 -29 "'kern' Horizontal Kerning lookup 17 subtable" 538 -29 "'kern' Horizontal Kerning lookup 17 subtable" 530 -29 "'kern' Horizontal Kerning lookup 17 subtable" 527 -66 "'kern' Horizontal Kerning lookup 17 subtable" 523 -29 "'kern' Horizontal Kerning lookup 17 subtable" 304 -39 "'kern' Horizontal Kerning lookup 17 subtable" 302 -29 "'kern' Horizontal Kerning lookup 17 subtable" 300 -29 "'kern' Horizontal Kerning lookup 17 subtable" 299 -29 "'kern' Horizontal Kerning lookup 17 subtable"
 EndChar
 
 StartChar: mu
@@ -52007,7 +52008,7 @@ SplineSet
  728 1332 728 1332 620 1266 c 128,-1,49
  512 1200 512 1200 512 1085 c 0,0,1
 EndSplineSet
-Kerns2: 548 -29 "'kern' Horizontal Kerning lookup 17 subtable"  541 -29 "'kern' Horizontal Kerning lookup 17 subtable"  539 -29 "'kern' Horizontal Kerning lookup 17 subtable"  538 -29 "'kern' Horizontal Kerning lookup 17 subtable"  530 -29 "'kern' Horizontal Kerning lookup 17 subtable"  523 -29 "'kern' Horizontal Kerning lookup 17 subtable"  304 -29 "'kern' Horizontal Kerning lookup 17 subtable"  302 -29 "'kern' Horizontal Kerning lookup 17 subtable"  300 -29 "'kern' Horizontal Kerning lookup 17 subtable"  299 -29 "'kern' Horizontal Kerning lookup 17 subtable" 
+Kerns2: 548 -29 "'kern' Horizontal Kerning lookup 17 subtable" 541 -29 "'kern' Horizontal Kerning lookup 17 subtable" 539 -29 "'kern' Horizontal Kerning lookup 17 subtable" 538 -29 "'kern' Horizontal Kerning lookup 17 subtable" 530 -29 "'kern' Horizontal Kerning lookup 17 subtable" 523 -29 "'kern' Horizontal Kerning lookup 17 subtable" 304 -29 "'kern' Horizontal Kerning lookup 17 subtable" 302 -29 "'kern' Horizontal Kerning lookup 17 subtable" 300 -29 "'kern' Horizontal Kerning lookup 17 subtable" 299 -29 "'kern' Horizontal Kerning lookup 17 subtable"
 EndChar
 
 StartChar: omicron
@@ -52018,7 +52019,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 82 111 N 1 0 0 1 0 0 3
-Kerns2: 647 -29 "'kern' Horizontal Kerning lookup 17 subtable"  543 -59 "'kern' Horizontal Kerning lookup 17 subtable"  529 -37 "'kern' Horizontal Kerning lookup 17 subtable"  303 -29 "'kern' Horizontal Kerning lookup 17 subtable" 
+Kerns2: 647 -29 "'kern' Horizontal Kerning lookup 17 subtable" 543 -59 "'kern' Horizontal Kerning lookup 17 subtable" 529 -37 "'kern' Horizontal Kerning lookup 17 subtable" 303 -29 "'kern' Horizontal Kerning lookup 17 subtable"
 EndChar
 
 StartChar: rho
@@ -52122,7 +52123,7 @@ SplineSet
  918 810 918 810 850.5 889.5 c 128,-1,30
  783 969 783 969 664 969 c 0,17,18
 EndSplineSet
-Kerns2: 647 -45 "'kern' Horizontal Kerning lookup 17 subtable"  303 -45 "'kern' Horizontal Kerning lookup 17 subtable" 
+Kerns2: 647 -45 "'kern' Horizontal Kerning lookup 17 subtable" 303 -45 "'kern' Horizontal Kerning lookup 17 subtable"
 EndChar
 
 StartChar: sigma1
@@ -52395,7 +52396,7 @@ SplineSet
  720 -424 l 1,22,-1
  520 239 l 1,0,-1
 EndSplineSet
-Kerns2: 550 -35 "'kern' Horizontal Kerning lookup 17 subtable"  548 -35 "'kern' Horizontal Kerning lookup 17 subtable"  545 -35 "'kern' Horizontal Kerning lookup 17 subtable"  541 -35 "'kern' Horizontal Kerning lookup 17 subtable"  539 -35 "'kern' Horizontal Kerning lookup 17 subtable"  530 -35 "'kern' Horizontal Kerning lookup 17 subtable"  523 -35 "'kern' Horizontal Kerning lookup 17 subtable"  304 -35 "'kern' Horizontal Kerning lookup 17 subtable"  302 -35 "'kern' Horizontal Kerning lookup 17 subtable"  300 -35 "'kern' Horizontal Kerning lookup 17 subtable"  299 -35 "'kern' Horizontal Kerning lookup 17 subtable" 
+Kerns2: 550 -35 "'kern' Horizontal Kerning lookup 17 subtable" 548 -35 "'kern' Horizontal Kerning lookup 17 subtable" 545 -35 "'kern' Horizontal Kerning lookup 17 subtable" 541 -35 "'kern' Horizontal Kerning lookup 17 subtable" 539 -35 "'kern' Horizontal Kerning lookup 17 subtable" 530 -35 "'kern' Horizontal Kerning lookup 17 subtable" 523 -35 "'kern' Horizontal Kerning lookup 17 subtable" 304 -35 "'kern' Horizontal Kerning lookup 17 subtable" 302 -35 "'kern' Horizontal Kerning lookup 17 subtable" 300 -35 "'kern' Horizontal Kerning lookup 17 subtable" 299 -35 "'kern' Horizontal Kerning lookup 17 subtable"
 EndChar
 
 StartChar: psi
@@ -52634,7 +52635,7 @@ SplineSet
  870 449 l 1,45,46
  859 385 859 385 859 342 c 0,0,1
 EndSplineSet
-Kerns2: 647 -45 "'kern' Horizontal Kerning lookup 17 subtable"  543 -59 "'kern' Horizontal Kerning lookup 17 subtable"  529 -37 "'kern' Horizontal Kerning lookup 17 subtable"  303 -45 "'kern' Horizontal Kerning lookup 17 subtable" 
+Kerns2: 647 -45 "'kern' Horizontal Kerning lookup 17 subtable" 543 -59 "'kern' Horizontal Kerning lookup 17 subtable" 529 -37 "'kern' Horizontal Kerning lookup 17 subtable" 303 -45 "'kern' Horizontal Kerning lookup 17 subtable"
 EndChar
 
 StartChar: iotadieresis
@@ -52739,7 +52740,7 @@ LayerCount: 2
 Fore
 Refer: 82 111 N 1 0 0 1 0 0 3
 Refer: 490 900 N 1 0 0 1 384 0 2
-Kerns2: 647 -45 "'kern' Horizontal Kerning lookup 17 subtable"  543 -59 "'kern' Horizontal Kerning lookup 17 subtable"  529 -37 "'kern' Horizontal Kerning lookup 17 subtable"  303 -45 "'kern' Horizontal Kerning lookup 17 subtable" 
+Kerns2: 647 -45 "'kern' Horizontal Kerning lookup 17 subtable" 543 -59 "'kern' Horizontal Kerning lookup 17 subtable" 529 -37 "'kern' Horizontal Kerning lookup 17 subtable" 303 -45 "'kern' Horizontal Kerning lookup 17 subtable"
 EndChar
 
 StartChar: upsilontonos
@@ -52804,7 +52805,7 @@ LayerCount: 2
 Fore
 Refer: 545 969 N 1 0 0 1 0 0 3
 Refer: 490 900 N 1 0 0 1 626 0 2
-Kerns2: 647 -45 "'kern' Horizontal Kerning lookup 17 subtable"  543 -59 "'kern' Horizontal Kerning lookup 17 subtable"  529 -37 "'kern' Horizontal Kerning lookup 17 subtable"  303 -45 "'kern' Horizontal Kerning lookup 17 subtable" 
+Kerns2: 647 -45 "'kern' Horizontal Kerning lookup 17 subtable" 543 -59 "'kern' Horizontal Kerning lookup 17 subtable" 529 -37 "'kern' Horizontal Kerning lookup 17 subtable" 303 -45 "'kern' Horizontal Kerning lookup 17 subtable"
 EndChar
 
 StartChar: uni0401
@@ -53015,7 +53016,7 @@ LayerCount: 2
 Fore
 Refer: 296 915 N 1 0 0 1 0 0 2
 Refer: 658 -1 N 1 0 0 1 374 0 2
-Kerns2: 169 -115 "'kern' Horizontal Kerning lookup 17 subtable"  168 -115 "'kern' Horizontal Kerning lookup 17 subtable"  17 -205 "'kern' Horizontal Kerning lookup 17 subtable"  15 -205 "'kern' Horizontal Kerning lookup 17 subtable" 
+Kerns2: 169 -115 "'kern' Horizontal Kerning lookup 17 subtable" 168 -115 "'kern' Horizontal Kerning lookup 17 subtable" 17 -205 "'kern' Horizontal Kerning lookup 17 subtable" 15 -205 "'kern' Horizontal Kerning lookup 17 subtable"
 EndChar
 
 StartChar: uni0404
@@ -53366,7 +53367,7 @@ SplineSet
  1231 661 l 1,34,-1
  1131 151 l 1,27,-1
 EndSplineSet
-Kerns2: 181 -227 "'kern' Horizontal Kerning lookup 17 subtable" 
+Kerns2: 181 -227 "'kern' Horizontal Kerning lookup 17 subtable"
 EndChar
 
 StartChar: uni040A
@@ -53508,7 +53509,7 @@ SplineSet
  1098 661 l 1,26,-1
  998 151 l 1,19,-1
 EndSplineSet
-Kerns2: 181 -182 "'kern' Horizontal Kerning lookup 17 subtable" 
+Kerns2: 181 -182 "'kern' Horizontal Kerning lookup 17 subtable"
 EndChar
 
 StartChar: uni040B
@@ -53796,7 +53797,7 @@ AnchorPoint: "Anchor13" 834 1540 basechar 0
 LayerCount: 2
 Fore
 Refer: 36 65 N 1 0 0 1 0 0 3
-Kerns2: 617 -23 "'kern' Horizontal Kerning lookup 17 subtable"  616 -23 "'kern' Horizontal Kerning lookup 17 subtable"  614 -23 "'kern' Horizontal Kerning lookup 17 subtable"  611 -23 "'kern' Horizontal Kerning lookup 17 subtable"  602 -23 "'kern' Horizontal Kerning lookup 17 subtable"  598 -23 "'kern' Horizontal Kerning lookup 17 subtable"  594 -92 "'kern' Horizontal Kerning lookup 17 subtable"  588 -182 "'kern' Horizontal Kerning lookup 17 subtable"  585 -92 "'kern' Horizontal Kerning lookup 17 subtable"  584 -182 "'kern' Horizontal Kerning lookup 17 subtable"  583 -205 "'kern' Horizontal Kerning lookup 17 subtable"  582 -115 "'kern' Horizontal Kerning lookup 17 subtable"  580 -47 "'kern' Horizontal Kerning lookup 17 subtable"  579 -115 "'kern' Horizontal Kerning lookup 17 subtable"  572 -90 "'kern' Horizontal Kerning lookup 17 subtable"  569 23 "'kern' Horizontal Kerning lookup 17 subtable"  181 -160 "'kern' Horizontal Kerning lookup 17 subtable" 
+Kerns2: 617 -23 "'kern' Horizontal Kerning lookup 17 subtable" 616 -23 "'kern' Horizontal Kerning lookup 17 subtable" 614 -23 "'kern' Horizontal Kerning lookup 17 subtable" 611 -23 "'kern' Horizontal Kerning lookup 17 subtable" 602 -23 "'kern' Horizontal Kerning lookup 17 subtable" 598 -23 "'kern' Horizontal Kerning lookup 17 subtable" 594 -92 "'kern' Horizontal Kerning lookup 17 subtable" 588 -182 "'kern' Horizontal Kerning lookup 17 subtable" 585 -92 "'kern' Horizontal Kerning lookup 17 subtable" 584 -182 "'kern' Horizontal Kerning lookup 17 subtable" 583 -205 "'kern' Horizontal Kerning lookup 17 subtable" 582 -115 "'kern' Horizontal Kerning lookup 17 subtable" 580 -47 "'kern' Horizontal Kerning lookup 17 subtable" 579 -115 "'kern' Horizontal Kerning lookup 17 subtable" 572 -90 "'kern' Horizontal Kerning lookup 17 subtable" 569 23 "'kern' Horizontal Kerning lookup 17 subtable" 181 -160 "'kern' Horizontal Kerning lookup 17 subtable"
 EndChar
 
 StartChar: uni0411
@@ -53900,7 +53901,7 @@ SplineSet
  382 661 l 1,20,-1
  282 151 l 1,13,-1
 EndSplineSet
-Kerns2: 628 23 "'kern' Horizontal Kerning lookup 17 subtable"  616 -45 "'kern' Horizontal Kerning lookup 17 subtable"  601 23 "'kern' Horizontal Kerning lookup 17 subtable"  596 -68 "'kern' Horizontal Kerning lookup 17 subtable"  594 -23 "'kern' Horizontal Kerning lookup 17 subtable"  591 -137 "'kern' Horizontal Kerning lookup 17 subtable"  588 -115 "'kern' Horizontal Kerning lookup 17 subtable"  586 -68 "'kern' Horizontal Kerning lookup 17 subtable"  585 -47 "'kern' Horizontal Kerning lookup 17 subtable"  584 -115 "'kern' Horizontal Kerning lookup 17 subtable"  583 -137 "'kern' Horizontal Kerning lookup 17 subtable"  582 -45 "'kern' Horizontal Kerning lookup 17 subtable"  579 -45 "'kern' Horizontal Kerning lookup 17 subtable"  576 -68 "'kern' Horizontal Kerning lookup 17 subtable"  572 -45 "'kern' Horizontal Kerning lookup 17 subtable"  571 -45 "'kern' Horizontal Kerning lookup 17 subtable"  569 -45 "'kern' Horizontal Kerning lookup 17 subtable"  565 -68 "'kern' Horizontal Kerning lookup 17 subtable" 
+Kerns2: 628 23 "'kern' Horizontal Kerning lookup 17 subtable" 616 -45 "'kern' Horizontal Kerning lookup 17 subtable" 601 23 "'kern' Horizontal Kerning lookup 17 subtable" 596 -68 "'kern' Horizontal Kerning lookup 17 subtable" 594 -23 "'kern' Horizontal Kerning lookup 17 subtable" 591 -137 "'kern' Horizontal Kerning lookup 17 subtable" 588 -115 "'kern' Horizontal Kerning lookup 17 subtable" 586 -68 "'kern' Horizontal Kerning lookup 17 subtable" 585 -47 "'kern' Horizontal Kerning lookup 17 subtable" 584 -115 "'kern' Horizontal Kerning lookup 17 subtable" 583 -137 "'kern' Horizontal Kerning lookup 17 subtable" 582 -45 "'kern' Horizontal Kerning lookup 17 subtable" 579 -45 "'kern' Horizontal Kerning lookup 17 subtable" 576 -68 "'kern' Horizontal Kerning lookup 17 subtable" 572 -45 "'kern' Horizontal Kerning lookup 17 subtable" 571 -45 "'kern' Horizontal Kerning lookup 17 subtable" 569 -45 "'kern' Horizontal Kerning lookup 17 subtable" 565 -68 "'kern' Horizontal Kerning lookup 17 subtable"
 EndChar
 
 StartChar: uni0412
@@ -53911,7 +53912,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 37 66 N 1 0 0 1 0 0 3
-Kerns2: 620 -68 "'kern' Horizontal Kerning lookup 17 subtable"  618 -68 "'kern' Horizontal Kerning lookup 17 subtable"  616 -23 "'kern' Horizontal Kerning lookup 17 subtable"  596 -45 "'kern' Horizontal Kerning lookup 17 subtable"  591 -205 "'kern' Horizontal Kerning lookup 17 subtable"  588 -70 "'kern' Horizontal Kerning lookup 17 subtable"  586 -68 "'kern' Horizontal Kerning lookup 17 subtable"  585 -45 "'kern' Horizontal Kerning lookup 17 subtable"  584 -115 "'kern' Horizontal Kerning lookup 17 subtable"  583 -137 "'kern' Horizontal Kerning lookup 17 subtable"  582 -45 "'kern' Horizontal Kerning lookup 17 subtable"  579 -45 "'kern' Horizontal Kerning lookup 17 subtable"  576 -45 "'kern' Horizontal Kerning lookup 17 subtable"  572 -45 "'kern' Horizontal Kerning lookup 17 subtable"  571 -68 "'kern' Horizontal Kerning lookup 17 subtable"  569 -45 "'kern' Horizontal Kerning lookup 17 subtable"  565 -68 "'kern' Horizontal Kerning lookup 17 subtable" 
+Kerns2: 620 -68 "'kern' Horizontal Kerning lookup 17 subtable" 618 -68 "'kern' Horizontal Kerning lookup 17 subtable" 616 -23 "'kern' Horizontal Kerning lookup 17 subtable" 596 -45 "'kern' Horizontal Kerning lookup 17 subtable" 591 -205 "'kern' Horizontal Kerning lookup 17 subtable" 588 -70 "'kern' Horizontal Kerning lookup 17 subtable" 586 -68 "'kern' Horizontal Kerning lookup 17 subtable" 585 -45 "'kern' Horizontal Kerning lookup 17 subtable" 584 -115 "'kern' Horizontal Kerning lookup 17 subtable" 583 -137 "'kern' Horizontal Kerning lookup 17 subtable" 582 -45 "'kern' Horizontal Kerning lookup 17 subtable" 579 -45 "'kern' Horizontal Kerning lookup 17 subtable" 576 -45 "'kern' Horizontal Kerning lookup 17 subtable" 572 -45 "'kern' Horizontal Kerning lookup 17 subtable" 571 -68 "'kern' Horizontal Kerning lookup 17 subtable" 569 -45 "'kern' Horizontal Kerning lookup 17 subtable" 565 -68 "'kern' Horizontal Kerning lookup 17 subtable"
 EndChar
 
 StartChar: uni0413
@@ -53922,7 +53923,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 296 915 N 1 0 0 1 0 0 2
-Kerns2: 628 -92 "'kern' Horizontal Kerning lookup 17 subtable"  627 -92 "'kern' Horizontal Kerning lookup 17 subtable"  625 -92 "'kern' Horizontal Kerning lookup 17 subtable"  624 -90 "'kern' Horizontal Kerning lookup 17 subtable"  616 -90 "'kern' Horizontal Kerning lookup 17 subtable"  613 -90 "'kern' Horizontal Kerning lookup 17 subtable"  611 -115 "'kern' Horizontal Kerning lookup 17 subtable"  610 -90 "'kern' Horizontal Kerning lookup 17 subtable"  609 -90 "'kern' Horizontal Kerning lookup 17 subtable"  608 -90 "'kern' Horizontal Kerning lookup 17 subtable"  605 -90 "'kern' Horizontal Kerning lookup 17 subtable"  602 -90 "'kern' Horizontal Kerning lookup 17 subtable"  601 -92 "'kern' Horizontal Kerning lookup 17 subtable"  599 -92 "'kern' Horizontal Kerning lookup 17 subtable"  597 -68 "'kern' Horizontal Kerning lookup 17 subtable"  596 -45 "'kern' Horizontal Kerning lookup 17 subtable"  582 -68 "'kern' Horizontal Kerning lookup 17 subtable"  579 -68 "'kern' Horizontal Kerning lookup 17 subtable"  576 -68 "'kern' Horizontal Kerning lookup 17 subtable"  572 -23 "'kern' Horizontal Kerning lookup 17 subtable"  569 -90 "'kern' Horizontal Kerning lookup 17 subtable"  565 -160 "'kern' Horizontal Kerning lookup 17 subtable"  169 -115 "'kern' Horizontal Kerning lookup 17 subtable"  168 -115 "'kern' Horizontal Kerning lookup 17 subtable"  30 -23 "'kern' Horizontal Kerning lookup 17 subtable"  29 -45 "'kern' Horizontal Kerning lookup 17 subtable"  17 -205 "'kern' Horizontal Kerning lookup 17 subtable"  15 -205 "'kern' Horizontal Kerning lookup 17 subtable" 
+Kerns2: 628 -92 "'kern' Horizontal Kerning lookup 17 subtable" 627 -92 "'kern' Horizontal Kerning lookup 17 subtable" 625 -92 "'kern' Horizontal Kerning lookup 17 subtable" 624 -90 "'kern' Horizontal Kerning lookup 17 subtable" 616 -90 "'kern' Horizontal Kerning lookup 17 subtable" 613 -90 "'kern' Horizontal Kerning lookup 17 subtable" 611 -115 "'kern' Horizontal Kerning lookup 17 subtable" 610 -90 "'kern' Horizontal Kerning lookup 17 subtable" 609 -90 "'kern' Horizontal Kerning lookup 17 subtable" 608 -90 "'kern' Horizontal Kerning lookup 17 subtable" 605 -90 "'kern' Horizontal Kerning lookup 17 subtable" 602 -90 "'kern' Horizontal Kerning lookup 17 subtable" 601 -92 "'kern' Horizontal Kerning lookup 17 subtable" 599 -92 "'kern' Horizontal Kerning lookup 17 subtable" 597 -68 "'kern' Horizontal Kerning lookup 17 subtable" 596 -45 "'kern' Horizontal Kerning lookup 17 subtable" 582 -68 "'kern' Horizontal Kerning lookup 17 subtable" 579 -68 "'kern' Horizontal Kerning lookup 17 subtable" 576 -68 "'kern' Horizontal Kerning lookup 17 subtable" 572 -23 "'kern' Horizontal Kerning lookup 17 subtable" 569 -90 "'kern' Horizontal Kerning lookup 17 subtable" 565 -160 "'kern' Horizontal Kerning lookup 17 subtable" 169 -115 "'kern' Horizontal Kerning lookup 17 subtable" 168 -115 "'kern' Horizontal Kerning lookup 17 subtable" 30 -23 "'kern' Horizontal Kerning lookup 17 subtable" 29 -45 "'kern' Horizontal Kerning lookup 17 subtable" 17 -205 "'kern' Horizontal Kerning lookup 17 subtable" 15 -205 "'kern' Horizontal Kerning lookup 17 subtable"
 EndChar
 
 StartChar: uni0414
@@ -54049,7 +54050,7 @@ SplineSet
  359 256 359 256 280 160 c 1,21,-1
  956 160 l 1,15,-1
 EndSplineSet
-Kerns2: 616 23 "'kern' Horizontal Kerning lookup 17 subtable"  604 45 "'kern' Horizontal Kerning lookup 17 subtable"  594 23 "'kern' Horizontal Kerning lookup 17 subtable"  588 -23 "'kern' Horizontal Kerning lookup 17 subtable" 
+Kerns2: 616 23 "'kern' Horizontal Kerning lookup 17 subtable" 604 45 "'kern' Horizontal Kerning lookup 17 subtable" 594 23 "'kern' Horizontal Kerning lookup 17 subtable" 588 -23 "'kern' Horizontal Kerning lookup 17 subtable"
 EndChar
 
 StartChar: uni0415
@@ -54061,7 +54062,7 @@ AnchorPoint: "Anchor13" 832 1540 basechar 0
 LayerCount: 2
 Fore
 Refer: 40 69 N 1 0 0 1 0 0 3
-Kerns2: 572 -23 "'kern' Horizontal Kerning lookup 17 subtable" 
+Kerns2: 572 -23 "'kern' Horizontal Kerning lookup 17 subtable"
 EndChar
 
 StartChar: uni0416
@@ -54243,7 +54244,7 @@ SplineSet
  739 0 l 1,35,-1
  866 659 l 1,0,1
 EndSplineSet
-Kerns2: 616 -23 "'kern' Horizontal Kerning lookup 17 subtable"  591 23 "'kern' Horizontal Kerning lookup 17 subtable"  588 -45 "'kern' Horizontal Kerning lookup 17 subtable"  582 -45 "'kern' Horizontal Kerning lookup 17 subtable"  579 -45 "'kern' Horizontal Kerning lookup 17 subtable"  572 -23 "'kern' Horizontal Kerning lookup 17 subtable" 
+Kerns2: 616 -23 "'kern' Horizontal Kerning lookup 17 subtable" 591 23 "'kern' Horizontal Kerning lookup 17 subtable" 588 -45 "'kern' Horizontal Kerning lookup 17 subtable" 582 -45 "'kern' Horizontal Kerning lookup 17 subtable" 579 -45 "'kern' Horizontal Kerning lookup 17 subtable" 572 -23 "'kern' Horizontal Kerning lookup 17 subtable"
 EndChar
 
 StartChar: uni0417
@@ -54411,7 +54412,7 @@ SplineSet
  1131 221 1131 221 977 100.5 c 128,-1,41
  823 -20 823 -20 553 -20 c 0,0,1
 EndSplineSet
-Kerns2: 608 -23 "'kern' Horizontal Kerning lookup 17 subtable"  596 -45 "'kern' Horizontal Kerning lookup 17 subtable"  588 -70 "'kern' Horizontal Kerning lookup 17 subtable"  585 -45 "'kern' Horizontal Kerning lookup 17 subtable"  584 -92 "'kern' Horizontal Kerning lookup 17 subtable"  583 -92 "'kern' Horizontal Kerning lookup 17 subtable"  582 -45 "'kern' Horizontal Kerning lookup 17 subtable"  579 -45 "'kern' Horizontal Kerning lookup 17 subtable"  576 -68 "'kern' Horizontal Kerning lookup 17 subtable"  571 -68 "'kern' Horizontal Kerning lookup 17 subtable"  569 -68 "'kern' Horizontal Kerning lookup 17 subtable" 
+Kerns2: 608 -23 "'kern' Horizontal Kerning lookup 17 subtable" 596 -45 "'kern' Horizontal Kerning lookup 17 subtable" 588 -70 "'kern' Horizontal Kerning lookup 17 subtable" 585 -45 "'kern' Horizontal Kerning lookup 17 subtable" 584 -92 "'kern' Horizontal Kerning lookup 17 subtable" 583 -92 "'kern' Horizontal Kerning lookup 17 subtable" 582 -45 "'kern' Horizontal Kerning lookup 17 subtable" 579 -45 "'kern' Horizontal Kerning lookup 17 subtable" 576 -68 "'kern' Horizontal Kerning lookup 17 subtable" 571 -68 "'kern' Horizontal Kerning lookup 17 subtable" 569 -68 "'kern' Horizontal Kerning lookup 17 subtable"
 EndChar
 
 StartChar: uni0418
@@ -54667,7 +54668,7 @@ SplineSet
  63 0 l 1,19,-1
  336 1409 l 1,0,-1
 EndSplineSet
-Kerns2: 626 -23 "'kern' Horizontal Kerning lookup 17 subtable"  616 -23 "'kern' Horizontal Kerning lookup 17 subtable"  594 -23 "'kern' Horizontal Kerning lookup 17 subtable"  585 -47 "'kern' Horizontal Kerning lookup 17 subtable"  582 -23 "'kern' Horizontal Kerning lookup 17 subtable"  579 -23 "'kern' Horizontal Kerning lookup 17 subtable" 
+Kerns2: 626 -23 "'kern' Horizontal Kerning lookup 17 subtable" 616 -23 "'kern' Horizontal Kerning lookup 17 subtable" 594 -23 "'kern' Horizontal Kerning lookup 17 subtable" 585 -47 "'kern' Horizontal Kerning lookup 17 subtable" 582 -23 "'kern' Horizontal Kerning lookup 17 subtable" 579 -23 "'kern' Horizontal Kerning lookup 17 subtable"
 EndChar
 
 StartChar: uni041B
@@ -54755,7 +54756,7 @@ SplineSet
  948 0 l 1,19,-1
  1190 1249 l 1,0,-1
 EndSplineSet
-Kerns2: 598 23 "'kern' Horizontal Kerning lookup 17 subtable"  585 23 "'kern' Horizontal Kerning lookup 17 subtable" 
+Kerns2: 598 23 "'kern' Horizontal Kerning lookup 17 subtable" 585 23 "'kern' Horizontal Kerning lookup 17 subtable"
 EndChar
 
 StartChar: uni041C
@@ -54766,7 +54767,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 48 77 N 1 0 0 1 0 0 3
-Kerns2: 626 23 "'kern' Horizontal Kerning lookup 17 subtable"  620 -45 "'kern' Horizontal Kerning lookup 17 subtable"  616 23 "'kern' Horizontal Kerning lookup 17 subtable"  597 23 "'kern' Horizontal Kerning lookup 17 subtable"  588 -45 "'kern' Horizontal Kerning lookup 17 subtable" 
+Kerns2: 626 23 "'kern' Horizontal Kerning lookup 17 subtable" 620 -45 "'kern' Horizontal Kerning lookup 17 subtable" 616 23 "'kern' Horizontal Kerning lookup 17 subtable" 597 23 "'kern' Horizontal Kerning lookup 17 subtable" 588 -45 "'kern' Horizontal Kerning lookup 17 subtable"
 EndChar
 
 StartChar: uni041D
@@ -54788,7 +54789,7 @@ AnchorPoint: "Anchor13" 921 1540 basechar 0
 LayerCount: 2
 Fore
 Refer: 50 79 N 1 0 0 1 0 0 3
-Kerns2: 618 -45 "'kern' Horizontal Kerning lookup 17 subtable"  608 -23 "'kern' Horizontal Kerning lookup 17 subtable"  596 -45 "'kern' Horizontal Kerning lookup 17 subtable"  588 -68 "'kern' Horizontal Kerning lookup 17 subtable"  586 -68 "'kern' Horizontal Kerning lookup 17 subtable"  584 -137 "'kern' Horizontal Kerning lookup 17 subtable"  576 -68 "'kern' Horizontal Kerning lookup 17 subtable"  571 -68 "'kern' Horizontal Kerning lookup 17 subtable"  569 -70 "'kern' Horizontal Kerning lookup 17 subtable"  565 -45 "'kern' Horizontal Kerning lookup 17 subtable" 
+Kerns2: 618 -45 "'kern' Horizontal Kerning lookup 17 subtable" 608 -23 "'kern' Horizontal Kerning lookup 17 subtable" 596 -45 "'kern' Horizontal Kerning lookup 17 subtable" 588 -68 "'kern' Horizontal Kerning lookup 17 subtable" 586 -68 "'kern' Horizontal Kerning lookup 17 subtable" 584 -137 "'kern' Horizontal Kerning lookup 17 subtable" 576 -68 "'kern' Horizontal Kerning lookup 17 subtable" 571 -68 "'kern' Horizontal Kerning lookup 17 subtable" 569 -70 "'kern' Horizontal Kerning lookup 17 subtable" 565 -45 "'kern' Horizontal Kerning lookup 17 subtable"
 EndChar
 
 StartChar: uni041F
@@ -54809,7 +54810,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 51 80 N 1 0 0 1 0 0 3
-Kerns2: 628 -23 "'kern' Horizontal Kerning lookup 17 subtable"  611 -23 "'kern' Horizontal Kerning lookup 17 subtable"  602 -23 "'kern' Horizontal Kerning lookup 17 subtable"  601 -23 "'kern' Horizontal Kerning lookup 17 subtable"  596 -23 "'kern' Horizontal Kerning lookup 17 subtable"  586 -92 "'kern' Horizontal Kerning lookup 17 subtable"  585 -23 "'kern' Horizontal Kerning lookup 17 subtable"  584 -92 "'kern' Horizontal Kerning lookup 17 subtable"  583 -115 "'kern' Horizontal Kerning lookup 17 subtable"  577 -23 "'kern' Horizontal Kerning lookup 17 subtable"  576 -137 "'kern' Horizontal Kerning lookup 17 subtable"  572 -45 "'kern' Horizontal Kerning lookup 17 subtable"  571 -90 "'kern' Horizontal Kerning lookup 17 subtable"  569 -160 "'kern' Horizontal Kerning lookup 17 subtable"  565 -160 "'kern' Horizontal Kerning lookup 17 subtable"  169 -68 "'kern' Horizontal Kerning lookup 17 subtable"  30 -23 "'kern' Horizontal Kerning lookup 17 subtable"  29 -23 "'kern' Horizontal Kerning lookup 17 subtable"  17 -319 "'kern' Horizontal Kerning lookup 17 subtable"  15 -319 "'kern' Horizontal Kerning lookup 17 subtable" 
+Kerns2: 628 -23 "'kern' Horizontal Kerning lookup 17 subtable" 611 -23 "'kern' Horizontal Kerning lookup 17 subtable" 602 -23 "'kern' Horizontal Kerning lookup 17 subtable" 601 -23 "'kern' Horizontal Kerning lookup 17 subtable" 596 -23 "'kern' Horizontal Kerning lookup 17 subtable" 586 -92 "'kern' Horizontal Kerning lookup 17 subtable" 585 -23 "'kern' Horizontal Kerning lookup 17 subtable" 584 -92 "'kern' Horizontal Kerning lookup 17 subtable" 583 -115 "'kern' Horizontal Kerning lookup 17 subtable" 577 -23 "'kern' Horizontal Kerning lookup 17 subtable" 576 -137 "'kern' Horizontal Kerning lookup 17 subtable" 572 -45 "'kern' Horizontal Kerning lookup 17 subtable" 571 -90 "'kern' Horizontal Kerning lookup 17 subtable" 569 -160 "'kern' Horizontal Kerning lookup 17 subtable" 565 -160 "'kern' Horizontal Kerning lookup 17 subtable" 169 -68 "'kern' Horizontal Kerning lookup 17 subtable" 30 -23 "'kern' Horizontal Kerning lookup 17 subtable" 29 -23 "'kern' Horizontal Kerning lookup 17 subtable" 17 -319 "'kern' Horizontal Kerning lookup 17 subtable" 15 -319 "'kern' Horizontal Kerning lookup 17 subtable"
 EndChar
 
 StartChar: uni0421
@@ -54820,7 +54821,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 38 67 N 1 0 0 1 0 0 3
-Kerns2: 620 -45 "'kern' Horizontal Kerning lookup 17 subtable"  616 -23 "'kern' Horizontal Kerning lookup 17 subtable"  597 23 "'kern' Horizontal Kerning lookup 17 subtable"  591 -137 "'kern' Horizontal Kerning lookup 17 subtable"  588 -90 "'kern' Horizontal Kerning lookup 17 subtable"  586 -45 "'kern' Horizontal Kerning lookup 17 subtable"  584 -115 "'kern' Horizontal Kerning lookup 17 subtable"  583 -68 "'kern' Horizontal Kerning lookup 17 subtable"  579 -23 "'kern' Horizontal Kerning lookup 17 subtable"  577 -23 "'kern' Horizontal Kerning lookup 17 subtable"  576 -68 "'kern' Horizontal Kerning lookup 17 subtable"  572 -23 "'kern' Horizontal Kerning lookup 17 subtable"  569 -68 "'kern' Horizontal Kerning lookup 17 subtable"  565 -68 "'kern' Horizontal Kerning lookup 17 subtable" 
+Kerns2: 620 -45 "'kern' Horizontal Kerning lookup 17 subtable" 616 -23 "'kern' Horizontal Kerning lookup 17 subtable" 597 23 "'kern' Horizontal Kerning lookup 17 subtable" 591 -137 "'kern' Horizontal Kerning lookup 17 subtable" 588 -90 "'kern' Horizontal Kerning lookup 17 subtable" 586 -45 "'kern' Horizontal Kerning lookup 17 subtable" 584 -115 "'kern' Horizontal Kerning lookup 17 subtable" 583 -68 "'kern' Horizontal Kerning lookup 17 subtable" 579 -23 "'kern' Horizontal Kerning lookup 17 subtable" 577 -23 "'kern' Horizontal Kerning lookup 17 subtable" 576 -68 "'kern' Horizontal Kerning lookup 17 subtable" 572 -23 "'kern' Horizontal Kerning lookup 17 subtable" 569 -68 "'kern' Horizontal Kerning lookup 17 subtable" 565 -68 "'kern' Horizontal Kerning lookup 17 subtable"
 EndChar
 
 StartChar: uni0422
@@ -54831,7 +54832,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 55 84 N 1 0 0 1 0 0 3
-Kerns2: 628 -68 "'kern' Horizontal Kerning lookup 17 subtable"  627 -68 "'kern' Horizontal Kerning lookup 17 subtable"  625 -68 "'kern' Horizontal Kerning lookup 17 subtable"  624 -68 "'kern' Horizontal Kerning lookup 17 subtable"  622 -68 "'kern' Horizontal Kerning lookup 17 subtable"  618 -68 "'kern' Horizontal Kerning lookup 17 subtable"  616 -68 "'kern' Horizontal Kerning lookup 17 subtable"  614 -68 "'kern' Horizontal Kerning lookup 17 subtable"  613 -68 "'kern' Horizontal Kerning lookup 17 subtable"  612 -68 "'kern' Horizontal Kerning lookup 17 subtable"  611 -68 "'kern' Horizontal Kerning lookup 17 subtable"  609 -68 "'kern' Horizontal Kerning lookup 17 subtable"  608 -68 "'kern' Horizontal Kerning lookup 17 subtable"  607 -68 "'kern' Horizontal Kerning lookup 17 subtable"  605 -68 "'kern' Horizontal Kerning lookup 17 subtable"  602 -68 "'kern' Horizontal Kerning lookup 17 subtable"  599 -68 "'kern' Horizontal Kerning lookup 17 subtable"  597 -45 "'kern' Horizontal Kerning lookup 17 subtable"  596 23 "'kern' Horizontal Kerning lookup 17 subtable"  594 -23 "'kern' Horizontal Kerning lookup 17 subtable"  585 -68 "'kern' Horizontal Kerning lookup 17 subtable"  579 -45 "'kern' Horizontal Kerning lookup 17 subtable"  577 23 "'kern' Horizontal Kerning lookup 17 subtable"  576 -68 "'kern' Horizontal Kerning lookup 17 subtable"  572 -23 "'kern' Horizontal Kerning lookup 17 subtable"  571 23 "'kern' Horizontal Kerning lookup 17 subtable"  569 -45 "'kern' Horizontal Kerning lookup 17 subtable"  565 -68 "'kern' Horizontal Kerning lookup 17 subtable"  30 -23 "'kern' Horizontal Kerning lookup 17 subtable"  29 -23 "'kern' Horizontal Kerning lookup 17 subtable"  17 -182 "'kern' Horizontal Kerning lookup 17 subtable"  15 -182 "'kern' Horizontal Kerning lookup 17 subtable" 
+Kerns2: 628 -68 "'kern' Horizontal Kerning lookup 17 subtable" 627 -68 "'kern' Horizontal Kerning lookup 17 subtable" 625 -68 "'kern' Horizontal Kerning lookup 17 subtable" 624 -68 "'kern' Horizontal Kerning lookup 17 subtable" 622 -68 "'kern' Horizontal Kerning lookup 17 subtable" 618 -68 "'kern' Horizontal Kerning lookup 17 subtable" 616 -68 "'kern' Horizontal Kerning lookup 17 subtable" 614 -68 "'kern' Horizontal Kerning lookup 17 subtable" 613 -68 "'kern' Horizontal Kerning lookup 17 subtable" 612 -68 "'kern' Horizontal Kerning lookup 17 subtable" 611 -68 "'kern' Horizontal Kerning lookup 17 subtable" 609 -68 "'kern' Horizontal Kerning lookup 17 subtable" 608 -68 "'kern' Horizontal Kerning lookup 17 subtable" 607 -68 "'kern' Horizontal Kerning lookup 17 subtable" 605 -68 "'kern' Horizontal Kerning lookup 17 subtable" 602 -68 "'kern' Horizontal Kerning lookup 17 subtable" 599 -68 "'kern' Horizontal Kerning lookup 17 subtable" 597 -45 "'kern' Horizontal Kerning lookup 17 subtable" 596 23 "'kern' Horizontal Kerning lookup 17 subtable" 594 -23 "'kern' Horizontal Kerning lookup 17 subtable" 585 -68 "'kern' Horizontal Kerning lookup 17 subtable" 579 -45 "'kern' Horizontal Kerning lookup 17 subtable" 577 23 "'kern' Horizontal Kerning lookup 17 subtable" 576 -68 "'kern' Horizontal Kerning lookup 17 subtable" 572 -23 "'kern' Horizontal Kerning lookup 17 subtable" 571 23 "'kern' Horizontal Kerning lookup 17 subtable" 569 -45 "'kern' Horizontal Kerning lookup 17 subtable" 565 -68 "'kern' Horizontal Kerning lookup 17 subtable" 30 -23 "'kern' Horizontal Kerning lookup 17 subtable" 29 -23 "'kern' Horizontal Kerning lookup 17 subtable" 17 -182 "'kern' Horizontal Kerning lookup 17 subtable" 15 -182 "'kern' Horizontal Kerning lookup 17 subtable"
 EndChar
 
 StartChar: uni0423
@@ -54933,7 +54934,7 @@ SplineSet
  460 42 460 42 387.5 11 c 128,-1,19
  315 -20 315 -20 223 -20 c 0,0,1
 EndSplineSet
-Kerns2: 628 -23 "'kern' Horizontal Kerning lookup 17 subtable"  627 -23 "'kern' Horizontal Kerning lookup 17 subtable"  622 -23 "'kern' Horizontal Kerning lookup 17 subtable"  621 -23 "'kern' Horizontal Kerning lookup 17 subtable"  619 -23 "'kern' Horizontal Kerning lookup 17 subtable"  618 -23 "'kern' Horizontal Kerning lookup 17 subtable"  614 -45 "'kern' Horizontal Kerning lookup 17 subtable"  613 -23 "'kern' Horizontal Kerning lookup 17 subtable"  612 -23 "'kern' Horizontal Kerning lookup 17 subtable"  611 -45 "'kern' Horizontal Kerning lookup 17 subtable"  610 -23 "'kern' Horizontal Kerning lookup 17 subtable"  609 -23 "'kern' Horizontal Kerning lookup 17 subtable"  608 -70 "'kern' Horizontal Kerning lookup 17 subtable"  607 -23 "'kern' Horizontal Kerning lookup 17 subtable"  605 -23 "'kern' Horizontal Kerning lookup 17 subtable"  604 -23 "'kern' Horizontal Kerning lookup 17 subtable"  603 -23 "'kern' Horizontal Kerning lookup 17 subtable"  602 -45 "'kern' Horizontal Kerning lookup 17 subtable"  601 -23 "'kern' Horizontal Kerning lookup 17 subtable"  600 -45 "'kern' Horizontal Kerning lookup 17 subtable"  599 -45 "'kern' Horizontal Kerning lookup 17 subtable"  596 23 "'kern' Horizontal Kerning lookup 17 subtable"  594 23 "'kern' Horizontal Kerning lookup 17 subtable"  585 -23 "'kern' Horizontal Kerning lookup 17 subtable"  576 -45 "'kern' Horizontal Kerning lookup 17 subtable"  572 23 "'kern' Horizontal Kerning lookup 17 subtable"  569 -68 "'kern' Horizontal Kerning lookup 17 subtable"  565 -68 "'kern' Horizontal Kerning lookup 17 subtable"  30 -45 "'kern' Horizontal Kerning lookup 17 subtable"  29 -45 "'kern' Horizontal Kerning lookup 17 subtable"  17 -160 "'kern' Horizontal Kerning lookup 17 subtable"  15 -160 "'kern' Horizontal Kerning lookup 17 subtable" 
+Kerns2: 628 -23 "'kern' Horizontal Kerning lookup 17 subtable" 627 -23 "'kern' Horizontal Kerning lookup 17 subtable" 622 -23 "'kern' Horizontal Kerning lookup 17 subtable" 621 -23 "'kern' Horizontal Kerning lookup 17 subtable" 619 -23 "'kern' Horizontal Kerning lookup 17 subtable" 618 -23 "'kern' Horizontal Kerning lookup 17 subtable" 614 -45 "'kern' Horizontal Kerning lookup 17 subtable" 613 -23 "'kern' Horizontal Kerning lookup 17 subtable" 612 -23 "'kern' Horizontal Kerning lookup 17 subtable" 611 -45 "'kern' Horizontal Kerning lookup 17 subtable" 610 -23 "'kern' Horizontal Kerning lookup 17 subtable" 609 -23 "'kern' Horizontal Kerning lookup 17 subtable" 608 -70 "'kern' Horizontal Kerning lookup 17 subtable" 607 -23 "'kern' Horizontal Kerning lookup 17 subtable" 605 -23 "'kern' Horizontal Kerning lookup 17 subtable" 604 -23 "'kern' Horizontal Kerning lookup 17 subtable" 603 -23 "'kern' Horizontal Kerning lookup 17 subtable" 602 -45 "'kern' Horizontal Kerning lookup 17 subtable" 601 -23 "'kern' Horizontal Kerning lookup 17 subtable" 600 -45 "'kern' Horizontal Kerning lookup 17 subtable" 599 -45 "'kern' Horizontal Kerning lookup 17 subtable" 596 23 "'kern' Horizontal Kerning lookup 17 subtable" 594 23 "'kern' Horizontal Kerning lookup 17 subtable" 585 -23 "'kern' Horizontal Kerning lookup 17 subtable" 576 -45 "'kern' Horizontal Kerning lookup 17 subtable" 572 23 "'kern' Horizontal Kerning lookup 17 subtable" 569 -68 "'kern' Horizontal Kerning lookup 17 subtable" 565 -68 "'kern' Horizontal Kerning lookup 17 subtable" 30 -45 "'kern' Horizontal Kerning lookup 17 subtable" 29 -45 "'kern' Horizontal Kerning lookup 17 subtable" 17 -160 "'kern' Horizontal Kerning lookup 17 subtable" 15 -160 "'kern' Horizontal Kerning lookup 17 subtable"
 EndChar
 
 StartChar: uni0424
@@ -55097,7 +55098,7 @@ SplineSet
  668 358 l 1,41,-1
  811 1094 l 1,33,-1
 EndSplineSet
-Kerns2: 608 -45 "'kern' Horizontal Kerning lookup 17 subtable"  596 -45 "'kern' Horizontal Kerning lookup 17 subtable"  588 -70 "'kern' Horizontal Kerning lookup 17 subtable"  585 23 "'kern' Horizontal Kerning lookup 17 subtable"  584 -182 "'kern' Horizontal Kerning lookup 17 subtable"  583 -160 "'kern' Horizontal Kerning lookup 17 subtable"  577 -23 "'kern' Horizontal Kerning lookup 17 subtable"  576 -115 "'kern' Horizontal Kerning lookup 17 subtable"  569 -137 "'kern' Horizontal Kerning lookup 17 subtable"  565 -115 "'kern' Horizontal Kerning lookup 17 subtable" 
+Kerns2: 608 -45 "'kern' Horizontal Kerning lookup 17 subtable" 596 -45 "'kern' Horizontal Kerning lookup 17 subtable" 588 -70 "'kern' Horizontal Kerning lookup 17 subtable" 585 23 "'kern' Horizontal Kerning lookup 17 subtable" 584 -182 "'kern' Horizontal Kerning lookup 17 subtable" 583 -160 "'kern' Horizontal Kerning lookup 17 subtable" 577 -23 "'kern' Horizontal Kerning lookup 17 subtable" 576 -115 "'kern' Horizontal Kerning lookup 17 subtable" 569 -137 "'kern' Horizontal Kerning lookup 17 subtable" 565 -115 "'kern' Horizontal Kerning lookup 17 subtable"
 EndChar
 
 StartChar: uni0425
@@ -55108,7 +55109,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 59 88 N 1 0 0 1 0 0 3
-Kerns2: 616 -45 "'kern' Horizontal Kerning lookup 17 subtable"  611 -45 "'kern' Horizontal Kerning lookup 17 subtable"  585 -68 "'kern' Horizontal Kerning lookup 17 subtable"  582 -70 "'kern' Horizontal Kerning lookup 17 subtable"  579 -70 "'kern' Horizontal Kerning lookup 17 subtable"  572 -23 "'kern' Horizontal Kerning lookup 17 subtable" 
+Kerns2: 616 -45 "'kern' Horizontal Kerning lookup 17 subtable" 611 -45 "'kern' Horizontal Kerning lookup 17 subtable" 585 -68 "'kern' Horizontal Kerning lookup 17 subtable" 582 -70 "'kern' Horizontal Kerning lookup 17 subtable" 579 -70 "'kern' Horizontal Kerning lookup 17 subtable" 572 -23 "'kern' Horizontal Kerning lookup 17 subtable"
 EndChar
 
 StartChar: uni0426
@@ -55198,7 +55199,7 @@ SplineSet
  1188 160 l 1,11,-1
  1363 160 l 1,0,-1
 EndSplineSet
-Kerns2: 611 45 "'kern' Horizontal Kerning lookup 17 subtable"  602 45 "'kern' Horizontal Kerning lookup 17 subtable"  597 68 "'kern' Horizontal Kerning lookup 17 subtable" 
+Kerns2: 611 45 "'kern' Horizontal Kerning lookup 17 subtable" 602 45 "'kern' Horizontal Kerning lookup 17 subtable" 597 68 "'kern' Horizontal Kerning lookup 17 subtable"
 EndChar
 
 StartChar: uni0427
@@ -55495,7 +55496,7 @@ SplineSet
  1590 160 l 1,15,-1
  1765 160 l 1,0,-1
 EndSplineSet
-Kerns2: 616 23 "'kern' Horizontal Kerning lookup 17 subtable"  602 23 "'kern' Horizontal Kerning lookup 17 subtable"  597 45 "'kern' Horizontal Kerning lookup 17 subtable" 
+Kerns2: 616 23 "'kern' Horizontal Kerning lookup 17 subtable" 602 23 "'kern' Horizontal Kerning lookup 17 subtable" 597 45 "'kern' Horizontal Kerning lookup 17 subtable"
 EndChar
 
 StartChar: uni042A
@@ -55599,7 +55600,7 @@ SplineSet
  719 661 l 1,20,-1
  619 151 l 1,13,-1
 EndSplineSet
-Kerns2: 596 -68 "'kern' Horizontal Kerning lookup 17 subtable"  181 -227 "'kern' Horizontal Kerning lookup 17 subtable" 
+Kerns2: 596 -68 "'kern' Horizontal Kerning lookup 17 subtable" 181 -227 "'kern' Horizontal Kerning lookup 17 subtable"
 EndChar
 
 StartChar: uni042B
@@ -55814,7 +55815,7 @@ SplineSet
  382 661 l 1,18,-1
  282 151 l 1,11,-1
 EndSplineSet
-Kerns2: 596 -92 "'kern' Horizontal Kerning lookup 17 subtable"  594 -68 "'kern' Horizontal Kerning lookup 17 subtable"  588 -205 "'kern' Horizontal Kerning lookup 17 subtable"  586 -115 "'kern' Horizontal Kerning lookup 17 subtable"  583 -227 "'kern' Horizontal Kerning lookup 17 subtable"  582 -92 "'kern' Horizontal Kerning lookup 17 subtable"  579 -92 "'kern' Horizontal Kerning lookup 17 subtable"  577 -45 "'kern' Horizontal Kerning lookup 17 subtable"  576 -45 "'kern' Horizontal Kerning lookup 17 subtable"  572 -68 "'kern' Horizontal Kerning lookup 17 subtable"  571 -115 "'kern' Horizontal Kerning lookup 17 subtable"  569 -45 "'kern' Horizontal Kerning lookup 17 subtable"  565 -90 "'kern' Horizontal Kerning lookup 17 subtable"  181 -250 "'kern' Horizontal Kerning lookup 17 subtable" 
+Kerns2: 596 -92 "'kern' Horizontal Kerning lookup 17 subtable" 594 -68 "'kern' Horizontal Kerning lookup 17 subtable" 588 -205 "'kern' Horizontal Kerning lookup 17 subtable" 586 -115 "'kern' Horizontal Kerning lookup 17 subtable" 583 -227 "'kern' Horizontal Kerning lookup 17 subtable" 582 -92 "'kern' Horizontal Kerning lookup 17 subtable" 579 -92 "'kern' Horizontal Kerning lookup 17 subtable" 577 -45 "'kern' Horizontal Kerning lookup 17 subtable" 576 -45 "'kern' Horizontal Kerning lookup 17 subtable" 572 -68 "'kern' Horizontal Kerning lookup 17 subtable" 571 -115 "'kern' Horizontal Kerning lookup 17 subtable" 569 -45 "'kern' Horizontal Kerning lookup 17 subtable" 565 -90 "'kern' Horizontal Kerning lookup 17 subtable" 181 -250 "'kern' Horizontal Kerning lookup 17 subtable"
 EndChar
 
 StartChar: uni042D
@@ -55971,7 +55972,7 @@ SplineSet
  1163 1057 1163 1057 1059.5 1165.5 c 128,-1,29
  956 1274 956 1274 780 1274 c 0,0,1
 EndSplineSet
-Kerns2: 628 23 "'kern' Horizontal Kerning lookup 17 subtable"  609 23 "'kern' Horizontal Kerning lookup 17 subtable"  603 23 "'kern' Horizontal Kerning lookup 17 subtable"  601 45 "'kern' Horizontal Kerning lookup 17 subtable"  596 -45 "'kern' Horizontal Kerning lookup 17 subtable"  586 -70 "'kern' Horizontal Kerning lookup 17 subtable"  585 45 "'kern' Horizontal Kerning lookup 17 subtable"  579 23 "'kern' Horizontal Kerning lookup 17 subtable"  576 -92 "'kern' Horizontal Kerning lookup 17 subtable"  571 -47 "'kern' Horizontal Kerning lookup 17 subtable"  569 -70 "'kern' Horizontal Kerning lookup 17 subtable" 
+Kerns2: 628 23 "'kern' Horizontal Kerning lookup 17 subtable" 609 23 "'kern' Horizontal Kerning lookup 17 subtable" 603 23 "'kern' Horizontal Kerning lookup 17 subtable" 601 45 "'kern' Horizontal Kerning lookup 17 subtable" 596 -45 "'kern' Horizontal Kerning lookup 17 subtable" 586 -70 "'kern' Horizontal Kerning lookup 17 subtable" 585 45 "'kern' Horizontal Kerning lookup 17 subtable" 579 23 "'kern' Horizontal Kerning lookup 17 subtable" 576 -92 "'kern' Horizontal Kerning lookup 17 subtable" 571 -47 "'kern' Horizontal Kerning lookup 17 subtable" 569 -70 "'kern' Horizontal Kerning lookup 17 subtable"
 EndChar
 
 StartChar: uni042E
@@ -56088,7 +56089,7 @@ SplineSet
  1837 1055 1837 1055 1735.5 1165.5 c 128,-1,34
  1634 1276 1634 1276 1449 1276 c 256,21,22
 EndSplineSet
-Kerns2: 588 -92 "'kern' Horizontal Kerning lookup 17 subtable"  586 -68 "'kern' Horizontal Kerning lookup 17 subtable"  583 -137 "'kern' Horizontal Kerning lookup 17 subtable"  582 -23 "'kern' Horizontal Kerning lookup 17 subtable"  579 -23 "'kern' Horizontal Kerning lookup 17 subtable"  576 -115 "'kern' Horizontal Kerning lookup 17 subtable"  571 -68 "'kern' Horizontal Kerning lookup 17 subtable"  569 -115 "'kern' Horizontal Kerning lookup 17 subtable"  565 -90 "'kern' Horizontal Kerning lookup 17 subtable" 
+Kerns2: 588 -92 "'kern' Horizontal Kerning lookup 17 subtable" 586 -68 "'kern' Horizontal Kerning lookup 17 subtable" 583 -137 "'kern' Horizontal Kerning lookup 17 subtable" 582 -23 "'kern' Horizontal Kerning lookup 17 subtable" 579 -23 "'kern' Horizontal Kerning lookup 17 subtable" 576 -115 "'kern' Horizontal Kerning lookup 17 subtable" 571 -68 "'kern' Horizontal Kerning lookup 17 subtable" 569 -115 "'kern' Horizontal Kerning lookup 17 subtable" 565 -90 "'kern' Horizontal Kerning lookup 17 subtable"
 EndChar
 
 StartChar: uni042F
@@ -56224,7 +56225,7 @@ AnchorPoint: "Anchor13" 621 1200 basechar 0
 LayerCount: 2
 Fore
 Refer: 68 97 N 1 0 0 1 0 0 3
-Kerns2: 626 -23 "'kern' Horizontal Kerning lookup 17 subtable"  620 -137 "'kern' Horizontal Kerning lookup 17 subtable"  616 -68 "'kern' Horizontal Kerning lookup 17 subtable"  612 -23 "'kern' Horizontal Kerning lookup 17 subtable"  608 -23 "'kern' Horizontal Kerning lookup 17 subtable"  604 -45 "'kern' Horizontal Kerning lookup 17 subtable" 
+Kerns2: 626 -23 "'kern' Horizontal Kerning lookup 17 subtable" 620 -137 "'kern' Horizontal Kerning lookup 17 subtable" 616 -68 "'kern' Horizontal Kerning lookup 17 subtable" 612 -23 "'kern' Horizontal Kerning lookup 17 subtable" 608 -23 "'kern' Horizontal Kerning lookup 17 subtable" 604 -45 "'kern' Horizontal Kerning lookup 17 subtable"
 EndChar
 
 StartChar: uni0431
@@ -56335,7 +56336,7 @@ SplineSet
  312 904 312 904 280 762 c 1,38,39
  422 1027 422 1027 700 1027 c 0,15,16
 EndSplineSet
-Kerns2: 628 -23 "'kern' Horizontal Kerning lookup 17 subtable"  623 -68 "'kern' Horizontal Kerning lookup 17 subtable"  620 -68 "'kern' Horizontal Kerning lookup 17 subtable"  618 -68 "'kern' Horizontal Kerning lookup 17 subtable"  616 -45 "'kern' Horizontal Kerning lookup 17 subtable"  608 -45 "'kern' Horizontal Kerning lookup 17 subtable"  603 -23 "'kern' Horizontal Kerning lookup 17 subtable"  601 23 "'kern' Horizontal Kerning lookup 17 subtable" 
+Kerns2: 628 -23 "'kern' Horizontal Kerning lookup 17 subtable" 623 -68 "'kern' Horizontal Kerning lookup 17 subtable" 620 -68 "'kern' Horizontal Kerning lookup 17 subtable" 618 -68 "'kern' Horizontal Kerning lookup 17 subtable" 616 -45 "'kern' Horizontal Kerning lookup 17 subtable" 608 -45 "'kern' Horizontal Kerning lookup 17 subtable" 603 -23 "'kern' Horizontal Kerning lookup 17 subtable" 601 23 "'kern' Horizontal Kerning lookup 17 subtable"
 Substitution2: "'locl' Localized Forms lookup 5-1" S_BE
 EndChar
 
@@ -56469,7 +56470,7 @@ SplineSet
  335 625 l 1,38,-1
  532 625 l 2,29,30
 EndSplineSet
-Kerns2: 628 -45 "'kern' Horizontal Kerning lookup 17 subtable"  623 -92 "'kern' Horizontal Kerning lookup 17 subtable"  620 -115 "'kern' Horizontal Kerning lookup 17 subtable"  617 -45 "'kern' Horizontal Kerning lookup 17 subtable"  616 -68 "'kern' Horizontal Kerning lookup 17 subtable"  615 -23 "'kern' Horizontal Kerning lookup 17 subtable"  614 -45 "'kern' Horizontal Kerning lookup 17 subtable"  611 -45 "'kern' Horizontal Kerning lookup 17 subtable"  609 -45 "'kern' Horizontal Kerning lookup 17 subtable"  608 -68 "'kern' Horizontal Kerning lookup 17 subtable"  604 -45 "'kern' Horizontal Kerning lookup 17 subtable"  603 -45 "'kern' Horizontal Kerning lookup 17 subtable"  602 -45 "'kern' Horizontal Kerning lookup 17 subtable"  601 -45 "'kern' Horizontal Kerning lookup 17 subtable"  598 -23 "'kern' Horizontal Kerning lookup 17 subtable"  597 -45 "'kern' Horizontal Kerning lookup 17 subtable" 
+Kerns2: 628 -45 "'kern' Horizontal Kerning lookup 17 subtable" 623 -92 "'kern' Horizontal Kerning lookup 17 subtable" 620 -115 "'kern' Horizontal Kerning lookup 17 subtable" 617 -45 "'kern' Horizontal Kerning lookup 17 subtable" 616 -68 "'kern' Horizontal Kerning lookup 17 subtable" 615 -23 "'kern' Horizontal Kerning lookup 17 subtable" 614 -45 "'kern' Horizontal Kerning lookup 17 subtable" 611 -45 "'kern' Horizontal Kerning lookup 17 subtable" 609 -45 "'kern' Horizontal Kerning lookup 17 subtable" 608 -68 "'kern' Horizontal Kerning lookup 17 subtable" 604 -45 "'kern' Horizontal Kerning lookup 17 subtable" 603 -45 "'kern' Horizontal Kerning lookup 17 subtable" 602 -45 "'kern' Horizontal Kerning lookup 17 subtable" 601 -45 "'kern' Horizontal Kerning lookup 17 subtable" 598 -23 "'kern' Horizontal Kerning lookup 17 subtable" 597 -45 "'kern' Horizontal Kerning lookup 17 subtable"
 EndChar
 
 StartChar: uni0433
@@ -56584,7 +56585,7 @@ SplineSet
  787 896 787 896 733 929 c 128,-1,38
  679 962 679 962 579 962 c 0,0,1
 EndSplineSet
-Kerns2: 628 -45 "'kern' Horizontal Kerning lookup 17 subtable"  614 -23 "'kern' Horizontal Kerning lookup 17 subtable"  611 -23 "'kern' Horizontal Kerning lookup 17 subtable"  609 -23 "'kern' Horizontal Kerning lookup 17 subtable"  608 -23 "'kern' Horizontal Kerning lookup 17 subtable"  604 -23 "'kern' Horizontal Kerning lookup 17 subtable"  602 -23 "'kern' Horizontal Kerning lookup 17 subtable"  601 -23 "'kern' Horizontal Kerning lookup 17 subtable"  597 -23 "'kern' Horizontal Kerning lookup 17 subtable" 
+Kerns2: 628 -45 "'kern' Horizontal Kerning lookup 17 subtable" 614 -23 "'kern' Horizontal Kerning lookup 17 subtable" 611 -23 "'kern' Horizontal Kerning lookup 17 subtable" 609 -23 "'kern' Horizontal Kerning lookup 17 subtable" 608 -23 "'kern' Horizontal Kerning lookup 17 subtable" 604 -23 "'kern' Horizontal Kerning lookup 17 subtable" 602 -23 "'kern' Horizontal Kerning lookup 17 subtable" 601 -23 "'kern' Horizontal Kerning lookup 17 subtable" 597 -23 "'kern' Horizontal Kerning lookup 17 subtable"
 Substitution2: "'locl' Localized Forms lookup 5-1" imacron
 EndChar
 
@@ -56697,7 +56698,7 @@ SplineSet
  251 258 251 258 314 185.5 c 128,-1,39
  377 113 377 113 501 113 c 256,27,28
 EndSplineSet
-Kerns2: 616 -23 "'kern' Horizontal Kerning lookup 17 subtable" 
+Kerns2: 616 -23 "'kern' Horizontal Kerning lookup 17 subtable"
 Substitution2: "'locl' Localized Forms lookup 5-1" g
 EndChar
 
@@ -56710,7 +56711,7 @@ AnchorPoint: "Anchor13" 624 1200 basechar 0
 LayerCount: 2
 Fore
 Refer: 72 101 N 1 0 0 1 0 0 3
-Kerns2: 620 -115 "'kern' Horizontal Kerning lookup 17 subtable"  618 -90 "'kern' Horizontal Kerning lookup 17 subtable"  617 -23 "'kern' Horizontal Kerning lookup 17 subtable"  616 -68 "'kern' Horizontal Kerning lookup 17 subtable"  615 -23 "'kern' Horizontal Kerning lookup 17 subtable"  614 -23 "'kern' Horizontal Kerning lookup 17 subtable"  609 -23 "'kern' Horizontal Kerning lookup 17 subtable"  608 -68 "'kern' Horizontal Kerning lookup 17 subtable"  604 -23 "'kern' Horizontal Kerning lookup 17 subtable"  603 -23 "'kern' Horizontal Kerning lookup 17 subtable"  601 -23 "'kern' Horizontal Kerning lookup 17 subtable"  597 -23 "'kern' Horizontal Kerning lookup 17 subtable" 
+Kerns2: 620 -115 "'kern' Horizontal Kerning lookup 17 subtable" 618 -90 "'kern' Horizontal Kerning lookup 17 subtable" 617 -23 "'kern' Horizontal Kerning lookup 17 subtable" 616 -68 "'kern' Horizontal Kerning lookup 17 subtable" 615 -23 "'kern' Horizontal Kerning lookup 17 subtable" 614 -23 "'kern' Horizontal Kerning lookup 17 subtable" 609 -23 "'kern' Horizontal Kerning lookup 17 subtable" 608 -68 "'kern' Horizontal Kerning lookup 17 subtable" 604 -23 "'kern' Horizontal Kerning lookup 17 subtable" 603 -23 "'kern' Horizontal Kerning lookup 17 subtable" 601 -23 "'kern' Horizontal Kerning lookup 17 subtable" 597 -23 "'kern' Horizontal Kerning lookup 17 subtable"
 EndChar
 
 StartChar: uni0436
@@ -56892,7 +56893,7 @@ SplineSet
  514 0 l 1,34,-1
  609 485 l 1,0,1
 EndSplineSet
-Kerns2: 623 23 "'kern' Horizontal Kerning lookup 17 subtable"  620 -45 "'kern' Horizontal Kerning lookup 17 subtable"  616 23 "'kern' Horizontal Kerning lookup 17 subtable"  615 23 "'kern' Horizontal Kerning lookup 17 subtable" 
+Kerns2: 623 23 "'kern' Horizontal Kerning lookup 17 subtable" 620 -45 "'kern' Horizontal Kerning lookup 17 subtable" 616 23 "'kern' Horizontal Kerning lookup 17 subtable" 615 23 "'kern' Horizontal Kerning lookup 17 subtable"
 EndChar
 
 StartChar: uni0437
@@ -57028,7 +57029,7 @@ SplineSet
  823 159 823 159 706.5 69.5 c 128,-1,38
  590 -20 590 -20 383 -20 c 0,0,1
 EndSplineSet
-Kerns2: 623 -68 "'kern' Horizontal Kerning lookup 17 subtable"  620 -115 "'kern' Horizontal Kerning lookup 17 subtable"  617 -23 "'kern' Horizontal Kerning lookup 17 subtable"  616 -68 "'kern' Horizontal Kerning lookup 17 subtable"  614 -45 "'kern' Horizontal Kerning lookup 17 subtable"  611 -23 "'kern' Horizontal Kerning lookup 17 subtable"  609 -23 "'kern' Horizontal Kerning lookup 17 subtable"  608 -45 "'kern' Horizontal Kerning lookup 17 subtable"  603 -23 "'kern' Horizontal Kerning lookup 17 subtable"  602 -23 "'kern' Horizontal Kerning lookup 17 subtable"  601 -23 "'kern' Horizontal Kerning lookup 17 subtable"  598 -23 "'kern' Horizontal Kerning lookup 17 subtable"  597 -23 "'kern' Horizontal Kerning lookup 17 subtable" 
+Kerns2: 623 -68 "'kern' Horizontal Kerning lookup 17 subtable" 620 -115 "'kern' Horizontal Kerning lookup 17 subtable" 617 -23 "'kern' Horizontal Kerning lookup 17 subtable" 616 -68 "'kern' Horizontal Kerning lookup 17 subtable" 614 -45 "'kern' Horizontal Kerning lookup 17 subtable" 611 -23 "'kern' Horizontal Kerning lookup 17 subtable" 609 -23 "'kern' Horizontal Kerning lookup 17 subtable" 608 -45 "'kern' Horizontal Kerning lookup 17 subtable" 603 -23 "'kern' Horizontal Kerning lookup 17 subtable" 602 -23 "'kern' Horizontal Kerning lookup 17 subtable" 601 -23 "'kern' Horizontal Kerning lookup 17 subtable" 598 -23 "'kern' Horizontal Kerning lookup 17 subtable" 597 -23 "'kern' Horizontal Kerning lookup 17 subtable"
 EndChar
 
 StartChar: uni0438
@@ -57190,7 +57191,7 @@ SplineSet
  34 0 l 1,18,-1
  244 1082 l 1,0,-1
 EndSplineSet
-Kerns2: 620 -45 "'kern' Horizontal Kerning lookup 17 subtable"  615 23 "'kern' Horizontal Kerning lookup 17 subtable"  614 -23 "'kern' Horizontal Kerning lookup 17 subtable"  598 23 "'kern' Horizontal Kerning lookup 17 subtable" 
+Kerns2: 620 -45 "'kern' Horizontal Kerning lookup 17 subtable" 615 23 "'kern' Horizontal Kerning lookup 17 subtable" 614 -23 "'kern' Horizontal Kerning lookup 17 subtable" 598 23 "'kern' Horizontal Kerning lookup 17 subtable"
 EndChar
 
 StartChar: uni043B
@@ -57276,7 +57277,7 @@ SplineSet
  903 0 l 1,18,-1
  722 0 l 1,0,-1
 EndSplineSet
-Kerns2: 620 -68 "'kern' Horizontal Kerning lookup 17 subtable"  616 -23 "'kern' Horizontal Kerning lookup 17 subtable" 
+Kerns2: 620 -68 "'kern' Horizontal Kerning lookup 17 subtable" 616 -23 "'kern' Horizontal Kerning lookup 17 subtable"
 EndChar
 
 StartChar: uni043C
@@ -57411,7 +57412,7 @@ SplineSet
  1094 1082 l 1,24,-1
  1365 1082 l 1,0,-1
 EndSplineSet
-Kerns2: 626 -23 "'kern' Horizontal Kerning lookup 17 subtable"  617 -23 "'kern' Horizontal Kerning lookup 17 subtable"  616 -23 "'kern' Horizontal Kerning lookup 17 subtable"  614 -23 "'kern' Horizontal Kerning lookup 17 subtable"  604 -23 "'kern' Horizontal Kerning lookup 17 subtable" 
+Kerns2: 626 -23 "'kern' Horizontal Kerning lookup 17 subtable" 617 -23 "'kern' Horizontal Kerning lookup 17 subtable" 616 -23 "'kern' Horizontal Kerning lookup 17 subtable" 614 -23 "'kern' Horizontal Kerning lookup 17 subtable" 604 -23 "'kern' Horizontal Kerning lookup 17 subtable"
 EndChar
 
 StartChar: uni043D
@@ -57522,7 +57523,7 @@ AnchorPoint: "Anchor13" 621 1200 basechar 0
 LayerCount: 2
 Fore
 Refer: 82 111 N 1 0 0 1 0 0 3
-Kerns2: 628 -45 "'kern' Horizontal Kerning lookup 17 subtable"  626 -23 "'kern' Horizontal Kerning lookup 17 subtable"  620 -92 "'kern' Horizontal Kerning lookup 17 subtable"  618 -45 "'kern' Horizontal Kerning lookup 17 subtable"  616 -68 "'kern' Horizontal Kerning lookup 17 subtable"  608 -45 "'kern' Horizontal Kerning lookup 17 subtable"  604 -23 "'kern' Horizontal Kerning lookup 17 subtable"  603 -45 "'kern' Horizontal Kerning lookup 17 subtable" 
+Kerns2: 628 -45 "'kern' Horizontal Kerning lookup 17 subtable" 626 -23 "'kern' Horizontal Kerning lookup 17 subtable" 620 -92 "'kern' Horizontal Kerning lookup 17 subtable" 618 -45 "'kern' Horizontal Kerning lookup 17 subtable" 616 -68 "'kern' Horizontal Kerning lookup 17 subtable" 608 -45 "'kern' Horizontal Kerning lookup 17 subtable" 604 -23 "'kern' Horizontal Kerning lookup 17 subtable" 603 -45 "'kern' Horizontal Kerning lookup 17 subtable"
 EndChar
 
 StartChar: uni043F
@@ -57604,7 +57605,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 83 112 N 1 0 0 1 0 0 3
-Kerns2: 628 -23 "'kern' Horizontal Kerning lookup 17 subtable"  626 -23 "'kern' Horizontal Kerning lookup 17 subtable"  620 -92 "'kern' Horizontal Kerning lookup 17 subtable"  618 -68 "'kern' Horizontal Kerning lookup 17 subtable"  616 -68 "'kern' Horizontal Kerning lookup 17 subtable"  609 -23 "'kern' Horizontal Kerning lookup 17 subtable"  608 -45 "'kern' Horizontal Kerning lookup 17 subtable"  604 -23 "'kern' Horizontal Kerning lookup 17 subtable"  603 -23 "'kern' Horizontal Kerning lookup 17 subtable" 
+Kerns2: 628 -23 "'kern' Horizontal Kerning lookup 17 subtable" 626 -23 "'kern' Horizontal Kerning lookup 17 subtable" 620 -92 "'kern' Horizontal Kerning lookup 17 subtable" 618 -68 "'kern' Horizontal Kerning lookup 17 subtable" 616 -68 "'kern' Horizontal Kerning lookup 17 subtable" 609 -23 "'kern' Horizontal Kerning lookup 17 subtable" 608 -45 "'kern' Horizontal Kerning lookup 17 subtable" 604 -23 "'kern' Horizontal Kerning lookup 17 subtable" 603 -23 "'kern' Horizontal Kerning lookup 17 subtable"
 EndChar
 
 StartChar: uni0441
@@ -57615,7 +57616,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 70 99 N 1 0 0 1 0 0 3
-Kerns2: 623 -45 "'kern' Horizontal Kerning lookup 17 subtable"  620 -68 "'kern' Horizontal Kerning lookup 17 subtable"  618 -45 "'kern' Horizontal Kerning lookup 17 subtable"  616 -23 "'kern' Horizontal Kerning lookup 17 subtable"  603 -23 "'kern' Horizontal Kerning lookup 17 subtable" 
+Kerns2: 623 -45 "'kern' Horizontal Kerning lookup 17 subtable" 620 -68 "'kern' Horizontal Kerning lookup 17 subtable" 618 -45 "'kern' Horizontal Kerning lookup 17 subtable" 616 -23 "'kern' Horizontal Kerning lookup 17 subtable" 603 -23 "'kern' Horizontal Kerning lookup 17 subtable"
 EndChar
 
 StartChar: uni0442
@@ -57626,7 +57627,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 80 109 N 1 0 0 1 0 0 3
-Kerns2: 628 -23 "'kern' Horizontal Kerning lookup 17 subtable"  626 -23 "'kern' Horizontal Kerning lookup 17 subtable"  616 -45 "'kern' Horizontal Kerning lookup 17 subtable"  614 -23 "'kern' Horizontal Kerning lookup 17 subtable"  613 -23 "'kern' Horizontal Kerning lookup 17 subtable"  611 -23 "'kern' Horizontal Kerning lookup 17 subtable"  609 -23 "'kern' Horizontal Kerning lookup 17 subtable"  608 -45 "'kern' Horizontal Kerning lookup 17 subtable"  604 -23 "'kern' Horizontal Kerning lookup 17 subtable"  603 -23 "'kern' Horizontal Kerning lookup 17 subtable"  601 -23 "'kern' Horizontal Kerning lookup 17 subtable"  597 -23 "'kern' Horizontal Kerning lookup 17 subtable"  17 -23 "'kern' Horizontal Kerning lookup 17 subtable"  15 -23 "'kern' Horizontal Kerning lookup 17 subtable" 
+Kerns2: 628 -23 "'kern' Horizontal Kerning lookup 17 subtable" 626 -23 "'kern' Horizontal Kerning lookup 17 subtable" 616 -45 "'kern' Horizontal Kerning lookup 17 subtable" 614 -23 "'kern' Horizontal Kerning lookup 17 subtable" 613 -23 "'kern' Horizontal Kerning lookup 17 subtable" 611 -23 "'kern' Horizontal Kerning lookup 17 subtable" 609 -23 "'kern' Horizontal Kerning lookup 17 subtable" 608 -45 "'kern' Horizontal Kerning lookup 17 subtable" 604 -23 "'kern' Horizontal Kerning lookup 17 subtable" 603 -23 "'kern' Horizontal Kerning lookup 17 subtable" 601 -23 "'kern' Horizontal Kerning lookup 17 subtable" 597 -23 "'kern' Horizontal Kerning lookup 17 subtable" 17 -23 "'kern' Horizontal Kerning lookup 17 subtable" 15 -23 "'kern' Horizontal Kerning lookup 17 subtable"
 Substitution2: "'locl' Localized Forms lookup 5-1" S_TE
 EndChar
 
@@ -57639,7 +57640,7 @@ AnchorPoint: "Anchor13" 554 1200 basechar 0
 LayerCount: 2
 Fore
 Refer: 92 121 N 1 0 0 1 0 0 3
-Kerns2: 626 23 "'kern' Horizontal Kerning lookup 17 subtable"  608 -23 "'kern' Horizontal Kerning lookup 17 subtable"  603 23 "'kern' Horizontal Kerning lookup 17 subtable"  598 45 "'kern' Horizontal Kerning lookup 17 subtable"  17 -137 "'kern' Horizontal Kerning lookup 17 subtable"  15 -137 "'kern' Horizontal Kerning lookup 17 subtable" 
+Kerns2: 626 23 "'kern' Horizontal Kerning lookup 17 subtable" 608 -23 "'kern' Horizontal Kerning lookup 17 subtable" 603 23 "'kern' Horizontal Kerning lookup 17 subtable" 598 45 "'kern' Horizontal Kerning lookup 17 subtable" 17 -137 "'kern' Horizontal Kerning lookup 17 subtable" 15 -137 "'kern' Horizontal Kerning lookup 17 subtable"
 EndChar
 
 StartChar: uni0444
@@ -57808,7 +57809,7 @@ SplineSet
  1458 839 1458 839 1416 901 c 128,-1,67
  1374 963 1374 963 1283 963 c 0,54,55
 EndSplineSet
-Kerns2: 620 -92 "'kern' Horizontal Kerning lookup 17 subtable"  616 -45 "'kern' Horizontal Kerning lookup 17 subtable"  611 23 "'kern' Horizontal Kerning lookup 17 subtable"  608 -45 "'kern' Horizontal Kerning lookup 17 subtable"  602 23 "'kern' Horizontal Kerning lookup 17 subtable"  598 23 "'kern' Horizontal Kerning lookup 17 subtable" 
+Kerns2: 620 -92 "'kern' Horizontal Kerning lookup 17 subtable" 616 -45 "'kern' Horizontal Kerning lookup 17 subtable" 611 23 "'kern' Horizontal Kerning lookup 17 subtable" 608 -45 "'kern' Horizontal Kerning lookup 17 subtable" 602 23 "'kern' Horizontal Kerning lookup 17 subtable" 598 23 "'kern' Horizontal Kerning lookup 17 subtable"
 EndChar
 
 StartChar: uni0445
@@ -57819,7 +57820,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 91 120 N 1 0 0 1 0 0 3
-Kerns2: 626 -23 "'kern' Horizontal Kerning lookup 17 subtable"  620 -92 "'kern' Horizontal Kerning lookup 17 subtable"  617 -45 "'kern' Horizontal Kerning lookup 17 subtable"  614 -23 "'kern' Horizontal Kerning lookup 17 subtable"  611 -23 "'kern' Horizontal Kerning lookup 17 subtable"  604 -23 "'kern' Horizontal Kerning lookup 17 subtable"  602 -23 "'kern' Horizontal Kerning lookup 17 subtable"  597 -23 "'kern' Horizontal Kerning lookup 17 subtable" 
+Kerns2: 626 -23 "'kern' Horizontal Kerning lookup 17 subtable" 620 -92 "'kern' Horizontal Kerning lookup 17 subtable" 617 -45 "'kern' Horizontal Kerning lookup 17 subtable" 614 -23 "'kern' Horizontal Kerning lookup 17 subtable" 611 -23 "'kern' Horizontal Kerning lookup 17 subtable" 604 -23 "'kern' Horizontal Kerning lookup 17 subtable" 602 -23 "'kern' Horizontal Kerning lookup 17 subtable" 597 -23 "'kern' Horizontal Kerning lookup 17 subtable"
 EndChar
 
 StartChar: uni0446
@@ -57944,7 +57945,7 @@ SplineSet
  237 1082 l 1,29,-1
  418 1082 l 1,0,-1
 EndSplineSet
-Kerns2: 616 23 "'kern' Horizontal Kerning lookup 17 subtable"  597 23 "'kern' Horizontal Kerning lookup 17 subtable" 
+Kerns2: 616 23 "'kern' Horizontal Kerning lookup 17 subtable" 597 23 "'kern' Horizontal Kerning lookup 17 subtable"
 EndChar
 
 StartChar: uni0447
@@ -58338,7 +58339,7 @@ SplineSet
  1448 0 l 1,47,-1
  1298 0 l 1,0,1
 EndSplineSet
-Kerns2: 616 45 "'kern' Horizontal Kerning lookup 17 subtable"  597 23 "'kern' Horizontal Kerning lookup 17 subtable" 
+Kerns2: 616 45 "'kern' Horizontal Kerning lookup 17 subtable" 597 23 "'kern' Horizontal Kerning lookup 17 subtable"
 EndChar
 
 StartChar: uni044A
@@ -58641,7 +58642,7 @@ SplineSet
  310 495 l 1,21,-1
  239 133 l 1,12,13
 EndSplineSet
-Kerns2: 620 -182 "'kern' Horizontal Kerning lookup 17 subtable" 
+Kerns2: 620 -182 "'kern' Horizontal Kerning lookup 17 subtable"
 EndChar
 
 StartChar: uni044D
@@ -58802,7 +58803,7 @@ SplineSet
  139 947 139 947 254.5 1024 c 128,-1,28
  370 1101 370 1101 547 1101 c 0,0,1
 EndSplineSet
-Kerns2: 628 -23 "'kern' Horizontal Kerning lookup 17 subtable"  618 -47 "'kern' Horizontal Kerning lookup 17 subtable"  608 -45 "'kern' Horizontal Kerning lookup 17 subtable"  603 -23 "'kern' Horizontal Kerning lookup 17 subtable" 
+Kerns2: 628 -23 "'kern' Horizontal Kerning lookup 17 subtable" 618 -47 "'kern' Horizontal Kerning lookup 17 subtable" 608 -45 "'kern' Horizontal Kerning lookup 17 subtable" 603 -23 "'kern' Horizontal Kerning lookup 17 subtable"
 EndChar
 
 StartChar: uni044E
@@ -58934,7 +58935,7 @@ SplineSet
  1202 249 1202 249 1241.5 385 c 128,-1,33
  1281 521 1281 521 1287 683 c 1,21,22
 EndSplineSet
-Kerns2: 620 -92 "'kern' Horizontal Kerning lookup 17 subtable"  618 -68 "'kern' Horizontal Kerning lookup 17 subtable"  608 -45 "'kern' Horizontal Kerning lookup 17 subtable"  603 -23 "'kern' Horizontal Kerning lookup 17 subtable" 
+Kerns2: 620 -92 "'kern' Horizontal Kerning lookup 17 subtable" 618 -68 "'kern' Horizontal Kerning lookup 17 subtable" 608 -45 "'kern' Horizontal Kerning lookup 17 subtable" 603 -23 "'kern' Horizontal Kerning lookup 17 subtable"
 EndChar
 
 StartChar: uni044F
@@ -60355,7 +60356,7 @@ LayerCount: 2
 Fore
 Refer: 92 121 N 1 0 0 1 0 0 3
 Refer: 654 -1 N 1 0 0 1 223 0 2
-Kerns2: 17 -115 "'kern' Horizontal Kerning lookup 17 subtable"  15 -115 "'kern' Horizontal Kerning lookup 17 subtable" 
+Kerns2: 17 -115 "'kern' Horizontal Kerning lookup 17 subtable" 15 -115 "'kern' Horizontal Kerning lookup 17 subtable"
 EndChar
 
 StartChar: uni045F
@@ -60565,7 +60566,7 @@ SplineSet
  336 1409 l 1,7,-1
  942 1409 l 1,0,-1
 EndSplineSet
-Kerns2: 169 -45 "'kern' Horizontal Kerning lookup 17 subtable"  168 -45 "'kern' Horizontal Kerning lookup 17 subtable"  17 -115 "'kern' Horizontal Kerning lookup 17 subtable"  15 -115 "'kern' Horizontal Kerning lookup 17 subtable" 
+Kerns2: 169 -45 "'kern' Horizontal Kerning lookup 17 subtable" 168 -45 "'kern' Horizontal Kerning lookup 17 subtable" 17 -115 "'kern' Horizontal Kerning lookup 17 subtable" 15 -115 "'kern' Horizontal Kerning lookup 17 subtable"
 EndChar
 
 StartChar: uni0491
@@ -60962,7 +60963,7 @@ SplineSet
  1011 266 l 2,33,34
  1004 231 1004 231 1004 203 c 0,0,1
 EndSplineSet
-Kerns2: 550 -29 "'kern' Horizontal Kerning lookup 17 subtable"  545 -29 "'kern' Horizontal Kerning lookup 17 subtable"  541 -29 "'kern' Horizontal Kerning lookup 17 subtable"  539 -29 "'kern' Horizontal Kerning lookup 17 subtable"  530 -29 "'kern' Horizontal Kerning lookup 17 subtable"  523 -29 "'kern' Horizontal Kerning lookup 17 subtable"  304 -29 "'kern' Horizontal Kerning lookup 17 subtable"  302 -29 "'kern' Horizontal Kerning lookup 17 subtable"  300 -29 "'kern' Horizontal Kerning lookup 17 subtable"  299 -29 "'kern' Horizontal Kerning lookup 17 subtable" 
+Kerns2: 550 -29 "'kern' Horizontal Kerning lookup 17 subtable" 545 -29 "'kern' Horizontal Kerning lookup 17 subtable" 541 -29 "'kern' Horizontal Kerning lookup 17 subtable" 539 -29 "'kern' Horizontal Kerning lookup 17 subtable" 530 -29 "'kern' Horizontal Kerning lookup 17 subtable" 523 -29 "'kern' Horizontal Kerning lookup 17 subtable" 304 -29 "'kern' Horizontal Kerning lookup 17 subtable" 302 -29 "'kern' Horizontal Kerning lookup 17 subtable" 300 -29 "'kern' Horizontal Kerning lookup 17 subtable" 299 -29 "'kern' Horizontal Kerning lookup 17 subtable"
 EndChar
 
 StartChar: currency

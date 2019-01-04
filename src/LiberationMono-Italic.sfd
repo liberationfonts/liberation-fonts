@@ -10,9 +10,10 @@ UnderlinePosition: -435
 UnderlineWidth: 84
 Ascent: 1638
 Descent: 410
+InvalidEm: 0
 LayerCount: 2
-Layer: 0 1 "Back"  1
-Layer: 1 1 "Fore"  0
+Layer: 0 1 "Back" 1
+Layer: 1 1 "Fore" 0
 XUID: [1021 445 290132255 1814308]
 FSType: 0
 OS2Version: 3
@@ -53,362 +54,362 @@ OS2FamilyClass: 2053
 OS2Vendor: '1ASC'
 OS2CodePages: 600001bf.dff70000
 OS2UnicodeRanges: e0000aff.400078ff.00000001.00000000
-Lookup: 1 0 0 "'locl' Localized Forms lookup 4"  {"'locl' Localized Forms lookup 4-1"  } ['locl' ('cyrl' <'SRB ' > 'cyrl' <'MKD ' > ) ]
-Lookup: 4 1 0 "'dlig' Discretionary Ligatures in Hebrew lookup 0"  {"'dlig' Discretionary Ligatures in Hebrew lookup 0 subtable"  } ['dlig' ('hebr' <'dflt' > ) ]
-Lookup: 4 1 0 "'ccmp' Glyph Composition/Decomposition in Hebrew lookup 1"  {"'ccmp' Glyph Composition/Decomposition in Hebrew lookup 1 subtable"  } ['ccmp' ('hebr' <'dflt' > ) ]
-Lookup: 6 1 0 "'ccmp' Glyph Composition/Decomposition in Hebrew lookup 2"  {"'ccmp' Glyph Composition/Decomposition in Hebrew lookup 2 subtable"  } ['ccmp' ('hebr' <'dflt' > ) ]
-Lookup: 4 1 0 "Ligature Substitution lookup 3"  {"Ligature Substitution lookup 3 subtable"  } []
-Lookup: 260 1 0 "'mark' Mark Positioning in Hebrew lookup 0"  {"'mark' Mark Positioning in Hebrew lookup 0 subtable"  } ['mark' ('hebr' <'dflt' > ) ]
-Lookup: 260 7 0 "'mark' Mark Positioning in Hebrew lookup 1"  {"'mark' Mark Positioning in Hebrew lookup 1 subtable"  } ['mark' ('hebr' <'dflt' > ) ]
-Lookup: 260 1 0 "'mark' Mark Positioning in Hebrew lookup 2"  {"'mark' Mark Positioning in Hebrew lookup 2 subtable"  } ['mark' ('hebr' <'dflt' > ) ]
-Lookup: 260 1 0 "'mark' Mark Positioning in Hebrew lookup 3"  {"'mark' Mark Positioning in Hebrew lookup 3 subtable"  } ['mark' ('hebr' <'dflt' > ) ]
-Lookup: 260 1 0 "'mark' Mark Positioning in Hebrew lookup 4"  {"'mark' Mark Positioning in Hebrew lookup 4 subtable"  } ['mark' ('hebr' <'dflt' > ) ]
-Lookup: 264 1 0 "'mark' Mark Positioning in Hebrew lookup 5"  {"'mark' Mark Positioning in Hebrew lookup 5 contextual 0"  "'mark' Mark Positioning in Hebrew lookup 5 contextual 1"  "'mark' Mark Positioning in Hebrew lookup 5 contextual 2"  "'mark' Mark Positioning in Hebrew lookup 5 contextual 3"  } ['mark' ('hebr' <'dflt' > ) ]
-Lookup: 264 1 0 "'mark' Mark Positioning in Hebrew lookup 6"  {"'mark' Mark Positioning in Hebrew lookup 6 contextual 0"  "'mark' Mark Positioning in Hebrew lookup 6 contextual 1"  "'mark' Mark Positioning in Hebrew lookup 6 contextual 2"  "'mark' Mark Positioning in Hebrew lookup 6 contextual 3"  } ['mark' ('hebr' <'dflt' > ) ]
-Lookup: 264 1 0 "'mark' Mark Positioning in Hebrew lookup 7"  {"'mark' Mark Positioning in Hebrew lookup 7 contextual 0"  "'mark' Mark Positioning in Hebrew lookup 7 contextual 1"  "'mark' Mark Positioning in Hebrew lookup 7 contextual 2"  "'mark' Mark Positioning in Hebrew lookup 7 contextual 3"  } ['mark' ('hebr' <'dflt' > ) ]
-Lookup: 264 1 0 "'mark' Mark Positioning in Hebrew lookup 8"  {"'mark' Mark Positioning in Hebrew lookup 8 contextual 0"  "'mark' Mark Positioning in Hebrew lookup 8 contextual 1"  "'mark' Mark Positioning in Hebrew lookup 8 contextual 2"  "'mark' Mark Positioning in Hebrew lookup 8 contextual 3"  } ['mark' ('hebr' <'dflt' > ) ]
-Lookup: 260 1 0 "'mark' Mark Positioning in Hebrew lookup 9"  {"'mark' Mark Positioning in Hebrew lookup 9 subtable"  } ['mark' ('hebr' <'dflt' > ) ]
-Lookup: 260 1 0 "'mark' Mark Positioning in Hebrew lookup 10"  {"'mark' Mark Positioning in Hebrew lookup 10 subtable"  } ['mark' ('hebr' <'dflt' > ) ]
-Lookup: 260 1 0 "'mark' Mark Positioning in Hebrew lookup 11"  {"'mark' Mark Positioning in Hebrew lookup 11 subtable"  } ['mark' ('hebr' <'dflt' > ) ]
-Lookup: 264 1 0 "'mark' Mark Positioning in Hebrew lookup 12"  {"'mark' Mark Positioning in Hebrew lookup 12 contextual 0"  "'mark' Mark Positioning in Hebrew lookup 12 contextual 1"  "'mark' Mark Positioning in Hebrew lookup 12 contextual 2"  "'mark' Mark Positioning in Hebrew lookup 12 contextual 3"  "'mark' Mark Positioning in Hebrew lookup 12 contextual 4"  "'mark' Mark Positioning in Hebrew lookup 12 contextual 5"  "'mark' Mark Positioning in Hebrew lookup 12 contextual 6"  "'mark' Mark Positioning in Hebrew lookup 12 contextual 7"  } ['mark' ('hebr' <'dflt' > ) ]
-Lookup: 264 1 0 "'mark' Mark Positioning in Hebrew lookup 13"  {"'mark' Mark Positioning in Hebrew lookup 13 contextual 0"  "'mark' Mark Positioning in Hebrew lookup 13 contextual 1"  "'mark' Mark Positioning in Hebrew lookup 13 contextual 2"  "'mark' Mark Positioning in Hebrew lookup 13 contextual 3"  "'mark' Mark Positioning in Hebrew lookup 13 contextual 4"  "'mark' Mark Positioning in Hebrew lookup 13 contextual 5"  "'mark' Mark Positioning in Hebrew lookup 13 contextual 6"  "'mark' Mark Positioning in Hebrew lookup 13 contextual 7"  "'mark' Mark Positioning in Hebrew lookup 13 contextual 8"  "'mark' Mark Positioning in Hebrew lookup 13 contextual 9"  "'mark' Mark Positioning in Hebrew lookup 13 contextual 10"  "'mark' Mark Positioning in Hebrew lookup 13 contextual 11"  "'mark' Mark Positioning in Hebrew lookup 13 contextual 12"  } ['mark' ('hebr' <'dflt' > ) ]
-Lookup: 264 1 0 "'mark' Mark Positioning in Hebrew lookup 14"  {"'mark' Mark Positioning in Hebrew lookup 14 contextual 0"  "'mark' Mark Positioning in Hebrew lookup 14 contextual 1"  } ['mark' ('hebr' <'dflt' > ) ]
-Lookup: 260 1 0 "Mark to base attachment lookup 15"  {"Mark to base attachment lookup 15 subtable"  } []
-Lookup: 260 1 0 "Mark to base attachment lookup 16"  {"Mark to base attachment lookup 16 subtable"  } []
-Lookup: 260 1 0 "Mark to base attachment lookup 17"  {"Mark to base attachment lookup 17 subtable"  } []
-Lookup: 260 1 0 "Mark to base attachment lookup 18"  {"Mark to base attachment lookup 18 subtable"  } []
-Lookup: 257 1 0 "Single Positioning lookup 19"  {"Single Positioning lookup 19 subtable"  } []
-Lookup: 257 1 0 "Single Positioning lookup 20"  {"Single Positioning lookup 20 subtable"  } []
-Lookup: 258 1 0 "Pairwise Positioning (kerning) lookup 21"  {"Pairwise Positioning (kerning) lookup 21 subtable"  } []
+Lookup: 1 0 0 "'locl' Localized Forms lookup 4" { "'locl' Localized Forms lookup 4-1"  } ['locl' ('cyrl' <'SRB ' > 'cyrl' <'MKD ' > ) ]
+Lookup: 4 1 0 "'dlig' Discretionary Ligatures in Hebrew lookup 0" { "'dlig' Discretionary Ligatures in Hebrew lookup 0 subtable"  } ['dlig' ('hebr' <'dflt' > ) ]
+Lookup: 4 1 0 "'ccmp' Glyph Composition/Decomposition in Hebrew lookup 1" { "'ccmp' Glyph Composition/Decomposition in Hebrew lookup 1 subtable"  } ['ccmp' ('hebr' <'dflt' > ) ]
+Lookup: 6 1 0 "'ccmp' Glyph Composition/Decomposition in Hebrew lookup 2" { "'ccmp' Glyph Composition/Decomposition in Hebrew lookup 2 subtable"  } ['ccmp' ('hebr' <'dflt' > ) ]
+Lookup: 4 1 0 "Ligature Substitution lookup 3" { "Ligature Substitution lookup 3 subtable"  } []
+Lookup: 260 1 0 "'mark' Mark Positioning in Hebrew lookup 0" { "'mark' Mark Positioning in Hebrew lookup 0 subtable"  } ['mark' ('hebr' <'dflt' > ) ]
+Lookup: 260 7 0 "'mark' Mark Positioning in Hebrew lookup 1" { "'mark' Mark Positioning in Hebrew lookup 1 subtable"  } ['mark' ('hebr' <'dflt' > ) ]
+Lookup: 260 1 0 "'mark' Mark Positioning in Hebrew lookup 2" { "'mark' Mark Positioning in Hebrew lookup 2 subtable"  } ['mark' ('hebr' <'dflt' > ) ]
+Lookup: 260 1 0 "'mark' Mark Positioning in Hebrew lookup 3" { "'mark' Mark Positioning in Hebrew lookup 3 subtable"  } ['mark' ('hebr' <'dflt' > ) ]
+Lookup: 260 1 0 "'mark' Mark Positioning in Hebrew lookup 4" { "'mark' Mark Positioning in Hebrew lookup 4 subtable"  } ['mark' ('hebr' <'dflt' > ) ]
+Lookup: 264 1 0 "'mark' Mark Positioning in Hebrew lookup 5" { "'mark' Mark Positioning in Hebrew lookup 5 contextual 0"  "'mark' Mark Positioning in Hebrew lookup 5 contextual 1"  "'mark' Mark Positioning in Hebrew lookup 5 contextual 2"  "'mark' Mark Positioning in Hebrew lookup 5 contextual 3"  } ['mark' ('hebr' <'dflt' > ) ]
+Lookup: 264 1 0 "'mark' Mark Positioning in Hebrew lookup 6" { "'mark' Mark Positioning in Hebrew lookup 6 contextual 0"  "'mark' Mark Positioning in Hebrew lookup 6 contextual 1"  "'mark' Mark Positioning in Hebrew lookup 6 contextual 2"  "'mark' Mark Positioning in Hebrew lookup 6 contextual 3"  } ['mark' ('hebr' <'dflt' > ) ]
+Lookup: 264 1 0 "'mark' Mark Positioning in Hebrew lookup 7" { "'mark' Mark Positioning in Hebrew lookup 7 contextual 0"  "'mark' Mark Positioning in Hebrew lookup 7 contextual 1"  "'mark' Mark Positioning in Hebrew lookup 7 contextual 2"  "'mark' Mark Positioning in Hebrew lookup 7 contextual 3"  } ['mark' ('hebr' <'dflt' > ) ]
+Lookup: 264 1 0 "'mark' Mark Positioning in Hebrew lookup 8" { "'mark' Mark Positioning in Hebrew lookup 8 contextual 0"  "'mark' Mark Positioning in Hebrew lookup 8 contextual 1"  "'mark' Mark Positioning in Hebrew lookup 8 contextual 2"  "'mark' Mark Positioning in Hebrew lookup 8 contextual 3"  } ['mark' ('hebr' <'dflt' > ) ]
+Lookup: 260 1 0 "'mark' Mark Positioning in Hebrew lookup 9" { "'mark' Mark Positioning in Hebrew lookup 9 subtable"  } ['mark' ('hebr' <'dflt' > ) ]
+Lookup: 260 1 0 "'mark' Mark Positioning in Hebrew lookup 10" { "'mark' Mark Positioning in Hebrew lookup 10 subtable"  } ['mark' ('hebr' <'dflt' > ) ]
+Lookup: 260 1 0 "'mark' Mark Positioning in Hebrew lookup 11" { "'mark' Mark Positioning in Hebrew lookup 11 subtable"  } ['mark' ('hebr' <'dflt' > ) ]
+Lookup: 264 1 0 "'mark' Mark Positioning in Hebrew lookup 12" { "'mark' Mark Positioning in Hebrew lookup 12 contextual 0"  "'mark' Mark Positioning in Hebrew lookup 12 contextual 1"  "'mark' Mark Positioning in Hebrew lookup 12 contextual 2"  "'mark' Mark Positioning in Hebrew lookup 12 contextual 3"  "'mark' Mark Positioning in Hebrew lookup 12 contextual 4"  "'mark' Mark Positioning in Hebrew lookup 12 contextual 5"  "'mark' Mark Positioning in Hebrew lookup 12 contextual 6"  "'mark' Mark Positioning in Hebrew lookup 12 contextual 7"  } ['mark' ('hebr' <'dflt' > ) ]
+Lookup: 264 1 0 "'mark' Mark Positioning in Hebrew lookup 13" { "'mark' Mark Positioning in Hebrew lookup 13 contextual 0"  "'mark' Mark Positioning in Hebrew lookup 13 contextual 1"  "'mark' Mark Positioning in Hebrew lookup 13 contextual 2"  "'mark' Mark Positioning in Hebrew lookup 13 contextual 3"  "'mark' Mark Positioning in Hebrew lookup 13 contextual 4"  "'mark' Mark Positioning in Hebrew lookup 13 contextual 5"  "'mark' Mark Positioning in Hebrew lookup 13 contextual 6"  "'mark' Mark Positioning in Hebrew lookup 13 contextual 7"  "'mark' Mark Positioning in Hebrew lookup 13 contextual 8"  "'mark' Mark Positioning in Hebrew lookup 13 contextual 9"  "'mark' Mark Positioning in Hebrew lookup 13 contextual 10"  "'mark' Mark Positioning in Hebrew lookup 13 contextual 11"  "'mark' Mark Positioning in Hebrew lookup 13 contextual 12"  } ['mark' ('hebr' <'dflt' > ) ]
+Lookup: 264 1 0 "'mark' Mark Positioning in Hebrew lookup 14" { "'mark' Mark Positioning in Hebrew lookup 14 contextual 0"  "'mark' Mark Positioning in Hebrew lookup 14 contextual 1"  } ['mark' ('hebr' <'dflt' > ) ]
+Lookup: 260 1 0 "Mark to base attachment lookup 15" { "Mark to base attachment lookup 15 subtable"  } []
+Lookup: 260 1 0 "Mark to base attachment lookup 16" { "Mark to base attachment lookup 16 subtable"  } []
+Lookup: 260 1 0 "Mark to base attachment lookup 17" { "Mark to base attachment lookup 17 subtable"  } []
+Lookup: 260 1 0 "Mark to base attachment lookup 18" { "Mark to base attachment lookup 18 subtable"  } []
+Lookup: 257 1 0 "Single Positioning lookup 19" { "Single Positioning lookup 19 subtable"  } []
+Lookup: 257 1 0 "Single Positioning lookup 20" { "Single Positioning lookup 20 subtable"  } []
+Lookup: 258 1 0 "Pairwise Positioning (kerning) lookup 21" { "Pairwise Positioning (kerning) lookup 21 subtable"  } []
 MarkAttachClasses: 1
 DEI: 91125
-ChainSub2: coverage "'ccmp' Glyph Composition/Decomposition in Hebrew lookup 2 subtable"  0 0 0 1
+ChainSub2: coverage "'ccmp' Glyph Composition/Decomposition in Hebrew lookup 2 subtable" 0 0 0 1
  2 0 1
   Coverage: 22 alef bet kaf pe yodyod
   Coverage: 17 patah qamats rafe
   FCoverage: 251 uni25CC alef bet gimel dalet he vav zayin het tet yod finalkaf kaf lamed finalmem mem finalnun nun samekh ayin finalpe pe finaltsadi tsadi qof resh shin tav vavvav vavyod yodyod alefwide daletwide hewide kafwide lamedwide finalmemwide reshwide tavwide
  1
-  SeqLookup: 0 "Ligature Substitution lookup 3" 
+  SeqLookup: 0 "Ligature Substitution lookup 3"
 EndFPST
-ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 14 contextual 1"  0 0 0 1
+ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 14 contextual 1" 0 0 0 1
  2 2 0
   Coverage: 7 uni05A4
   Coverage: 7 uni05A5
   BCoverage: 6 dagesh
   BCoverage: 4 ayin
  1
-  SeqLookup: 0 "Pairwise Positioning (kerning) lookup 21" 
+  SeqLookup: 0 "Pairwise Positioning (kerning) lookup 21"
 EndFPST
-ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 14 contextual 0"  0 0 0 1
+ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 14 contextual 0" 0 0 0 1
  2 2 0
   Coverage: 7 uni05A4
   Coverage: 7 uni05A5
   BCoverage: 5 holam
   BCoverage: 4 ayin
  1
-  SeqLookup: 0 "Pairwise Positioning (kerning) lookup 21" 
+  SeqLookup: 0 "Pairwise Positioning (kerning) lookup 21"
 EndFPST
-ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 13 contextual 12"  0 0 0 1
+ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 13 contextual 12" 0 0 0 1
  1 2 0
   Coverage: 45 uni0591 uni0596 uni05A3 uni05A4 uni05A5 meteg
   BCoverage: 5 meteg
   BCoverage: 6 qamats
  1
-  SeqLookup: 0 "Single Positioning lookup 20" 
+  SeqLookup: 0 "Single Positioning lookup 20"
 EndFPST
-ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 13 contextual 11"  0 0 0 1
+ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 13 contextual 11" 0 0 0 1
  1 2 0
   Coverage: 45 uni0591 uni0596 uni05A3 uni05A4 uni05A5 meteg
   BCoverage: 7 uni05A4
   BCoverage: 6 qamats
  1
-  SeqLookup: 0 "Single Positioning lookup 20" 
+  SeqLookup: 0 "Single Positioning lookup 20"
 EndFPST
-ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 13 contextual 10"  0 0 0 1
+ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 13 contextual 10" 0 0 0 1
  1 2 0
   Coverage: 45 uni0591 uni0596 uni05A3 uni05A4 uni05A5 meteg
   BCoverage: 7 uni05A3
   BCoverage: 6 qamats
  1
-  SeqLookup: 0 "Single Positioning lookup 20" 
+  SeqLookup: 0 "Single Positioning lookup 20"
 EndFPST
-ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 13 contextual 9"  0 0 0 1
+ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 13 contextual 9" 0 0 0 1
  1 2 0
   Coverage: 45 uni0591 uni0596 uni05A3 uni05A4 uni05A5 meteg
   BCoverage: 7 uni059A
   BCoverage: 6 qamats
  1
-  SeqLookup: 0 "Single Positioning lookup 20" 
+  SeqLookup: 0 "Single Positioning lookup 20"
 EndFPST
-ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 13 contextual 8"  0 0 0 1
+ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 13 contextual 8" 0 0 0 1
  1 2 0
   Coverage: 45 uni0591 uni0596 uni05A3 uni05A4 uni05A5 meteg
   BCoverage: 7 uni0596
   BCoverage: 6 qamats
  1
-  SeqLookup: 0 "Single Positioning lookup 20" 
+  SeqLookup: 0 "Single Positioning lookup 20"
 EndFPST
-ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 13 contextual 7"  0 0 0 1
+ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 13 contextual 7" 0 0 0 1
  1 2 0
   Coverage: 45 uni0591 uni0596 uni05A3 uni05A4 uni05A5 meteg
   BCoverage: 5 hiriq
   BCoverage: 6 qamats
  1
-  SeqLookup: 0 "Single Positioning lookup 20" 
+  SeqLookup: 0 "Single Positioning lookup 20"
 EndFPST
-ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 13 contextual 6"  0 0 0 1
+ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 13 contextual 6" 0 0 0 1
  1 2 0
   Coverage: 45 uni0591 uni0596 uni05A3 uni05A4 uni05A5 meteg
   BCoverage: 5 sheva
   BCoverage: 6 qamats
  1
-  SeqLookup: 0 "Single Positioning lookup 20" 
+  SeqLookup: 0 "Single Positioning lookup 20"
 EndFPST
-ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 13 contextual 5"  0 0 0 1
+ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 13 contextual 5" 0 0 0 1
  1 2 0
   Coverage: 45 uni0591 uni0596 uni05A3 uni05A4 uni05A5 meteg
   BCoverage: 7 uni0596
   BCoverage: 5 patah
  1
-  SeqLookup: 0 "Single Positioning lookup 20" 
+  SeqLookup: 0 "Single Positioning lookup 20"
 EndFPST
-ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 13 contextual 4"  0 0 0 1
+ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 13 contextual 4" 0 0 0 1
  1 2 0
   Coverage: 45 uni0591 uni0596 uni05A3 uni05A4 uni05A5 meteg
   BCoverage: 7 uni059A
   BCoverage: 5 segol
  1
-  SeqLookup: 0 "Single Positioning lookup 20" 
+  SeqLookup: 0 "Single Positioning lookup 20"
 EndFPST
-ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 13 contextual 3"  0 0 0 1
+ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 13 contextual 3" 0 0 0 1
  1 2 0
   Coverage: 45 uni0591 uni0596 uni05A3 uni05A4 uni05A5 meteg
   BCoverage: 7 uni05A3
   BCoverage: 5 segol
  1
-  SeqLookup: 0 "Single Positioning lookup 20" 
+  SeqLookup: 0 "Single Positioning lookup 20"
 EndFPST
-ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 13 contextual 2"  0 0 0 1
+ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 13 contextual 2" 0 0 0 1
  1 2 0
   Coverage: 45 uni0591 uni0596 uni05A3 uni05A4 uni05A5 meteg
   BCoverage: 5 meteg
   BCoverage: 5 tsere
  1
-  SeqLookup: 0 "Single Positioning lookup 20" 
+  SeqLookup: 0 "Single Positioning lookup 20"
 EndFPST
-ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 13 contextual 1"  0 0 0 1
+ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 13 contextual 1" 0 0 0 1
  1 2 0
   Coverage: 45 uni0591 uni0596 uni05A3 uni05A4 uni05A5 meteg
   BCoverage: 7 uni05A3
   BCoverage: 5 tsere
  1
-  SeqLookup: 0 "Single Positioning lookup 20" 
+  SeqLookup: 0 "Single Positioning lookup 20"
 EndFPST
-ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 13 contextual 0"  0 0 0 1
+ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 13 contextual 0" 0 0 0 1
  1 2 0
   Coverage: 45 uni0591 uni0596 uni05A3 uni05A4 uni05A5 meteg
   BCoverage: 5 meteg
   BCoverage: 5 hiriq
  1
-  SeqLookup: 0 "Single Positioning lookup 20" 
+  SeqLookup: 0 "Single Positioning lookup 20"
 EndFPST
-ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 12 contextual 7"  0 0 0 1
+ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 12 contextual 7" 0 0 0 1
  1 2 0
   Coverage: 15 uni059A uni05AD
   BCoverage: 5 meteg
   BCoverage: 195 gimel dalet vav zayin yod lamed nun resh daletwide lamedwide reshwide gimeldagesh daletdagesh vavdagesh zayindagesh yoddagesh lameddagesh nundagesh reshdagesh vavholam lamedholamdagesh lamedholam
  1
-  SeqLookup: 0 "Single Positioning lookup 19" 
+  SeqLookup: 0 "Single Positioning lookup 19"
 EndFPST
-ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 12 contextual 6"  0 0 0 1
+ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 12 contextual 6" 0 0 0 1
  1 3 0
   Coverage: 15 uni059A uni05AD
   BCoverage: 5 meteg
   BCoverage: 6 qamats
   BCoverage: 195 gimel dalet vav zayin yod lamed nun resh daletwide lamedwide reshwide gimeldagesh daletdagesh vavdagesh zayindagesh yoddagesh lameddagesh nundagesh reshdagesh vavholam lamedholamdagesh lamedholam
  1
-  SeqLookup: 0 "Single Positioning lookup 19" 
+  SeqLookup: 0 "Single Positioning lookup 19"
 EndFPST
-ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 12 contextual 5"  0 0 0 1
+ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 12 contextual 5" 0 0 0 1
  1 3 0
   Coverage: 15 uni059A uni05AD
   BCoverage: 5 meteg
   BCoverage: 5 patah
   BCoverage: 195 gimel dalet vav zayin yod lamed nun resh daletwide lamedwide reshwide gimeldagesh daletdagesh vavdagesh zayindagesh yoddagesh lameddagesh nundagesh reshdagesh vavholam lamedholamdagesh lamedholam
  1
-  SeqLookup: 0 "Single Positioning lookup 19" 
+  SeqLookup: 0 "Single Positioning lookup 19"
 EndFPST
-ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 12 contextual 4"  0 0 0 1
+ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 12 contextual 4" 0 0 0 1
  1 3 0
   Coverage: 15 uni059A uni05AD
   BCoverage: 5 meteg
   BCoverage: 5 tsere
   BCoverage: 195 gimel dalet vav zayin yod lamed nun resh daletwide lamedwide reshwide gimeldagesh daletdagesh vavdagesh zayindagesh yoddagesh lameddagesh nundagesh reshdagesh vavholam lamedholamdagesh lamedholam
  1
-  SeqLookup: 0 "Single Positioning lookup 19" 
+  SeqLookup: 0 "Single Positioning lookup 19"
 EndFPST
-ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 12 contextual 3"  0 0 0 1
+ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 12 contextual 3" 0 0 0 1
  1 3 0
   Coverage: 15 uni059A uni05AD
   BCoverage: 5 meteg
   BCoverage: 5 hiriq
   BCoverage: 195 gimel dalet vav zayin yod lamed nun resh daletwide lamedwide reshwide gimeldagesh daletdagesh vavdagesh zayindagesh yoddagesh lameddagesh nundagesh reshdagesh vavholam lamedholamdagesh lamedholam
  1
-  SeqLookup: 0 "Single Positioning lookup 19" 
+  SeqLookup: 0 "Single Positioning lookup 19"
 EndFPST
-ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 12 contextual 2"  0 0 0 1
+ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 12 contextual 2" 0 0 0 1
  1 3 0
   Coverage: 15 uni059A uni05AD
   BCoverage: 5 meteg
   BCoverage: 5 sheva
   BCoverage: 195 gimel dalet vav zayin yod lamed nun resh daletwide lamedwide reshwide gimeldagesh daletdagesh vavdagesh zayindagesh yoddagesh lameddagesh nundagesh reshdagesh vavholam lamedholamdagesh lamedholam
  1
-  SeqLookup: 0 "Single Positioning lookup 19" 
+  SeqLookup: 0 "Single Positioning lookup 19"
 EndFPST
-ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 12 contextual 1"  0 0 0 1
+ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 12 contextual 1" 0 0 0 1
  1 3 0
   Coverage: 15 uni059A uni05AD
   BCoverage: 5 hiriq
   BCoverage: 5 sheva
   BCoverage: 195 gimel dalet vav zayin yod lamed nun resh daletwide lamedwide reshwide gimeldagesh daletdagesh vavdagesh zayindagesh yoddagesh lameddagesh nundagesh reshdagesh vavholam lamedholamdagesh lamedholam
  1
-  SeqLookup: 0 "Single Positioning lookup 19" 
+  SeqLookup: 0 "Single Positioning lookup 19"
 EndFPST
-ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 12 contextual 0"  0 0 0 1
+ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 12 contextual 0" 0 0 0 1
  1 2 0
   Coverage: 15 uni059A uni05AD
   BCoverage: 131 sheva hatafsegol hatafpatah hatafqamats hiriq tsere segol patah qamats qubuts meteg qamatsqatan uni05B105BD uni05B205BD uni05B305BD
   BCoverage: 195 gimel dalet vav zayin yod lamed nun resh daletwide lamedwide reshwide gimeldagesh daletdagesh vavdagesh zayindagesh yoddagesh lameddagesh nundagesh reshdagesh vavholam lamedholamdagesh lamedholam
  1
-  SeqLookup: 0 "Single Positioning lookup 19" 
+  SeqLookup: 0 "Single Positioning lookup 19"
 EndFPST
-ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 8 contextual 3"  0 0 0 1
+ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 8 contextual 3" 0 0 0 1
  1 2 0
   Coverage: 211 uni0591 uni0596 uni059B uni05A2 uni05A3 uni05A4 uni05A5 uni05A6 uni05A7 uni05AA sheva hatafsegol hatafpatah hatafqamats hiriq tsere segol patah qamats qubuts meteg qamatsqatan uni05B105BD uni05B205BD uni05B305BD
   BCoverage: 79 uni0591 uni0596 uni059B uni05A2 uni05A3 uni05A4 uni05A5 uni05A6 uni05A7 uni05AA
   BCoverage: 422 yodyod_patah shinshindot shinsindot shindageshshindot shindageshsindot alefpatah alefqamats alefmapiq betdagesh gimeldagesh daletdagesh hedagesh vavdagesh zayindagesh tetdagesh yoddagesh finalkafdagesh kafdagesh lameddagesh memdagesh nundagesh samekhdagesh finalpedagesh pedagesh tsadidagesh qofdagesh reshdagesh shindagesh tavdagesh vavholam betrafe kafrafe perafe lamedholamdagesh lamedholam finalkafqamats finalkafsheva
  1
-  SeqLookup: 0 "Mark to base attachment lookup 18" 
+  SeqLookup: 0 "Mark to base attachment lookup 18"
 EndFPST
-ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 8 contextual 2"  0 0 0 1
+ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 8 contextual 2" 0 0 0 1
  1 2 0
   Coverage: 211 uni0591 uni0596 uni059B uni05A2 uni05A3 uni05A4 uni05A5 uni05A6 uni05A7 uni05AA sheva hatafsegol hatafpatah hatafqamats hiriq tsere segol patah qamats qubuts meteg qamatsqatan uni05B105BD uni05B205BD uni05B305BD
   BCoverage: 131 sheva hatafsegol hatafpatah hatafqamats hiriq tsere segol patah qamats qubuts meteg qamatsqatan uni05B105BD uni05B205BD uni05B305BD
   BCoverage: 422 yodyod_patah shinshindot shinsindot shindageshshindot shindageshsindot alefpatah alefqamats alefmapiq betdagesh gimeldagesh daletdagesh hedagesh vavdagesh zayindagesh tetdagesh yoddagesh finalkafdagesh kafdagesh lameddagesh memdagesh nundagesh samekhdagesh finalpedagesh pedagesh tsadidagesh qofdagesh reshdagesh shindagesh tavdagesh vavholam betrafe kafrafe perafe lamedholamdagesh lamedholam finalkafqamats finalkafsheva
  1
-  SeqLookup: 0 "Mark to base attachment lookup 18" 
+  SeqLookup: 0 "Mark to base attachment lookup 18"
 EndFPST
-ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 8 contextual 1"  0 0 0 1
+ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 8 contextual 1" 0 0 0 1
  1 2 0
   Coverage: 211 uni0591 uni0596 uni059B uni05A2 uni05A3 uni05A4 uni05A5 uni05A6 uni05A7 uni05AA sheva hatafsegol hatafpatah hatafqamats hiriq tsere segol patah qamats qubuts meteg qamatsqatan uni05B105BD uni05B205BD uni05B305BD
   BCoverage: 79 uni0591 uni0596 uni059B uni05A2 uni05A3 uni05A4 uni05A5 uni05A6 uni05A7 uni05AA
   BCoverage: 251 uni25CC alef bet gimel dalet he vav zayin het tet yod finalkaf kaf lamed finalmem mem finalnun nun samekh ayin finalpe pe finaltsadi tsadi qof resh shin tav vavvav vavyod yodyod alefwide daletwide hewide kafwide lamedwide finalmemwide reshwide tavwide
  1
-  SeqLookup: 0 "Mark to base attachment lookup 18" 
+  SeqLookup: 0 "Mark to base attachment lookup 18"
 EndFPST
-ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 8 contextual 0"  0 0 0 1
+ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 8 contextual 0" 0 0 0 1
  1 2 0
   Coverage: 211 uni0591 uni0596 uni059B uni05A2 uni05A3 uni05A4 uni05A5 uni05A6 uni05A7 uni05AA sheva hatafsegol hatafpatah hatafqamats hiriq tsere segol patah qamats qubuts meteg qamatsqatan uni05B105BD uni05B205BD uni05B305BD
   BCoverage: 131 sheva hatafsegol hatafpatah hatafqamats hiriq tsere segol patah qamats qubuts meteg qamatsqatan uni05B105BD uni05B205BD uni05B305BD
   BCoverage: 251 uni25CC alef bet gimel dalet he vav zayin het tet yod finalkaf kaf lamed finalmem mem finalnun nun samekh ayin finalpe pe finaltsadi tsadi qof resh shin tav vavvav vavyod yodyod alefwide daletwide hewide kafwide lamedwide finalmemwide reshwide tavwide
  1
-  SeqLookup: 0 "Mark to base attachment lookup 18" 
+  SeqLookup: 0 "Mark to base attachment lookup 18"
 EndFPST
-ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 7 contextual 3"  0 0 0 1
+ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 7 contextual 3" 0 0 0 1
  1 1 1
   Coverage: 111 uni0592 uni0593 uni0594 uni0595 uni0597 uni0598 uni059C uni059E uni059F uni05A1 uni05A8 uni05AB uni05AC uni05AF
   BCoverage: 422 yodyod_patah shinshindot shinsindot shindageshshindot shindageshsindot alefpatah alefqamats alefmapiq betdagesh gimeldagesh daletdagesh hedagesh vavdagesh zayindagesh tetdagesh yoddagesh finalkafdagesh kafdagesh lameddagesh memdagesh nundagesh samekhdagesh finalpedagesh pedagesh tsadidagesh qofdagesh reshdagesh shindagesh tavdagesh vavholam betrafe kafrafe perafe lamedholamdagesh lamedholam finalkafqamats finalkafsheva
   FCoverage: 12 rafe uniFB1E
  1
-  SeqLookup: 0 "Mark to base attachment lookup 17" 
+  SeqLookup: 0 "Mark to base attachment lookup 17"
 EndFPST
-ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 7 contextual 2"  0 0 0 1
+ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 7 contextual 2" 0 0 0 1
  1 2 0
   Coverage: 111 uni0592 uni0593 uni0594 uni0595 uni0597 uni0598 uni059C uni059E uni059F uni05A1 uni05A8 uni05AB uni05AC uni05AF
   BCoverage: 12 rafe uniFB1E
   BCoverage: 422 yodyod_patah shinshindot shinsindot shindageshshindot shindageshsindot alefpatah alefqamats alefmapiq betdagesh gimeldagesh daletdagesh hedagesh vavdagesh zayindagesh tetdagesh yoddagesh finalkafdagesh kafdagesh lameddagesh memdagesh nundagesh samekhdagesh finalpedagesh pedagesh tsadidagesh qofdagesh reshdagesh shindagesh tavdagesh vavholam betrafe kafrafe perafe lamedholamdagesh lamedholam finalkafqamats finalkafsheva
  1
-  SeqLookup: 0 "Mark to base attachment lookup 17" 
+  SeqLookup: 0 "Mark to base attachment lookup 17"
 EndFPST
-ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 7 contextual 1"  0 0 0 1
+ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 7 contextual 1" 0 0 0 1
  1 1 1
   Coverage: 111 uni0592 uni0593 uni0594 uni0595 uni0597 uni0598 uni059C uni059E uni059F uni05A1 uni05A8 uni05AB uni05AC uni05AF
   BCoverage: 251 uni25CC alef bet gimel dalet he vav zayin het tet yod finalkaf kaf lamed finalmem mem finalnun nun samekh ayin finalpe pe finaltsadi tsadi qof resh shin tav vavvav vavyod yodyod alefwide daletwide hewide kafwide lamedwide finalmemwide reshwide tavwide
   FCoverage: 12 rafe uniFB1E
  1
-  SeqLookup: 0 "Mark to base attachment lookup 17" 
+  SeqLookup: 0 "Mark to base attachment lookup 17"
 EndFPST
-ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 7 contextual 0"  0 0 0 1
+ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 7 contextual 0" 0 0 0 1
  1 2 0
   Coverage: 111 uni0592 uni0593 uni0594 uni0595 uni0597 uni0598 uni059C uni059E uni059F uni05A1 uni05A8 uni05AB uni05AC uni05AF
   BCoverage: 12 rafe uniFB1E
   BCoverage: 251 uni25CC alef bet gimel dalet he vav zayin het tet yod finalkaf kaf lamed finalmem mem finalnun nun samekh ayin finalpe pe finaltsadi tsadi qof resh shin tav vavvav vavyod yodyod alefwide daletwide hewide kafwide lamedwide finalmemwide reshwide tavwide
  1
-  SeqLookup: 0 "Mark to base attachment lookup 17" 
+  SeqLookup: 0 "Mark to base attachment lookup 17"
 EndFPST
-ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 6 contextual 3"  0 0 0 1
+ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 6 contextual 3" 0 0 0 1
  1 1 1
   Coverage: 211 uni0591 uni0596 uni059B uni05A2 uni05A3 uni05A4 uni05A5 uni05A6 uni05A7 uni05AA sheva hatafsegol hatafpatah hatafqamats hiriq tsere segol patah qamats qubuts meteg qamatsqatan uni05B105BD uni05B205BD uni05B305BD
   BCoverage: 422 yodyod_patah shinshindot shinsindot shindageshshindot shindageshsindot alefpatah alefqamats alefmapiq betdagesh gimeldagesh daletdagesh hedagesh vavdagesh zayindagesh tetdagesh yoddagesh finalkafdagesh kafdagesh lameddagesh memdagesh nundagesh samekhdagesh finalpedagesh pedagesh tsadidagesh qofdagesh reshdagesh shindagesh tavdagesh vavholam betrafe kafrafe perafe lamedholamdagesh lamedholam finalkafqamats finalkafsheva
   FCoverage: 79 uni0591 uni0596 uni059B uni05A2 uni05A3 uni05A4 uni05A5 uni05A6 uni05A7 uni05AA
  1
-  SeqLookup: 0 "Mark to base attachment lookup 16" 
+  SeqLookup: 0 "Mark to base attachment lookup 16"
 EndFPST
-ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 6 contextual 2"  0 0 0 1
+ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 6 contextual 2" 0 0 0 1
  1 1 1
   Coverage: 211 uni0591 uni0596 uni059B uni05A2 uni05A3 uni05A4 uni05A5 uni05A6 uni05A7 uni05AA sheva hatafsegol hatafpatah hatafqamats hiriq tsere segol patah qamats qubuts meteg qamatsqatan uni05B105BD uni05B205BD uni05B305BD
   BCoverage: 422 yodyod_patah shinshindot shinsindot shindageshshindot shindageshsindot alefpatah alefqamats alefmapiq betdagesh gimeldagesh daletdagesh hedagesh vavdagesh zayindagesh tetdagesh yoddagesh finalkafdagesh kafdagesh lameddagesh memdagesh nundagesh samekhdagesh finalpedagesh pedagesh tsadidagesh qofdagesh reshdagesh shindagesh tavdagesh vavholam betrafe kafrafe perafe lamedholamdagesh lamedholam finalkafqamats finalkafsheva
   FCoverage: 131 sheva hatafsegol hatafpatah hatafqamats hiriq tsere segol patah qamats qubuts meteg qamatsqatan uni05B105BD uni05B205BD uni05B305BD
  1
-  SeqLookup: 0 "Mark to base attachment lookup 16" 
+  SeqLookup: 0 "Mark to base attachment lookup 16"
 EndFPST
-ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 6 contextual 1"  0 0 0 1
+ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 6 contextual 1" 0 0 0 1
  1 1 1
   Coverage: 211 uni0591 uni0596 uni059B uni05A2 uni05A3 uni05A4 uni05A5 uni05A6 uni05A7 uni05AA sheva hatafsegol hatafpatah hatafqamats hiriq tsere segol patah qamats qubuts meteg qamatsqatan uni05B105BD uni05B205BD uni05B305BD
   BCoverage: 251 uni25CC alef bet gimel dalet he vav zayin het tet yod finalkaf kaf lamed finalmem mem finalnun nun samekh ayin finalpe pe finaltsadi tsadi qof resh shin tav vavvav vavyod yodyod alefwide daletwide hewide kafwide lamedwide finalmemwide reshwide tavwide
   FCoverage: 131 sheva hatafsegol hatafpatah hatafqamats hiriq tsere segol patah qamats qubuts meteg qamatsqatan uni05B105BD uni05B205BD uni05B305BD
  1
-  SeqLookup: 0 "Mark to base attachment lookup 16" 
+  SeqLookup: 0 "Mark to base attachment lookup 16"
 EndFPST
-ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 6 contextual 0"  0 0 0 1
+ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 6 contextual 0" 0 0 0 1
  1 1 1
   Coverage: 211 uni0591 uni0596 uni059B uni05A2 uni05A3 uni05A4 uni05A5 uni05A6 uni05A7 uni05AA sheva hatafsegol hatafpatah hatafqamats hiriq tsere segol patah qamats qubuts meteg qamatsqatan uni05B105BD uni05B205BD uni05B305BD
   BCoverage: 251 uni25CC alef bet gimel dalet he vav zayin het tet yod finalkaf kaf lamed finalmem mem finalnun nun samekh ayin finalpe pe finaltsadi tsadi qof resh shin tav vavvav vavyod yodyod alefwide daletwide hewide kafwide lamedwide finalmemwide reshwide tavwide
   FCoverage: 79 uni0591 uni0596 uni059B uni05A2 uni05A3 uni05A4 uni05A5 uni05A6 uni05A7 uni05AA
  1
-  SeqLookup: 0 "Mark to base attachment lookup 16" 
+  SeqLookup: 0 "Mark to base attachment lookup 16"
 EndFPST
-ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 5 contextual 3"  0 0 0 1
+ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 5 contextual 3" 0 0 0 1
  1 2 0
   Coverage: 12 rafe uniFB1E
   BCoverage: 111 uni0592 uni0593 uni0594 uni0595 uni0597 uni0598 uni059C uni059E uni059F uni05A1 uni05A8 uni05AB uni05AC uni05AF
   BCoverage: 422 yodyod_patah shinshindot shinsindot shindageshshindot shindageshsindot alefpatah alefqamats alefmapiq betdagesh gimeldagesh daletdagesh hedagesh vavdagesh zayindagesh tetdagesh yoddagesh finalkafdagesh kafdagesh lameddagesh memdagesh nundagesh samekhdagesh finalpedagesh pedagesh tsadidagesh qofdagesh reshdagesh shindagesh tavdagesh vavholam betrafe kafrafe perafe lamedholamdagesh lamedholam finalkafqamats finalkafsheva
  1
-  SeqLookup: 0 "Mark to base attachment lookup 15" 
+  SeqLookup: 0 "Mark to base attachment lookup 15"
 EndFPST
-ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 5 contextual 2"  0 0 0 1
+ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 5 contextual 2" 0 0 0 1
  1 1 1
   Coverage: 12 rafe uniFB1E
   BCoverage: 422 yodyod_patah shinshindot shinsindot shindageshshindot shindageshsindot alefpatah alefqamats alefmapiq betdagesh gimeldagesh daletdagesh hedagesh vavdagesh zayindagesh tetdagesh yoddagesh finalkafdagesh kafdagesh lameddagesh memdagesh nundagesh samekhdagesh finalpedagesh pedagesh tsadidagesh qofdagesh reshdagesh shindagesh tavdagesh vavholam betrafe kafrafe perafe lamedholamdagesh lamedholam finalkafqamats finalkafsheva
   FCoverage: 111 uni0592 uni0593 uni0594 uni0595 uni0597 uni0598 uni059C uni059E uni059F uni05A1 uni05A8 uni05AB uni05AC uni05AF
  1
-  SeqLookup: 0 "Mark to base attachment lookup 15" 
+  SeqLookup: 0 "Mark to base attachment lookup 15"
 EndFPST
-ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 5 contextual 1"  0 0 0 1
+ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 5 contextual 1" 0 0 0 1
  1 2 0
   Coverage: 12 rafe uniFB1E
   BCoverage: 111 uni0592 uni0593 uni0594 uni0595 uni0597 uni0598 uni059C uni059E uni059F uni05A1 uni05A8 uni05AB uni05AC uni05AF
   BCoverage: 251 uni25CC alef bet gimel dalet he vav zayin het tet yod finalkaf kaf lamed finalmem mem finalnun nun samekh ayin finalpe pe finaltsadi tsadi qof resh shin tav vavvav vavyod yodyod alefwide daletwide hewide kafwide lamedwide finalmemwide reshwide tavwide
  1
-  SeqLookup: 0 "Mark to base attachment lookup 15" 
+  SeqLookup: 0 "Mark to base attachment lookup 15"
 EndFPST
-ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 5 contextual 0"  0 0 0 1
+ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 5 contextual 0" 0 0 0 1
  1 1 1
   Coverage: 12 rafe uniFB1E
   BCoverage: 251 uni25CC alef bet gimel dalet he vav zayin het tet yod finalkaf kaf lamed finalmem mem finalnun nun samekh ayin finalpe pe finaltsadi tsadi qof resh shin tav vavvav vavyod yodyod alefwide daletwide hewide kafwide lamedwide finalmemwide reshwide tavwide
   FCoverage: 111 uni0592 uni0593 uni0594 uni0595 uni0597 uni0598 uni059C uni059E uni059F uni05A1 uni05A8 uni05AB uni05AC uni05AF
  1
-  SeqLookup: 0 "Mark to base attachment lookup 15" 
+  SeqLookup: 0 "Mark to base attachment lookup 15"
 EndFPST
 TtTable: prep
 NPUSHW
@@ -4110,7 +4111,7 @@ ShortTable: maxp 16
   3
   1
 EndShort
-LangName: 1033 "" "" "" "Ascender - Liberation Mono" "" "Version 2.00.3" "" "Liberation is a trademark of Red Hat, Inc. registered in U.S. Patent and Trademark Office and certain other jurisdictions." "Ascender Corporation" "Steve Matteson" "Based on Cousine, which was designed by Steve Matteson as an innovative, refreshing sans serif design that is metrically compatible with Courier New+ISIA. Cousine offers improved on-screen readability characteristics and the pan-European WGL character set and solves the needs of developers looking for width-compatible fonts to address document portability across platforms." "http://www.ascendercorp.com/" "http://www.ascendercorp.com/typedesigners.html" "Licensed under the SIL Open Font License, Version 1.1" "http://scripts.sil.org/OFL" 
+LangName: 1033 "" "" "" "Ascender - Liberation Mono" "" "Version 2.00.3" "" "Liberation is a trademark of Red Hat, Inc. registered in U.S. Patent and Trademark Office and certain other jurisdictions." "Ascender Corporation" "Steve Matteson" "Based on Cousine, which was designed by Steve Matteson as an innovative, refreshing sans serif design that is metrically compatible with Courier New+ISIA. Cousine offers improved on-screen readability characteristics and the pan-European WGL character set and solves the needs of developers looking for width-compatible fonts to address document portability across platforms." "http://www.ascendercorp.com/" "http://www.ascendercorp.com/typedesigners.html" "Licensed under the SIL Open Font License, Version 1.1" "http://scripts.sil.org/OFL"
 GaspTable: 3 8 2 17 1 65535 3 0
 Encoding: UnicodeBmp
 Compacted: 1
@@ -4119,11 +4120,11 @@ NameList: Adobe Glyph List
 DisplaySize: -36
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 8140 44 17
+WinInfo: 0 34 12
 BeginPrivate: 0
 EndPrivate
 TeXData: 1 0 -562637 629248 314624 209749 553984 -1048576 209749 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
-AnchorClass2: "Anchor-0"  "'mark' Mark Positioning in Hebrew lookup 0 subtable" "Anchor-1"  "'mark' Mark Positioning in Hebrew lookup 1 subtable" "Anchor-2"  "'mark' Mark Positioning in Hebrew lookup 2 subtable" "Anchor-3"  "'mark' Mark Positioning in Hebrew lookup 3 subtable" "Anchor-4"  "'mark' Mark Positioning in Hebrew lookup 3 subtable" "Anchor-5"  "'mark' Mark Positioning in Hebrew lookup 4 subtable" "Anchor-6"  "'mark' Mark Positioning in Hebrew lookup 4 subtable" "Anchor-7"  "'mark' Mark Positioning in Hebrew lookup 9 subtable" "Anchor-8"  "'mark' Mark Positioning in Hebrew lookup 10 subtable" "Anchor-9"  "'mark' Mark Positioning in Hebrew lookup 11 subtable" "Anchor-10"  "Mark to base attachment lookup 15 subtable" "Anchor-11"  "Mark to base attachment lookup 16 subtable" "Anchor-12"  "Mark to base attachment lookup 17 subtable" "Anchor-13"  "Mark to base attachment lookup 18 subtable" 
+AnchorClass2: "Anchor-0" "'mark' Mark Positioning in Hebrew lookup 0 subtable" "Anchor-1" "'mark' Mark Positioning in Hebrew lookup 1 subtable" "Anchor-2" "'mark' Mark Positioning in Hebrew lookup 2 subtable" "Anchor-3" "'mark' Mark Positioning in Hebrew lookup 3 subtable" "Anchor-4" "'mark' Mark Positioning in Hebrew lookup 3 subtable" "Anchor-5" "'mark' Mark Positioning in Hebrew lookup 4 subtable" "Anchor-6" "'mark' Mark Positioning in Hebrew lookup 4 subtable" "Anchor-7" "'mark' Mark Positioning in Hebrew lookup 9 subtable" "Anchor-8" "'mark' Mark Positioning in Hebrew lookup 10 subtable" "Anchor-9" "'mark' Mark Positioning in Hebrew lookup 11 subtable" "Anchor-10" "Mark to base attachment lookup 15 subtable" "Anchor-11" "Mark to base attachment lookup 16 subtable" "Anchor-12" "Mark to base attachment lookup 17 subtable" "Anchor-13" "Mark to base attachment lookup 18 subtable"
 BeginChars: 65656 2397
 
 StartChar: .notdef
@@ -55109,7 +55110,7 @@ SplineSet
  392 120 392 120 536 120 c 0,51,52
  731 120 731 120 833 206.5 c 128,-1,53
  935 293 935 293 935 451 c 0,41,42
-273 1349 m 0,54,-1
+273 1349 m 1024,54,-1
 EndSplineSet
 EndChar
 
