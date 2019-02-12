@@ -11,25 +11,36 @@
   * fontforge is installed.
     (http://fontforge.sourceforge.net)
 
+  * python fonttools
+    (https://pypi.org/project/fonttools/)
 
    3. Install
   ============
 
-  3.1 Decompress tarball
+  3.1 Get sources
 
-    You can extract the files by following command:
+    The latest sources are available via github by checking out
+    the repo:
+
+       $ git clone https://github.com/liberationfonts/liberation-fonts
+
+    Or downloading the tar.gz file via [github](https://github.com/liberationfonts/liberation-fonts/tags).
+    For example 2.004 can be retrieved via:
+
+       $ wget https://github.com/liberationfonts/liberation-fonts/files/2579282/liberation-fonts-2.00.4.tar.gz
+
+    You can extract the files using the following command where VERSION=2.00.4:
 
       $ tar zxvf liberation-fonts-[VERSION].tar.gz
 
   3.2 Build from the source
 
-    Change into directory liberation-fonts-[VERSION]/ and build from sources by 
-    following commands:
+    Change into directory `liberation-fonts/` or `liberation-fonts-[VERSION]/` and build with
+    `make`:
 
-      $ cd liberation-fonts-[VERSION]
       $ make
 
-    The built font files will be available in 'build' directory.
+    The built font files will be available in 'liberation-fonts-ttf-[VERSION]' directory.
 
   3.3 Install to system
 
