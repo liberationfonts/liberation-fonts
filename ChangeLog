@@ -1,3 +1,9 @@
+* Tue Feb 19 2019 Vishal Vijayraghavan <vishalvijayraghavan@gmail.com>
+- Resolved issue-10: Improving lowercase Cyrillic glyps localized for Macedonian and Serbian, Patch fix by Dimitrij Mijoski
+- Resolved #1014357: U+266B incorrect glyph with extra beam
+-- Added two new glyphs U+266C and U+2669
+- Resolved issue-13: COMBINING LONG SOLIDUS OVERLAY (U+0338) not centred on base character. 
+
 * Mon Nov 05 2018 Vishal Vijayraghavan <vishalvijayraghavan@gmail.com>
 - Releasing liberation-fonts 2.00.4 version, it includes few bug fixes and enhancements as follows:
 -- Added Bitcoin sign #1533798 

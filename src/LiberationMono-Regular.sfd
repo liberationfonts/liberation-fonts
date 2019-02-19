@@ -20,7 +20,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1277020711
-ModificationTime: 1399881351
+ModificationTime: 1550583379
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -3935,18 +3935,17 @@ EndShort
 LangName: 1033 "" "" "Regular" "Ascender - Liberation Mono" "" "Version 2.00.3" "" "Liberation is a trademark of Red Hat, Inc. registered in U.S. Patent and Trademark Office and certain other jurisdictions." "Ascender Corporation" "Steve Matteson" "Based on Cousine, which was designed by Steve Matteson as an innovative, refreshing sans serif design that is metrically compatible with Courier New+ISIA. Cousine offers improved on-screen readability characteristics and the pan-European WGL character set and solves the needs of developers looking for width-compatible fonts to address document portability across platforms." "http://www.ascendercorp.com/" "http://www.ascendercorp.com/typedesigners.html" "Licensed under the SIL Open Font License, Version 1.1" "http://scripts.sil.org/OFL"
 GaspTable: 3 8 2 17 1 65535 3 0
 Encoding: UnicodeBmp
-Compacted: 1
 UnicodeInterp: none
 NameList: Adobe Glyph List
 DisplaySize: -36
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 0 34 12
+WinInfo: 8738 34 12
 BeginPrivate: 0
 EndPrivate
 TeXData: 1 0 0 629248 314624 209749 553984 -1048576 209749 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
 AnchorClass2: "Anchor-0" "'mark' Mark Positioning in Hebrew lookup 0 subtable" "Anchor-1" "'mark' Mark Positioning in Hebrew lookup 1 subtable" "Anchor-2" "'mark' Mark Positioning in Hebrew lookup 2 subtable" "Anchor-3" "'mark' Mark Positioning in Hebrew lookup 3 subtable" "Anchor-4" "'mark' Mark Positioning in Hebrew lookup 3 subtable" "Anchor-5" "'mark' Mark Positioning in Hebrew lookup 4 subtable" "Anchor-6" "'mark' Mark Positioning in Hebrew lookup 4 subtable" "Anchor-7" "'mark' Mark Positioning in Hebrew lookup 9 subtable" "Anchor-8" "'mark' Mark Positioning in Hebrew lookup 10 subtable" "Anchor-9" "'mark' Mark Positioning in Hebrew lookup 11 subtable" "Anchor-10" "Mark to base attachment lookup 15 subtable" "Anchor-11" "Mark to base attachment lookup 16 subtable" "Anchor-12" "Mark to base attachment lookup 17 subtable" "Anchor-13" "Mark to base attachment lookup 18 subtable"
-BeginChars: 65654 2395
+BeginChars: 65654 2398
 
 StartChar: .notdef
 Encoding: 65536 -1 0
@@ -27912,21 +27911,21 @@ EndTTInstrs
 LayerCount: 2
 Fore
 SplineSet
-116 956 m 1,0,-1
- 116 1104 l 1,1,-1
- 1111 1104 l 1,2,-1
- 1111 956 l 1,3,-1
- 116 956 l 1,0,-1
-116 244 m 1,4,-1
- 116 392 l 1,5,-1
- 1111 392 l 1,6,-1
- 1111 244 l 1,7,-1
- 116 244 l 1,4,-1
-116 600 m 1,8,-1
- 116 748 l 1,9,-1
- 1111 748 l 1,10,-1
- 1111 600 l 1,11,-1
- 116 600 l 1,8,-1
+116 956 m 5,0,-1
+ 116 1104 l 5,1,-1
+ 1111 1104 l 5,2,-1
+ 1111 956 l 5,3,-1
+ 116 956 l 5,0,-1
+116 244 m 5,4,-1
+ 116 392 l 5,5,-1
+ 1111 392 l 5,6,-1
+ 1111 244 l 5,7,-1
+ 116 244 l 5,4,-1
+116 600 m 5,8,-1
+ 116 748 l 5,9,-1
+ 1111 748 l 5,10,-1
+ 1111 600 l 5,11,-1
+ 116 600 l 5,8,-1
 EndSplineSet
 EndChar
 
@@ -35777,35 +35776,37 @@ EndTTInstrs
 LayerCount: 2
 Fore
 SplineSet
-788 272 m 1,0,1
- 823 310 823 310 843.5 367.5 c 128,-1,2
- 864 425 864 425 864 490 c 0,3,4
- 864 594 864 594 809 676.5 c 128,-1,5
- 754 759 754 759 664 789 c 1,6,-1
- 664 191 l 2,7,8
- 664 123 664 123 596 73.5 c 128,-1,9
- 528 24 528 24 442 24 c 0,10,11
- 373 24 373 24 327.5 58 c 128,-1,12
- 282 92 282 92 282 148 c 0,13,14
- 282 213 282 213 350.5 263 c 128,-1,15
- 419 313 419 313 502 313 c 0,16,17
- 560 313 560 313 602 290 c 1,18,-1
- 602 1126 l 1,19,-1
- 640 1126 l 1,20,21
- 652 1010 652 1010 773 887 c 0,22,23
- 860 798 860 798 898.5 715.5 c 128,-1,24
- 937 633 937 633 937 531 c 0,25,26
- 937 459 937 459 909.5 391 c 128,-1,27
- 882 323 882 323 834 272 c 1,28,-1
- 788 272 l 1,0,1
+788 272 m 5,0,1
+ 823 310 823 310 843.5 367.5 c 132,-1,2
+ 864 425 864 425 864 490 c 4,3,4
+ 864 594 864 594 809 676.5 c 132,-1,5
+ 754 759 754 759 664 789 c 5,6,-1
+ 664 191 l 6,7,8
+ 664 123 664 123 596 73.5 c 132,-1,9
+ 528 24 528 24 442 24 c 4,10,11
+ 373 24 373 24 327.5 58 c 132,-1,12
+ 282 92 282 92 282 148 c 4,13,14
+ 282 213 282 213 350.5 263 c 132,-1,15
+ 419 313 419 313 502 313 c 4,16,17
+ 560 313 560 313 602 290 c 5,18,-1
+ 602 1126 l 5,19,-1
+ 640 1126 l 5,20,21
+ 652 1010 652 1010 773 887 c 4,22,23
+ 860 798 860 798 898.5 715.5 c 132,-1,24
+ 937 633 937 633 937 531 c 4,25,26
+ 937 459 937 459 909.5 391 c 132,-1,27
+ 882 323 882 323 834 272 c 5,28,-1
+ 788 272 l 5,0,1
 EndSplineSet
 EndChar
 
-StartChar: musicalnotedbl
+StartChar: uni266B
 Encoding: 9835 9835 392
 Width: 1229
 GlyphClass: 2
 Flags: W
+HStem: -46 289<189.119 418.484> 44 289<779.119 1008.48>
+VStem: 432 62<220 924> 1022 62<310 1005>
 TtInstrs:
 NPUSHB
  75
@@ -35943,8 +35944,8 @@ SplineSet
  702 233 702 233 770.5 283 c 128,-1,5
  839 333 839 333 922 333 c 0,6,7
  980 333 980 333 1022 310 c 1,8,-1
- 1022 745 l 1,9,-1
- 494 664 l 1,10,-1
+ 1022 1005 l 5,9,-1
+ 494 924 l 5,10,-1
  494 121 l 2,11,12
  494 53 494 53 426 3.5 c 128,-1,13
  358 -46 358 -46 272 -46 c 0,14,15
@@ -35958,11 +35959,6 @@ SplineSet
  1084 211 l 2,25,26
  1084 143 1084 143 1016 93.5 c 128,-1,27
  948 44 948 44 862 44 c 0,0,1
-494 804 m 1,28,-1
- 1022 885 l 1,29,-1
- 1022 1005 l 1,30,-1
- 494 924 l 1,31,-1
- 494 804 l 1,28,-1
 EndSplineSet
 EndChar
 
@@ -87407,11 +87403,11 @@ EndTTInstrs
 LayerCount: 2
 Fore
 SplineSet
-287 1511 m 1,0,-1
- -137 -35 l 1,1,-1
- -282 -35 l 1,2,-1
- 143 1511 l 1,3,-1
- 287 1511 l 1,0,-1
+287 1511 m 5,0,-1
+ -137 -35 l 5,1,-1
+ -282 -35 l 5,2,-1
+ 143 1511 l 5,3,-1
+ 287 1511 l 5,0,-1
 EndSplineSet
 EndChar
 
@@ -168743,7 +168739,7 @@ EndChar
 StartChar: uni20BF
 Encoding: 8383 8383 2394
 Width: 1369
-Flags: WO
+Flags: W
 HStem: 0 153<493 568.5 712.591 991.25> 0 136.218<142 302> 631 149<493 927.194> 1196 153<493 559.044 704 931> 1211 138<142 302>
 VStem: 302 191<153 631 780 1196> 325.71 148.846<-240 0 1349 1569> 568.5 144.091<-240 0 1349 1569> 1018 192<864.771 1125.27> 1099 193<250.816 530.698>
 LayerCount: 2
@@ -168795,6 +168791,109 @@ SplineSet
  759 153 l 6,48,49
  934 153 934 153 1016.5 213.5 c 132,-1,50
  1099 274 1099 274 1099 397 c 4,42,43
+EndSplineSet
+EndChar
+
+StartChar: uni266C
+Encoding: 9836 9836 2395
+Width: 1369
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+862 44 m 4,0,1
+ 793 44 793 44 747.5 78 c 132,-1,2
+ 702 112 702 112 702 168 c 4,3,4
+ 702 233 702 233 770.5 283 c 132,-1,5
+ 839 333 839 333 922 333 c 4,6,7
+ 980 333 980 333 1022 310 c 5,8,-1
+ 1022 745 l 5,9,-1
+ 494 664 l 5,10,-1
+ 494 121 l 6,11,12
+ 494 53 494 53 426 3.5 c 132,-1,13
+ 358 -46 358 -46 272 -46 c 4,14,15
+ 203 -46 203 -46 157.5 -12 c 132,-1,16
+ 112 22 112 22 112 78 c 4,17,18
+ 112 143 112 143 180.5 193 c 132,-1,19
+ 249 243 249 243 332 243 c 4,20,21
+ 390 243 390 243 432 220 c 5,22,-1
+ 432 1055 l 5,23,-1
+ 1084 1155 l 5,24,-1
+ 1084 211 l 6,25,26
+ 1084 143 1084 143 1016 93.5 c 132,-1,27
+ 948 44 948 44 862 44 c 4,0,1
+494 804 m 5,28,-1
+ 1022 885 l 5,29,-1
+ 1022 1005 l 5,30,-1
+ 494 924 l 5,31,-1
+ 494 804 l 5,28,-1
+EndSplineSet
+EndChar
+
+StartChar: uni2669
+Encoding: 9833 9833 2396
+Width: 1369
+VWidth: 0
+Flags: W
+HStem: 24 289<359.119 588.484>
+VStem: 602 62<290 861.566> 602 42<455.934 1126>
+LayerCount: 2
+Fore
+SplineSet
+644 1126.5 m 5,0,-1
+ 602 1126 l 1,1,-1
+ 602 290 l 1,2,3
+ 560 313 560 313 502 313 c 0,4,5
+ 419 313 419 313 350.5 263 c 128,-1,6
+ 282 213 282 213 282 148 c 0,7,8
+ 282 92 282 92 327.5 58 c 128,-1,9
+ 373 24 373 24 442 24 c 0,10,11
+ 528 24 528 24 596 73.5 c 0,12,13
+ 665.404554777 125.301950305 665.404554777 125.301950305 664 191 c 2,14,-1
+ 644 1126.5 l 5,0,-1
+EndSplineSet
+EndChar
+
+StartChar: uni2262
+Encoding: 8802 8802 2397
+Width: 1369
+VWidth: 0
+Flags: W
+HStem: 244 148<116 377.042 587.19 1111> 600 148<116 534.465 744.366 1111> 956 148<116 691.889 901.541 1111>
+CounterMasks: 1 e0
+LayerCount: 2
+Fore
+SplineSet
+116 600 m 5,0,-1
+ 116 748 l 5,1,-1
+ 599.911004962 748 l 5,2,-1
+ 691.888720839 956 l 5,3,-1
+ 116 956 l 5,4,-1
+ 116 1104 l 5,5,-1
+ 757.33440329 1104 l 5,6,-1
+ 888.66796875 1401 l 5,7,-1
+ 1032.66796875 1401 l 5,8,-1
+ 901.541227803 1104 l 5,9,-1
+ 1111 1104 l 5,10,-1
+ 1111 956 l 5,11,-1
+ 836.198609419 956 l 5,12,-1
+ 744.365740338 748 l 5,13,-1
+ 1111 748 l 5,14,-1
+ 1111 600 l 5,15,-1
+ 679.023121953 600 l 5,16,-1
+ 587.190252873 392 l 5,17,-1
+ 1111 392 l 5,18,-1
+ 1111 244 l 5,19,-1
+ 521.847634488 244 l 5,20,-1
+ 398.66796875 -35 l 5,21,-1
+ 253.66796875 -35 l 5,22,-1
+ 377.041924182 244 l 5,23,-1
+ 116 244 l 5,24,-1
+ 116 392 l 5,25,-1
+ 442.487606633 392 l 5,26,-1
+ 534.46532251 600 l 5,27,-1
+ 116 600 l 5,0,-1
 EndSplineSet
 EndChar
 EndChars
