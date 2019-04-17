@@ -16952,7 +16952,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: mu1
+StartChar: mu
 Encoding: 181 181 151
 Width: 1229
 GlyphClass: 2
@@ -18706,7 +18706,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: uni2206
+StartChar: Delta
 Encoding: 8710 8710 167
 Width: 1229
 GlyphClass: 2
@@ -20855,7 +20855,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: periodcentered
+StartChar: bulletoperator
 Encoding: 8729 8729 193
 Width: 1229
 GlyphClass: 2
@@ -21958,7 +21958,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: macron
+StartChar: firsttonechinese
 Encoding: 713 713 215
 Width: 1229
 GlyphClass: 2
@@ -24631,7 +24631,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: overscore
+StartChar: macron
 Encoding: 175 175 255
 Width: 1229
 GlyphClass: 2
@@ -24642,7 +24642,7 @@ Refer: 66 95 N 1 0 0 1 0 1672 3
 Validated: 1
 EndChar
 
-StartChar: middot.001
+StartChar: periodcentered
 Encoding: 183 183 256
 Width: 1229
 GlyphClass: 2
@@ -36566,7 +36566,7 @@ SplineSet
  1084 143 1084 143 1016 93.5 c 132,-1,27
  948 44 948 44 862 44 c 4,0,1
 EndSplineSet
-Validated: 8388609
+Validated: 1
 EndChar
 
 StartChar: IJ
@@ -42693,7 +42693,7 @@ Refer: 37 66 N 1 0 0 1 0 0 3
 Validated: 1
 EndChar
 
-StartChar: Delta
+StartChar: Deltagreek
 Encoding: 916 916 505
 Width: 1229
 GlyphClass: 2
@@ -43322,7 +43322,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: Omega
+StartChar: Omegagreek
 Encoding: 937 937 523
 Width: 1229
 GlyphClass: 2
@@ -44385,7 +44385,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: mu
+StartChar: mugreek
 Encoding: 956 956 539
 Width: 1229
 GlyphClass: 2
@@ -160227,7 +160227,7 @@ SplineSet
  919 219 l 2,48,49
  1119 219 1119 219 1119 410 c 0,42,43
 EndSplineSet
-Validated: 8388609
+Validated: 1
 EndChar
 
 StartChar: uni266C

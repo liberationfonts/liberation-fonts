@@ -22191,7 +22191,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: mu1
+StartChar: mu
 Encoding: 181 181 151
 Width: 1180
 GlyphClass: 2
@@ -24317,7 +24317,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: uni2206
+StartChar: Delta
 Encoding: 8710 8710 167
 Width: 1253
 GlyphClass: 2
@@ -26565,7 +26565,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: periodcentered
+StartChar: bulletoperator
 Encoding: 8729 8729 191
 Width: 569
 GlyphClass: 2
@@ -28412,7 +28412,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: macron
+StartChar: firsttonechinese
 Encoding: 713 713 213
 Width: 682
 GlyphClass: 2
@@ -31675,7 +31675,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: overscore
+StartChar: macron
 Encoding: 175 175 253
 Width: 1131
 GlyphClass: 2
@@ -31716,7 +31716,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: middot
+StartChar: periodcentered
 Encoding: 183 183 254
 Width: 682
 GlyphClass: 2
@@ -45114,7 +45114,7 @@ SplineSet
  1263 1159 l 1,31,-1
  1263 324 l 2,0,1
 EndSplineSet
-Validated: 8388609
+Validated: 1
 EndChar
 
 StartChar: IJ
@@ -52203,7 +52203,7 @@ Refer: 37 66 N 1 0 0 1 0 0 3
 Validated: 1
 EndChar
 
-StartChar: Delta
+StartChar: Deltagreek
 Encoding: 916 916 502
 Width: 1472
 GlyphClass: 2
@@ -53218,7 +53218,7 @@ Validated: 1
 Kerns2: 550 -37 "'kern' Horizontal Kerning lookup 17 subtable" 548 -37 "'kern' Horizontal Kerning lookup 17 subtable" 545 -37 "'kern' Horizontal Kerning lookup 17 subtable" 539 -37 "'kern' Horizontal Kerning lookup 17 subtable" 523 -37 "'kern' Horizontal Kerning lookup 17 subtable" 304 -37 "'kern' Horizontal Kerning lookup 17 subtable" 302 -37 "'kern' Horizontal Kerning lookup 17 subtable" 300 -37 "'kern' Horizontal Kerning lookup 17 subtable" 299 -37 "'kern' Horizontal Kerning lookup 17 subtable"
 EndChar
 
-StartChar: Omega
+StartChar: Omegagreek
 Encoding: 937 937 520
 Width: 1642
 GlyphClass: 2
@@ -55269,7 +55269,7 @@ Validated: 1
 Kerns2: 550 -25 "'kern' Horizontal Kerning lookup 17 subtable" 549 -31 "'kern' Horizontal Kerning lookup 17 subtable" 548 -25 "'kern' Horizontal Kerning lookup 17 subtable" 547 -31 "'kern' Horizontal Kerning lookup 17 subtable" 545 -25 "'kern' Horizontal Kerning lookup 17 subtable" 542 -31 "'kern' Horizontal Kerning lookup 17 subtable" 541 -25 "'kern' Horizontal Kerning lookup 17 subtable" 539 -25 "'kern' Horizontal Kerning lookup 17 subtable" 538 -25 "'kern' Horizontal Kerning lookup 17 subtable" 530 -25 "'kern' Horizontal Kerning lookup 17 subtable" 527 -31 "'kern' Horizontal Kerning lookup 17 subtable" 523 -25 "'kern' Horizontal Kerning lookup 17 subtable" 304 -25 "'kern' Horizontal Kerning lookup 17 subtable" 302 -25 "'kern' Horizontal Kerning lookup 17 subtable" 300 -25 "'kern' Horizontal Kerning lookup 17 subtable" 299 -25 "'kern' Horizontal Kerning lookup 17 subtable"
 EndChar
 
-StartChar: mu
+StartChar: mugreek
 Encoding: 956 956 536
 Width: 1253
 GlyphClass: 2
@@ -199141,7 +199141,7 @@ EndChar
 StartChar: S_BE
 Encoding: 65828 -1 2586
 Width: 1242
-Flags: WO
+Flags: W
 LayerCount: 2
 Fore
 SplineSet
@@ -199255,7 +199255,7 @@ SplineSet
  1149 219 1149 219 1214.5 270.5 c 128,-1,51
  1280 322 1280 322 1280 425 c 0,44,45
 EndSplineSet
-Validated: 8388609
+Validated: 1
 EndChar
 
 StartChar: uni266C

@@ -25068,7 +25068,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: mu1
+StartChar: mu
 Encoding: 181 181 151
 Width: 1180
 GlyphClass: 2
@@ -28325,7 +28325,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: uni2206
+StartChar: Delta
 Encoding: 8710 8710 167
 Width: 1253
 GlyphClass: 2
@@ -30974,7 +30974,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: periodcentered
+StartChar: bulletoperator
 Encoding: 8729 8729 193
 Width: 512
 GlyphClass: 2
@@ -32579,7 +32579,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: macron
+StartChar: firsttonechinese
 Encoding: 713 713 215
 Width: 682
 GlyphClass: 2
@@ -36830,7 +36830,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: overscore
+StartChar: macron
 Encoding: 175 175 255
 Width: 1024
 GlyphClass: 2
@@ -36871,7 +36871,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: middot
+StartChar: periodcentered
 Encoding: 183 183 256
 Width: 512
 GlyphClass: 2
@@ -47305,7 +47305,7 @@ SplineSet
  1263 1159 l 1,31,-1
  1263 324 l 2,0,1
 EndSplineSet
-Validated: 8388609
+Validated: 1
 EndChar
 
 StartChar: IJ
@@ -53903,7 +53903,7 @@ Refer: 37 66 N 1 0 0 1 0 0 3
 Validated: 1
 EndChar
 
-StartChar: Delta
+StartChar: Deltagreek
 Encoding: 916 916 506
 Width: 1202
 GlyphClass: 2
@@ -54950,7 +54950,7 @@ Validated: 1
 Kerns2: 554 -90 "'kern' Horizontal Kerning lookup 16 subtable" 552 -90 "'kern' Horizontal Kerning lookup 16 subtable" 549 -90 "'kern' Horizontal Kerning lookup 16 subtable" 543 -90 "'kern' Horizontal Kerning lookup 16 subtable" 536 -51 "'kern' Horizontal Kerning lookup 16 subtable" 527 -90 "'kern' Horizontal Kerning lookup 16 subtable" 306 -90 "'kern' Horizontal Kerning lookup 16 subtable" 304 -90 "'kern' Horizontal Kerning lookup 16 subtable" 302 -90 "'kern' Horizontal Kerning lookup 16 subtable" 301 -90 "'kern' Horizontal Kerning lookup 16 subtable"
 EndChar
 
-StartChar: Omega
+StartChar: Omegagreek
 Encoding: 937 937 524
 Width: 1481
 GlyphClass: 2
@@ -56271,7 +56271,7 @@ Validated: 1
 Kerns2: 546 -35 "'kern' Horizontal Kerning lookup 16 subtable"
 EndChar
 
-StartChar: mu
+StartChar: mugreek
 Encoding: 956 956 540
 Width: 1028
 GlyphClass: 2
@@ -183562,7 +183562,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 16 45 N 1 0 0 1 0 0 3
-Validated: 2097153
+Validated: 1
 EndChar
 
 StartChar: uni0309
@@ -191822,7 +191822,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 16 45 N 1 0 0 1 0 0 2
-Validated: 2097153
+Validated: 1
 EndChar
 
 StartChar: uni037E
@@ -191888,7 +191888,7 @@ EndChar
 StartChar: S_BE
 Encoding: 65815 -1 2580
 Width: 965
-Flags: WO
+Flags: W
 LayerCount: 2
 Fore
 SplineSet
@@ -192051,7 +192051,7 @@ SplineSet
  635 -285 l 25,50,-1
  486 -280 l 17,19,-1
 EndSplineSet
-Validated: 8388609
+Validated: 1
 EndChar
 
 StartChar: uni266C
