@@ -20,7 +20,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1277743413
-ModificationTime: 1551693468
+ModificationTime: 1568723739
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -3800,7 +3800,7 @@ NameList: Adobe Glyph List
 DisplaySize: -36
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 8756 44 17
+WinInfo: 102 51 16
 BeginPrivate: 0
 EndPrivate
 AnchorClass2: "Anchor23" "mkmkMarktoMarklookup27 subtable" "Anchor22" "mkmkMarktoMarklookup26 subtable" "Anchor21" "markMarkPositioninglookup25 subtable" "Anchor20" "markMarkPositioninglookup24 subtable" "Anchor19" "markMarkPositioninglookup23 subtable" "Anchor18" "markMarkPositioninglookup23 subtable" "Anchor17" "markMarkPositioninglookup22 subtable" "Anchor16" "markMarkPositioninglookup22 subtable" "Anchor15" "markMarkPositioninglookup21 subtable" "Anchor14" "markMarkPositioninglookup20 subtable" "Anchor13" "markMarkPositioninglookup19 subtable" "Anchor12" "markMarkPositioninglookup18 subtable" "Anchor11" "markMarkPositioninglookup18 subtable" "Anchor10" "markMarkPositioninglookup18 subtable" "Anchor-0" "'mark' Mark Positioning in Hebrew lookup 1 subtable" "Anchor-1" "'mark' Mark Positioning in Hebrew lookup 3 subtable" "Anchor-2" "'mark' Mark Positioning in Hebrew lookup 4 subtable" "Anchor-3" "'mark' Mark Positioning in Hebrew lookup 5 subtable" "Anchor-4" "'mark' Mark Positioning in Hebrew lookup 5 subtable" "Anchor-5" "'mark' Mark Positioning in Hebrew lookup 6 subtable" "Anchor-6" "'mark' Mark Positioning in Hebrew lookup 6 subtable" "Anchor-7" "'mark' Mark Positioning in Hebrew lookup 11 subtable" "Anchor-8" "'mark' Mark Positioning in Hebrew lookup 12 subtable" "Anchor-9" "'mark' Mark Positioning in Hebrew lookup 13 subtable" "Anchor-24" "Mark to base attachment lookup 29 subtable" "Anchor-25" "Mark to base attachment lookup 30 subtable" "Anchor-26" "Mark to base attachment lookup 31 subtable" "Anchor-27" "Mark to base attachment lookup 32 subtable"
@@ -16770,181 +16770,43 @@ StartChar: cent
 Encoding: 162 162 132
 Width: 1139
 GlyphClass: 2
-Flags: W
-TtInstrs:
-NPUSHB
- 40
- 5
- 8
- 19
- 16
- 8
- 16
- 30
- 23
- 23
- 22
- 2
- 3
- 3
- 22
- 30
- 11
- 22
- 11
- 33
- 32
- 16
- 26
- 115
- 89
- 19
- 16
- 5
- 8
- 8
- 0
- 115
- 89
- 160
- 16
- 176
- 16
- 192
- 16
- 3
- 16
-PUSHW_1
- -64
-NPUSHB
- 47
- 30
- 34
- 72
- 16
- 8
- 16
- 8
- 17
- 6
- 111
- 23
- 1
- 16
- 23
- 1
- 23
- 23
- 17
- 6
- 0
- 2
- 16
- 2
- 64
- 2
- 128
- 2
- 144
- 2
- 160
- 2
- 6
- 80
- 2
- 96
- 2
- 144
- 2
- 192
- 2
- 208
- 2
- 5
- 2
- 2
- 6
- 25
-SVTCA[y-axis]
-MIAP[rnd]
-SHP[rp1]
-MDAP[rnd]
-DELTAP1
-DELTAP2
-MIAP[rnd]
-SHP[rp1]
-MDAP[rnd]
-DELTAP1
-DELTAP1
-SRP1
-SRP2
-IP
-IP
-MDAP[rnd]
-MDAP[rnd]
-CALL
-DELTAP1
-CALL
-SRP1
-SVTCA[y-axis]
-SHP[rp1]
-SRP1
-SHP[rp1]
-CALL
-SRP1
-SRP2
-SVTCA[x-axis]
-IP
-IP
-SRP1
-SHP[rp1]
-SRP1
-SHP[rp1]
-SRP1
-SHP[rp1]
-SRP1
-SHP[rp1]
-SRP1
-SRP2
-IP
-IP
-SRP1
-SHP[rp1]
-SRP1
-SHP[rp1]
-IUP[x]
-IUP[y]
-EndTTInstrs
+Flags: WO
 LayerCount: 2
 Fore
 SplineSet
-560 278 m 0,0,1
- 765 278 765 278 849 508 c 1,2,-1
- 1005 459 l 1,3,4
- 889 151 889 151 588 136 c 1,5,-1
- 556 -31 l 1,6,-1
- 432 -31 l 1,7,-1
- 466 142 l 1,8,9
- 317 164 317 164 237.5 270.5 c 128,-1,10
- 158 377 158 377 158 551 c 0,11,12
- 158 687 158 687 196 823.5 c 128,-1,13
- 234 960 234 960 299 1054 c 128,-1,14
- 364 1148 364 1148 457 1199.5 c 128,-1,15
- 550 1251 550 1251 683 1257 c 1,16,-1
- 711 1409 l 1,17,-1
- 835 1409 l 1,18,-1
- 806 1251 l 1,19,20
- 937 1232 937 1232 1010.5 1150 c 128,-1,21
- 1084 1068 1084 1068 1092 940 c 1,22,-1
- 915 915 l 1,23,24
- 909 1012 909 1012 855 1064.5 c 128,-1,25
- 801 1117 801 1117 710 1117 c 0,26,27
- 584 1117 584 1117 506 1049.5 c 128,-1,28
- 428 982 428 982 385 835 c 128,-1,29
- 342 688 342 688 342 545 c 0,30,31
- 342 278 342 278 560 278 c 0,0,1
+466 142 m 5,0,1
+ 317 164 317 164 237.5 270.5 c 132,-1,2
+ 158 377 158 377 158 551 c 4,3,4
+ 158 687 158 687 196 823.5 c 132,-1,5
+ 234 960 234 960 299 1054 c 132,-1,6
+ 364 1148 364 1148 457 1199.5 c 132,-1,7
+ 550 1251 550 1251 682 1257 c 5,8,-1
+ 693 1311 l 5,9,-1
+ 711 1409 l 5,10,-1
+ 712 1409 l 5,11,-1
+ 835 1409 l 5,12,-1
+ 836 1409 l 5,13,-1
+ 818 1317 l 5,14,-1
+ 806 1251 l 5,15,16
+ 937 1232 937 1232 1010.5 1150 c 132,-1,17
+ 1084 1068 1084 1068 1092 940 c 5,18,-1
+ 915 915 l 5,19,20
+ 909 1012 909 1012 855 1064 c 4,21,22
+ 823 1095 823 1095 778 1108 c 5,23,-1
+ 617 283 l 5,24,25
+ 777 312 777 312 849 508 c 5,26,-1
+ 1005 459 l 5,27,28
+ 889 151 889 151 588 136 c 5,29,-1
+ 556 -31 l 5,30,-1
+ 432 -31 l 5,31,-1
+ 466 142 l 5,0,1
+655 1113 m 5,32,33
+ 567 1102 567 1102 506 1050 c 4,34,35
+ 428 982 428 982 385 835 c 132,-1,36
+ 342 688 342 688 342 545 c 4,37,38
+ 342 322 342 322 494 285 c 5,39,-1
+ 655 1113 l 5,32,33
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: sterling

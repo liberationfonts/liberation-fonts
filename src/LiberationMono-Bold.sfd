@@ -20,7 +20,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1277890270
-ModificationTime: 1551676224
+ModificationTime: 1568723321
 PfmFamily: 17
 TTFWeight: 700
 TTFWidth: 5
@@ -3976,7 +3976,7 @@ NameList: Adobe Glyph List
 DisplaySize: -36
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 0 44 17
+WinInfo: 0 51 16
 BeginPrivate: 0
 EndPrivate
 AnchorClass2: "Anchor-0" "'mark' Mark Positioning in Hebrew lookup 0 subtable" "Anchor-1" "'mark' Mark Positioning in Hebrew lookup 1 subtable" "Anchor-2" "'mark' Mark Positioning in Hebrew lookup 2 subtable" "Anchor-3" "'mark' Mark Positioning in Hebrew lookup 3 subtable" "Anchor-4" "'mark' Mark Positioning in Hebrew lookup 3 subtable" "Anchor-5" "'mark' Mark Positioning in Hebrew lookup 4 subtable" "Anchor-6" "'mark' Mark Positioning in Hebrew lookup 4 subtable" "Anchor-7" "'mark' Mark Positioning in Hebrew lookup 9 subtable" "Anchor-8" "'mark' Mark Positioning in Hebrew lookup 10 subtable" "Anchor-9" "'mark' Mark Positioning in Hebrew lookup 11 subtable" "Anchor-10" "Mark to base attachment lookup 15 subtable" "Anchor-11" "Mark to base attachment lookup 16 subtable" "Anchor-12" "Mark to base attachment lookup 17 subtable" "Anchor-13" "Mark to base attachment lookup 18 subtable"
@@ -14470,156 +14470,45 @@ StartChar: cent
 Encoding: 162 162 132
 Width: 1229
 GlyphClass: 2
-Flags: W
-TtInstrs:
-NPUSHB
- 65
- 19
- 8
- 8
- 16
- 9
- 23
- 22
- 22
- 3
- 9
- 4
- 29
- 13
- 4
- 13
- 32
- 33
- 112
- 23
- 1
- 15
- 23
- 1
- 0
- 3
- 64
- 3
- 80
- 3
- 160
- 3
- 176
- 3
- 5
- 9
- 3
- 23
- 3
- 23
- 3
- 16
- 7
- 16
- 26
- 118
- 89
- 19
- 0
- 16
- 1
- 16
- 3
- 16
- 16
- 17
- 7
- 10
- 7
- 7
- 0
- 118
- 89
- 7
- 7
- 8
-SVTCA[y-axis]
-MDAP[rnd]
-SHP[rp1]
-MDAP[rnd]
-CALL
-SRP1
-SVTCA[y-axis]
-SHP[rp1]
-RTG
-MIAP[rnd]
-SHP[rp1]
-MDAP[rnd]
-SDS
-SDB
-DELTAP1
-SHP[rp1]
-CALL
-SRP1
-SRP2
-SVTCA[y-axis]
-IP
-IP
-RTG
-MDAP[rnd]
-MDAP[rnd]
-SDS
-SDB
-DELTAP1
-DELTAP1
-DELTAP1
-SRP1
-SRP2
-SVTCA[x-axis]
-IP
-IP
-SRP1
-SHP[rp1]
-SRP2
-IP
-SHP[rp2]
-SHP[rp2]
-SRP1
-SHP[rp1]
-SRP1
-SHP[rp1]
-SHP[rp1]
-SRP1
-SHP[rp1]
-IUP[x]
-IUP[y]
-EndTTInstrs
+Flags: WO
 LayerCount: 2
 Fore
 SplineSet
-635 311 m 0,0,1
- 723 311 723 311 782.5 365.5 c 128,-1,2
- 842 420 842 420 856 520 c 1,3,-1
- 1139 508 l 1,4,5
- 1117 355 1117 355 1005 253.5 c 128,-1,6
- 893 152 893 152 715 131 c 1,7,-1
- 715 -60 l 1,8,-1
- 553 -60 l 1,9,-1
- 553 129 l 1,10,11
- 338 150 338 150 218 286 c 128,-1,12
- 98 422 98 422 98 657 c 0,13,14
- 98 889 98 889 215.5 1030 c 128,-1,15
- 333 1171 333 1171 553 1196 c 1,16,-1
- 553 1380 l 1,17,-1
- 715 1380 l 1,18,-1
- 715 1196 l 1,19,20
- 884 1177 884 1177 993 1083.5 c 128,-1,21
- 1102 990 1102 990 1130 839 c 1,22,-1
- 848 825 l 1,23,24
- 833 916 833 916 777 965.5 c 128,-1,25
- 721 1015 721 1015 633 1015 c 0,26,27
- 509 1015 509 1015 445 923 c 128,-1,28
- 381 831 381 831 381 667 c 0,29,30
- 381 493 381 493 447.5 402 c 128,-1,31
- 514 311 514 311 635 311 c 0,0,1
+715 -59 m 5,0,-1
+ 715 -60 l 5,1,-1
+ 553 -60 l 5,2,-1
+ 553 -59 l 5,3,-1
+ 551 -59 l 5,4,-1
+ 551 129 l 5,5,6
+ 337 150 337 150 218 286 c 4,7,8
+ 98 422 98 422 98 657 c 4,9,10
+ 98 889 98 889 216 1030 c 4,11,12
+ 333 1170 333 1170 551 1196 c 5,13,-1
+ 551 1380 l 5,14,-1
+ 553 1380 l 5,15,-1
+ 715 1380 l 5,16,-1
+ 716 1380 l 5,17,-1
+ 716 1196 l 5,18,19
+ 884 1178 884 1178 993 1084 c 132,-1,21
+ 1102 990 1102 990 1130 839 c 5,22,-1
+ 848 825 l 5,23,24
+ 833 916 833 916 777 966 c 4,25,26
+ 750 990 750 990 716 1002 c 5,27,-1
+ 716 325 l 5,28,29
+ 752 340 752 340 782 366 c 4,30,31
+ 842 420 842 420 856 520 c 5,32,-1
+ 1139 508 l 5,33,34
+ 1117 356 1117 356 1005 254 c 4,35,36
+ 893 153 893 153 716 131 c 5,37,-1
+ 716 -59 l 5,38,-1
+ 715 -59 l 5,0,-1
+551 1003 m 5,39,40
+ 486 982 486 982 445 923 c 4,41,42
+ 381 831 381 831 381 667 c 4,43,44
+ 382 493 382 493 448 402 c 4,45,46
+ 489 346 489 346 551 324 c 5,47,-1
+ 551 1003 l 5,39,40
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: sterling

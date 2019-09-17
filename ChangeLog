@@ -1,3 +1,7 @@
+* Tue Sep 17 2019 Vishal Vijayraghavan <vishalvijayraghavan@gmail.com>
+- Resolved GitHub issue-19: Incorrect glyph name mapped to unicode
+- Resolved Pagure issue-5: Incorrect glyph of Cent sign (U+00A2) in Sans and Mono style  
+
 * Mon Mar 4 2019 Vishal Vijayraghavan <vishalvijayraghavan@gmail.com>
 - Releasing liberation-fonts 2.00.5 version
 - Resolved issue-10: Improving lowercase Cyrillic glyps localized for Macedonian and Serbian, Patch fix by Dimitrij Mijoski

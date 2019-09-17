@@ -20,7 +20,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1276856602
-ModificationTime: 1551693580
+ModificationTime: 1568723754
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -3522,7 +3522,7 @@ NameList: Adobe Glyph List
 DisplaySize: -24
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 8721 51 15
+WinInfo: 102 51 15
 BeginPrivate: 0
 EndPrivate
 AnchorClass2: "Anchor24" "mkmkMarktoMarklookup28 subtable" "Anchor23" "mkmkMarktoMarklookup27 subtable" "Anchor22" "Marktobaseattachmentlookup26 subtable" "Anchor21" "markMarkPositioninglookup25 subtable" "Anchor20" "markMarkPositioninglookup24 subtable" "Anchor19" "markMarkPositioninglookup23 subtable" "Anchor18" "markMarkPositioninglookup23 subtable" "Anchor17" "markMarkPositioninglookup22 subtable" "Anchor16" "markMarkPositioninglookup22 subtable" "Anchor15" "markMarkPositioninglookup21 subtable" "Anchor14" "markMarkPositioninglookup20 subtable" "Anchor13" "markMarkPositioninglookup19 subtable" "Anchor12" "markMarkPositioninglookup18 subtable" "Anchor11" "markMarkPositioninglookup18 subtable" "Anchor10" "markMarkPositioninglookup18 subtable" "Anchor-0" "'mark' Mark Positioning in Hebrew lookup 1 subtable" "Anchor-1" "'mark' Mark Positioning in Hebrew lookup 3 subtable" "Anchor-2" "'mark' Mark Positioning in Hebrew lookup 4 subtable" "Anchor-3" "'mark' Mark Positioning in Hebrew lookup 5 subtable" "Anchor-4" "'mark' Mark Positioning in Hebrew lookup 5 subtable" "Anchor-5" "'mark' Mark Positioning in Hebrew lookup 6 subtable" "Anchor-6" "'mark' Mark Positioning in Hebrew lookup 6 subtable" "Anchor-7" "'mark' Mark Positioning in Hebrew lookup 11 subtable" "Anchor-8" "'mark' Mark Positioning in Hebrew lookup 12 subtable" "Anchor-9" "'mark' Mark Positioning in Hebrew lookup 13 subtable" "Anchor-25" "Mark to base attachment lookup 30 subtable" "Anchor-26" "Mark to base attachment lookup 31 subtable" "Anchor-27" "Mark to base attachment lookup 32 subtable" "Anchor-28" "Mark to base attachment lookup 33 subtable"
@@ -20671,130 +20671,40 @@ StartChar: cent
 Encoding: 162 162 132
 Width: 1139
 GlyphClass: 2
-Flags: W
-TtInstrs:
-NPUSHB
- 48
- 23
- 22
- 22
- 4
- 19
- 8
- 8
- 16
- 9
- 9
- 13
- 3
- 3
- 4
- 29
- 13
- 4
- 13
- 33
- 32
- 19
- 26
- 80
- 89
- 23
- 16
- 0
- 19
- 192
- 19
- 208
- 19
- 3
- 19
- 3
- 19
- 64
- 17
- 3
- 10
- 3
- 7
- 7
- 0
- 80
- 89
- 7
- 8
-SVTCA[y-axis]
-MDAP[rnd]
-MDRP[min,rnd,black]
-CALL
-SRP1
-SVTCA[y-axis]
-SHP[rp1]
-SHP[rp1]
-RTG
-MIAP[rnd]
-SMD
-MDRP[min,rnd,black]
-SDS
-SDB
-DELTAP1
-SHP[rp2]
-SHP[rp2]
-CALL
-SRP1
-SRP2
-SVTCA[x-axis]
-IP
-IP
-SRP1
-SHP[rp1]
-SRP1
-SHP[rp1]
-SRP1
-SRP2
-IP
-SRP1
-SHP[rp1]
-SHP[rp1]
-SRP1
-SHP[rp1]
-SRP1
-SHP[rp1]
-SRP1
-SHP[rp1]
-IUP[x]
-IUP[y]
-EndTTInstrs
+Flags: WO
 LayerCount: 2
 Fore
 SplineSet
-596 277 m 0,0,1
- 692 277 692 277 756.5 329 c 128,-1,2
- 821 381 821 381 836 489 c 1,3,-1
- 1018 477 l 1,4,5
- 999 333 999 333 904 242 c 128,-1,6
- 809 151 809 151 662 137 c 1,7,-1
- 662 -31 l 1,8,-1
- 538 -31 l 1,9,-1
- 538 137 l 1,10,11
- 339 155 339 155 237 297.5 c 128,-1,12
- 135 440 135 440 135 697 c 0,13,14
- 135 950 135 950 237 1093.5 c 128,-1,15
- 339 1237 339 1237 538 1254 c 1,16,-1
- 538 1409 l 1,17,-1
- 662 1409 l 1,18,-1
- 662 1254 l 1,19,20
- 805 1239 805 1239 895 1156 c 128,-1,21
- 985 1073 985 1073 1012 934 c 1,22,-1
- 827 920 l 1,23,24
- 813 1010 813 1010 756 1063 c 128,-1,25
- 699 1116 699 1116 594 1116 c 0,26,27
- 451 1116 451 1116 387 1021 c 128,-1,28
- 323 926 323 926 323 701 c 0,29,30
- 323 485 323 485 391 381 c 128,-1,31
- 459 277 459 277 596 277 c 0,0,1
+538 137 m 5,0,1
+ 339 155 339 155 237 297.5 c 132,-1,2
+ 135 440 135 440 135 697 c 4,3,4
+ 135 950 135 950 237 1093.5 c 132,-1,5
+ 339 1237 339 1237 538 1254 c 5,6,-1
+ 538 1409 l 5,7,-1
+ 662 1409 l 5,8,-1
+ 662 1254 l 5,9,10
+ 805 1239 805 1239 895 1156 c 132,-1,11
+ 985 1073 985 1073 1012 934 c 5,12,-1
+ 827 920 l 5,13,14
+ 813 1010 813 1010 756 1063 c 4,15,16
+ 719 1097 719 1097 662 1109 c 5,17,-1
+ 661 284 l 5,18,19
+ 714 296 714 296 756 329 c 4,20,21
+ 820 381 820 381 836 489 c 5,22,-1
+ 1018 477 l 5,23,24
+ 999 333 999 333 904 242 c 132,-1,25
+ 809 151 809 151 662 137 c 5,26,-1
+ 662 -31 l 5,27,-1
+ 661 -31 l 5,28,-1
+ 538 -31 l 5,29,-1
+ 538 137 l 5,0,1
+538 1112 m 5,30,31
+ 438 1096 438 1096 387 1021 c 4,32,33
+ 323 926 323 926 323 701 c 4,34,35
+ 323 485 323 485 391 381 c 4,36,37
+ 444 300 444 300 538 282 c 5,38,-1
+ 538 1112 l 5,30,31
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: sterling
