@@ -1,6 +1,7 @@
-* Tue Sep 17 2019 Vishal Vijayraghavan <vishalvijayraghavan@gmail.com>
+* Tue Sep 23 2019 Vishal Vijayraghavan <vishalvijayraghavan@gmail.com>
 - Resolved GitHub issue-19: Incorrect glyph name mapped to unicode
 - Resolved Pagure issue-5: Incorrect glyph of Cent sign (U+00A2) in Sans and Mono style  
+- Resolved Pagure issue-28 : U+25D2 and U+25D3 circle with lower / upper half black are backwards
 
 * Mon Mar 4 2019 Vishal Vijayraghavan <vishalvijayraghavan@gmail.com>
 - Releasing liberation-fonts 2.00.5 version
