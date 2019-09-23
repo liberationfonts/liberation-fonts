@@ -18,19 +18,22 @@
   1. Get sources
 
    The latest sources are available via github by checking out the repo:
-    		$ git clone https://github.com/liberationfonts/liberation-fonts
+   
+   	$ git clone https://github.com/liberationfonts/liberation-fonts
 
    Or downloading the tar.gz file via [github](https://github.com/liberationfonts/liberation-fonts/tags).
     eg. 2.00.5 can be retrieved via:
-			$ wget https://github.com/liberationfonts/liberation-fonts/files/2926169/liberation-fonts-2.00.5.tar.gz
+    
+	$ wget https://github.com/liberationfonts/liberation-fonts/files/2926169/liberation-fonts-2.00.5.tar.gz
 
    You can extract the files using the following command where VERSION=2.00.4:
-  		$ tar zxvf liberation-fonts-[VERSION].tar.gz
+  	
+	$ tar zxvf liberation-fonts-[VERSION].tar.gz
 
   2. Build from the source
   
-			$ cd liberation-fonts    or   $ cd liberation-fonts-[VERSION]
-			$ make
+	$ cd liberation-fonts    or   $ cd liberation-fonts-[VERSION]
+	$ make
 		
    The binary font files will be available in 'liberation-fonts-ttf-[VERSION]' directory.
 
