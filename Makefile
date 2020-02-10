@@ -32,7 +32,7 @@ SRCDIR       = src
 EXPORTDIR    = export
 CHECK_PREFIX = check
 
-VER          = 2.00.5
+VER          = 2.1.0
 NAME         = Liberation
 VARIANTS     = \
     Mono-Regular       Mono-Bold        Mono-Italic       Mono-BoldItalic       \
