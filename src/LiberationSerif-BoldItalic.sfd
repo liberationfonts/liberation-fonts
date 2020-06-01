@@ -4,7 +4,7 @@ FullName: Liberation Serif Bold Italic
 FamilyName: Liberation Serif
 Weight: Bold
 Copyright: Digitized data copyright (c) 2010 Google Corporation.\nCopyright (c) 2012 Red Hat, Inc.
-Version: 2.1.0
+Version: 2.1.1
 ItalicAngle: -16.333
 UnderlinePosition: -126
 UnderlineWidth: 195
@@ -20,7 +20,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1123398000
-ModificationTime: 1580105308
+ModificationTime: 1590988635
 PfmFamily: 17
 TTFWeight: 700
 TTFWidth: 5
@@ -60,7 +60,7 @@ Lookup: 4 1 0 "'ccmp' Glyph Composition/Decomposition in Hebrew lookup 1" { "'cc
 Lookup: 6 1 0 "'ccmp' Glyph Composition/Decomposition in Hebrew lookup 2" { "'ccmp' Glyph Composition/Decomposition in Hebrew lookup 2 subtable"  } ['ccmp' ('hebr' <'dflt' > ) ]
 Lookup: 4 0 0 "'ccmp' Glyph Composition/Decomposition lookup 3" { "'ccmp' Glyph Composition/Decomposition lookup 3 subtable"  } ['ccmp' ('grek' <'dflt' > 'latn' <'dflt' > ) ]
 Lookup: 4 1 0 "Ligature Substitution lookup 4" { "Ligature Substitution lookup 4 subtable"  } []
-Lookup: 260 0 0 "'mark' Mark Positioning lookup 25" { "'mark' Mark Positioning lookup 25-1"  } ['mark' ('DFLT' <'dflt' > 'cyrl' <'MKD ' 'SRB ' 'dflt' > 'grek' <'dflt' > 'hebr' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 260 0 0 "'mark' Mark Positioning lookup 25" { "'mark' Mark Positioning lookup 25-1"  } ['mark' ('DFLT' <'dflt' > 'bopo' <'dflt' > 'copt' <'dflt' > 'cyrl' <'MKD ' 'SRB ' 'dflt' > 'grek' <'dflt' > 'hebr' <'dflt' > 'latn' <'dflt' > ) ]
 Lookup: 260 1 0 "'mark' Mark Positioning in Hebrew lookup 0" { "'mark' Mark Positioning in Hebrew lookup 0 subtable"  } ['mark' ('hebr' <'dflt' > ) ]
 Lookup: 264 1 0 "'mark' Mark Positioning in Hebrew lookup 1" { "'mark' Mark Positioning in Hebrew lookup 1 subtable"  } ['mark' ('hebr' <'dflt' > ) ]
 Lookup: 260 7 0 "'mark' Mark Positioning in Hebrew lookup 2" { "'mark' Mark Positioning in Hebrew lookup 2 subtable"  } ['mark' ('hebr' <'dflt' > ) ]
@@ -3894,7 +3894,7 @@ ShortTable: maxp 16
   3
   1
 EndShort
-LangName: 1033 "" "" "Bold Italic" "Ascender - Liberation Serif" "" "Version 2.1.0" "" "Liberation is a trademark of Red Hat, Inc. registered in U.S. Patent and Trademark Office and certain other jurisdictions." "Ascender Corporation" "Steve Matteson" "Based on Tinos, which was designed by Steve Matteson as an innovative, refreshing serif design that is metrically compatible with Times New Roman+ISIA. Tinos offers improved on-screen readability characteristics and the pan-European WGL character set and solves the needs of developers looking for width-compatible fonts to address document portability across platforms." "http://www.ascendercorp.com/" "http://www.ascendercorp.com/typedesigners.html" "Licensed under the SIL Open Font License, Version 1.1" "http://scripts.sil.org/OFL"
+LangName: 1033 "" "" "Bold Italic" "Ascender - Liberation Serif" "" "Version 2.1.1" "" "Liberation is a trademark of Red Hat, Inc. registered in U.S. Patent and Trademark Office and certain other jurisdictions." "Ascender Corporation" "Steve Matteson" "Based on Tinos, which was designed by Steve Matteson as an innovative, refreshing serif design that is metrically compatible with Times New Roman+ISIA. Tinos offers improved on-screen readability characteristics and the pan-European WGL character set and solves the needs of developers looking for width-compatible fonts to address document portability across platforms." "http://www.ascendercorp.com/" "http://www.ascendercorp.com/typedesigners.html" "Licensed under the SIL Open Font License, Version 1.1" "http://scripts.sil.org/OFL"
 GaspTable: 3 8 2 17 1 65535 3 0
 Encoding: UnicodeBmp
 Compacted: 1
@@ -3906,7 +3906,7 @@ FitToEm: 1
 WinInfo: 0 51 17
 BeginPrivate: 0
 EndPrivate
-AnchorClass2: "top" "'mark' Mark Positioning lookup 25-1" "bottom" "'mark' Mark Positioning lookup 25-1" "Anchor-0" "'mark' Mark Positioning in Hebrew lookup 0 subtable" "Anchor-1" "'mark' Mark Positioning in Hebrew lookup 2 subtable" "Anchor-2" "'mark' Mark Positioning in Hebrew lookup 3 subtable" "Anchor-3" "'mark' Mark Positioning in Hebrew lookup 4 subtable" "Anchor-4" "'mark' Mark Positioning in Hebrew lookup 4 subtable" "Anchor-5" "'mark' Mark Positioning in Hebrew lookup 5 subtable" "Anchor-6" "'mark' Mark Positioning in Hebrew lookup 5 subtable" "Anchor-7" "'mark' Mark Positioning in Hebrew lookup 10 subtable" "Anchor-8" "'mark' Mark Positioning in Hebrew lookup 11 subtable" "Anchor-9" "'mark' Mark Positioning in Hebrew lookup 12 subtable" "Anchor-10" "Mark to base attachment lookup 18 subtable" "Anchor-11" "Mark to base attachment lookup 19 subtable" "Anchor-12" "Mark to base attachment lookup 20 subtable" "Anchor-13" "Mark to base attachment lookup 21 subtable"
+AnchorClass2: "bottom-right" "'mark' Mark Positioning lookup 25-1" "top-right" "'mark' Mark Positioning lookup 25-1" "top" "'mark' Mark Positioning lookup 25-1" "bottom" "'mark' Mark Positioning lookup 25-1" "Anchor-0" "'mark' Mark Positioning in Hebrew lookup 0 subtable" "Anchor-1" "'mark' Mark Positioning in Hebrew lookup 2 subtable" "Anchor-2" "'mark' Mark Positioning in Hebrew lookup 3 subtable" "Anchor-3" "'mark' Mark Positioning in Hebrew lookup 4 subtable" "Anchor-4" "'mark' Mark Positioning in Hebrew lookup 4 subtable" "Anchor-5" "'mark' Mark Positioning in Hebrew lookup 5 subtable" "Anchor-6" "'mark' Mark Positioning in Hebrew lookup 5 subtable" "Anchor-7" "'mark' Mark Positioning in Hebrew lookup 10 subtable" "Anchor-8" "'mark' Mark Positioning in Hebrew lookup 11 subtable" "Anchor-9" "'mark' Mark Positioning in Hebrew lookup 12 subtable" "Anchor-10" "Mark to base attachment lookup 18 subtable" "Anchor-11" "Mark to base attachment lookup 19 subtable" "Anchor-12" "Mark to base attachment lookup 20 subtable" "Anchor-13" "Mark to base attachment lookup 21 subtable"
 BeginChars: 65818 2591
 
 StartChar: .notdef
@@ -8483,8 +8483,8 @@ IP
 IUP[x]
 IUP[y]
 EndTTInstrs
-AnchorPoint: "bottom" 572 -75 basechar 0
-AnchorPoint: "top" 794 1455 basechar 0
+AnchorPoint: "bottom" 542 1 basechar 0
+AnchorPoint: "top" 800 1353 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -8630,6 +8630,8 @@ SHP[rp1]
 IUP[x]
 IUP[y]
 EndTTInstrs
+AnchorPoint: "bottom" 576 -3 basechar 0
+AnchorPoint: "top" 752 1342 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -8665,7 +8667,6 @@ SplineSet
  1278 195 1278 195 1120.5 94.5 c 128,-1,36
  963 -6 963 -6 648 -6 c 1,18,-1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: C
@@ -8735,6 +8736,8 @@ SHP[rp1]
 IUP[x]
 IUP[y]
 EndTTInstrs
+AnchorPoint: "bottom" 691 -19 basechar 0
+AnchorPoint: "top" 909 1361 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -8763,7 +8766,6 @@ SplineSet
  1074 27 1074 27 937 3.5 c 128,-1,30
  800 -20 800 -20 670 -20 c 0,0,1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: D
@@ -8833,6 +8835,8 @@ SHP[rp1]
 IUP[x]
 IUP[y]
 EndTTInstrs
+AnchorPoint: "bottom" 517 -5 basechar 0
+AnchorPoint: "top" 787 1343 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -8858,7 +8862,6 @@ SplineSet
  221 1341 l 1,23,-1
  742 1341 l 2,9,10
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: E
@@ -8992,8 +8995,8 @@ IP
 IUP[x]
 IUP[y]
 EndTTInstrs
-AnchorPoint: "bottom" 601 -86 basechar 0
-AnchorPoint: "top" 753 1438 basechar 0
+AnchorPoint: "bottom" 577 -2 basechar 0
+AnchorPoint: "top" 763 1338 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -9160,6 +9163,8 @@ IP
 IUP[x]
 IUP[y]
 EndTTInstrs
+AnchorPoint: "bottom" 647 -13 basechar 0
+AnchorPoint: "top" 807 1342 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -9189,7 +9194,6 @@ SplineSet
  919 592 l 1,24,-1
  556 592 l 1,0,-1
 EndSplineSet
-Validated: 1
 Kerns2: 36 -188 "'kern' Horizontal Kerning lookup 16 subtable" 17 -264 "'kern' Horizontal Kerning lookup 16 subtable" 15 -264 "'kern' Horizontal Kerning lookup 16 subtable" 3 -37 "'kern' Horizontal Kerning lookup 16 subtable"
 EndChar
 
@@ -9298,6 +9302,8 @@ SHP[rp1]
 IUP[x]
 IUP[y]
 EndTTInstrs
+AnchorPoint: "bottom" 684 -19 basechar 0
+AnchorPoint: "top" 893 1361 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -9328,7 +9334,6 @@ SplineSet
  381 -20 381 -20 225.5 124 c 128,-1,32
  70 268 70 268 70 523 c 0,0,1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: H
@@ -9460,6 +9465,8 @@ IP
 IUP[x]
 IUP[y]
 EndTTInstrs
+AnchorPoint: "bottom" 692 0 basechar 0
+AnchorPoint: "top" 926 1340 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -9493,7 +9500,6 @@ SplineSet
  623 0 l 1,27,-1
  -15 0 l 1,0,-1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: I
@@ -9576,8 +9582,8 @@ SHP[rp1]
 IUP[x]
 IUP[y]
 EndTTInstrs
-AnchorPoint: "bottom" 298 -68 basechar 0
-AnchorPoint: "top" 536 1430 basechar 0
+AnchorPoint: "bottom" 300 -4 basechar 0
+AnchorPoint: "top" 536 1340 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -9662,6 +9668,8 @@ SHP[rp1]
 IUP[x]
 IUP[y]
 EndTTInstrs
+AnchorPoint: "bottom" 338 -19 basechar 0
+AnchorPoint: "top" 769 1341 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -9683,7 +9691,6 @@ SplineSet
  428 188 428 188 443 276 c 2,19,-1
  613 1242 l 1,0,-1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: K
@@ -9788,6 +9795,8 @@ SHP[rp1]
 IUP[x]
 IUP[y]
 EndTTInstrs
+AnchorPoint: "bottom" 647 3 basechar 0
+AnchorPoint: "top" 855 1341 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -9819,7 +9828,6 @@ SplineSet
  555 591 l 1,25,-1
  469 100 l 1,0,-1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: L
@@ -9909,6 +9917,8 @@ SHP[rp1]
 IUP[x]
 IUP[y]
 EndTTInstrs
+AnchorPoint: "bottom" 571 1 basechar 0
+AnchorPoint: "top" 801 1339 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -9930,7 +9940,6 @@ SplineSet
  670 1242 l 1,16,-1
  470 106 l 1,0,-1
 EndSplineSet
-Validated: 1
 Kerns2: 181 -113 "'kern' Horizontal Kerning lookup 16 subtable" 92 -76 "'kern' Horizontal Kerning lookup 16 subtable" 60 -76 "'kern' Horizontal Kerning lookup 16 subtable" 58 -76 "'kern' Horizontal Kerning lookup 16 subtable" 57 -76 "'kern' Horizontal Kerning lookup 16 subtable" 55 -37 "'kern' Horizontal Kerning lookup 16 subtable" 3 -76 "'kern' Horizontal Kerning lookup 16 subtable"
 EndChar
 
@@ -10050,6 +10059,8 @@ SHP[rp1]
 IUP[x]
 IUP[y]
 EndTTInstrs
+AnchorPoint: "bottom" 720 -1 basechar 0
+AnchorPoint: "top" 975 1335 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -10080,7 +10091,6 @@ SplineSet
  1379 1158 l 1,24,-1
  740 0 l 1,0,-1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: N
@@ -10175,6 +10185,8 @@ SHP[rp1]
 IUP[x]
 IUP[y]
 EndTTInstrs
+AnchorPoint: "bottom" 589 -1 basechar 0
+AnchorPoint: "top" 843 1342 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -10200,7 +10212,6 @@ SplineSet
  1085 447 l 1,19,-1
  1225 1242 l 1,0,-1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: O
@@ -10250,8 +10261,8 @@ SHP[rp1]
 IUP[x]
 IUP[y]
 EndTTInstrs
-AnchorPoint: "bottom" 612 -92 basechar 0
-AnchorPoint: "top" 876 1442 basechar 0
+AnchorPoint: "bottom" 632 -22 basechar 0
+AnchorPoint: "top" 866 1352 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -10367,6 +10378,8 @@ SHP[rp1]
 IUP[x]
 IUP[y]
 EndTTInstrs
+AnchorPoint: "bottom" 595 -5 basechar 0
+AnchorPoint: "top" 761 1344 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -10395,7 +10408,6 @@ SplineSet
  966 526 966 526 687 526 c 2,25,-1
  544 526 l 1,9,-1
 EndSplineSet
-Validated: 1
 Kerns2: 36 -152 "'kern' Horizontal Kerning lookup 16 subtable" 17 -264 "'kern' Horizontal Kerning lookup 16 subtable" 15 -264 "'kern' Horizontal Kerning lookup 16 subtable" 3 -76 "'kern' Horizontal Kerning lookup 16 subtable"
 EndChar
 
@@ -10467,6 +10479,8 @@ SHP[rp2]
 IUP[x]
 IUP[y]
 EndTTInstrs
+AnchorPoint: "bottom" 804 -319 basechar 0
+AnchorPoint: "top" 833 1355 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -10504,7 +10518,6 @@ SplineSet
  988 281 988 281 1054 467 c 128,-1,42
  1120 653 1120 653 1120 843 c 256,29,30
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: R
@@ -10613,6 +10626,8 @@ IP
 IUP[x]
 IUP[y]
 EndTTInstrs
+AnchorPoint: "bottom" 626 2 basechar 0
+AnchorPoint: "top" 723 1338 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -10646,7 +10661,6 @@ SplineSet
  571 678 l 1,30,-1
  626 678 l 2,22,23
 EndSplineSet
-Validated: 1
 Kerns2: 92 -37 "'kern' Horizontal Kerning lookup 16 subtable" 60 -37 "'kern' Horizontal Kerning lookup 16 subtable" 58 -37 "'kern' Horizontal Kerning lookup 16 subtable" 57 -37 "'kern' Horizontal Kerning lookup 16 subtable"
 EndChar
 
@@ -10767,6 +10781,8 @@ SHP[rp1]
 IUP[x]
 IUP[y]
 EndTTInstrs
+AnchorPoint: "bottom" 414 -18 basechar 0
+AnchorPoint: "top" 693 1354 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -10805,7 +10821,6 @@ SplineSet
  1011 207 1011 207 862.5 93.5 c 128,-1,43
  714 -20 714 -20 432 -20 c 0,0,1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: T
@@ -10878,6 +10893,8 @@ SHP[rp1]
 IUP[x]
 IUP[y]
 EndTTInstrs
+AnchorPoint: "bottom" 532 2 basechar 0
+AnchorPoint: "top" 760 1342 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -10903,7 +10920,6 @@ SplineSet
  889 0 l 1,21,-1
  167 0 l 1,0,-1
 EndSplineSet
-Validated: 1
 Kerns2: 92 -76 "'kern' Horizontal Kerning lookup 16 subtable" 90 -76 "'kern' Horizontal Kerning lookup 16 subtable" 88 -76 "'kern' Horizontal Kerning lookup 16 subtable" 86 -188 "'kern' Horizontal Kerning lookup 16 subtable" 85 -76 "'kern' Horizontal Kerning lookup 16 subtable" 82 -188 "'kern' Horizontal Kerning lookup 16 subtable" 76 -76 "'kern' Horizontal Kerning lookup 16 subtable" 72 -188 "'kern' Horizontal Kerning lookup 16 subtable" 70 -188 "'kern' Horizontal Kerning lookup 16 subtable" 68 -188 "'kern' Horizontal Kerning lookup 16 subtable" 50 -37 "'kern' Horizontal Kerning lookup 16 subtable" 36 -113 "'kern' Horizontal Kerning lookup 16 subtable" 30 -152 "'kern' Horizontal Kerning lookup 16 subtable" 29 -152 "'kern' Horizontal Kerning lookup 16 subtable" 17 -188 "'kern' Horizontal Kerning lookup 16 subtable" 16 -188 "'kern' Horizontal Kerning lookup 16 subtable" 15 -188 "'kern' Horizontal Kerning lookup 16 subtable"
 EndChar
 
@@ -10976,8 +10992,8 @@ SHP[rp1]
 IUP[x]
 IUP[y]
 EndTTInstrs
-AnchorPoint: "bottom" 665 -99 basechar 0
-AnchorPoint: "top" 867 1439 basechar 0
+AnchorPoint: "bottom" 664 -19 basechar 0
+AnchorPoint: "top" 859 1339 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -11463,6 +11479,8 @@ SHP[rp1]
 IUP[x]
 IUP[y]
 EndTTInstrs
+AnchorPoint: "bottom" 584 -33 basechar 0
+AnchorPoint: "top" 787 1335 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -11483,7 +11501,6 @@ SplineSet
  1094 1341 l 1,14,-1
  1505 1341 l 1,0,-1
 EndSplineSet
-Validated: 1
 Kerns2: 92 -152 "'kern' Horizontal Kerning lookup 16 subtable" 88 -113 "'kern' Horizontal Kerning lookup 16 subtable" 85 -113 "'kern' Horizontal Kerning lookup 16 subtable" 82 -227 "'kern' Horizontal Kerning lookup 16 subtable" 76 -113 "'kern' Horizontal Kerning lookup 16 subtable" 72 -227 "'kern' Horizontal Kerning lookup 16 subtable" 68 -227 "'kern' Horizontal Kerning lookup 16 subtable" 36 -152 "'kern' Horizontal Kerning lookup 16 subtable" 30 -152 "'kern' Horizontal Kerning lookup 16 subtable" 29 -152 "'kern' Horizontal Kerning lookup 16 subtable" 17 -264 "'kern' Horizontal Kerning lookup 16 subtable" 16 -113 "'kern' Horizontal Kerning lookup 16 subtable" 15 -264 "'kern' Horizontal Kerning lookup 16 subtable" 3 -37 "'kern' Horizontal Kerning lookup 16 subtable"
 EndChar
 
@@ -11562,6 +11579,8 @@ DELTAP1
 IUP[x]
 IUP[y]
 EndTTInstrs
+AnchorPoint: "bottom" 822 -27 basechar 0
+AnchorPoint: "top" 1083 1344 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -11588,7 +11607,6 @@ SplineSet
  1806 1242 l 1,20,-1
  1214 -31 l 1,0,-1
 EndSplineSet
-Validated: 1
 Kerns2: 92 -113 "'kern' Horizontal Kerning lookup 16 subtable" 88 -113 "'kern' Horizontal Kerning lookup 16 subtable" 85 -152 "'kern' Horizontal Kerning lookup 16 subtable" 82 -152 "'kern' Horizontal Kerning lookup 16 subtable" 76 -76 "'kern' Horizontal Kerning lookup 16 subtable" 72 -152 "'kern' Horizontal Kerning lookup 16 subtable" 68 -152 "'kern' Horizontal Kerning lookup 16 subtable" 36 -152 "'kern' Horizontal Kerning lookup 16 subtable" 30 -113 "'kern' Horizontal Kerning lookup 16 subtable" 29 -113 "'kern' Horizontal Kerning lookup 16 subtable" 17 -152 "'kern' Horizontal Kerning lookup 16 subtable" 16 -76 "'kern' Horizontal Kerning lookup 16 subtable" 15 -152 "'kern' Horizontal Kerning lookup 16 subtable" 3 -37 "'kern' Horizontal Kerning lookup 16 subtable"
 EndChar
 
@@ -11681,6 +11699,8 @@ SHP[rp1]
 IUP[x]
 IUP[y]
 EndTTInstrs
+AnchorPoint: "bottom" 572 1 basechar 0
+AnchorPoint: "top" 813 1341 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -11714,7 +11734,6 @@ SplineSet
  619 520 l 1,27,-1
  257 100 l 1,0,-1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: Y
@@ -12063,6 +12082,8 @@ SHP[rp1]
 IUP[x]
 IUP[y]
 EndTTInstrs
+AnchorPoint: "bottom" 549 -1 basechar 0
+AnchorPoint: "top" 749 1339 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -12089,7 +12110,6 @@ SplineSet
  782 548 l 1,20,-1
  702 100 l 1,0,-1
 EndSplineSet
-Validated: 1
 Kerns2: 89 -188 "'kern' Horizontal Kerning lookup 16 subtable" 88 -188 "'kern' Horizontal Kerning lookup 16 subtable" 84 -227 "'kern' Horizontal Kerning lookup 16 subtable" 83 -152 "'kern' Horizontal Kerning lookup 16 subtable" 82 -227 "'kern' Horizontal Kerning lookup 16 subtable" 76 -113 "'kern' Horizontal Kerning lookup 16 subtable" 72 -227 "'kern' Horizontal Kerning lookup 16 subtable" 68 -188 "'kern' Horizontal Kerning lookup 16 subtable" 36 -152 "'kern' Horizontal Kerning lookup 16 subtable" 30 -188 "'kern' Horizontal Kerning lookup 16 subtable" 29 -188 "'kern' Horizontal Kerning lookup 16 subtable" 17 -152 "'kern' Horizontal Kerning lookup 16 subtable" 16 -188 "'kern' Horizontal Kerning lookup 16 subtable" 15 -188 "'kern' Horizontal Kerning lookup 16 subtable" 3 -76 "'kern' Horizontal Kerning lookup 16 subtable"
 EndChar
 
@@ -12157,6 +12177,8 @@ SHP[rp1]
 IUP[x]
 IUP[y]
 EndTTInstrs
+AnchorPoint: "bottom" 524 3 basechar 0
+AnchorPoint: "top" 720 1343 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -12180,7 +12202,6 @@ SplineSet
  15 114 l 1,19,-1
  841 1235 l 1,0,-1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: bracketleft
@@ -12591,8 +12612,8 @@ SHP[rp1]
 IUP[x]
 IUP[y]
 EndTTInstrs
-AnchorPoint: "top" 596 1047 basechar 0
-AnchorPoint: "bottom" 460 -74 basechar 0
+AnchorPoint: "top" 606 967 basechar 0
+AnchorPoint: "bottom" 400 -34 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -12713,6 +12734,8 @@ IP
 IUP[x]
 IUP[y]
 EndTTInstrs
+AnchorPoint: "bottom" 412 -22 basechar 0
+AnchorPoint: "top" 616 1409 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -12744,7 +12767,6 @@ SplineSet
  826 148 826 148 709.5 62.5 c 128,-1,33
  593 -23 593 -23 449 -23 c 0,14,15
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: c
@@ -12810,6 +12832,8 @@ SHP[rp1]
 IUP[x]
 IUP[y]
 EndTTInstrs
+AnchorPoint: "bottom" 348 -24 basechar 0
+AnchorPoint: "top" 584 969 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -12836,7 +12860,6 @@ SplineSet
  688 62 688 62 587.5 21 c 128,-1,28
  487 -20 487 -20 391 -20 c 0,0,1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: d
@@ -12942,6 +12965,8 @@ SHP[rp1]
 IUP[x]
 IUP[y]
 EndTTInstrs
+AnchorPoint: "bottom" 393 -15 basechar 0
+AnchorPoint: "top" 599 1423 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -12977,7 +13002,6 @@ SplineSet
  355 723 355 723 321 602 c 128,-1,36
  287 481 287 481 287 354 c 0,23,24
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: e
@@ -13060,8 +13084,8 @@ SHP[rp1]
 IUP[x]
 IUP[y]
 EndTTInstrs
-AnchorPoint: "bottom" 398 -78 basechar 0
-AnchorPoint: "top" 558 1054 basechar 0
+AnchorPoint: "bottom" 380 -24 basechar 0
+AnchorPoint: "top" 558 966 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -13221,6 +13245,8 @@ IP
 IUP[x]
 IUP[y]
 EndTTInstrs
+AnchorPoint: "bottom" 165 -439 basechar 0
+AnchorPoint: "top" 636 1442 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -13246,7 +13272,6 @@ SplineSet
  0 -436 l 1,23,-1
  222 836 l 1,0,-1
 EndSplineSet
-Validated: 1
 Kerns2: 181 113 "'kern' Horizontal Kerning lookup 16 subtable" 73 -37 "'kern' Horizontal Kerning lookup 16 subtable"
 EndChar
 
@@ -13358,6 +13383,8 @@ SHP[rp1]
 IUP[x]
 IUP[y]
 EndTTInstrs
+AnchorPoint: "bottom" 324 -441 basechar 0
+AnchorPoint: "top" 591 965 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -13395,7 +13422,6 @@ SplineSet
  171 -23 171 -23 100 67 c 128,-1,43
  29 157 29 157 29 311 c 0,13,14
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: h
@@ -13510,6 +13536,8 @@ IP
 IUP[x]
 IUP[y]
 EndTTInstrs
+AnchorPoint: "bottom" 460 -2 basechar 0
+AnchorPoint: "top" 629 1416 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -13537,7 +13565,6 @@ SplineSet
  443 798 l 1,27,-1
  436 769 l 1,0,1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: i
@@ -13617,8 +13644,8 @@ SHP[rp1]
 IUP[x]
 IUP[y]
 EndTTInstrs
-AnchorPoint: "bottom" 232 -72 basechar 0
-AnchorPoint: "top" 426 1504 basechar 0
+AnchorPoint: "bottom" 232 -2 basechar 0
+AnchorPoint: "top" 416 1424 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -13734,6 +13761,8 @@ SHP[rp1]
 IUP[x]
 IUP[y]
 EndTTInstrs
+AnchorPoint: "bottom" 24 -426 basechar 0
+AnchorPoint: "top" 421 1416 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -13762,7 +13791,6 @@ SplineSet
  358 1114 358 1114 313 1158.5 c 128,-1,29
  268 1203 268 1203 268 1268 c 256,18,19
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: k
@@ -13868,6 +13896,8 @@ SHP[rp1]
 IUP[x]
 IUP[y]
 EndTTInstrs
+AnchorPoint: "bottom" 425 3 basechar 0
+AnchorPoint: "top" 576 1420 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -13893,7 +13923,6 @@ SplineSet
  548 1421 l 1,19,-1
  388 507 l 1,0,-1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: l
@@ -13955,6 +13984,8 @@ SHP[rp1]
 IUP[x]
 IUP[y]
 EndTTInstrs
+AnchorPoint: "bottom" 222 6 basechar 0
+AnchorPoint: "top" 411 1422 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -13968,7 +13999,6 @@ SplineSet
  566 1421 l 1,7,-1
  330 90 l 1,0,-1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: m
@@ -14468,6 +14498,8 @@ SHP[rp1]
 IUP[x]
 IUP[y]
 EndTTInstrs
+AnchorPoint: "bottom" 701 -1 basechar 0
+AnchorPoint: "top" 903 960 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -14505,7 +14537,6 @@ SplineSet
  1198 569 l 1,41,42
  1220 685 1220 685 1220 725 c 0,0,1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: n
@@ -14606,6 +14637,8 @@ SHP[rp1]
 IUP[x]
 IUP[y]
 EndTTInstrs
+AnchorPoint: "bottom" 477 6 basechar 0
+AnchorPoint: "top" 639 963 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -14631,7 +14664,6 @@ SplineSet
  742 569 l 1,24,25
  764 685 764 685 764 725 c 0,0,1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: o
@@ -14701,8 +14733,8 @@ SHP[rp1]
 IUP[x]
 IUP[y]
 EndTTInstrs
-AnchorPoint: "bottom" 407 -102 basechar 0
-AnchorPoint: "top" 595 1080 basechar 0
+AnchorPoint: "bottom" 407 -22 basechar 0
+AnchorPoint: "top" 575 970 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -14829,6 +14861,8 @@ SHP[rp1]
 IUP[x]
 IUP[y]
 EndTTInstrs
+AnchorPoint: "bottom" 271 -441 basechar 0
+AnchorPoint: "top" 558 967 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -14864,7 +14898,6 @@ SplineSet
  631 220 631 220 665 339.5 c 128,-1,36
  699 459 699 459 699 587 c 0,24,25
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: q
@@ -14965,6 +14998,8 @@ SHP[rp1]
 IUP[x]
 IUP[y]
 EndTTInstrs
+AnchorPoint: "bottom" 395 -432 basechar 0
+AnchorPoint: "top" 558 969 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -14993,7 +15028,6 @@ SplineSet
  155 793 155 793 272.5 879 c 128,-1,30
  390 965 390 965 540 965 c 0,12,13
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: r
@@ -15080,6 +15114,8 @@ IP
 IUP[x]
 IUP[y]
 EndTTInstrs
+AnchorPoint: "bottom" 180 4 basechar 0
+AnchorPoint: "top" 535 961 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -15100,7 +15136,6 @@ SplineSet
  461 940 l 1,17,-1
  438 738 l 1,0,1
 EndSplineSet
-Validated: 1
 Kerns2: 181 76 "'kern' Horizontal Kerning lookup 16 subtable" 17 -113 "'kern' Horizontal Kerning lookup 16 subtable" 15 -113 "'kern' Horizontal Kerning lookup 16 subtable"
 EndChar
 
@@ -15226,6 +15261,8 @@ SHP[rp1]
 IUP[x]
 IUP[y]
 EndTTInstrs
+AnchorPoint: "bottom" 299 -25 basechar 0
+AnchorPoint: "top" 441 966 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -15260,7 +15297,6 @@ SplineSet
  648 455 648 455 670.5 408 c 128,-1,40
  693 361 693 361 693 297 c 0,0,1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: t
@@ -15340,6 +15376,8 @@ SHP[rp1]
 IUP[x]
 IUP[y]
 EndTTInstrs
+AnchorPoint: "bottom" 277 -18 basechar 0
+AnchorPoint: "top" 418 1148 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -15366,7 +15404,6 @@ SplineSet
  337 154 337 154 363.5 130 c 128,-1,26
  390 106 390 106 428 106 c 0,0,1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: u
@@ -15453,8 +15490,8 @@ SHP[rp1]
 IUP[x]
 IUP[y]
 EndTTInstrs
-AnchorPoint: "bottom" 514 -84 basechar 0
-AnchorPoint: "top" 618 1060 basechar 0
+AnchorPoint: "bottom" 514 -34 basechar 0
+AnchorPoint: "top" 618 940 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -15550,6 +15587,8 @@ SHP[rp1]
 IUP[x]
 IUP[y]
 EndTTInstrs
+AnchorPoint: "bottom" 341 -22 basechar 0
+AnchorPoint: "top" 468 935 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -15572,7 +15611,6 @@ SplineSet
  30 941 l 1,20,-1
  330 941 l 1,0,-1
 EndSplineSet
-Validated: 1
 Kerns2: 17 -76 "'kern' Horizontal Kerning lookup 16 subtable" 15 -76 "'kern' Horizontal Kerning lookup 16 subtable"
 EndChar
 
@@ -15654,6 +15692,8 @@ SHP[rp1]
 IUP[x]
 IUP[y]
 EndTTInstrs
+AnchorPoint: "bottom" 576 -30 basechar 0
+AnchorPoint: "top" 726 937 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -15681,7 +15721,6 @@ SplineSet
  1149 617 1149 617 1167 677.5 c 128,-1,25
  1185 738 1185 738 1185 775 c 0,0,1
 EndSplineSet
-Validated: 1
 Kerns2: 17 -76 "'kern' Horizontal Kerning lookup 16 subtable" 15 -76 "'kern' Horizontal Kerning lookup 16 subtable"
 EndChar
 
@@ -15778,6 +15817,8 @@ IP
 IUP[x]
 IUP[y]
 EndTTInstrs
+AnchorPoint: "bottom" 410 0 basechar 0
+AnchorPoint: "top" 581 933 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -15813,7 +15854,6 @@ SplineSet
  629 0 l 1,37,-1
  439 374 l 1,0,-1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: y
@@ -15908,6 +15948,8 @@ SHP[rp1]
 IUP[x]
 IUP[y]
 EndTTInstrs
+AnchorPoint: "bottom" 81 -444 basechar 0
+AnchorPoint: "top" 486 945 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -15940,7 +15982,6 @@ SplineSet
  889 940 l 1,33,34
  915 917 915 917 915 877 c 0,0,1
 EndSplineSet
-Validated: 1
 Kerns2: 17 -76 "'kern' Horizontal Kerning lookup 16 subtable" 15 -76 "'kern' Horizontal Kerning lookup 16 subtable"
 EndChar
 
@@ -16022,6 +16063,8 @@ SHP[rp1]
 IUP[x]
 IUP[y]
 EndTTInstrs
+AnchorPoint: "bottom" 276 -4 basechar 0
+AnchorPoint: "top" 456 945 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -16045,7 +16088,6 @@ SplineSet
  639 0 l 1,19,-1
  -58 0 l 1,0,-1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: braceleft
@@ -16929,7 +16971,6 @@ LayerCount: 2
 Fore
 Refer: 38 67 N 1 0 0 1 0 0 3
 Refer: 217 184 N 1 0 0 1 463 0 2
-Validated: 5
 EndChar
 
 StartChar: Eacute
@@ -16995,7 +17036,6 @@ LayerCount: 2
 Fore
 Refer: 49 78 N 1 0 0 1 0 0 3
 Refer: 212 732 N 1 0 0 1 497 334 2
-Validated: 1
 EndChar
 
 StartChar: Odieresis
@@ -17311,7 +17351,6 @@ LayerCount: 2
 Fore
 Refer: 70 99 N 1 0 0 1 0 0 3
 Refer: 217 184 N 1 0 0 1 144 0 2
-Validated: 5
 EndChar
 
 StartChar: eacute
@@ -17621,7 +17660,6 @@ LayerCount: 2
 Fore
 Refer: 81 110 N 1 0 0 1 0 0 3
 Refer: 212 732 N 1 0 0 1 220 0 2
-Validated: 1
 EndChar
 
 StartChar: oacute
@@ -26301,7 +26339,6 @@ LayerCount: 2
 Fore
 Refer: 92 121 N 1 0 0 1 0 0 3
 Refer: 142 168 N 1 0 0 1 75 0 2
-Validated: 1
 EndChar
 
 StartChar: Ydieresis
@@ -26338,7 +26375,6 @@ LayerCount: 2
 Fore
 Refer: 60 89 N 1 0 0 1 0 0 3
 Refer: 142 168 N 1 0 0 1 395 401 2
-Validated: 1
 EndChar
 
 StartChar: fraction
@@ -30304,7 +30340,6 @@ LayerCount: 2
 Fore
 Refer: 54 83 N 1 0 0 1 0 0 3
 Refer: 220 711 N 1 0 0 1 265 334 2
-Validated: 1
 EndChar
 
 StartChar: scaron
@@ -30337,7 +30372,6 @@ LayerCount: 2
 Fore
 Refer: 86 115 N 1 0 0 1 0 0 3
 Refer: 220 711 N 1 0 0 1 45 0 2
-Validated: 1
 EndChar
 
 StartChar: Zcaron
@@ -30370,7 +30404,6 @@ LayerCount: 2
 Fore
 Refer: 61 90 N 1 0 0 1 0 0 3
 Refer: 220 711 N 1 0 0 1 290 334 2
-Validated: 1
 EndChar
 
 StartChar: zcaron
@@ -30411,7 +30444,6 @@ LayerCount: 2
 Fore
 Refer: 93 122 N 1 0 0 1 0 0 3
 Refer: 220 711 N 1 0 0 1 12 0 2
-Validated: 1
 EndChar
 
 StartChar: brokenbar
@@ -30959,7 +30991,6 @@ LayerCount: 2
 Fore
 Refer: 60 89 N 1 0 0 1 0 0 3
 Refer: 141 180 N 1 0 0 1 454 334 2
-Validated: 1
 EndChar
 
 StartChar: yacute
@@ -30993,7 +31024,6 @@ LayerCount: 2
 Fore
 Refer: 92 121 N 1 0 0 1 0 0 3
 Refer: 141 180 N 1 0 0 1 154 0 2
-Validated: 1
 EndChar
 
 StartChar: Thorn
@@ -34095,7 +34125,6 @@ LayerCount: 2
 Fore
 Refer: 42 71 N 1 0 0 1 0 0 3
 Refer: 214 728 N 1 0 0 1 465 334 2
-Validated: 1
 EndChar
 
 StartChar: gbreve
@@ -34128,7 +34157,6 @@ LayerCount: 2
 Fore
 Refer: 74 103 N 1 0 0 1 0 0 3
 Refer: 214 728 N 1 0 0 1 158 0 2
-Validated: 1
 EndChar
 
 StartChar: Idotaccent
@@ -34228,7 +34256,6 @@ LayerCount: 2
 Fore
 Refer: 54 83 N 1 0 0 1 0 0 3
 Refer: 217 184 N 1 0 0 1 279 0 2
-Validated: 5
 EndChar
 
 StartChar: scedilla
@@ -34254,7 +34281,6 @@ LayerCount: 2
 Fore
 Refer: 86 115 N 1 0 0 1 0 0 3
 Refer: 217 184 N 1 0 0 1 114 0 2
-Validated: 5
 EndChar
 
 StartChar: Cacute
@@ -34288,7 +34314,6 @@ LayerCount: 2
 Fore
 Refer: 38 67 N 1 0 0 1 0 0 3
 Refer: 141 180 N 1 0 0 1 500 334 2
-Validated: 1
 EndChar
 
 StartChar: cacute
@@ -34322,7 +34347,6 @@ LayerCount: 2
 Fore
 Refer: 70 99 N 1 0 0 1 0 0 3
 Refer: 141 180 N 1 0 0 1 226 0 2
-Validated: 1
 EndChar
 
 StartChar: Ccaron
@@ -34355,7 +34379,6 @@ LayerCount: 2
 Fore
 Refer: 38 67 N 1 0 0 1 0 0 3
 Refer: 220 711 N 1 0 0 1 460 334 2
-Validated: 1
 EndChar
 
 StartChar: ccaron
@@ -34388,7 +34411,6 @@ LayerCount: 2
 Fore
 Refer: 70 99 N 1 0 0 1 0 0 3
 Refer: 220 711 N 1 0 0 1 158 0 2
-Validated: 1
 EndChar
 
 StartChar: dcroat
@@ -34858,7 +34880,6 @@ LayerCount: 2
 Fore
 Refer: 39 68 N 1 0 0 1 0 0 3
 Refer: 220 711 N 1 0 0 1 374 334 2
-Validated: 1
 EndChar
 
 StartChar: dcaron
@@ -34890,7 +34911,6 @@ LayerCount: 2
 Fore
 Refer: 71 100 N 1 0 0 1 0 0 2
 Refer: 657 -1 N 1 0 0 1 1001 59 2
-Validated: 1
 EndChar
 
 StartChar: Dcroat
@@ -35058,7 +35078,6 @@ LayerCount: 2
 Fore
 Refer: 47 76 N 1 0 0 1 0 0 3
 Refer: 141 180 N 1 0 0 1 203 334 2
-Validated: 1
 EndChar
 
 StartChar: lacute
@@ -35092,7 +35111,6 @@ LayerCount: 2
 Fore
 Refer: 79 108 N 1 0 0 1 0 0 3
 Refer: 141 180 N 1 0 0 1 58 384 2
-Validated: 1
 EndChar
 
 StartChar: Lcaron
@@ -35124,7 +35142,6 @@ LayerCount: 2
 Fore
 Refer: 47 76 N 1 0 0 1 0 0 3
 Refer: 657 -1 N 1 0 0 1 795 0 2
-Validated: 1
 EndChar
 
 StartChar: lcaron
@@ -35166,7 +35183,6 @@ LayerCount: 2
 Fore
 Refer: 79 108 N 1 0 0 1 0 0 2
 Refer: 657 -1 N 1 0 0 1 535 59 2
-Validated: 1
 EndChar
 
 StartChar: Ldot
@@ -35194,7 +35210,6 @@ LayerCount: 2
 Fore
 Refer: 47 76 N 1 0 0 1 0 0 3
 Refer: 215 729 N 1 0 0 1 458 -577 2
-Validated: 1
 EndChar
 
 StartChar: ldot
@@ -35254,7 +35269,6 @@ LayerCount: 2
 Fore
 Refer: 79 108 N 1 0 0 1 0 0 2
 Refer: 215 729 N 1 0 0 1 229 -577 2
-Validated: 1
 EndChar
 
 StartChar: Nacute
@@ -35295,7 +35309,6 @@ LayerCount: 2
 Fore
 Refer: 49 78 N 1 0 0 1 0 0 3
 Refer: 141 180 N 1 0 0 1 495 334 2
-Validated: 1
 EndChar
 
 StartChar: nacute
@@ -35329,7 +35342,6 @@ LayerCount: 2
 Fore
 Refer: 81 110 N 1 0 0 1 0 0 3
 Refer: 141 180 N 1 0 0 1 319 0 2
-Validated: 1
 EndChar
 
 StartChar: Ncaron
@@ -35366,7 +35378,6 @@ LayerCount: 2
 Fore
 Refer: 49 78 N 1 0 0 1 0 0 3
 Refer: 220 711 N 1 0 0 1 444 334 2
-Validated: 1
 EndChar
 
 StartChar: ncaron
@@ -35399,7 +35410,6 @@ LayerCount: 2
 Fore
 Refer: 81 110 N 1 0 0 1 0 0 3
 Refer: 220 711 N 1 0 0 1 230 0 2
-Validated: 1
 EndChar
 
 StartChar: Ohungarumlaut
@@ -35505,7 +35515,6 @@ LayerCount: 2
 Fore
 Refer: 53 82 N 1 0 0 1 0 0 3
 Refer: 141 180 N 1 0 0 1 391 334 2
-Validated: 1
 EndChar
 
 StartChar: racute
@@ -35538,7 +35547,6 @@ LayerCount: 2
 Fore
 Refer: 85 114 N 1 0 0 1 0 0 3
 Refer: 141 180 N 1 0 0 1 151 0 2
-Validated: 1
 EndChar
 
 StartChar: Rcaron
@@ -35571,7 +35579,6 @@ LayerCount: 2
 Fore
 Refer: 53 82 N 1 0 0 1 0 0 3
 Refer: 220 711 N 1 0 0 1 356 334 2
-Validated: 1
 EndChar
 
 StartChar: rcaron
@@ -35604,7 +35611,6 @@ LayerCount: 2
 Fore
 Refer: 85 114 N 1 0 0 1 0 0 3
 Refer: 220 711 N 1 0 0 1 65 0 2
-Validated: 1
 EndChar
 
 StartChar: Sacute
@@ -35638,7 +35644,6 @@ LayerCount: 2
 Fore
 Refer: 54 83 N 1 0 0 1 0 0 3
 Refer: 141 180 N 1 0 0 1 329 334 2
-Validated: 1
 EndChar
 
 StartChar: sacute
@@ -35671,7 +35676,6 @@ LayerCount: 2
 Fore
 Refer: 86 115 N 1 0 0 1 0 0 3
 Refer: 141 180 N 1 0 0 1 109 0 2
-Validated: 1
 EndChar
 
 StartChar: Tcommaaccent
@@ -35683,7 +35687,6 @@ LayerCount: 2
 Fore
 Refer: 55 84 N 1 0 0 1 0 0 3
 Refer: 217 184 N 1 0 0 1 308 0 2
-Validated: 5
 EndChar
 
 StartChar: tcommaaccent
@@ -35704,7 +35707,6 @@ LayerCount: 2
 Fore
 Refer: 87 116 N 1 0 0 1 0 0 2
 Refer: 217 184 N 1 0 0 1 64 0 2
-Validated: 5
 EndChar
 
 StartChar: Tcaron
@@ -35741,7 +35743,6 @@ LayerCount: 2
 Fore
 Refer: 55 84 N 1 0 0 1 0 0 3
 Refer: 220 711 N 1 0 0 1 333 334 2
-Validated: 1
 EndChar
 
 StartChar: tcaron
@@ -35778,7 +35779,6 @@ LayerCount: 2
 Fore
 Refer: 87 116 N 1 0 0 1 0 0 2
 Refer: 657 -1 N 1 0 0 1 568 59 2
-Validated: 1
 EndChar
 
 StartChar: Uring
@@ -35955,7 +35955,6 @@ LayerCount: 2
 Fore
 Refer: 61 90 N 1 0 0 1 0 0 3
 Refer: 141 180 N 1 0 0 1 344 334 2
-Validated: 1
 EndChar
 
 StartChar: zacute
@@ -35988,7 +35987,6 @@ LayerCount: 2
 Fore
 Refer: 93 122 N 1 0 0 1 0 0 3
 Refer: 141 180 N 1 0 0 1 104 0 2
-Validated: 1
 EndChar
 
 StartChar: Zdotaccent
@@ -36021,7 +36019,6 @@ LayerCount: 2
 Fore
 Refer: 61 90 N 1 0 0 1 0 0 3
 Refer: 215 729 N 1 0 0 1 286 334 2
-Validated: 1
 EndChar
 
 StartChar: zdotaccent
@@ -36054,7 +36051,6 @@ LayerCount: 2
 Fore
 Refer: 93 122 N 1 0 0 1 0 0 3
 Refer: 215 729 N 1 0 0 1 36 0 2
-Validated: 1
 EndChar
 
 StartChar: Gamma
@@ -45327,7 +45323,6 @@ LayerCount: 2
 Fore
 Refer: 81 110 N 1 0 0 1 333 0 2
 Refer: 181 8217 N 1 0 0 1 -193 0 2
-Validated: 1
 EndChar
 
 StartChar: minute
@@ -46488,7 +46483,6 @@ LayerCount: 2
 Fore
 Refer: 38 67 N 1 0 0 1 0 0 3
 Refer: 211 710 N 1 0 0 1 460 334 2
-Validated: 1
 EndChar
 
 StartChar: ccircumflex
@@ -46521,7 +46515,6 @@ LayerCount: 2
 Fore
 Refer: 70 99 N 1 0 0 1 0 0 3
 Refer: 211 710 N 1 0 0 1 182 0 2
-Validated: 1
 EndChar
 
 StartChar: Cdotaccent
@@ -46554,7 +46547,6 @@ LayerCount: 2
 Fore
 Refer: 38 67 N 1 0 0 1 0 0 3
 Refer: 215 729 N 1 0 0 1 465 334 2
-Validated: 1
 EndChar
 
 StartChar: cdotaccent
@@ -46587,7 +46579,6 @@ LayerCount: 2
 Fore
 Refer: 70 99 N 1 0 0 1 0 0 3
 Refer: 215 729 N 1 0 0 1 154 0 2
-Validated: 1
 EndChar
 
 StartChar: Emacron
@@ -46812,7 +46803,6 @@ LayerCount: 2
 Fore
 Refer: 42 71 N 1 0 0 1 0 0 3
 Refer: 211 710 N 1 0 0 1 460 334 2
-Validated: 1
 EndChar
 
 StartChar: gcircumflex
@@ -46845,7 +46835,6 @@ LayerCount: 2
 Fore
 Refer: 74 103 N 1 0 0 1 0 0 3
 Refer: 211 710 N 1 0 0 1 138 0 2
-Validated: 1
 EndChar
 
 StartChar: Gdotaccent
@@ -46878,7 +46867,6 @@ LayerCount: 2
 Fore
 Refer: 42 71 N 1 0 0 1 0 0 3
 Refer: 215 729 N 1 0 0 1 465 334 2
-Validated: 1
 EndChar
 
 StartChar: gdotaccent
@@ -46911,7 +46899,6 @@ LayerCount: 2
 Fore
 Refer: 74 103 N 1 0 0 1 0 0 3
 Refer: 215 729 N 1 0 0 1 143 0 2
-Validated: 1
 EndChar
 
 StartChar: Gcommaaccent
@@ -46923,7 +46910,6 @@ LayerCount: 2
 Fore
 Refer: 42 71 N 1 0 0 1 0 0 3
 Refer: 490 61444 N 1 0 0 1 339 0 2
-Validated: 1
 EndChar
 
 StartChar: gcommaaccent
@@ -46956,7 +46942,6 @@ LayerCount: 2
 Fore
 Refer: 74 103 N 1 0 0 1 0 0 2
 Refer: 658 -1 N 1 0 0 1 280 0 2
-Validated: 1
 EndChar
 
 StartChar: Hcircumflex
@@ -46989,7 +46974,6 @@ LayerCount: 2
 Fore
 Refer: 43 72 N 1 0 0 1 0 0 3
 Refer: 211 710 N 1 0 0 1 515 334 2
-Validated: 1
 EndChar
 
 StartChar: hcircumflex
@@ -47022,7 +47006,6 @@ LayerCount: 2
 Fore
 Refer: 75 104 N 1 0 0 1 0 0 3
 Refer: 211 710 N 1 0 0 1 288 384 2
-Validated: 1
 EndChar
 
 StartChar: Hbar
@@ -47717,7 +47700,6 @@ LayerCount: 2
 Fore
 Refer: 45 74 N 1 0 0 1 0 0 3
 Refer: 211 710 N 1 0 0 1 351 334 2
-Validated: 1
 EndChar
 
 StartChar: jcircumflex
@@ -47888,7 +47870,6 @@ LayerCount: 2
 Fore
 Refer: 46 75 N 1 0 0 1 0 0 3
 Refer: 490 61444 N 1 0 0 1 336 0 2
-Validated: 1
 EndChar
 
 StartChar: kcommaaccent
@@ -47929,7 +47910,6 @@ LayerCount: 2
 Fore
 Refer: 78 107 N 1 0 0 1 0 0 3
 Refer: 490 61444 N 1 0 0 1 105 0 2
-Validated: 1
 EndChar
 
 StartChar: kgreenlandic
@@ -48094,7 +48074,6 @@ LayerCount: 2
 Fore
 Refer: 47 76 N 1 0 0 1 0 0 3
 Refer: 490 61444 N 1 0 0 1 185 0 2
-Validated: 1
 EndChar
 
 StartChar: lcommaaccent
@@ -48118,7 +48097,6 @@ LayerCount: 2
 Fore
 Refer: 79 108 N 1 0 0 1 0 0 3
 Refer: 490 61444 N 1 0 0 1 -191 0 2
-Validated: 1
 EndChar
 
 StartChar: Ncommaaccent
@@ -48149,7 +48127,6 @@ LayerCount: 2
 Fore
 Refer: 49 78 N 1 0 0 1 0 0 3
 Refer: 490 61444 N 1 0 0 1 261 0 2
-Validated: 1
 EndChar
 
 StartChar: ncommaaccent
@@ -48193,7 +48170,6 @@ LayerCount: 2
 Fore
 Refer: 81 110 N 1 0 0 1 0 0 3
 Refer: 490 61444 N 1 0 0 1 90 0 2
-Validated: 1
 EndChar
 
 StartChar: Eng
@@ -48639,7 +48615,6 @@ LayerCount: 2
 Fore
 Refer: 53 82 N 1 0 0 1 0 0 3
 Refer: 490 61444 N 1 0 0 1 256 0 2
-Validated: 1
 EndChar
 
 StartChar: rcommaaccent
@@ -48672,7 +48647,6 @@ LayerCount: 2
 Fore
 Refer: 85 114 N 1 0 0 1 0 0 3
 Refer: 490 61444 N 1 0 0 1 -213 0 2
-Validated: 1
 EndChar
 
 StartChar: Scircumflex
@@ -48705,7 +48679,6 @@ LayerCount: 2
 Fore
 Refer: 54 83 N 1 0 0 1 0 0 3
 Refer: 211 710 N 1 0 0 1 261 334 2
-Validated: 1
 EndChar
 
 StartChar: scircumflex
@@ -48738,7 +48711,6 @@ LayerCount: 2
 Fore
 Refer: 86 115 N 1 0 0 1 0 0 3
 Refer: 211 710 N 1 0 0 1 66 0 2
-Validated: 1
 EndChar
 
 StartChar: Tbar
@@ -49294,7 +49266,6 @@ LayerCount: 2
 Fore
 Refer: 58 87 N 1 0 0 1 0 0 3
 Refer: 211 710 N 1 0 0 1 644 334 2
-Validated: 1
 EndChar
 
 StartChar: wcircumflex
@@ -49327,7 +49298,6 @@ LayerCount: 2
 Fore
 Refer: 90 119 N 1 0 0 1 -14 0 3
 Refer: 211 710 N 1 0 0 1 337 0 2
-Validated: 1
 EndChar
 
 StartChar: Ycircumflex
@@ -49360,7 +49330,6 @@ LayerCount: 2
 Fore
 Refer: 60 89 N 1 0 0 1 0 0 3
 Refer: 211 710 N 1 0 0 1 358 334 2
-Validated: 1
 EndChar
 
 StartChar: ycircumflex
@@ -49393,7 +49362,6 @@ LayerCount: 2
 Fore
 Refer: 92 121 N 1 0 0 1 0 0 3
 Refer: 211 710 N 1 0 0 1 124 0 2
-Validated: 1
 EndChar
 
 StartChar: longs
@@ -49772,7 +49740,6 @@ LayerCount: 2
 Fore
 Refer: 58 87 N 1 0 0 1 0 0 3
 Refer: 67 96 N 1 0 0 1 600 334 2
-Validated: 1
 EndChar
 
 StartChar: wgrave
@@ -49805,7 +49772,6 @@ LayerCount: 2
 Fore
 Refer: 90 119 N 1 0 0 1 -14 0 3
 Refer: 67 96 N 1 0 0 1 300 0 2
-Validated: 1
 EndChar
 
 StartChar: Wacute
@@ -49838,7 +49804,6 @@ LayerCount: 2
 Fore
 Refer: 58 87 N 1 0 0 1 0 0 3
 Refer: 141 180 N 1 0 0 1 690 334 2
-Validated: 1
 EndChar
 
 StartChar: wacute
@@ -49871,7 +49836,6 @@ LayerCount: 2
 Fore
 Refer: 90 119 N 1 0 0 1 -14 0 3
 Refer: 141 180 N 1 0 0 1 428 0 2
-Validated: 1
 EndChar
 
 StartChar: Wdieresis
@@ -49908,7 +49872,6 @@ LayerCount: 2
 Fore
 Refer: 58 87 N 1 0 0 1 0 0 3
 Refer: 142 168 N 1 0 0 1 642 334 2
-Validated: 1
 EndChar
 
 StartChar: wdieresis
@@ -49945,7 +49908,6 @@ LayerCount: 2
 Fore
 Refer: 90 119 N 1 0 0 1 -14 0 3
 Refer: 142 168 N 1 0 0 1 333 0 2
-Validated: 1
 EndChar
 
 StartChar: Ygrave
@@ -49978,7 +49940,6 @@ LayerCount: 2
 Fore
 Refer: 60 89 N 1 0 0 1 0 0 3
 Refer: 67 96 N 1 0 0 1 325 334 2
-Validated: 1
 EndChar
 
 StartChar: ygrave
@@ -50011,7 +49972,6 @@ LayerCount: 2
 Fore
 Refer: 92 121 N 1 0 0 1 0 0 3
 Refer: 67 96 N 1 0 0 1 20 0 2
-Validated: 1
 EndChar
 
 StartChar: quotereversed
@@ -51359,7 +51319,6 @@ LayerCount: 2
 Fore
 Refer: 43 72 N 1 0 0 1 240 0 2
 Refer: 492 900 N 1 0 0 1 -231 -170 2
-Validated: 1
 EndChar
 
 StartChar: Iotatonos
@@ -51509,7 +51468,6 @@ LayerCount: 2
 Fore
 Refer: 60 89 N 1 0 0 1 285 0 2
 Refer: 492 900 N 1 0 0 1 -287 -170 2
-Validated: 1
 Kerns2: 550 -186 "'kern' Horizontal Kerning lookup 16 subtable" 541 -186 "'kern' Horizontal Kerning lookup 16 subtable" 538 -53 "'kern' Horizontal Kerning lookup 16 subtable" 536 -53 "'kern' Horizontal Kerning lookup 16 subtable" 535 -53 "'kern' Horizontal Kerning lookup 16 subtable" 533 -53 "'kern' Horizontal Kerning lookup 16 subtable" 528 -53 "'kern' Horizontal Kerning lookup 16 subtable" 527 -53 "'kern' Horizontal Kerning lookup 16 subtable" 525 -186 "'kern' Horizontal Kerning lookup 16 subtable" 510 -152 "'kern' Horizontal Kerning lookup 16 subtable" 504 -152 "'kern' Horizontal Kerning lookup 16 subtable" 502 -152 "'kern' Horizontal Kerning lookup 16 subtable" 501 156 "'kern' Horizontal Kerning lookup 16 subtable" 304 -186 "'kern' Horizontal Kerning lookup 16 subtable" 302 -186 "'kern' Horizontal Kerning lookup 16 subtable" 300 -186 "'kern' Horizontal Kerning lookup 16 subtable" 299 -186 "'kern' Horizontal Kerning lookup 16 subtable"
 EndChar
 
@@ -51627,7 +51585,6 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 37 66 N 1 0 0 1 0 0 3
-Validated: 1
 EndChar
 
 StartChar: Deltagreek
@@ -51733,7 +51690,6 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 61 90 N 1 0 0 1 0 0 3
-Validated: 1
 EndChar
 
 StartChar: Eta
@@ -51744,7 +51700,6 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 43 72 N 1 0 0 1 0 0 3
-Validated: 1
 EndChar
 
 StartChar: Iota
@@ -51765,7 +51720,6 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 46 75 N 1 0 0 1 0 0 3
-Validated: 1
 Kerns2: 552 -63 "'kern' Horizontal Kerning lookup 16 subtable" 550 -63 "'kern' Horizontal Kerning lookup 16 subtable" 547 -63 "'kern' Horizontal Kerning lookup 16 subtable" 541 -63 "'kern' Horizontal Kerning lookup 16 subtable" 540 -63 "'kern' Horizontal Kerning lookup 16 subtable" 534 -63 "'kern' Horizontal Kerning lookup 16 subtable" 532 -63 "'kern' Horizontal Kerning lookup 16 subtable" 525 -63 "'kern' Horizontal Kerning lookup 16 subtable" 514 -90 "'kern' Horizontal Kerning lookup 16 subtable" 304 -63 "'kern' Horizontal Kerning lookup 16 subtable" 302 -63 "'kern' Horizontal Kerning lookup 16 subtable" 300 -63 "'kern' Horizontal Kerning lookup 16 subtable" 299 -63 "'kern' Horizontal Kerning lookup 16 subtable" 298 -152 "'kern' Horizontal Kerning lookup 16 subtable" 297 -90 "'kern' Horizontal Kerning lookup 16 subtable"
 EndChar
 
@@ -51867,7 +51821,6 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 48 77 N 1 0 0 1 0 0 3
-Validated: 1
 EndChar
 
 StartChar: Nu
@@ -51878,7 +51831,6 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 49 78 N 1 0 0 1 0 0 3
-Validated: 1
 EndChar
 
 StartChar: Xi
@@ -52153,7 +52105,6 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 51 80 N 1 0 0 1 0 0 3
-Validated: 1
 Kerns2: 510 -297 "'kern' Horizontal Kerning lookup 16 subtable" 504 -244 "'kern' Horizontal Kerning lookup 16 subtable" 502 -297 "'kern' Horizontal Kerning lookup 16 subtable" 17 -262 "'kern' Horizontal Kerning lookup 16 subtable" 15 -262 "'kern' Horizontal Kerning lookup 16 subtable" 3 -76 "'kern' Horizontal Kerning lookup 16 subtable"
 EndChar
 
@@ -52295,7 +52246,6 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 55 84 N 1 0 0 1 0 0 3
-Validated: 1
 Kerns2: 551 -76 "'kern' Horizontal Kerning lookup 16 subtable" 550 -186 "'kern' Horizontal Kerning lookup 16 subtable" 549 -76 "'kern' Horizontal Kerning lookup 16 subtable" 548 102 "'kern' Horizontal Kerning lookup 16 subtable" 546 -76 "'kern' Horizontal Kerning lookup 16 subtable" 545 -76 "'kern' Horizontal Kerning lookup 16 subtable" 544 -76 "'kern' Horizontal Kerning lookup 16 subtable" 541 -186 "'kern' Horizontal Kerning lookup 16 subtable" 538 -76 "'kern' Horizontal Kerning lookup 16 subtable" 535 -76 "'kern' Horizontal Kerning lookup 16 subtable" 533 -76 "'kern' Horizontal Kerning lookup 16 subtable" 526 -186 "'kern' Horizontal Kerning lookup 16 subtable" 525 -186 "'kern' Horizontal Kerning lookup 16 subtable" 522 -37 "'kern' Horizontal Kerning lookup 16 subtable" 514 -37 "'kern' Horizontal Kerning lookup 16 subtable" 510 -162 "'kern' Horizontal Kerning lookup 16 subtable" 504 -156 "'kern' Horizontal Kerning lookup 16 subtable" 502 -162 "'kern' Horizontal Kerning lookup 16 subtable" 501 195 "'kern' Horizontal Kerning lookup 16 subtable" 304 -186 "'kern' Horizontal Kerning lookup 16 subtable" 302 -186 "'kern' Horizontal Kerning lookup 16 subtable" 301 -186 "'kern' Horizontal Kerning lookup 16 subtable" 300 -186 "'kern' Horizontal Kerning lookup 16 subtable" 299 -186 "'kern' Horizontal Kerning lookup 16 subtable" 298 -37 "'kern' Horizontal Kerning lookup 16 subtable" 297 -37 "'kern' Horizontal Kerning lookup 16 subtable" 30 -152 "'kern' Horizontal Kerning lookup 16 subtable" 29 -152 "'kern' Horizontal Kerning lookup 16 subtable" 17 -186 "'kern' Horizontal Kerning lookup 16 subtable" 16 -186 "'kern' Horizontal Kerning lookup 16 subtable" 15 -186 "'kern' Horizontal Kerning lookup 16 subtable"
 EndChar
 
@@ -52307,7 +52257,6 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 60 89 N 1 0 0 1 0 0 3
-Validated: 1
 Kerns2: 550 -186 "'kern' Horizontal Kerning lookup 16 subtable" 541 -186 "'kern' Horizontal Kerning lookup 16 subtable" 538 -53 "'kern' Horizontal Kerning lookup 16 subtable" 536 -53 "'kern' Horizontal Kerning lookup 16 subtable" 535 -53 "'kern' Horizontal Kerning lookup 16 subtable" 533 -53 "'kern' Horizontal Kerning lookup 16 subtable" 531 -139 "'kern' Horizontal Kerning lookup 16 subtable" 528 -53 "'kern' Horizontal Kerning lookup 16 subtable" 527 -53 "'kern' Horizontal Kerning lookup 16 subtable" 525 -186 "'kern' Horizontal Kerning lookup 16 subtable" 514 -35 "'kern' Horizontal Kerning lookup 16 subtable" 510 -152 "'kern' Horizontal Kerning lookup 16 subtable" 504 -117 "'kern' Horizontal Kerning lookup 16 subtable" 502 -152 "'kern' Horizontal Kerning lookup 16 subtable" 501 156 "'kern' Horizontal Kerning lookup 16 subtable" 304 -186 "'kern' Horizontal Kerning lookup 16 subtable" 302 -186 "'kern' Horizontal Kerning lookup 16 subtable" 300 -186 "'kern' Horizontal Kerning lookup 16 subtable" 299 -186 "'kern' Horizontal Kerning lookup 16 subtable" 298 -51 "'kern' Horizontal Kerning lookup 16 subtable" 297 -35 "'kern' Horizontal Kerning lookup 16 subtable" 30 -186 "'kern' Horizontal Kerning lookup 16 subtable" 29 -186 "'kern' Horizontal Kerning lookup 16 subtable" 17 -186 "'kern' Horizontal Kerning lookup 16 subtable" 16 -186 "'kern' Horizontal Kerning lookup 16 subtable" 15 -186 "'kern' Horizontal Kerning lookup 16 subtable"
 EndChar
 
@@ -52319,7 +52268,6 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 59 88 N 1 0 0 1 0 0 3
-Validated: 1
 EndChar
 
 StartChar: Psi
@@ -52705,7 +52653,6 @@ LayerCount: 2
 Fore
 Refer: 60 89 N 1 0 0 1 0 0 3
 Refer: 142 168 N 1 0 0 1 431 334 2
-Validated: 1
 Kerns2: 550 -186 "'kern' Horizontal Kerning lookup 16 subtable" 541 -186 "'kern' Horizontal Kerning lookup 16 subtable" 538 -53 "'kern' Horizontal Kerning lookup 16 subtable" 536 -53 "'kern' Horizontal Kerning lookup 16 subtable" 535 -53 "'kern' Horizontal Kerning lookup 16 subtable" 533 -53 "'kern' Horizontal Kerning lookup 16 subtable" 528 -53 "'kern' Horizontal Kerning lookup 16 subtable" 527 -53 "'kern' Horizontal Kerning lookup 16 subtable" 525 -186 "'kern' Horizontal Kerning lookup 16 subtable" 514 -35 "'kern' Horizontal Kerning lookup 16 subtable" 510 -152 "'kern' Horizontal Kerning lookup 16 subtable" 504 -117 "'kern' Horizontal Kerning lookup 16 subtable" 502 -152 "'kern' Horizontal Kerning lookup 16 subtable" 501 156 "'kern' Horizontal Kerning lookup 16 subtable" 304 -186 "'kern' Horizontal Kerning lookup 16 subtable" 302 -186 "'kern' Horizontal Kerning lookup 16 subtable" 300 -186 "'kern' Horizontal Kerning lookup 16 subtable" 299 -186 "'kern' Horizontal Kerning lookup 16 subtable" 298 -51 "'kern' Horizontal Kerning lookup 16 subtable" 297 -35 "'kern' Horizontal Kerning lookup 16 subtable"
 EndChar
 
@@ -53920,7 +53867,6 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 89 118 N 1 0 0 1 0 0 3
-Validated: 1
 EndChar
 
 StartChar: xi
@@ -55342,7 +55288,6 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 54 83 N 1 0 0 1 0 0 3
-Validated: 1
 EndChar
 
 StartChar: uni0406
@@ -55399,7 +55344,6 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 45 74 N 1 0 0 1 0 0 3
-Validated: 1
 EndChar
 
 StartChar: uni0409
@@ -55973,7 +55917,6 @@ LayerCount: 2
 Fore
 Refer: 46 75 N 1 0 0 1 0 0 2
 Refer: 141 180 N 1 0 0 1 516 334 2
-Validated: 1
 EndChar
 
 StartChar: uni040E
@@ -56282,7 +56225,6 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 37 66 N 1 0 0 1 0 0 3
-Validated: 1
 Kerns2: 630 25 "'kern' Horizontal Kerning lookup 16 subtable" 622 25 "'kern' Horizontal Kerning lookup 16 subtable" 620 -29 "'kern' Horizontal Kerning lookup 16 subtable" 617 25 "'kern' Horizontal Kerning lookup 16 subtable" 611 -27 "'kern' Horizontal Kerning lookup 16 subtable" 603 25 "'kern' Horizontal Kerning lookup 16 subtable" 598 -96 "'kern' Horizontal Kerning lookup 16 subtable" 593 -98 "'kern' Horizontal Kerning lookup 16 subtable" 590 -123 "'kern' Horizontal Kerning lookup 16 subtable" 588 -51 "'kern' Horizontal Kerning lookup 16 subtable" 587 -137 "'kern' Horizontal Kerning lookup 16 subtable" 586 -174 "'kern' Horizontal Kerning lookup 16 subtable" 585 -117 "'kern' Horizontal Kerning lookup 16 subtable" 584 -96 "'kern' Horizontal Kerning lookup 16 subtable" 581 -96 "'kern' Horizontal Kerning lookup 16 subtable" 574 -70 "'kern' Horizontal Kerning lookup 16 subtable" 573 -82 "'kern' Horizontal Kerning lookup 16 subtable" 571 -109 "'kern' Horizontal Kerning lookup 16 subtable" 567 -78 "'kern' Horizontal Kerning lookup 16 subtable"
 EndChar
 
@@ -57261,7 +57203,6 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 48 77 N 1 0 0 1 0 0 3
-Validated: 1
 Kerns2: 616 -29 "'kern' Horizontal Kerning lookup 16 subtable" 613 -29 "'kern' Horizontal Kerning lookup 16 subtable" 604 -29 "'kern' Horizontal Kerning lookup 16 subtable" 599 -29 "'kern' Horizontal Kerning lookup 16 subtable" 587 -51 "'kern' Horizontal Kerning lookup 16 subtable"
 EndChar
 
@@ -57273,7 +57214,6 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 43 72 N 1 0 0 1 0 0 3
-Validated: 1
 EndChar
 
 StartChar: uni041E
@@ -57306,7 +57246,6 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 51 80 N 1 0 0 1 0 0 3
-Validated: 1
 Kerns2: 630 -51 "'kern' Horizontal Kerning lookup 16 subtable" 613 -74 "'kern' Horizontal Kerning lookup 16 subtable" 604 -74 "'kern' Horizontal Kerning lookup 16 subtable" 603 -74 "'kern' Horizontal Kerning lookup 16 subtable" 599 -78 "'kern' Horizontal Kerning lookup 16 subtable" 598 -84 "'kern' Horizontal Kerning lookup 16 subtable" 588 -129 "'kern' Horizontal Kerning lookup 16 subtable" 587 -55 "'kern' Horizontal Kerning lookup 16 subtable" 586 -145 "'kern' Horizontal Kerning lookup 16 subtable" 581 -27 "'kern' Horizontal Kerning lookup 16 subtable" 579 -51 "'kern' Horizontal Kerning lookup 16 subtable" 578 -160 "'kern' Horizontal Kerning lookup 16 subtable" 574 -68 "'kern' Horizontal Kerning lookup 16 subtable" 573 -106 "'kern' Horizontal Kerning lookup 16 subtable" 571 -203 "'kern' Horizontal Kerning lookup 16 subtable" 567 -180 "'kern' Horizontal Kerning lookup 16 subtable" 29 51 "'kern' Horizontal Kerning lookup 16 subtable" 17 -205 "'kern' Horizontal Kerning lookup 16 subtable" 15 -180 "'kern' Horizontal Kerning lookup 16 subtable"
 EndChar
 
@@ -57318,7 +57257,6 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 38 67 N 1 0 0 1 0 0 3
-Validated: 1
 Kerns2: 628 14 "'kern' Horizontal Kerning lookup 16 subtable" 619 14 "'kern' Horizontal Kerning lookup 16 subtable" 617 29 "'kern' Horizontal Kerning lookup 16 subtable" 616 14 "'kern' Horizontal Kerning lookup 16 subtable" 613 14 "'kern' Horizontal Kerning lookup 16 subtable" 606 14 "'kern' Horizontal Kerning lookup 16 subtable" 605 14 "'kern' Horizontal Kerning lookup 16 subtable" 604 14 "'kern' Horizontal Kerning lookup 16 subtable" 600 14 "'kern' Horizontal Kerning lookup 16 subtable" 599 14 "'kern' Horizontal Kerning lookup 16 subtable" 590 -27 "'kern' Horizontal Kerning lookup 16 subtable" 588 -27 "'kern' Horizontal Kerning lookup 16 subtable" 586 -27 "'kern' Horizontal Kerning lookup 16 subtable" 578 25 "'kern' Horizontal Kerning lookup 16 subtable" 567 -78 "'kern' Horizontal Kerning lookup 16 subtable"
 EndChar
 
@@ -57330,7 +57268,6 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 55 84 N 1 0 0 1 0 0 3
-Validated: 1
 Kerns2: 630 -49 "'kern' Horizontal Kerning lookup 16 subtable" 629 -74 "'kern' Horizontal Kerning lookup 16 subtable" 627 -74 "'kern' Horizontal Kerning lookup 16 subtable" 626 -74 "'kern' Horizontal Kerning lookup 16 subtable" 624 -49 "'kern' Horizontal Kerning lookup 16 subtable" 620 -49 "'kern' Horizontal Kerning lookup 16 subtable" 618 -49 "'kern' Horizontal Kerning lookup 16 subtable" 616 -74 "'kern' Horizontal Kerning lookup 16 subtable" 615 -51 "'kern' Horizontal Kerning lookup 16 subtable" 614 -49 "'kern' Horizontal Kerning lookup 16 subtable" 613 -74 "'kern' Horizontal Kerning lookup 16 subtable" 611 -74 "'kern' Horizontal Kerning lookup 16 subtable" 610 -74 "'kern' Horizontal Kerning lookup 16 subtable" 609 -74 "'kern' Horizontal Kerning lookup 16 subtable" 607 -49 "'kern' Horizontal Kerning lookup 16 subtable" 604 -74 "'kern' Horizontal Kerning lookup 16 subtable" 601 -74 "'kern' Horizontal Kerning lookup 16 subtable" 599 -74 "'kern' Horizontal Kerning lookup 16 subtable" 596 14 "'kern' Horizontal Kerning lookup 16 subtable" 587 -55 "'kern' Horizontal Kerning lookup 16 subtable" 571 51 "'kern' Horizontal Kerning lookup 16 subtable" 567 -129 "'kern' Horizontal Kerning lookup 16 subtable" 169 51 "'kern' Horizontal Kerning lookup 16 subtable" 168 51 "'kern' Horizontal Kerning lookup 16 subtable" 30 25 "'kern' Horizontal Kerning lookup 16 subtable" 29 76 "'kern' Horizontal Kerning lookup 16 subtable" 17 -129 "'kern' Horizontal Kerning lookup 16 subtable" 15 -102 "'kern' Horizontal Kerning lookup 16 subtable"
 EndChar
 
@@ -57660,7 +57597,6 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 59 88 N 1 0 0 1 0 0 3
-Validated: 1
 Kerns2: 613 -41 "'kern' Horizontal Kerning lookup 16 subtable" 587 -51 "'kern' Horizontal Kerning lookup 16 subtable" 584 -78 "'kern' Horizontal Kerning lookup 16 subtable" 581 -104 "'kern' Horizontal Kerning lookup 16 subtable"
 EndChar
 
@@ -60543,7 +60479,6 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 81 110 N 1 0 0 1 0 0 3
-Validated: 1
 Substitution2: "'locl' Localized Forms lookup 5-1" S_PE
 EndChar
 
@@ -60555,7 +60490,6 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 83 112 N 1 0 0 1 0 0 3
-Validated: 1
 Kerns2: 630 -27 "'kern' Horizontal Kerning lookup 16 subtable" 628 -27 "'kern' Horizontal Kerning lookup 16 subtable" 622 -27 "'kern' Horizontal Kerning lookup 16 subtable" 620 -41 "'kern' Horizontal Kerning lookup 16 subtable" 618 -27 "'kern' Horizontal Kerning lookup 16 subtable" 617 -27 "'kern' Horizontal Kerning lookup 16 subtable" 611 -102 "'kern' Horizontal Kerning lookup 16 subtable" 610 -78 "'kern' Horizontal Kerning lookup 16 subtable" 606 -27 "'kern' Horizontal Kerning lookup 16 subtable" 605 -51 "'kern' Horizontal Kerning lookup 16 subtable" 603 -27 "'kern' Horizontal Kerning lookup 16 subtable"
 EndChar
 
@@ -60567,7 +60501,6 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 70 99 N 1 0 0 1 0 0 3
-Validated: 1
 Kerns2: 625 -27 "'kern' Horizontal Kerning lookup 16 subtable" 622 -27 "'kern' Horizontal Kerning lookup 16 subtable" 620 -27 "'kern' Horizontal Kerning lookup 16 subtable" 619 -51 "'kern' Horizontal Kerning lookup 16 subtable" 618 -14 "'kern' Horizontal Kerning lookup 16 subtable" 613 -51 "'kern' Horizontal Kerning lookup 16 subtable" 606 -27 "'kern' Horizontal Kerning lookup 16 subtable" 605 -27 "'kern' Horizontal Kerning lookup 16 subtable" 604 -27 "'kern' Horizontal Kerning lookup 16 subtable" 600 -27 "'kern' Horizontal Kerning lookup 16 subtable" 599 -53 "'kern' Horizontal Kerning lookup 16 subtable"
 EndChar
 
@@ -60579,7 +60512,6 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 80 109 N 1 0 0 1 0 0 3
-Validated: 1
 Kerns2: 630 25 "'kern' Horizontal Kerning lookup 16 subtable" 618 -51 "'kern' Horizontal Kerning lookup 16 subtable" 613 -27 "'kern' Horizontal Kerning lookup 16 subtable" 606 25 "'kern' Horizontal Kerning lookup 16 subtable" 604 -27 "'kern' Horizontal Kerning lookup 16 subtable" 603 -27 "'kern' Horizontal Kerning lookup 16 subtable" 17 25 "'kern' Horizontal Kerning lookup 16 subtable" 15 51 "'kern' Horizontal Kerning lookup 16 subtable"
 Substitution2: "'locl' Localized Forms lookup 5-1" S_TE
 EndChar
@@ -60592,7 +60524,6 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 92 121 N 1 0 0 1 0 0 3
-Validated: 1
 Kerns2: 630 -31 "'kern' Horizontal Kerning lookup 16 subtable" 620 -27 "'kern' Horizontal Kerning lookup 16 subtable" 615 -27 "'kern' Horizontal Kerning lookup 16 subtable" 611 -51 "'kern' Horizontal Kerning lookup 16 subtable" 610 -55 "'kern' Horizontal Kerning lookup 16 subtable" 606 -27 "'kern' Horizontal Kerning lookup 16 subtable" 605 -51 "'kern' Horizontal Kerning lookup 16 subtable" 603 -6 "'kern' Horizontal Kerning lookup 16 subtable" 30 -78 "'kern' Horizontal Kerning lookup 16 subtable" 29 -27 "'kern' Horizontal Kerning lookup 16 subtable" 17 -129 "'kern' Horizontal Kerning lookup 16 subtable" 15 -102 "'kern' Horizontal Kerning lookup 16 subtable"
 EndChar
 
@@ -60793,7 +60724,6 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 91 120 N 1 0 0 1 0 0 3
-Validated: 1
 Kerns2: 628 -27 "'kern' Horizontal Kerning lookup 16 subtable" 625 -51 "'kern' Horizontal Kerning lookup 16 subtable" 622 -27 "'kern' Horizontal Kerning lookup 16 subtable" 619 -51 "'kern' Horizontal Kerning lookup 16 subtable" 616 -51 "'kern' Horizontal Kerning lookup 16 subtable" 613 -51 "'kern' Horizontal Kerning lookup 16 subtable" 606 -27 "'kern' Horizontal Kerning lookup 16 subtable" 600 -51 "'kern' Horizontal Kerning lookup 16 subtable" 599 -27 "'kern' Horizontal Kerning lookup 16 subtable"
 EndChar
 
@@ -62702,7 +62632,6 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 86 115 N 1 0 0 1 0 0 3
-Validated: 1
 EndChar
 
 StartChar: uni0456
@@ -62760,7 +62689,6 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 77 106 N 1 0 0 1 0 0 3
-Validated: 1
 EndChar
 
 StartChar: uni0459
@@ -63346,7 +63274,6 @@ LayerCount: 2
 Fore
 Refer: 92 121 N 1 0 0 1 0 0 2
 Refer: 656 -1 N 1 0 0 1 117 0 2
-Validated: 1
 Kerns2: 169 25 "'kern' Horizontal Kerning lookup 16 subtable" 168 25 "'kern' Horizontal Kerning lookup 16 subtable" 30 -78 "'kern' Horizontal Kerning lookup 16 subtable" 29 -27 "'kern' Horizontal Kerning lookup 16 subtable" 17 -129 "'kern' Horizontal Kerning lookup 16 subtable" 15 -102 "'kern' Horizontal Kerning lookup 16 subtable"
 EndChar
 
@@ -67125,7 +67052,7 @@ EndChar
 StartChar: hookabovecomb
 Encoding: 777 777 685
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 TtInstrs:
 NPUSHB
@@ -67165,6 +67092,7 @@ SHP[rp1]
 IUP[x]
 IUP[y]
 EndTTInstrs
+AnchorPoint: "top" -277 1367 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -67183,7 +67111,6 @@ SplineSet
  -271 1604 -271 1604 -247 1619 c 128,-1,18
  -223 1634 -223 1634 -223 1665 c 256,0,1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: hookabove.alt1
@@ -67403,12 +67330,12 @@ EndChar
 StartChar: tildecomb
 Encoding: 771 771 691
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
+AnchorPoint: "top" 424 975 mark 0
 LayerCount: 2
 Fore
 Refer: 212 732 N 1 0 0 1 0 0 2
-Validated: 1
 EndChar
 
 StartChar: breve.alt1
@@ -67739,7 +67666,6 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 685 777 N 1 0 0 1 0 0 3
-Validated: 1
 EndChar
 
 StartChar: hookabove.alt5
@@ -67750,7 +67676,6 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 685 777 N 1 0 0 1 0 0 3
-Validated: 1
 EndChar
 
 StartChar: tilde.alt3
@@ -67877,7 +67802,7 @@ EndChar
 StartChar: gravecomb
 Encoding: 768 768 715
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 TtInstrs:
 PUSHB_6
@@ -67898,6 +67823,7 @@ SHP[rp1]
 IUP[x]
 IUP[y]
 EndTTInstrs
+AnchorPoint: "top" -137 1403 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -67909,13 +67835,12 @@ SplineSet
  -117 1520 l 1,5,-1
  -203 1520 l 1,0,-1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: acutecomb
 Encoding: 769 769 716
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 TtInstrs:
 PUSHB_6
@@ -67936,6 +67861,7 @@ SHP[rp1]
 IUP[x]
 IUP[y]
 EndTTInstrs
+AnchorPoint: "top" -415 1406 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -67947,7 +67873,6 @@ SplineSet
  -377 1520 l 1,5,-1
  -463 1520 l 1,0,-1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: tilde.alt9
@@ -67964,7 +67889,7 @@ EndChar
 StartChar: dotbelowcomb
 Encoding: 803 803 718
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 TtInstrs:
 NPUSHB
@@ -67992,7 +67917,7 @@ SHP[rp1]
 IUP[x]
 IUP[y]
 EndTTInstrs
-AnchorPoint: "bottom" -77 -94 mark 0
+AnchorPoint: "bottom" -76 2 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -69818,7 +69743,6 @@ LayerCount: 2
 Fore
 Refer: 60 89 N 1 0 0 1 0 0 3
 Refer: 2406 -1 N 1 0 0 1 805 334 2
-Validated: 1
 EndChar
 
 StartChar: yhookabove
@@ -69840,7 +69764,6 @@ LayerCount: 2
 Fore
 Refer: 92 121 N 1 0 0 1 0 0 3
 Refer: 2406 -1 N 1 0 0 1 545 0 2
-Validated: 1
 EndChar
 
 StartChar: Ytilde
@@ -69862,7 +69785,6 @@ LayerCount: 2
 Fore
 Refer: 60 89 N 1 0 0 1 0 0 3
 Refer: 212 732 N 1 0 0 1 407 334 2
-Validated: 1
 EndChar
 
 StartChar: ytilde
@@ -69884,7 +69806,6 @@ LayerCount: 2
 Fore
 Refer: 92 121 N 1 0 0 1 0 0 3
 Refer: 212 732 N 1 0 0 1 126 0 2
-Validated: 1
 EndChar
 
 StartChar: uni01CD
@@ -72261,7 +72182,6 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 60 89 N 1 0 0 1 0 0 3
-Validated: 1
 EndChar
 
 StartChar: uni04AF
@@ -73471,7 +73391,6 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 75 104 N 1 0 0 1 0 0 3
-Validated: 1
 EndChar
 
 StartChar: uni018F
@@ -76119,7 +76038,6 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 79 108 N 1 0 0 1 0 0 3
-Validated: 1
 EndChar
 
 StartChar: uni0197
@@ -80830,7 +80748,6 @@ Fore
 Refer: 39 68 N 1 0 0 1 0 0 2
 Refer: 61 90 N 1 0 0 1 1479 0 2
 Refer: 220 711 N 1 0 0 1 1769 334 2
-Validated: 1
 EndChar
 
 StartChar: uni01C5
@@ -80843,7 +80760,6 @@ Fore
 Refer: 39 68 N 1 0 0 1 0 0 2
 Refer: 93 122 N 1 0 0 1 1483 0 2
 Refer: 220 711 N 1 0 0 1 1528 0 2
-Validated: 1
 EndChar
 
 StartChar: uni01C6
@@ -80856,7 +80772,6 @@ Fore
 Refer: 71 100 N 1 0 0 1 0 0 2
 Refer: 93 122 N 1 0 0 1 1028 0 2
 Refer: 220 711 N 1 0 0 1 1073 0 2
-Validated: 1
 EndChar
 
 StartChar: uni01C7
@@ -80868,7 +80783,6 @@ LayerCount: 2
 Fore
 Refer: 47 76 N 1 0 0 1 0 0 2
 Refer: 45 74 N 1 0 0 1 1251 0 2
-Validated: 1
 EndChar
 
 StartChar: uni01C8
@@ -80880,7 +80794,6 @@ LayerCount: 2
 Fore
 Refer: 47 76 N 1 0 0 1 0 0 2
 Refer: 77 106 N 1 0 0 1 1251 0 2
-Validated: 1
 EndChar
 
 StartChar: uni01C9
@@ -80892,7 +80805,6 @@ LayerCount: 2
 Fore
 Refer: 79 108 N 1 0 0 1 0 0 2
 Refer: 77 106 N 1 0 0 1 569 0 2
-Validated: 1
 EndChar
 
 StartChar: uni01CA
@@ -80904,7 +80816,6 @@ LayerCount: 2
 Fore
 Refer: 49 78 N 1 0 0 1 0 0 2
 Refer: 45 74 N 1 0 0 1 1301 0 2
-Validated: 1
 EndChar
 
 StartChar: uni01CB
@@ -80916,7 +80827,6 @@ LayerCount: 2
 Fore
 Refer: 49 78 N 1 0 0 1 0 0 2
 Refer: 77 106 N 1 0 0 1 1479 0 2
-Validated: 1
 EndChar
 
 StartChar: uni01CC
@@ -80928,7 +80838,6 @@ LayerCount: 2
 Fore
 Refer: 81 110 N 1 0 0 1 0 0 2
 Refer: 77 106 N 1 0 0 1 1139 0 2
-Validated: 1
 EndChar
 
 StartChar: uni01DD
@@ -81464,7 +81373,6 @@ LayerCount: 2
 Fore
 Refer: 42 71 N 1 0 0 1 0 0 3
 Refer: 220 711 N 1 0 0 1 460 334 2
-Validated: 1
 EndChar
 
 StartChar: uni01E7
@@ -81486,7 +81394,6 @@ LayerCount: 2
 Fore
 Refer: 74 103 N 1 0 0 1 0 0 3
 Refer: 220 711 N 1 0 0 1 172 0 2
-Validated: 1
 EndChar
 
 StartChar: uni01E8
@@ -81508,7 +81415,6 @@ LayerCount: 2
 Fore
 Refer: 46 75 N 1 0 0 1 0 0 3
 Refer: 220 711 N 1 0 0 1 428 334 2
-Validated: 1
 EndChar
 
 StartChar: uni01E9
@@ -81530,7 +81436,6 @@ LayerCount: 2
 Fore
 Refer: 78 107 N 1 0 0 1 0 0 3
 Refer: 220 711 N 1 0 0 1 248 374 2
-Validated: 1
 EndChar
 
 StartChar: uni01EA
@@ -81811,7 +81716,6 @@ LayerCount: 2
 Fore
 Refer: 39 68 N 1 0 0 1 0 0 2
 Refer: 61 90 N 1 0 0 1 1479 0 2
-Validated: 1
 EndChar
 
 StartChar: uni01F2
@@ -81823,7 +81727,6 @@ LayerCount: 2
 Fore
 Refer: 39 68 N 1 0 0 1 0 0 2
 Refer: 93 122 N 1 0 0 1 1483 0 2
-Validated: 1
 EndChar
 
 StartChar: uni01F3
@@ -81835,7 +81738,6 @@ LayerCount: 2
 Fore
 Refer: 71 100 N 1 0 0 1 0 0 2
 Refer: 93 122 N 1 0 0 1 1028 0 2
-Validated: 1
 EndChar
 
 StartChar: uni01F4
@@ -81857,7 +81759,6 @@ LayerCount: 2
 Fore
 Refer: 42 71 N 1 0 0 1 0 0 3
 Refer: 141 180 N 1 0 0 1 500 334 2
-Validated: 1
 EndChar
 
 StartChar: uni01F5
@@ -81879,7 +81780,6 @@ LayerCount: 2
 Fore
 Refer: 74 103 N 1 0 0 1 0 0 3
 Refer: 141 180 N 1 0 0 1 237 0 2
-Validated: 1
 EndChar
 
 StartChar: uni01F6
@@ -82218,7 +82118,6 @@ LayerCount: 2
 Fore
 Refer: 49 78 N 1 0 0 1 0 0 3
 Refer: 67 96 N 1 0 0 1 311 334 2
-Validated: 1
 EndChar
 
 StartChar: uni01F9
@@ -82240,7 +82139,6 @@ LayerCount: 2
 Fore
 Refer: 81 110 N 1 0 0 1 0 0 3
 Refer: 67 96 N 1 0 0 1 149 0 2
-Validated: 1
 EndChar
 
 StartChar: uni0200
@@ -82463,7 +82361,6 @@ LayerCount: 2
 Fore
 Refer: 210 305 N 1 0 0 1 0 0 3
 Refer: 1316 783 N 1 0 0 1 245 0 2
-Validated: 1
 EndChar
 
 StartChar: uni020A
@@ -82506,7 +82403,6 @@ LayerCount: 2
 Fore
 Refer: 210 305 N 1 0 0 1 0 0 3
 Refer: 1318 785 N 1 0 0 1 394 0 2
-Validated: 1
 EndChar
 
 StartChar: uni020C
@@ -82618,7 +82514,6 @@ LayerCount: 2
 Fore
 Refer: 53 82 N 1 0 0 1 0 0 3
 Refer: 1316 783 N 1 0 0 1 686 334 2
-Validated: 1
 EndChar
 
 StartChar: uni0211
@@ -82642,7 +82537,6 @@ LayerCount: 2
 Fore
 Refer: 85 114 N 1 0 0 1 0 0 3
 Refer: 1316 783 N 1 0 0 1 376 0 2
-Validated: 1
 EndChar
 
 StartChar: uni0212
@@ -82664,7 +82558,6 @@ LayerCount: 2
 Fore
 Refer: 53 82 N 1 0 0 1 0 0 3
 Refer: 1318 785 N 1 0 0 1 852 334 2
-Validated: 1
 EndChar
 
 StartChar: uni0213
@@ -82686,7 +82579,6 @@ LayerCount: 2
 Fore
 Refer: 85 114 N 1 0 0 1 0 0 3
 Refer: 1318 785 N 1 0 0 1 537 0 2
-Validated: 1
 EndChar
 
 StartChar: uni0214
@@ -82786,7 +82678,6 @@ LayerCount: 2
 Fore
 Refer: 54 83 N 1 0 0 1 0 0 3
 Refer: 1338 806 N 1 0 0 1 609 0 2
-Validated: 1
 EndChar
 
 StartChar: scommaaccent
@@ -82798,7 +82689,6 @@ LayerCount: 2
 Fore
 Refer: 86 115 N 1 0 0 1 0 0 3
 Refer: 1338 806 N 1 0 0 1 433 0 2
-Validated: 1
 EndChar
 
 StartChar: uni021A
@@ -82810,7 +82700,6 @@ LayerCount: 2
 Fore
 Refer: 55 84 N 1 0 0 1 0 0 3
 Refer: 490 61444 N 1 0 0 1 131 0 2
-Validated: 1
 EndChar
 
 StartChar: uni021B
@@ -82822,7 +82711,6 @@ LayerCount: 2
 Fore
 Refer: 87 116 N 1 0 0 1 0 0 3
 Refer: 490 61444 N 1 0 0 1 -109 0 2
-Validated: 1
 EndChar
 
 StartChar: uni021C
@@ -83088,7 +82976,6 @@ LayerCount: 2
 Fore
 Refer: 43 72 N 1 0 0 1 0 0 3
 Refer: 220 711 N 1 0 0 1 503 334 2
-Validated: 1
 EndChar
 
 StartChar: uni021F
@@ -83110,7 +82997,6 @@ LayerCount: 2
 Fore
 Refer: 75 104 N 1 0 0 1 0 0 3
 Refer: 220 711 N 1 0 0 1 268 409 2
-Validated: 1
 EndChar
 
 StartChar: uni0220
@@ -84155,7 +84041,6 @@ LayerCount: 2
 Fore
 Refer: 60 89 N 1 0 0 1 0 0 3
 Refer: 213 713 N 1 0 0 1 400 334 2
-Validated: 1
 EndChar
 
 StartChar: uni0233
@@ -84177,7 +84062,6 @@ LayerCount: 2
 Fore
 Refer: 92 121 N 1 0 0 1 0 0 3
 Refer: 213 713 N 1 0 0 1 108 0 2
-Validated: 1
 EndChar
 
 StartChar: uni0250
@@ -86020,7 +85904,6 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 74 103 N 1 0 0 1 0 0 2
-Validated: 1
 EndChar
 
 StartChar: uni0262
@@ -107581,7 +107464,7 @@ EndChar
 StartChar: uni0302
 Encoding: 770 770 1305
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 TtInstrs:
 NPUSHB
@@ -107620,6 +107503,7 @@ SHP[rp1]
 IUP[x]
 IUP[y]
 EndTTInstrs
+AnchorPoint: "top" 166 999 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -107634,13 +107518,12 @@ SplineSet
  -106 1118 l 1,8,-1
  -182 1118 l 1,0,-1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uni0304
 Encoding: 772 772 1306
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 TtInstrs:
 PUSHB_2
@@ -107670,6 +107553,7 @@ CALL
 IUP[x]
 IUP[y]
 EndTTInstrs
+AnchorPoint: "top" 166 1035 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -107679,13 +107563,12 @@ SplineSet
  468 1151 l 1,3,-1
  -160 1151 l 1,0,-1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uni0305
 Encoding: 773 773 1307
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 TtInstrs:
 PUSHB_2
@@ -107702,6 +107585,7 @@ CALL
 IUP[x]
 IUP[y]
 EndTTInstrs
+AnchorPoint: "top" 151 1314 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -107711,13 +107595,12 @@ SplineSet
  640 1430 l 1,3,-1
  -387 1430 l 1,0,-1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uni0306
 Encoding: 774 774 1308
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 TtInstrs:
 NPUSHB
@@ -107754,6 +107637,7 @@ SHP[rp2]
 IUP[x]
 IUP[y]
 EndTTInstrs
+AnchorPoint: "top" 134 1013 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -107768,13 +107652,12 @@ SplineSet
  472 1287 472 1287 378.5 1202.5 c 128,-1,13
  285 1118 285 1118 145 1118 c 0,0,1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uni0307
 Encoding: 775 775 1309
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 TtInstrs:
 NPUSHB
@@ -107832,6 +107715,7 @@ CALL
 IUP[x]
 IUP[y]
 EndTTInstrs
+AnchorPoint: "top" 185 1026 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -107845,13 +107729,12 @@ SplineSet
  106 1137 106 1137 61 1181.5 c 128,-1,11
  16 1226 16 1226 16 1291 c 256,0,1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uni0308
 Encoding: 776 776 1310
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 TtInstrs:
 NPUSHB
@@ -107890,6 +107773,7 @@ SHP[rp1]
 IUP[x]
 IUP[y]
 EndTTInstrs
+AnchorPoint: "top" 174 1018 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -107912,13 +107796,12 @@ SplineSet
  113 1201 113 1201 78 1165.5 c 128,-1,23
  43 1130 43 1130 -6 1130 c 0,12,13
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uni030A
 Encoding: 778 778 1311
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 TtInstrs:
 NPUSHB
@@ -107953,6 +107836,7 @@ SHP[rp2]
 IUP[x]
 IUP[y]
 EndTTInstrs
+AnchorPoint: "top" 182 944 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -107975,13 +107859,12 @@ SplineSet
  269 1312 269 1312 239 1341.5 c 128,-1,23
  209 1371 209 1371 171 1371 c 0,12,13
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uni030B
 Encoding: 779 779 1312
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 TtInstrs:
 NPUSHB
@@ -108020,6 +107903,7 @@ SHP[rp1]
 IUP[x]
 IUP[y]
 EndTTInstrs
+AnchorPoint: "top" 83 1005 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -108038,13 +107922,12 @@ SplineSet
  302 1118 l 1,11,-1
  206 1118 l 1,6,-1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uni030C
 Encoding: 780 780 1313
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 TtInstrs:
 NPUSHB
@@ -108083,6 +107966,7 @@ SHP[rp1]
 IUP[x]
 IUP[y]
 EndTTInstrs
+AnchorPoint: "top" 174 1002 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -108097,13 +107981,12 @@ SplineSet
  464 1444 l 1,8,-1
  540 1444 l 1,0,-1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uni030D
 Encoding: 781 781 1314
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 TtInstrs:
 NPUSHB
@@ -108139,6 +108022,7 @@ CALL
 IUP[x]
 IUP[y]
 EndTTInstrs
+AnchorPoint: "top" 193 989 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -108148,13 +108032,12 @@ SplineSet
  241 1425 l 1,3,-1
  241 1103 l 1,0,-1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uni030E
 Encoding: 782 782 1315
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 TtInstrs:
 NPUSHB
@@ -108197,6 +108080,7 @@ SHP[rp1]
 IUP[x]
 IUP[y]
 EndTTInstrs
+AnchorPoint: "top" 194 989 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -108211,13 +108095,12 @@ SplineSet
  356 1425 l 1,7,-1
  356 1103 l 1,4,-1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uni030F
 Encoding: 783 783 1316
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 TtInstrs:
 NPUSHB
@@ -108256,6 +108139,7 @@ SHP[rp1]
 IUP[x]
 IUP[y]
 EndTTInstrs
+AnchorPoint: "top" 153 1003 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -108274,13 +108158,12 @@ SplineSet
  410 1118 l 1,11,-1
  324 1118 l 1,6,-1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uni0310
 Encoding: 784 784 1317
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 TtInstrs:
 NPUSHB
@@ -108332,6 +108215,7 @@ CALL
 IUP[x]
 IUP[y]
 EndTTInstrs
+AnchorPoint: "top" 146 1006 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -108355,13 +108239,12 @@ SplineSet
  144 1403 144 1403 99 1447.5 c 128,-1,25
  54 1492 54 1492 54 1557 c 256,14,15
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uni0311
 Encoding: 785 785 1318
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 TtInstrs:
 NPUSHB
@@ -108400,6 +108283,7 @@ CALL
 IUP[x]
 IUP[y]
 EndTTInstrs
+AnchorPoint: "top" 0 1006 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -108416,13 +108300,12 @@ SplineSet
  -298 1272 -298 1272 -205 1357 c 128,-1,15
  -112 1442 -112 1442 28 1442 c 0,0,1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uni0312
 Encoding: 786 786 1319
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 TtInstrs:
 NPUSHB
@@ -108461,6 +108344,7 @@ MDRP[min,rnd,grey]
 IUP[x]
 IUP[y]
 EndTTInstrs
+AnchorPoint: "top" 215 966 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -108479,13 +108363,12 @@ SplineSet
  129 1078 129 1078 91.5 1113.5 c 128,-1,17
  54 1149 54 1149 54 1209 c 0,0,1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uni0313
 Encoding: 787 787 1320
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 TtInstrs:
 NPUSHB
@@ -108524,6 +108407,7 @@ MDRP[min,rnd,grey]
 IUP[x]
 IUP[y]
 EndTTInstrs
+AnchorPoint: "top" 75 961 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -108542,13 +108426,12 @@ SplineSet
  356 1529 356 1529 393.5 1493.5 c 128,-1,17
  431 1458 431 1458 431 1398 c 0,0,1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uni0314
 Encoding: 788 788 1321
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 TtInstrs:
 NPUSHB
@@ -108587,6 +108470,7 @@ MDRP[min,rnd,grey]
 IUP[x]
 IUP[y]
 EndTTInstrs
+AnchorPoint: "top" 327 971 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -108604,13 +108488,12 @@ SplineSet
  313 1529 313 1529 345.5 1505 c 128,-1,17
  378 1481 378 1481 378 1438 c 0,0,1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uni0315
 Encoding: 789 789 1322
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 TtInstrs:
 NPUSHB
@@ -108649,6 +108532,7 @@ MDRP[min,rnd,grey]
 IUP[x]
 IUP[y]
 EndTTInstrs
+AnchorPoint: "top-right" 188 962 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -108667,13 +108551,12 @@ SplineSet
  286 1460 286 1460 328 1494.5 c 128,-1,17
  370 1529 370 1529 442 1529 c 0,0,1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uni0316
 Encoding: 790 790 1323
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 TtInstrs:
 NPUSHB
@@ -108695,6 +108578,7 @@ CALL
 IUP[x]
 IUP[y]
 EndTTInstrs
+AnchorPoint: "bottom" -205 -41 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -108706,13 +108590,12 @@ SplineSet
  52 -442 l 1,5,-1
  -34 -442 l 1,0,-1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uni0317
 Encoding: 791 791 1324
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 TtInstrs:
 NPUSHB
@@ -108734,6 +108617,7 @@ CALL
 IUP[x]
 IUP[y]
 EndTTInstrs
+AnchorPoint: "bottom" -94 -40 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -108745,13 +108629,12 @@ SplineSet
  -357 -441 l 1,5,-1
  -443 -441 l 1,0,-1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uni0318
 Encoding: 792 792 1325
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 TtInstrs:
 PUSHB_7
@@ -108780,6 +108663,7 @@ SHP[rp1]
 IUP[x]
 IUP[y]
 EndTTInstrs
+AnchorPoint: "bottom" 129 59 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -108793,13 +108677,12 @@ SplineSet
  191 -37 l 1,7,-1
  191 -443 l 1,0,-1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uni0319
 Encoding: 793 793 1326
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 TtInstrs:
 PUSHB_7
@@ -108828,6 +108711,7 @@ SHP[rp1]
 IUP[x]
 IUP[y]
 EndTTInstrs
+AnchorPoint: "bottom" -114 60 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -108841,13 +108725,12 @@ SplineSet
  -190 -443 l 1,7,-1
  -190 -37 l 1,0,-1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uni031A
 Encoding: 794 794 1327
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 TtInstrs:
 PUSHB_6
@@ -108869,6 +108752,7 @@ CALL
 IUP[x]
 IUP[y]
 EndTTInstrs
+AnchorPoint: "top" 72 1079 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -108880,13 +108764,12 @@ SplineSet
  489 1189 l 1,5,-1
  315 1189 l 1,0,-1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uni031B
 Encoding: 795 795 1328
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 TtInstrs:
 PUSHB_2
@@ -108921,7 +108804,7 @@ EndChar
 StartChar: uni031C
 Encoding: 796 796 1329
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 TtInstrs:
 PUSHB_2
@@ -108959,7 +108842,7 @@ EndChar
 StartChar: uni031D
 Encoding: 797 797 1330
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 TtInstrs:
 PUSHB_5
@@ -108977,6 +108860,7 @@ SHP[rp1]
 IUP[x]
 IUP[y]
 EndTTInstrs
+AnchorPoint: "bottom" 0 36 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -108990,13 +108874,12 @@ SplineSet
  203 -442 l 1,7,-1
  -203 -442 l 1,0,-1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uni031E
 Encoding: 798 798 1331
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 TtInstrs:
 PUSHB_5
@@ -109014,6 +108897,7 @@ SHP[rp1]
 IUP[x]
 IUP[y]
 EndTTInstrs
+AnchorPoint: "bottom" -1 36 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -109027,13 +108911,12 @@ SplineSet
  -203 -61 l 1,7,-1
  203 -61 l 1,0,-1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uni031F
 Encoding: 799 799 1332
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 TtInstrs:
 PUSHB_8
@@ -109057,6 +108940,7 @@ SHP[rp1]
 IUP[x]
 IUP[y]
 EndTTInstrs
+AnchorPoint: "bottom" 0 33 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -109074,13 +108958,12 @@ SplineSet
  190 -181 l 1,11,-1
  190 -323 l 1,0,-1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uni0320
 Encoding: 800 800 1333
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 TtInstrs:
 PUSHB_2
@@ -109092,6 +108975,7 @@ SHP[rp1]
 IUP[x]
 IUP[y]
 EndTTInstrs
+AnchorPoint: "bottom" -0 -44 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -109101,13 +108985,12 @@ SplineSet
  300 -289 l 1,3,-1
  -327 -289 l 1,0,-1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uni0321
 Encoding: 801 801 1334
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 TtInstrs:
 PUSHB_7
@@ -109126,6 +109009,7 @@ CALL
 IUP[x]
 IUP[y]
 EndTTInstrs
+AnchorPoint: "bottom" 168 242 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -109143,13 +109027,12 @@ SplineSet
  248 -228 248 -228 128 -332 c 128,-1,15
  8 -436 8 -436 -178 -436 c 0,0,1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uni0322
 Encoding: 802 802 1335
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 TtInstrs:
 PUSHB_8
@@ -109171,6 +109054,7 @@ SHP[rp1]
 IUP[x]
 IUP[y]
 EndTTInstrs
+AnchorPoint: "bottom" 163 244 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -109190,13 +109074,12 @@ SplineSet
  488 -418 l 1,18,19
  402 -436 402 -436 313 -436 c 0,0,1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uni0324
 Encoding: 804 804 1336
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 TtInstrs:
 PUSHB_8
@@ -109218,7 +109101,7 @@ SHP[rp1]
 IUP[x]
 IUP[y]
 EndTTInstrs
-AnchorPoint: "bottom" -164 -152 mark 0
+AnchorPoint: "bottom" -165 -58 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -109246,7 +109129,7 @@ EndChar
 StartChar: uni0325
 Encoding: 805 805 1337
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 TtInstrs:
 PUSHB_2
@@ -109270,6 +109153,7 @@ SHP[rp2]
 IUP[x]
 IUP[y]
 EndTTInstrs
+AnchorPoint: "bottom" -180 80 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -109292,13 +109176,12 @@ SplineSet
  -80 -185 -80 -185 -110 -155.5 c 128,-1,23
  -140 -126 -140 -126 -178 -126 c 0,12,13
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uni0326
 Encoding: 806 806 1338
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 TtInstrs:
 PUSHB_5
@@ -109322,6 +109205,7 @@ DELTAP1
 IUP[x]
 IUP[y]
 EndTTInstrs
+AnchorPoint: "bottom" -158 22 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -109339,13 +109223,12 @@ SplineSet
  -300 -132 -300 -132 -261.5 -102 c 128,-1,16
  -223 -72 -223 -72 -159 -72 c 0,0,1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uni0327
 Encoding: 807 807 1339
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 TtInstrs:
 PUSHB_8
@@ -109366,6 +109249,7 @@ CALL
 IUP[x]
 IUP[y]
 EndTTInstrs
+AnchorPoint: "bottom" -185 143 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -109384,13 +109268,12 @@ SplineSet
  0 -315 0 -315 -84 -373.5 c 128,-1,18
  -168 -432 -168 -432 -296 -432 c 0,0,1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uni0328
 Encoding: 808 808 1340
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 TtInstrs:
 PUSHB_6
@@ -109407,6 +109290,7 @@ CALL
 IUP[x]
 IUP[y]
 EndTTInstrs
+AnchorPoint: "bottom-right" -0 112 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -109423,13 +109307,12 @@ SplineSet
  237 -377 l 1,15,16
  145 -430 145 -430 32 -430 c 0,0,1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uni0329
 Encoding: 809 809 1341
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 TtInstrs:
 NPUSHB
@@ -109451,6 +109334,7 @@ CALL
 IUP[x]
 IUP[y]
 EndTTInstrs
+AnchorPoint: "bottom" 0 -25 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -109460,13 +109344,12 @@ SplineSet
  55 -121 l 1,3,-1
  55 -443 l 1,0,-1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uni032A
 Encoding: 810 810 1342
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 TtInstrs:
 PUSHB_4
@@ -109482,6 +109365,7 @@ SHP[rp2]
 IUP[x]
 IUP[y]
 EndTTInstrs
+AnchorPoint: "bottom" 0 67 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -109495,13 +109379,12 @@ SplineSet
  389 -442 l 1,7,-1
  215 -442 l 1,0,-1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uni032B
 Encoding: 811 811 1343
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 TtInstrs:
 NPUSHB
@@ -109547,6 +109430,7 @@ SHP[rp1]
 IUP[x]
 IUP[y]
 EndTTInstrs
+AnchorPoint: "bottom" -1 -30 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -109569,13 +109453,12 @@ SplineSet
  -286 -175 -286 -175 -250.5 -212 c 128,-1,24
  -215 -249 -215 -249 -163 -249 c 256,0,1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uni032C
 Encoding: 812 812 1344
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 TtInstrs:
 NPUSHB
@@ -109604,6 +109487,7 @@ SHP[rp1]
 IUP[x]
 IUP[y]
 EndTTInstrs
+AnchorPoint: "bottom" -174 -17 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -109618,13 +109502,12 @@ SplineSet
  83 -113 l 1,8,-1
  159 -113 l 1,0,-1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uni032D
 Encoding: 813 813 1345
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 TtInstrs:
 NPUSHB
@@ -109651,6 +109534,7 @@ SHP[rp1]
 IUP[x]
 IUP[y]
 EndTTInstrs
+AnchorPoint: "bottom" -213 -16 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -109665,13 +109549,12 @@ SplineSet
  -512 -438 l 1,8,-1
  -588 -438 l 1,0,-1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uni032E
 Encoding: 814 814 1346
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 TtInstrs:
 NPUSHB
@@ -109698,6 +109581,7 @@ SHP[rp2]
 IUP[x]
 IUP[y]
 EndTTInstrs
+AnchorPoint: "bottom" -132 -21 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -109707,18 +109591,17 @@ SplineSet
  -442 -156 -442 -156 -436 -115 c 1,5,-1
  -315 -115 l 1,6,7
  -308 -246 -308 -246 -158 -246 c 256,8,9
- -8 -246 -8 -246 45 -115 c 1,10,-1
- 166 -115 l 1,11,12
+ -8 -246 -8 -246 45 -115 c 5,10,-1
+ 166 -115 l 5,11,12
  135 -269 135 -269 41.5 -353.5 c 128,-1,13
  -52 -438 -52 -438 -192 -438 c 0,0,1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uni032F
 Encoding: 815 815 1347
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 TtInstrs:
 NPUSHB
@@ -109756,6 +109639,7 @@ SHP[rp2]
 IUP[x]
 IUP[y]
 EndTTInstrs
+AnchorPoint: "bottom" -174 -21 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -109772,13 +109656,12 @@ SplineSet
  -514 -285 -514 -285 -421 -200 c 128,-1,15
  -328 -115 -328 -115 -188 -115 c 0,0,1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uni0330
 Encoding: 816 816 1348
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 TtInstrs:
 NPUSHB
@@ -109820,6 +109703,7 @@ CALL
 IUP[x]
 IUP[y]
 EndTTInstrs
+AnchorPoint: "bottom" -69 -8 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -109839,13 +109723,12 @@ SplineSet
  144 -275 144 -275 77 -342 c 128,-1,21
  10 -409 10 -409 -88 -409 c 0,0,1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uni0331
 Encoding: 817 817 1349
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 TtInstrs:
 PUSHB_2
@@ -109857,6 +109740,7 @@ SHP[rp1]
 IUP[x]
 IUP[y]
 EndTTInstrs
+AnchorPoint: "bottom" -155 -28 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -109866,13 +109750,12 @@ SplineSet
  146 -272 l 1,3,-1
  -482 -272 l 1,0,-1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uni0332
 Encoding: 818 818 1350
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 TtInstrs:
 PUSHB_2
@@ -109884,6 +109767,7 @@ SHP[rp1]
 IUP[x]
 IUP[y]
 EndTTInstrs
+AnchorPoint: "bottom" -216 -10 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -109893,13 +109777,12 @@ SplineSet
  285 -259 l 1,3,-1
  -743 -259 l 1,0,-1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uni0333
 Encoding: 819 819 1351
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 TtInstrs:
 PUSHB_4
@@ -109915,6 +109798,7 @@ SHP[rp2]
 IUP[x]
 IUP[y]
 EndTTInstrs
+AnchorPoint: "bottom" -108 -10 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -109929,13 +109813,12 @@ SplineSet
  388 -463 l 1,7,-1
  -640 -463 l 1,4,-1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uni0334
 Encoding: 820 820 1352
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 TtInstrs:
 NPUSHB
@@ -109998,7 +109881,7 @@ EndChar
 StartChar: uni0335
 Encoding: 821 821 1353
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 TtInstrs:
 PUSHB_2
@@ -110025,7 +109908,7 @@ EndChar
 StartChar: uni0336
 Encoding: 822 822 1354
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 TtInstrs:
 PUSHB_2
@@ -110052,7 +109935,7 @@ EndChar
 StartChar: uni0337
 Encoding: 823 823 1355
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 TtInstrs:
 PUSHB_4
@@ -110081,7 +109964,7 @@ EndChar
 StartChar: uni0338
 Encoding: 824 824 1356
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 TtInstrs:
 PUSHB_4
@@ -110110,7 +109993,7 @@ EndChar
 StartChar: uni0339
 Encoding: 825 825 1357
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 TtInstrs:
 PUSHB_4
@@ -110126,6 +110009,7 @@ SHP[rp2]
 IUP[x]
 IUP[y]
 EndTTInstrs
+AnchorPoint: "bottom" -85 61 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -110141,13 +110025,12 @@ SplineSet
  -53 -363 -53 -363 -15.5 -328 c 128,-1,13
  22 -293 22 -293 22 -240 c 0,0,1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uni033A
 Encoding: 826 826 1358
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 TtInstrs:
 PUSHB_4
@@ -110163,6 +110046,7 @@ SHP[rp2]
 IUP[x]
 IUP[y]
 EndTTInstrs
+AnchorPoint: "bottom" -2 65 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -110176,13 +110060,12 @@ SplineSet
  215 -30 l 1,7,-1
  389 -30 l 1,0,-1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uni033B
 Encoding: 827 827 1359
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 TtInstrs:
 PUSHB_4
@@ -110198,6 +110081,7 @@ SHP[rp2]
 IUP[x]
 IUP[y]
 EndTTInstrs
+AnchorPoint: "bottom" 0 35 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -110212,13 +110096,12 @@ SplineSet
  -65 -316 l 1,7,-1
  65 -316 l 1,4,-1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uni033C
 Encoding: 828 828 1360
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 TtInstrs:
 NPUSHB
@@ -110245,6 +110128,7 @@ SHP[rp2]
 IUP[x]
 IUP[y]
 EndTTInstrs
+AnchorPoint: "bottom" -2 -30 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -110269,13 +110153,12 @@ SplineSet
  344 -215 344 -215 361 -286 c 1,26,-1
  279 -286 l 1,0,1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uni033D
 Encoding: 829 829 1361
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 TtInstrs:
 NPUSHB
@@ -110306,6 +110189,7 @@ SHP[rp1]
 IUP[x]
 IUP[y]
 EndTTInstrs
+AnchorPoint: "top" 1 938 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -110323,13 +110207,12 @@ SplineSet
  71 1274 l 1,11,-1
  221 1125 l 1,0,-1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uni033E
 Encoding: 830 830 1362
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 TtInstrs:
 NPUSHB
@@ -110384,6 +110267,7 @@ IP
 IUP[x]
 IUP[y]
 EndTTInstrs
+AnchorPoint: "top" 0 923 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -110407,13 +110291,12 @@ SplineSet
  -9 1037 -9 1037 -128 1037 c 1,23,-1
  -128 1151 l 1,0,1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uni033F
 Encoding: 831 831 1363
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 TtInstrs:
 PUSHB_4
@@ -110429,6 +110312,7 @@ SHP[rp2]
 IUP[x]
 IUP[y]
 EndTTInstrs
+AnchorPoint: "top" 166 1316 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -110443,13 +110327,12 @@ SplineSet
  666 1431 l 1,7,-1
  -362 1431 l 1,4,-1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uni0340
 Encoding: 832 832 1364
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 TtInstrs:
 NPUSHB
@@ -110481,6 +110364,7 @@ CALL
 IUP[x]
 IUP[y]
 EndTTInstrs
+AnchorPoint: "top" 282 1004 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -110492,13 +110376,12 @@ SplineSet
  312 1118 l 1,5,-1
  226 1118 l 1,0,-1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uni0341
 Encoding: 833 833 1365
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 TtInstrs:
 NPUSHB
@@ -110530,6 +110413,7 @@ CALL
 IUP[x]
 IUP[y]
 EndTTInstrs
+AnchorPoint: "top" 81 1003 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -110541,13 +110425,12 @@ SplineSet
  123 1118 l 1,5,-1
  37 1118 l 1,0,-1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uni0342
 Encoding: 834 834 1366
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 TtInstrs:
 NPUSHB
@@ -110611,6 +110494,7 @@ MDRP[rnd,grey]
 IUP[x]
 IUP[y]
 EndTTInstrs
+AnchorPoint: "top" 258 977 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -110630,13 +110514,12 @@ SplineSet
  559 1224 559 1224 492 1157 c 128,-1,21
  425 1090 425 1090 327 1090 c 0,0,1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uni0343
 Encoding: 835 835 1367
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 TtInstrs:
 PUSHB_2
@@ -110648,6 +110531,7 @@ MDRP[min,rnd,grey]
 IUP[x]
 IUP[y]
 EndTTInstrs
+AnchorPoint: "top" 324 628 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -110666,13 +110550,12 @@ SplineSet
  506 1361 506 1361 557.5 1307 c 128,-1,18
  609 1253 609 1253 609 1166 c 0,0,1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uni0344
 Encoding: 836 836 1368
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 TtInstrs:
 PUSHB_4
@@ -110734,6 +110617,7 @@ SHP[rp1]
 IUP[x]
 IUP[y]
 EndTTInstrs
+AnchorPoint: "top" 330 997 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -110763,13 +110647,12 @@ SplineSet
  313 1108 l 1,29,-1
  227 1108 l 1,24,-1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uni0345
 Encoding: 837 837 1369
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 TtInstrs:
 PUSHB_3
@@ -110783,6 +110666,7 @@ SHP[rp2]
 IUP[x]
 IUP[y]
 EndTTInstrs
+AnchorPoint: "bottom" -96 -16 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -110798,13 +110682,12 @@ SplineSet
  84 -396 l 1,12,13
  12 -443 12 -443 -67 -443 c 0,0,1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uni0346
 Encoding: 838 838 1370
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 TtInstrs:
 PUSHB_7
@@ -110823,6 +110706,7 @@ CALL
 IUP[x]
 IUP[y]
 EndTTInstrs
+AnchorPoint: "top" -2 1076 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -110836,13 +110720,12 @@ SplineSet
  389 1189 l 1,7,-1
  215 1189 l 1,0,-1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uni0347
 Encoding: 839 839 1371
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 TtInstrs:
 PUSHB_4
@@ -110858,6 +110741,7 @@ SHP[rp2]
 IUP[x]
 IUP[y]
 EndTTInstrs
+AnchorPoint: "bottom" 0 -12 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -110872,13 +110756,12 @@ SplineSet
  514 -463 l 1,7,-1
  -514 -463 l 1,4,-1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uni0348
 Encoding: 840 840 1372
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 TtInstrs:
 PUSHB_8
@@ -110900,6 +110783,7 @@ SHP[rp1]
 IUP[x]
 IUP[y]
 EndTTInstrs
+AnchorPoint: "bottom" -0 -25 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -110914,13 +110798,12 @@ SplineSet
  170 -121 l 1,7,-1
  170 -443 l 1,4,-1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uni0349
 Encoding: 841 841 1373
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 TtInstrs:
 PUSHB_3
@@ -110934,6 +110817,7 @@ SHP[rp1]
 IUP[x]
 IUP[y]
 EndTTInstrs
+AnchorPoint: "bottom" 0 38 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -110945,13 +110829,12 @@ SplineSet
  201 -60 l 1,5,-1
  201 -442 l 1,0,-1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uni034A
 Encoding: 842 842 1374
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 TtInstrs:
 NPUSHB
@@ -111059,6 +110942,7 @@ IP
 IUP[x]
 IUP[y]
 EndTTInstrs
+AnchorPoint: "top" 11 887 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -111083,13 +110967,12 @@ SplineSet
  323 1206 323 1206 256 1139 c 128,-1,26
  189 1072 189 1072 91 1072 c 0,0,1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uni034B
 Encoding: 843 843 1375
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 TtInstrs:
 NPUSHB
@@ -111140,6 +111023,7 @@ MDRP[rnd,grey]
 IUP[x]
 IUP[y]
 EndTTInstrs
+AnchorPoint: "top" -8 827 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -111179,13 +111063,12 @@ SplineSet
  -51 939 -51 939 -86.5 974.5 c 128,-1,47
  -122 1010 -122 1010 -122 1062 c 0,36,37
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uni034C
 Encoding: 844 844 1376
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 TtInstrs:
 NPUSHB
@@ -111230,6 +111113,7 @@ MDRP[rnd,grey]
 IUP[x]
 IUP[y]
 EndTTInstrs
+AnchorPoint: "top" 2 883 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -111264,13 +111148,12 @@ SplineSet
  343 1443 343 1443 276 1376 c 128,-1,43
  209 1309 209 1309 111 1309 c 0,22,23
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uni034D
 Encoding: 845 845 1377
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 TtInstrs:
 PUSHB_7
@@ -111292,6 +111175,7 @@ SHP[rp1]
 IUP[x]
 IUP[y]
 EndTTInstrs
+AnchorPoint: "bottom" 0 71 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -111313,13 +111197,12 @@ SplineSet
  274 -252 l 1,15,-1
  101 -440 l 1,0,-1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uni034E
 Encoding: 846 846 1378
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 TtInstrs:
 PUSHB_8
@@ -111343,6 +111226,7 @@ SHP[rp2]
 IUP[x]
 IUP[y]
 EndTTInstrs
+AnchorPoint: "bottom" -1 43 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -111358,13 +111242,12 @@ SplineSet
  208 -226 l 1,9,-1
  179 -270 l 1,0,-1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uni034F
 Encoding: 847 847 1379
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 TtInstrs:
 NPUSHB
@@ -111738,7 +111621,7 @@ EndChar
 StartChar: uni0360
 Encoding: 864 864 1380
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 TtInstrs:
 NPUSHB
@@ -111809,6 +111692,7 @@ MDRP[rnd,grey]
 IUP[x]
 IUP[y]
 EndTTInstrs
+AnchorPoint: "top" -14 982 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -111833,13 +111717,12 @@ SplineSet
  1291 1231 1291 1231 1195 1153 c 128,-1,24
  1099 1075 1099 1075 957 1075 c 0,0,1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uni0361
 Encoding: 865 865 1381
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 TtInstrs:
 NPUSHB
@@ -111876,6 +111759,7 @@ SHP[rp2]
 IUP[x]
 IUP[y]
 EndTTInstrs
+AnchorPoint: "top" -2 1010 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -111893,13 +111777,12 @@ SplineSet
  134 1358 134 1358 281 1400.5 c 128,-1,15
  428 1443 428 1443 620 1443 c 0,0,1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uni0362
 Encoding: 866 866 1382
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 TtInstrs:
 PUSHB_1
@@ -111909,6 +111792,7 @@ MDAP[rnd]
 IUP[x]
 IUP[y]
 EndTTInstrs
+AnchorPoint: "bottom" -176 -64 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -111924,7 +111808,6 @@ SplineSet
  977 -252 l 1,9,-1
  804 -440 l 1,0,-1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uni0363
@@ -117154,7 +117037,6 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 77 106 N 1 0 0 1 0 0 3
-Validated: 1
 EndChar
 
 StartChar: uni03F4
@@ -121372,7 +121254,6 @@ LayerCount: 2
 Fore
 Refer: 1462 1140 N 1 0 0 1 0 0 3
 Refer: 1316 783 N 1 0 0 1 849 334 2
-Validated: 1
 EndChar
 
 StartChar: uni0477
@@ -121396,7 +121277,6 @@ LayerCount: 2
 Fore
 Refer: 1463 1141 N 1 0 0 1 0 0 3
 Refer: 1316 783 N 1 0 0 1 553 0 2
-Validated: 1
 EndChar
 
 StartChar: uni0478
@@ -131242,7 +131122,6 @@ LayerCount: 2
 Fore
 Refer: 92 121 N 1 0 0 1 0 0 3
 Refer: 213 713 N 1 0 0 1 89 0 2
-Validated: 1
 EndChar
 
 StartChar: uni04F0
@@ -131290,7 +131169,6 @@ LayerCount: 2
 Fore
 Refer: 92 121 N 1 0 0 1 0 0 3
 Refer: 142 168 N 1 0 0 1 75 0 2
-Validated: 1
 EndChar
 
 StartChar: uni04F2
@@ -131338,7 +131216,6 @@ LayerCount: 2
 Fore
 Refer: 92 121 N 1 0 0 1 0 0 3
 Refer: 218 733 N 1 0 0 1 52 0 2
-Validated: 1
 EndChar
 
 StartChar: uni04F4
@@ -131555,7 +131432,6 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 71 100 N 1 0 0 1 0 0 3
-Validated: 1
 EndChar
 
 StartChar: uni0502
@@ -134160,7 +134036,6 @@ LayerCount: 2
 Fore
 Refer: 37 66 N 1 0 0 1 0 0 3
 Refer: 215 729 N 1 0 0 1 420 334 2
-Validated: 1
 EndChar
 
 StartChar: uni1E03
@@ -134172,7 +134047,6 @@ LayerCount: 2
 Fore
 Refer: 69 98 N 1 0 0 1 0 0 3
 Refer: 215 729 N 1 0 0 1 340 0 2
-Validated: 1
 EndChar
 
 StartChar: uni1E04
@@ -134206,7 +134080,6 @@ LayerCount: 2
 Fore
 Refer: 37 66 N 1 0 0 1 0 0 3
 Refer: 1137 717 N 1 0 0 1 428 0 2
-Validated: 1
 EndChar
 
 StartChar: uni1E07
@@ -134218,7 +134091,6 @@ LayerCount: 2
 Fore
 Refer: 69 98 N 1 0 0 1 0 0 3
 Refer: 1137 717 N 1 0 0 1 240 0 2
-Validated: 1
 EndChar
 
 StartChar: uni1E08
@@ -134241,7 +134113,6 @@ Fore
 Refer: 38 67 N 1 0 0 1 0 0 3
 Refer: 141 180 N 1 0 0 1 500 334 2
 Refer: 217 184 N 1 0 0 1 463 0 2
-Validated: 5
 EndChar
 
 StartChar: uni1E09
@@ -134254,7 +134125,6 @@ Fore
 Refer: 70 99 N 1 0 0 1 0 0 3
 Refer: 141 180 N 1 0 0 1 226 0 2
 Refer: 217 184 N 1 0 0 1 144 0 2
-Validated: 5
 EndChar
 
 StartChar: uni1E0A
@@ -134276,7 +134146,6 @@ LayerCount: 2
 Fore
 Refer: 39 68 N 1 0 0 1 0 0 3
 Refer: 215 729 N 1 0 0 1 440 334 2
-Validated: 1
 EndChar
 
 StartChar: uni1E0B
@@ -134288,7 +134157,6 @@ LayerCount: 2
 Fore
 Refer: 71 100 N 1 0 0 1 0 0 3
 Refer: 215 729 N 1 0 0 1 -89 0 2
-Validated: 1
 EndChar
 
 StartChar: uni1E0C
@@ -134322,7 +134190,6 @@ LayerCount: 2
 Fore
 Refer: 39 68 N 1 0 0 1 0 0 3
 Refer: 1137 717 N 1 0 0 1 480 0 2
-Validated: 1
 EndChar
 
 StartChar: uni1E0F
@@ -134334,7 +134201,6 @@ LayerCount: 2
 Fore
 Refer: 71 100 N 1 0 0 1 0 0 3
 Refer: 1137 717 N 1 0 0 1 240 0 2
-Validated: 1
 EndChar
 
 StartChar: uni1E10
@@ -134346,7 +134212,6 @@ LayerCount: 2
 Fore
 Refer: 39 68 N 1 0 0 1 0 0 3
 Refer: 1338 806 N 1 0 0 1 769 0 2
-Validated: 1
 EndChar
 
 StartChar: uni1E11
@@ -134358,7 +134223,6 @@ LayerCount: 2
 Fore
 Refer: 71 100 N 1 0 0 1 0 0 3
 Refer: 1338 806 N 1 0 0 1 598 0 2
-Validated: 1
 EndChar
 
 StartChar: uni1E12
@@ -134370,7 +134234,6 @@ LayerCount: 2
 Fore
 Refer: 39 68 N 1 0 0 1 0 0 3
 Refer: 1345 813 N 1 0 0 1 801 0 2
-Validated: 1
 EndChar
 
 StartChar: uni1E13
@@ -134382,7 +134245,6 @@ LayerCount: 2
 Fore
 Refer: 71 100 N 1 0 0 1 0 0 3
 Refer: 1345 813 N 1 0 0 1 656 0 2
-Validated: 1
 EndChar
 
 StartChar: uni1E14
@@ -134552,7 +134414,6 @@ LayerCount: 2
 Fore
 Refer: 41 70 N 1 0 0 1 0 0 3
 Refer: 215 729 N 1 0 0 1 374 334 2
-Validated: 1
 EndChar
 
 StartChar: uni1E1F
@@ -134574,7 +134435,6 @@ LayerCount: 2
 Fore
 Refer: 73 102 N 1 0 0 1 0 0 3
 Refer: 215 729 N 1 0 0 1 220 409 2
-Validated: 1
 EndChar
 
 StartChar: uni1E20
@@ -134596,7 +134456,6 @@ LayerCount: 2
 Fore
 Refer: 42 71 N 1 0 0 1 0 0 3
 Refer: 213 713 N 1 0 0 1 520 334 2
-Validated: 1
 EndChar
 
 StartChar: uni1E21
@@ -134618,7 +134477,6 @@ LayerCount: 2
 Fore
 Refer: 74 103 N 1 0 0 1 0 0 3
 Refer: 213 713 N 1 0 0 1 180 0 2
-Validated: 1
 EndChar
 
 StartChar: uni1E22
@@ -134640,7 +134498,6 @@ LayerCount: 2
 Fore
 Refer: 43 72 N 1 0 0 1 0 0 3
 Refer: 215 729 N 1 0 0 1 517 334 2
-Validated: 1
 EndChar
 
 StartChar: uni1E23
@@ -134662,7 +134519,6 @@ LayerCount: 2
 Fore
 Refer: 75 104 N 1 0 0 1 0 0 3
 Refer: 215 729 N 1 0 0 1 324 344 2
-Validated: 1
 EndChar
 
 StartChar: uni1E24
@@ -134708,7 +134564,6 @@ LayerCount: 2
 Fore
 Refer: 43 72 N 1 0 0 1 0 0 3
 Refer: 142 168 N 1 0 0 1 512 334 2
-Validated: 1
 EndChar
 
 StartChar: uni1E27
@@ -134732,7 +134587,6 @@ LayerCount: 2
 Fore
 Refer: 75 104 N 1 0 0 1 0 0 3
 Refer: 142 168 N 1 0 0 1 300 409 2
-Validated: 1
 EndChar
 
 StartChar: uni1E28
@@ -134744,7 +134598,6 @@ LayerCount: 2
 Fore
 Refer: 43 72 N 1 0 0 1 0 0 3
 Refer: 217 184 N 1 0 0 1 105 0 2
-Validated: 5
 EndChar
 
 StartChar: uni1E29
@@ -134756,7 +134609,6 @@ LayerCount: 2
 Fore
 Refer: 75 104 N 1 0 0 1 0 0 3
 Refer: 217 184 N 1 0 0 1 -21 0 2
-Validated: 5
 EndChar
 
 StartChar: uni1E2A
@@ -134768,7 +134620,6 @@ LayerCount: 2
 Fore
 Refer: 43 72 N 1 0 0 1 0 0 3
 Refer: 1346 814 N 1 0 0 1 800 0 2
-Validated: 1
 EndChar
 
 StartChar: uni1E2B
@@ -134780,7 +134631,6 @@ LayerCount: 2
 Fore
 Refer: 75 104 N 1 0 0 1 0 0 3
 Refer: 1346 814 N 1 0 0 1 560 0 2
-Validated: 1
 EndChar
 
 StartChar: uni1E2C
@@ -134878,7 +134728,6 @@ LayerCount: 2
 Fore
 Refer: 46 75 N 1 0 0 1 0 0 3
 Refer: 141 180 N 1 0 0 1 490 334 2
-Validated: 1
 EndChar
 
 StartChar: uni1E31
@@ -134900,7 +134749,6 @@ LayerCount: 2
 Fore
 Refer: 78 107 N 1 0 0 1 0 0 3
 Refer: 141 180 N 1 0 0 1 212 408 2
-Validated: 1
 EndChar
 
 StartChar: uni1E32
@@ -134934,7 +134782,6 @@ LayerCount: 2
 Fore
 Refer: 46 75 N 1 0 0 1 0 0 3
 Refer: 1349 817 N 1 0 0 1 810 0 2
-Validated: 1
 EndChar
 
 StartChar: uni1E35
@@ -134946,7 +134793,6 @@ LayerCount: 2
 Fore
 Refer: 78 107 N 1 0 0 1 0 0 3
 Refer: 1349 817 N 1 0 0 1 590 0 2
-Validated: 1
 EndChar
 
 StartChar: uni1E36
@@ -135024,7 +134870,6 @@ LayerCount: 2
 Fore
 Refer: 47 76 N 1 0 0 1 0 0 3
 Refer: 1349 817 N 1 0 0 1 698 0 2
-Validated: 1
 EndChar
 
 StartChar: uni1E3B
@@ -135036,7 +134881,6 @@ LayerCount: 2
 Fore
 Refer: 79 108 N 1 0 0 1 0 0 3
 Refer: 1349 817 N 1 0 0 1 332 0 2
-Validated: 1
 EndChar
 
 StartChar: uni1E3C
@@ -135048,7 +134892,6 @@ LayerCount: 2
 Fore
 Refer: 47 76 N 1 0 0 1 0 0 3
 Refer: 1345 813 N 1 0 0 1 740 0 2
-Validated: 1
 EndChar
 
 StartChar: uni1E3D
@@ -135060,7 +134903,6 @@ LayerCount: 2
 Fore
 Refer: 79 108 N 1 0 0 1 0 0 3
 Refer: 1345 813 N 1 0 0 1 393 0 2
-Validated: 1
 EndChar
 
 StartChar: uni1E3E
@@ -135082,7 +134924,6 @@ LayerCount: 2
 Fore
 Refer: 48 77 N 1 0 0 1 0 0 3
 Refer: 141 180 N 1 0 0 1 685 334 2
-Validated: 1
 EndChar
 
 StartChar: uni1E3F
@@ -135104,7 +134945,6 @@ LayerCount: 2
 Fore
 Refer: 80 109 N 1 0 0 1 0 0 3
 Refer: 141 180 N 1 0 0 1 570 0 2
-Validated: 1
 EndChar
 
 StartChar: uni1E40
@@ -135126,7 +134966,6 @@ LayerCount: 2
 Fore
 Refer: 48 77 N 1 0 0 1 0 0 3
 Refer: 215 729 N 1 0 0 1 600 334 2
-Validated: 1
 EndChar
 
 StartChar: uni1E41
@@ -135148,7 +134987,6 @@ LayerCount: 2
 Fore
 Refer: 80 109 N 1 0 0 1 0 0 3
 Refer: 215 729 N 1 0 0 1 462 0 2
-Validated: 1
 EndChar
 
 StartChar: uni1E42
@@ -135192,7 +135030,6 @@ LayerCount: 2
 Fore
 Refer: 49 78 N 1 0 0 1 0 0 3
 Refer: 215 729 N 1 0 0 1 459 334 2
-Validated: 1
 EndChar
 
 StartChar: uni1E45
@@ -135214,7 +135051,6 @@ LayerCount: 2
 Fore
 Refer: 81 110 N 1 0 0 1 0 0 3
 Refer: 215 729 N 1 0 0 1 233 0 2
-Validated: 1
 EndChar
 
 StartChar: uni1E46
@@ -135248,7 +135084,6 @@ LayerCount: 2
 Fore
 Refer: 49 78 N 1 0 0 1 0 0 3
 Refer: 1349 817 N 1 0 0 1 747 0 2
-Validated: 1
 EndChar
 
 StartChar: uni1E49
@@ -135260,7 +135095,6 @@ LayerCount: 2
 Fore
 Refer: 81 110 N 1 0 0 1 0 0 3
 Refer: 1349 817 N 1 0 0 1 602 0 2
-Validated: 1
 EndChar
 
 StartChar: uni1E4A
@@ -135272,7 +135106,6 @@ LayerCount: 2
 Fore
 Refer: 49 78 N 1 0 0 1 0 0 3
 Refer: 1345 813 N 1 0 0 1 799 0 2
-Validated: 1
 EndChar
 
 StartChar: uni1E4B
@@ -135284,7 +135117,6 @@ LayerCount: 2
 Fore
 Refer: 81 110 N 1 0 0 1 0 0 3
 Refer: 1345 813 N 1 0 0 1 672 0 2
-Validated: 1
 EndChar
 
 StartChar: uni1E4C
@@ -135505,7 +135337,6 @@ LayerCount: 2
 Fore
 Refer: 51 80 N 1 0 0 1 0 0 3
 Refer: 141 180 N 1 0 0 1 355 334 2
-Validated: 1
 EndChar
 
 StartChar: uni1E55
@@ -135527,7 +135358,6 @@ LayerCount: 2
 Fore
 Refer: 83 112 N 1 0 0 1 0 0 3
 Refer: 141 180 N 1 0 0 1 213 0 2
-Validated: 1
 EndChar
 
 StartChar: uni1E56
@@ -135549,7 +135379,6 @@ LayerCount: 2
 Fore
 Refer: 51 80 N 1 0 0 1 0 0 3
 Refer: 215 729 N 1 0 0 1 384 334 2
-Validated: 1
 EndChar
 
 StartChar: uni1E57
@@ -135571,7 +135400,6 @@ LayerCount: 2
 Fore
 Refer: 83 112 N 1 0 0 1 0 0 3
 Refer: 215 729 N 1 0 0 1 182 0 2
-Validated: 1
 EndChar
 
 StartChar: uni1E58
@@ -135593,7 +135421,6 @@ LayerCount: 2
 Fore
 Refer: 53 82 N 1 0 0 1 0 0 3
 Refer: 215 729 N 1 0 0 1 410 334 2
-Validated: 1
 EndChar
 
 StartChar: uni1E59
@@ -135615,7 +135442,6 @@ LayerCount: 2
 Fore
 Refer: 85 114 N 1 0 0 1 0 0 3
 Refer: 215 729 N 1 0 0 1 80 0 2
-Validated: 1
 EndChar
 
 StartChar: uni1E5A
@@ -135683,7 +135509,6 @@ LayerCount: 2
 Fore
 Refer: 53 82 N 1 0 0 1 0 0 3
 Refer: 1349 817 N 1 0 0 1 760 0 2
-Validated: 1
 EndChar
 
 StartChar: uni1E5F
@@ -135695,7 +135520,6 @@ LayerCount: 2
 Fore
 Refer: 85 114 N 1 0 0 1 0 0 3
 Refer: 1349 817 N 1 0 0 1 400 0 2
-Validated: 1
 EndChar
 
 StartChar: uni1E60
@@ -135717,7 +135541,6 @@ LayerCount: 2
 Fore
 Refer: 54 83 N 1 0 0 1 0 0 3
 Refer: 215 729 N 1 0 0 1 270 334 2
-Validated: 1
 EndChar
 
 StartChar: uni1E61
@@ -135739,7 +135562,6 @@ LayerCount: 2
 Fore
 Refer: 86 115 N 1 0 0 1 0 0 3
 Refer: 215 729 N 1 0 0 1 35 0 2
-Validated: 1
 EndChar
 
 StartChar: uni1E62
@@ -135785,7 +135607,6 @@ LayerCount: 2
 Fore
 Refer: 54 83 N 1 0 0 1 0 0 3
 Refer: 1588 -1 N 1 0 0 1 752 0 2
-Validated: 1
 EndChar
 
 StartChar: uni1E65
@@ -135809,7 +135630,6 @@ LayerCount: 2
 Fore
 Refer: 86 115 N 1 0 0 1 0 0 3
 Refer: 1588 -1 N 1 0 0 1 467 -388 2
-Validated: 1
 EndChar
 
 StartChar: uni1E66
@@ -135833,7 +135653,6 @@ LayerCount: 2
 Fore
 Refer: 54 83 N 1 0 0 1 0 0 3
 Refer: 1589 -1 N 1 0 0 1 750 0 2
-Validated: 1
 EndChar
 
 StartChar: uni1E67
@@ -135857,7 +135676,6 @@ LayerCount: 2
 Fore
 Refer: 86 115 N 1 0 0 1 0 0 3
 Refer: 1589 -1 N 1 0 0 1 497 -300 2
-Validated: 1
 EndChar
 
 StartChar: uni1E68
@@ -135913,7 +135731,6 @@ LayerCount: 2
 Fore
 Refer: 55 84 N 1 0 0 1 0 0 3
 Refer: 215 729 N 1 0 0 1 340 334 2
-Validated: 1
 EndChar
 
 StartChar: uni1E6B
@@ -135925,7 +135742,6 @@ LayerCount: 2
 Fore
 Refer: 87 116 N 1 0 0 1 0 0 3
 Refer: 215 729 N 1 0 0 1 -3 184 2
-Validated: 1
 EndChar
 
 StartChar: uni1E6C
@@ -135959,7 +135775,6 @@ LayerCount: 2
 Fore
 Refer: 55 84 N 1 0 0 1 0 0 3
 Refer: 1349 817 N 1 0 0 1 654 0 2
-Validated: 1
 EndChar
 
 StartChar: uni1E6F
@@ -135971,7 +135786,6 @@ LayerCount: 2
 Fore
 Refer: 87 116 N 1 0 0 1 0 0 3
 Refer: 1349 817 N 1 0 0 1 377 0 2
-Validated: 1
 EndChar
 
 StartChar: uni1E70
@@ -135983,7 +135797,6 @@ LayerCount: 2
 Fore
 Refer: 55 84 N 1 0 0 1 0 0 3
 Refer: 1345 813 N 1 0 0 1 720 0 2
-Validated: 1
 EndChar
 
 StartChar: uni1E71
@@ -135995,7 +135808,6 @@ LayerCount: 2
 Fore
 Refer: 87 116 N 1 0 0 1 0 0 3
 Refer: 1345 813 N 1 0 0 1 440 0 2
-Validated: 1
 EndChar
 
 StartChar: uni1E72
@@ -136188,7 +136000,6 @@ LayerCount: 2
 Fore
 Refer: 57 86 N 1 0 0 1 0 0 3
 Refer: 212 732 N 1 0 0 1 416 334 2
-Validated: 1
 EndChar
 
 StartChar: uni1E7D
@@ -136210,7 +136021,6 @@ LayerCount: 2
 Fore
 Refer: 89 118 N 1 0 0 1 0 0 3
 Refer: 212 732 N 1 0 0 1 123 0 2
-Validated: 1
 EndChar
 
 StartChar: uni1E7E
@@ -136254,7 +136064,6 @@ LayerCount: 2
 Fore
 Refer: 58 87 N 1 0 0 1 0 0 3
 Refer: 215 729 N 1 0 0 1 680 334 2
-Validated: 1
 EndChar
 
 StartChar: uni1E87
@@ -136276,7 +136085,6 @@ LayerCount: 2
 Fore
 Refer: 90 119 N 1 0 0 1 0 0 3
 Refer: 215 729 N 1 0 0 1 360 0 2
-Validated: 1
 EndChar
 
 StartChar: uni1E88
@@ -136320,7 +136128,6 @@ LayerCount: 2
 Fore
 Refer: 59 88 N 1 0 0 1 0 0 3
 Refer: 215 729 N 1 0 0 1 401 334 2
-Validated: 1
 EndChar
 
 StartChar: uni1E8B
@@ -136342,7 +136149,6 @@ LayerCount: 2
 Fore
 Refer: 91 120 N 1 0 0 1 0 0 3
 Refer: 215 729 N 1 0 0 1 168 0 2
-Validated: 1
 EndChar
 
 StartChar: uni1E8C
@@ -136366,7 +136172,6 @@ LayerCount: 2
 Fore
 Refer: 59 88 N 1 0 0 1 0 0 3
 Refer: 142 168 N 1 0 0 1 391 334 2
-Validated: 1
 EndChar
 
 StartChar: uni1E8D
@@ -136390,7 +136195,6 @@ LayerCount: 2
 Fore
 Refer: 91 120 N 1 0 0 1 0 0 3
 Refer: 142 168 N 1 0 0 1 148 0 2
-Validated: 1
 EndChar
 
 StartChar: uni1E8E
@@ -136412,7 +136216,6 @@ LayerCount: 2
 Fore
 Refer: 60 89 N 1 0 0 1 0 0 3
 Refer: 215 729 N 1 0 0 1 385 334 2
-Validated: 1
 EndChar
 
 StartChar: uni1E8F
@@ -136434,7 +136237,6 @@ LayerCount: 2
 Fore
 Refer: 92 121 N 1 0 0 1 0 0 3
 Refer: 215 729 N 1 0 0 1 130 0 2
-Validated: 1
 EndChar
 
 StartChar: uni1E90
@@ -136456,7 +136258,6 @@ LayerCount: 2
 Fore
 Refer: 61 90 N 1 0 0 1 0 0 3
 Refer: 211 710 N 1 0 0 1 302 334 2
-Validated: 1
 EndChar
 
 StartChar: uni1E91
@@ -136478,7 +136279,6 @@ LayerCount: 2
 Fore
 Refer: 93 122 N 1 0 0 1 0 0 3
 Refer: 211 710 N 1 0 0 1 60 0 2
-Validated: 1
 EndChar
 
 StartChar: uni1E92
@@ -136512,7 +136312,6 @@ LayerCount: 2
 Fore
 Refer: 61 90 N 1 0 0 1 0 0 3
 Refer: 1349 817 N 1 0 0 1 651 0 2
-Validated: 1
 EndChar
 
 StartChar: uni1E95
@@ -136524,7 +136323,6 @@ LayerCount: 2
 Fore
 Refer: 93 122 N 1 0 0 1 0 0 3
 Refer: 1349 817 N 1 0 0 1 425 0 2
-Validated: 1
 EndChar
 
 StartChar: uni1E96
@@ -136536,7 +136334,6 @@ LayerCount: 2
 Fore
 Refer: 75 104 N 1 0 0 1 0 0 3
 Refer: 1349 817 N 1 0 0 1 604 0 2
-Validated: 1
 EndChar
 
 StartChar: uni1E97
@@ -136548,7 +136345,6 @@ LayerCount: 2
 Fore
 Refer: 87 116 N 1 0 0 1 0 0 3
 Refer: 142 168 N 1 0 0 1 -19 140 2
-Validated: 1
 EndChar
 
 StartChar: uni1E98
@@ -136572,7 +136368,6 @@ LayerCount: 2
 Fore
 Refer: 90 119 N 1 0 0 1 0 0 3
 Refer: 216 730 N 1 0 0 1 307 0 2
-Validated: 1
 EndChar
 
 StartChar: uni1E99
@@ -136596,7 +136391,6 @@ LayerCount: 2
 Fore
 Refer: 92 121 N 1 0 0 1 0 0 3
 Refer: 216 730 N 1 0 0 1 113 0 2
-Validated: 1
 EndChar
 
 StartChar: uni1E9A
@@ -137454,7 +137248,6 @@ LayerCount: 2
 Fore
 Refer: 43 72 N 1 0 0 1 200 0 2
 Refer: 1915 8125 N 1 0 0 1 -224 -82 2
-Validated: 1
 EndChar
 
 StartChar: uni1F29
@@ -137475,7 +137268,6 @@ LayerCount: 2
 Fore
 Refer: 43 72 N 1 0 0 1 200 0 2
 Refer: 1973 8190 N 1 0 0 1 -208 -82 2
-Validated: 1
 EndChar
 
 StartChar: uni1F2A
@@ -137498,7 +137290,6 @@ LayerCount: 2
 Fore
 Refer: 43 72 N 1 0 0 1 531 0 2
 Refer: 1930 8141 N 1 0 0 1 -49 -82 2
-Validated: 1
 EndChar
 
 StartChar: uni1F2B
@@ -137521,7 +137312,6 @@ LayerCount: 2
 Fore
 Refer: 43 72 N 1 0 0 1 531 0 2
 Refer: 1943 8157 N 1 0 0 1 -49 -82 2
-Validated: 1
 EndChar
 
 StartChar: uni1F2C
@@ -137544,7 +137334,6 @@ LayerCount: 2
 Fore
 Refer: 43 72 N 1 0 0 1 531 0 2
 Refer: 1931 8142 N 1 0 0 1 -49 -82 2
-Validated: 1
 EndChar
 
 StartChar: uni1F2D
@@ -137567,7 +137356,6 @@ LayerCount: 2
 Fore
 Refer: 43 72 N 1 0 0 1 531 0 2
 Refer: 1944 8158 N 1 0 0 1 -49 -82 2
-Validated: 1
 EndChar
 
 StartChar: uni1F2E
@@ -137590,7 +137378,6 @@ LayerCount: 2
 Fore
 Refer: 43 72 N 1 0 0 1 531 0 2
 Refer: 1932 8143 N 1 0 0 1 -3 -35 2
-Validated: 1
 EndChar
 
 StartChar: uni1F2F
@@ -137613,7 +137400,6 @@ LayerCount: 2
 Fore
 Refer: 43 72 N 1 0 0 1 531 0 2
 Refer: 1945 8159 N 1 0 0 1 -3 -35 2
-Validated: 1
 EndChar
 
 StartChar: uni1F30
@@ -138444,7 +138230,6 @@ LayerCount: 2
 Fore
 Refer: 60 89 N 1 0 0 1 295 0 2
 Refer: 1973 8190 N 1 0 0 1 -208 -82 2
-Validated: 1
 EndChar
 
 StartChar: uni1F5B
@@ -138467,7 +138252,6 @@ LayerCount: 2
 Fore
 Refer: 60 89 N 1 0 0 1 595 0 2
 Refer: 1943 8157 N 1 0 0 1 -84 -82 2
-Validated: 1
 EndChar
 
 StartChar: uni1F5D
@@ -138490,7 +138274,6 @@ LayerCount: 2
 Fore
 Refer: 60 89 N 1 0 0 1 595 0 2
 Refer: 1944 8158 N 1 0 0 1 -84 -82 2
-Validated: 1
 EndChar
 
 StartChar: uni1F5F
@@ -138513,7 +138296,6 @@ LayerCount: 2
 Fore
 Refer: 60 89 N 1 0 0 1 595 0 2
 Refer: 1945 8159 N 1 0 0 1 -18 -35 2
-Validated: 1
 EndChar
 
 StartChar: uni1F60
@@ -139200,7 +138982,6 @@ Fore
 Refer: 299 945 N 1 0 0 1 0 0 3
 Refer: 1915 8125 N 1 0 0 1 200 0 2
 Refer: 1369 837 N 1 0 0 1 529 0 2
-Validated: 1
 EndChar
 
 StartChar: uni1F81
@@ -139213,7 +138994,6 @@ Fore
 Refer: 299 945 N 1 0 0 1 0 0 3
 Refer: 1973 8190 N 1 0 0 1 186 0 2
 Refer: 1369 837 N 1 0 0 1 529 0 2
-Validated: 1
 EndChar
 
 StartChar: uni1F82
@@ -139226,7 +139006,6 @@ Fore
 Refer: 299 945 N 1 0 0 1 0 0 3
 Refer: 1930 8141 N 1 0 0 1 232 0 2
 Refer: 1369 837 N 1 0 0 1 529 0 2
-Validated: 1
 EndChar
 
 StartChar: uni1F83
@@ -139239,7 +139018,6 @@ Fore
 Refer: 299 945 N 1 0 0 1 0 0 3
 Refer: 1943 8157 N 1 0 0 1 240 0 2
 Refer: 1369 837 N 1 0 0 1 529 0 2
-Validated: 1
 EndChar
 
 StartChar: uni1F84
@@ -139252,7 +139030,6 @@ Fore
 Refer: 299 945 N 1 0 0 1 0 0 3
 Refer: 1931 8142 N 1 0 0 1 265 0 2
 Refer: 1369 837 N 1 0 0 1 529 0 2
-Validated: 1
 EndChar
 
 StartChar: uni1F85
@@ -139265,7 +139042,6 @@ Fore
 Refer: 299 945 N 1 0 0 1 0 0 3
 Refer: 1944 8158 N 1 0 0 1 224 0 2
 Refer: 1369 837 N 1 0 0 1 529 0 2
-Validated: 1
 EndChar
 
 StartChar: uni1F86
@@ -139278,7 +139054,6 @@ Fore
 Refer: 299 945 N 1 0 0 1 0 0 3
 Refer: 1932 8143 N 1 0 0 1 230 0 2
 Refer: 1369 837 N 1 0 0 1 529 0 2
-Validated: 1
 EndChar
 
 StartChar: uni1F87
@@ -139291,7 +139066,6 @@ Fore
 Refer: 299 945 N 1 0 0 1 0 0 3
 Refer: 1945 8159 N 1 0 0 1 230 0 2
 Refer: 1369 837 N 1 0 0 1 529 0 2
-Validated: 1
 EndChar
 
 StartChar: uni1F88
@@ -139484,7 +139258,6 @@ Fore
 Refer: 533 951 N 1 0 0 1 0 0 3
 Refer: 1915 8125 N 1 0 0 1 250 0 2
 Refer: 1369 837 N 1 0 0 1 260 0 2
-Validated: 1
 EndChar
 
 StartChar: uni1F91
@@ -139497,7 +139270,6 @@ Fore
 Refer: 533 951 N 1 0 0 1 0 0 3
 Refer: 1973 8190 N 1 0 0 1 256 0 2
 Refer: 1369 837 N 1 0 0 1 260 0 2
-Validated: 1
 EndChar
 
 StartChar: uni1F92
@@ -139510,7 +139282,6 @@ Fore
 Refer: 533 951 N 1 0 0 1 0 0 3
 Refer: 1930 8141 N 1 0 0 1 255 0 2
 Refer: 1369 837 N 1 0 0 1 260 0 2
-Validated: 1
 EndChar
 
 StartChar: uni1F93
@@ -139523,7 +139294,6 @@ Fore
 Refer: 533 951 N 1 0 0 1 0 0 3
 Refer: 1943 8157 N 1 0 0 1 265 0 2
 Refer: 1369 837 N 1 0 0 1 260 0 2
-Validated: 1
 EndChar
 
 StartChar: uni1F94
@@ -139536,7 +139306,6 @@ Fore
 Refer: 533 951 N 1 0 0 1 0 0 3
 Refer: 1931 8142 N 1 0 0 1 290 0 2
 Refer: 1369 837 N 1 0 0 1 260 0 2
-Validated: 1
 EndChar
 
 StartChar: uni1F95
@@ -139549,7 +139318,6 @@ Fore
 Refer: 533 951 N 1 0 0 1 0 0 3
 Refer: 1944 8158 N 1 0 0 1 290 0 2
 Refer: 1369 837 N 1 0 0 1 260 0 2
-Validated: 1
 EndChar
 
 StartChar: uni1F96
@@ -139562,7 +139330,6 @@ Fore
 Refer: 533 951 N 1 0 0 1 0 0 3
 Refer: 1932 8143 N 1 0 0 1 250 0 2
 Refer: 1369 837 N 1 0 0 1 260 0 2
-Validated: 1
 EndChar
 
 StartChar: uni1F97
@@ -139575,7 +139342,6 @@ Fore
 Refer: 533 951 N 1 0 0 1 0 0 3
 Refer: 1945 8159 N 1 0 0 1 250 0 2
 Refer: 1369 837 N 1 0 0 1 260 0 2
-Validated: 1
 EndChar
 
 StartChar: uni1F98
@@ -139597,7 +139363,6 @@ Fore
 Refer: 43 72 N 1 0 0 1 200 0 2
 Refer: 1915 8125 N 1 0 0 1 -224 -82 2
 Refer: 1369 837 N 1 0 0 1 969 0 2
-Validated: 1
 EndChar
 
 StartChar: uni1F99
@@ -139619,7 +139384,6 @@ Fore
 Refer: 43 72 N 1 0 0 1 200 0 2
 Refer: 1973 8190 N 1 0 0 1 -208 -82 2
 Refer: 1369 837 N 1 0 0 1 969 0 2
-Validated: 1
 EndChar
 
 StartChar: uni1F9A
@@ -139643,7 +139407,6 @@ Fore
 Refer: 43 72 N 1 0 0 1 531 0 2
 Refer: 1930 8141 N 1 0 0 1 -49 -82 2
 Refer: 1369 837 N 1 0 0 1 1300 0 2
-Validated: 1
 EndChar
 
 StartChar: uni1F9B
@@ -139667,7 +139430,6 @@ Fore
 Refer: 43 72 N 1 0 0 1 531 0 2
 Refer: 1943 8157 N 1 0 0 1 -49 -82 2
 Refer: 1369 837 N 1 0 0 1 1300 0 2
-Validated: 1
 EndChar
 
 StartChar: uni1F9C
@@ -139691,7 +139453,6 @@ Fore
 Refer: 43 72 N 1 0 0 1 531 0 2
 Refer: 1931 8142 N 1 0 0 1 -49 -82 2
 Refer: 1369 837 N 1 0 0 1 1300 0 2
-Validated: 1
 EndChar
 
 StartChar: uni1F9D
@@ -139715,7 +139476,6 @@ Fore
 Refer: 43 72 N 1 0 0 1 531 0 2
 Refer: 1944 8158 N 1 0 0 1 -49 -82 2
 Refer: 1369 837 N 1 0 0 1 1300 0 2
-Validated: 1
 EndChar
 
 StartChar: uni1F9E
@@ -139739,7 +139499,6 @@ Fore
 Refer: 43 72 N 1 0 0 1 531 0 2
 Refer: 1932 8143 N 1 0 0 1 -3 -35 2
 Refer: 1369 837 N 1 0 0 1 1300 0 2
-Validated: 1
 EndChar
 
 StartChar: uni1F9F
@@ -139763,7 +139522,6 @@ Fore
 Refer: 43 72 N 1 0 0 1 531 0 2
 Refer: 1945 8159 N 1 0 0 1 -3 -35 2
 Refer: 1369 837 N 1 0 0 1 1300 0 2
-Validated: 1
 EndChar
 
 StartChar: uni1FA0
@@ -139776,7 +139534,6 @@ Fore
 Refer: 547 969 N 1 0 0 1 0 0 3
 Refer: 1915 8125 N 1 0 0 1 416 0 2
 Refer: 1369 837 N 1 0 0 1 750 0 2
-Validated: 1
 EndChar
 
 StartChar: uni1FA1
@@ -139789,7 +139546,6 @@ Fore
 Refer: 547 969 N 1 0 0 1 0 0 3
 Refer: 1973 8190 N 1 0 0 1 407 0 2
 Refer: 1369 837 N 1 0 0 1 750 0 2
-Validated: 1
 EndChar
 
 StartChar: uni1FA2
@@ -139802,7 +139558,6 @@ Fore
 Refer: 547 969 N 1 0 0 1 0 0 3
 Refer: 1930 8141 N 1 0 0 1 393 0 2
 Refer: 1369 837 N 1 0 0 1 750 0 2
-Validated: 1
 EndChar
 
 StartChar: uni1FA3
@@ -139815,7 +139570,6 @@ Fore
 Refer: 547 969 N 1 0 0 1 0 0 3
 Refer: 1943 8157 N 1 0 0 1 363 0 2
 Refer: 1369 837 N 1 0 0 1 750 0 2
-Validated: 1
 EndChar
 
 StartChar: uni1FA4
@@ -139828,7 +139582,6 @@ Fore
 Refer: 547 969 N 1 0 0 1 0 0 3
 Refer: 1931 8142 N 1 0 0 1 471 0 2
 Refer: 1369 837 N 1 0 0 1 750 0 2
-Validated: 1
 EndChar
 
 StartChar: uni1FA5
@@ -139841,7 +139594,6 @@ Fore
 Refer: 547 969 N 1 0 0 1 0 0 3
 Refer: 1944 8158 N 1 0 0 1 431 0 2
 Refer: 1369 837 N 1 0 0 1 750 0 2
-Validated: 1
 EndChar
 
 StartChar: uni1FA6
@@ -139854,7 +139606,6 @@ Fore
 Refer: 547 969 N 1 0 0 1 0 0 3
 Refer: 1932 8143 N 1 0 0 1 420 0 2
 Refer: 1369 837 N 1 0 0 1 750 0 2
-Validated: 1
 EndChar
 
 StartChar: uni1FA7
@@ -139867,7 +139618,6 @@ Fore
 Refer: 547 969 N 1 0 0 1 0 0 3
 Refer: 1945 8159 N 1 0 0 1 420 0 2
 Refer: 1369 837 N 1 0 0 1 750 0 2
-Validated: 1
 EndChar
 
 StartChar: uni1FA8
@@ -139889,7 +139639,6 @@ Fore
 Refer: 522 937 N 1 0 0 1 200 0 2
 Refer: 1915 8125 N 1 0 0 1 -261 -82 2
 Refer: 1369 837 N 1 0 0 1 946 0 2
-Validated: 1
 EndChar
 
 StartChar: uni1FA9
@@ -139911,7 +139660,6 @@ Fore
 Refer: 522 937 N 1 0 0 1 200 0 2
 Refer: 1973 8190 N 1 0 0 1 -268 -82 2
 Refer: 1369 837 N 1 0 0 1 946 0 2
-Validated: 1
 EndChar
 
 StartChar: uni1FAA
@@ -139935,7 +139683,6 @@ Fore
 Refer: 522 937 N 1 0 0 1 600 0 2
 Refer: 1930 8141 N 1 0 0 1 -59 -82 2
 Refer: 1369 837 N 1 0 0 1 1347 0 2
-Validated: 1
 EndChar
 
 StartChar: uni1FAB
@@ -139959,7 +139706,6 @@ Fore
 Refer: 522 937 N 1 0 0 1 600 0 2
 Refer: 1943 8157 N 1 0 0 1 -59 -82 2
 Refer: 1369 837 N 1 0 0 1 1347 0 2
-Validated: 1
 EndChar
 
 StartChar: uni1FAC
@@ -139983,7 +139729,6 @@ Fore
 Refer: 522 937 N 1 0 0 1 400 0 2
 Refer: 1931 8142 N 1 0 0 1 -99 -82 2
 Refer: 1369 837 N 1 0 0 1 1147 0 2
-Validated: 1
 EndChar
 
 StartChar: uni1FAD
@@ -140007,7 +139752,6 @@ Fore
 Refer: 522 937 N 1 0 0 1 400 0 2
 Refer: 1944 8158 N 1 0 0 1 -99 -82 2
 Refer: 1369 837 N 1 0 0 1 1147 0 2
-Validated: 1
 EndChar
 
 StartChar: uni1FAE
@@ -140031,7 +139775,6 @@ Fore
 Refer: 522 937 N 1 0 0 1 400 0 2
 Refer: 1932 8143 N 1 0 0 1 -33 -35 2
 Refer: 1369 837 N 1 0 0 1 1147 0 2
-Validated: 1
 EndChar
 
 StartChar: uni1FAF
@@ -140055,7 +139798,6 @@ Fore
 Refer: 522 937 N 1 0 0 1 400 0 2
 Refer: 1945 8159 N 1 0 0 1 -33 -35 2
 Refer: 1369 837 N 1 0 0 1 1147 0 2
-Validated: 1
 EndChar
 
 StartChar: uni1FB0
@@ -140112,7 +139854,6 @@ Fore
 Refer: 299 945 N 1 0 0 1 0 0 3
 Refer: 1961 8175 N 1 0 0 1 142 0 2
 Refer: 1369 837 N 1 0 0 1 529 0 2
-Validated: 1
 EndChar
 
 StartChar: uni1FB3
@@ -140124,7 +139865,6 @@ LayerCount: 2
 Fore
 Refer: 299 945 N 1 0 0 1 0 0 3
 Refer: 1369 837 N 1 0 0 1 529 0 2
-Validated: 1
 EndChar
 
 StartChar: uni1FB4
@@ -140137,7 +139877,6 @@ Fore
 Refer: 299 945 N 1 0 0 1 0 0 3
 Refer: 1972 8189 N 1 0 0 1 263 0 2
 Refer: 1369 837 N 1 0 0 1 529 0 2
-Validated: 1
 EndChar
 
 StartChar: uni1FB6
@@ -140172,7 +139911,6 @@ Fore
 Refer: 299 945 N 1 0 0 1 0 0 3
 Refer: 212 732 N 1 0 0 1 179 0 2
 Refer: 1369 837 N 1 0 0 1 529 0 2
-Validated: 1
 EndChar
 
 StartChar: uni1FB8
@@ -140660,7 +140398,6 @@ Fore
 Refer: 533 951 N 1 0 0 1 0 0 3
 Refer: 1369 837 N 1 0 0 1 260 0 2
 Refer: 1961 8175 N 1 0 0 1 195 0 2
-Validated: 1
 EndChar
 
 StartChar: uni1FC3
@@ -140672,7 +140409,6 @@ LayerCount: 2
 Fore
 Refer: 533 951 N 1 0 0 1 0 0 3
 Refer: 1369 837 N 1 0 0 1 260 0 2
-Validated: 1
 EndChar
 
 StartChar: uni1FC4
@@ -140685,7 +140421,6 @@ Fore
 Refer: 533 951 N 1 0 0 1 0 0 3
 Refer: 1369 837 N 1 0 0 1 260 0 2
 Refer: 1972 8189 N 1 0 0 1 325 0 2
-Validated: 1
 EndChar
 
 StartChar: uni1FC6
@@ -140720,7 +140455,6 @@ Fore
 Refer: 533 951 N 1 0 0 1 0 0 3
 Refer: 212 732 N 1 0 0 1 282 0 2
 Refer: 1369 837 N 1 0 0 1 260 0 2
-Validated: 1
 EndChar
 
 StartChar: uni1FC8
@@ -140781,7 +140515,6 @@ LayerCount: 2
 Fore
 Refer: 43 72 N 1 0 0 1 300 0 2
 Refer: 1961 8175 N 1 0 0 1 -181 -102 2
-Validated: 1
 EndChar
 
 StartChar: uni1FCB
@@ -140802,7 +140535,6 @@ LayerCount: 2
 Fore
 Refer: 43 72 N 1 0 0 1 300 0 2
 Refer: 1972 8189 N 1 0 0 1 -181 -102 2
-Validated: 1
 EndChar
 
 StartChar: uni1FCC
@@ -140814,7 +140546,6 @@ LayerCount: 2
 Fore
 Refer: 43 72 N 1 0 0 1 0 0 3
 Refer: 1369 837 N 1 0 0 1 779 0 2
-Validated: 1
 EndChar
 
 StartChar: uni1FCD
@@ -141881,7 +141612,6 @@ LayerCount: 2
 Fore
 Refer: 60 89 N 1 0 0 1 0 0 3
 Refer: 214 728 N 1 0 0 1 390 334 2
-Validated: 1
 EndChar
 
 StartChar: uni1FE9
@@ -141903,7 +141633,6 @@ LayerCount: 2
 Fore
 Refer: 60 89 N 1 0 0 1 0 0 3
 Refer: 213 713 N 1 0 0 1 400 334 2
-Validated: 1
 EndChar
 
 StartChar: uni1FEA
@@ -141924,7 +141653,6 @@ LayerCount: 2
 Fore
 Refer: 60 89 N 1 0 0 1 200 0 2
 Refer: 1961 8175 N 1 0 0 1 -376 -102 2
-Validated: 1
 EndChar
 
 StartChar: uni1FEB
@@ -141945,7 +141673,6 @@ LayerCount: 2
 Fore
 Refer: 60 89 N 1 0 0 1 200 0 2
 Refer: 1972 8189 N 1 0 0 1 -403 -102 2
-Validated: 1
 EndChar
 
 StartChar: uni1FEC
@@ -141966,7 +141693,6 @@ LayerCount: 2
 Fore
 Refer: 51 80 N 1 0 0 1 200 0 2
 Refer: 1973 8190 N 1 0 0 1 -208 -82 2
-Validated: 1
 EndChar
 
 StartChar: uni1FED
@@ -142251,7 +141977,6 @@ Fore
 Refer: 547 969 N 1 0 0 1 0 0 3
 Refer: 1369 837 N 1 0 0 1 750 0 2
 Refer: 1961 8175 N 1 0 0 1 333 0 2
-Validated: 1
 EndChar
 
 StartChar: uni1FF3
@@ -142263,7 +141988,6 @@ LayerCount: 2
 Fore
 Refer: 547 969 N 1 0 0 1 0 0 3
 Refer: 1369 837 N 1 0 0 1 750 0 2
-Validated: 1
 EndChar
 
 StartChar: uni1FF4
@@ -142276,7 +142000,6 @@ Fore
 Refer: 547 969 N 1 0 0 1 0 0 3
 Refer: 1369 837 N 1 0 0 1 750 0 2
 Refer: 1972 8189 N 1 0 0 1 480 0 2
-Validated: 1
 EndChar
 
 StartChar: uni1FF6
@@ -142311,7 +142034,6 @@ Fore
 Refer: 547 969 N 1 0 0 1 0 0 3
 Refer: 212 732 N 1 0 0 1 410 0 2
 Refer: 1369 837 N 1 0 0 1 750 0 2
-Validated: 1
 EndChar
 
 StartChar: uni1FF8
@@ -142405,7 +142127,6 @@ LayerCount: 2
 Fore
 Refer: 522 937 N 1 0 0 1 0 0 3
 Refer: 1369 837 N 1 0 0 1 749 0 2
-Validated: 1
 EndChar
 
 StartChar: uni1FFD
@@ -143606,7 +143327,6 @@ LayerCount: 2
 Fore
 Refer: 53 82 N 1 0 0 1 50 0 2
 Refer: 86 115 N 1 0 0 1 1447 0 2
-Validated: 1
 EndChar
 
 StartChar: uni20A9
@@ -147493,7 +147213,7 @@ EndChar
 StartChar: uni0350
 Encoding: 848 848 2017
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 TtInstrs:
 NPUSHB
@@ -147523,6 +147243,7 @@ SHP[rp1]
 IUP[x]
 IUP[y]
 EndTTInstrs
+AnchorPoint: "top" 64 903 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -147537,13 +147258,12 @@ SplineSet
  274 1151 l 1,8,-1
  32 1023 l 1,0,-1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uni0351
 Encoding: 849 849 2018
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 TtInstrs:
 NPUSHB
@@ -147571,6 +147291,7 @@ SHP[rp1]
 IUP[x]
 IUP[y]
 EndTTInstrs
+AnchorPoint: "top" 102 916 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -147586,13 +147307,12 @@ SplineSet
  81 1356 81 1356 45 1320 c 128,-1,13
  9 1284 9 1284 9 1233 c 0,0,1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uni0352
 Encoding: 850 850 2019
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 TtInstrs:
 NPUSHB
@@ -147660,6 +147380,7 @@ SHP[rp1]
 IUP[x]
 IUP[y]
 EndTTInstrs
+AnchorPoint: "top" 158 1009 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -147685,13 +147406,12 @@ SplineSet
  96 1120 96 1120 50.5 1164 c 128,-1,27
  5 1208 5 1208 5 1273 c 0,16,17
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uni0353
 Encoding: 851 851 2020
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 TtInstrs:
 NPUSHB
@@ -147737,6 +147457,7 @@ SHP[rp1]
 IUP[x]
 IUP[y]
 EndTTInstrs
+AnchorPoint: "bottom" -128 94 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -147754,13 +147475,12 @@ SplineSet
  -50 -223 l 1,11,-1
  100 -372 l 1,0,-1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uni0354
 Encoding: 852 852 2021
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 TtInstrs:
 NPUSHB
@@ -147790,6 +147510,7 @@ SHP[rp1]
 IUP[x]
 IUP[y]
 EndTTInstrs
+AnchorPoint: "bottom" -57 84 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -147804,13 +147525,12 @@ SplineSet
  -9 -380 l 1,8,-1
  -9 -442 l 1,0,-1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uni0355
 Encoding: 853 853 2022
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 TtInstrs:
 NPUSHB
@@ -147840,6 +147560,7 @@ SHP[rp1]
 IUP[x]
 IUP[y]
 EndTTInstrs
+AnchorPoint: "bottom" -233 85 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -147854,13 +147575,12 @@ SplineSet
  -282 -442 l 1,8,-1
  -282 -380 l 1,0,-1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uni0356
 Encoding: 854 854 2023
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 TtInstrs:
 NPUSHB
@@ -147950,7 +147670,7 @@ EndChar
 StartChar: uni0357
 Encoding: 855 855 2024
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 TtInstrs:
 NPUSHB
@@ -147978,6 +147698,7 @@ SHP[rp1]
 IUP[x]
 IUP[y]
 EndTTInstrs
+AnchorPoint: "top" -6 916 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -147993,13 +147714,12 @@ SplineSet
  37 1110 37 1110 74.5 1145 c 128,-1,13
  112 1180 112 1180 112 1233 c 0,0,1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uni035D
 Encoding: 861 861 2025
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 TtInstrs:
 NPUSHB
@@ -148050,6 +147770,7 @@ SHP[rp1]
 IUP[x]
 IUP[y]
 EndTTInstrs
+AnchorPoint: "top" 26 1006 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -148067,13 +147788,12 @@ SplineSet
  1107 1204 1107 1204 960 1161.5 c 128,-1,15
  813 1119 813 1119 620 1119 c 256,0,1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uni035E
 Encoding: 862 862 2026
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 TtInstrs:
 PUSHB_5
@@ -148092,6 +147812,7 @@ SHP[rp2]
 IUP[x]
 IUP[y]
 EndTTInstrs
+AnchorPoint: "top" -53 1078 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -148101,13 +147822,12 @@ SplineSet
  1194 1192 l 1,3,-1
  -53 1192 l 1,0,-1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uni035F
 Encoding: 863 863 2027
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 TtInstrs:
 PUSHB_5
@@ -148126,6 +147846,7 @@ SHP[rp2]
 IUP[x]
 IUP[y]
 EndTTInstrs
+AnchorPoint: "bottom" -55 -42 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -148135,7 +147856,6 @@ SplineSet
  1194 -288 l 1,3,-1
  -53 -288 l 1,0,-1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uni03F7
@@ -159218,7 +158938,6 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 38 67 N 1 0 0 1 0 0 3
-Validated: 1
 EndChar
 
 StartChar: uni03FA
@@ -160998,7 +160717,7 @@ EndChar
 StartChar: uni0358
 Encoding: 856 856 2164
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 TtInstrs:
 PUSHB_2
@@ -161015,6 +160734,7 @@ CALL
 IUP[x]
 IUP[y]
 EndTTInstrs
+AnchorPoint: "top-right" 344 1065 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -161028,13 +160748,12 @@ SplineSet
  386 1394 386 1394 418 1362 c 128,-1,11
  450 1330 450 1330 450 1285 c 0,0,1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uni0359
 Encoding: 857 857 2165
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 TtInstrs:
 NPUSHB
@@ -161093,6 +160812,7 @@ SHP[rp1]
 IUP[x]
 IUP[y]
 EndTTInstrs
+AnchorPoint: "bottom" -114 40 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -161116,13 +160836,12 @@ SplineSet
  55 -398 l 1,17,-1
  -89 -284 l 1,0,-1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uni035A
 Encoding: 858 858 2166
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 TtInstrs:
 NPUSHB
@@ -161159,6 +160878,7 @@ SHP[rp1]
 IUP[x]
 IUP[y]
 EndTTInstrs
+AnchorPoint: "bottom" -102 79 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -161198,13 +160918,12 @@ SplineSet
  12 -119 12 -119 -21 -152 c 128,-1,47
  -54 -185 -54 -185 -54 -230 c 256,36,37
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uni035B
 Encoding: 859 859 2167
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 TtInstrs:
 PUSHB_5
@@ -161222,6 +160941,7 @@ SHP[rp1]
 IUP[x]
 IUP[y]
 EndTTInstrs
+AnchorPoint: "top" 117 983 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -161235,13 +160955,12 @@ SplineSet
  282 1103 l 1,7,-1
  132 1103 l 1,0,-1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uni035C
 Encoding: 860 860 2168
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 TtInstrs:
 NPUSHB
@@ -161265,6 +160984,7 @@ CALL
 IUP[x]
 IUP[y]
 EndTTInstrs
+AnchorPoint: "bottom" -1 28 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -161282,7 +161002,6 @@ SplineSet
  1107 -308 1107 -308 960 -350.5 c 128,-1,15
  813 -393 813 -393 620 -393 c 256,0,1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uni03FC
@@ -176809,7 +176528,6 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 79 108 N 1 0 0 1 0 0 3
-Validated: 1
 EndChar
 
 StartChar: uni04FA
@@ -179362,7 +179080,6 @@ LayerCount: 2
 Fore
 Refer: 47 76 N 1 0 0 1 0 0 3
 Refer: 212 732 N 1 0 0 1 -42 -602 2
-Validated: 5
 EndChar
 
 StartChar: uni2C63
@@ -183064,7 +182781,6 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 52 81 N 1 0 0 1 0 0 3
-Validated: 1
 EndChar
 
 StartChar: uni051B
@@ -183075,7 +182791,6 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 84 113 N 1 0 0 1 0 0 3
-Validated: 1
 EndChar
 
 StartChar: uni051C
@@ -183086,7 +182801,6 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 58 87 N 1 0 0 1 0 0 3
-Validated: 1
 EndChar
 
 StartChar: uni051D
@@ -183097,7 +182811,6 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 90 119 N 1 0 0 1 0 0 3
-Validated: 1
 EndChar
 
 StartChar: uni1E9E
