@@ -27,7 +27,7 @@ endif
 EXPORTSCRIPT = scripts/fontexport.pe
 FONTTOOLSCRIPT = scripts/setisFixedPitch-fonttools.py
 SCRIPTS      = $(EXPORTSCRIPT) scripts/sfd2ttf.pe scripts/ttf2sfd.pe
-MISCFILES    = AUTHORS ChangeLog LICENSE README TODO
+MISCFILES    = AUTHORS ChangeLog LICENSE README.md TODO
 SRCDIR       = src
 EXPORTDIR    = export
 CHECK_PREFIX = check
