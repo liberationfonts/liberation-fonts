@@ -20,7 +20,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1277886966
-ModificationTime: 1607889596
+ModificationTime: 1607892897
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -4114,18 +4114,17 @@ EndShort
 LangName: 1033 "" "" "" "Ascender - Liberation Mono" "" "Version 2.1.2" "" "Liberation is a trademark of Red Hat, Inc. registered in U.S. Patent and Trademark Office and certain other jurisdictions." "Ascender Corporation" "Steve Matteson" "Based on Cousine, which was designed by Steve Matteson as an innovative, refreshing sans serif design that is metrically compatible with Courier New+ISIA. Cousine offers improved on-screen readability characteristics and the pan-European WGL character set and solves the needs of developers looking for width-compatible fonts to address document portability across platforms." "http://www.ascendercorp.com/" "http://www.ascendercorp.com/typedesigners.html" "Licensed under the SIL Open Font License, Version 1.1" "http://scripts.sil.org/OFL"
 GaspTable: 3 8 2 17 1 65535 3 0
 Encoding: UnicodeBmp
-Compacted: 1
 UnicodeInterp: none
 NameList: Adobe Glyph List
 DisplaySize: -36
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 1632 51 16
+WinInfo: 8568 51 16
 BeginPrivate: 0
 EndPrivate
 TeXData: 1 0 -562637 629248 314624 209749 553984 -1048576 209749 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
 AnchorClass2: "bottom-right" "'mark' Mark Positioning lookup 22-1" "top-right" "'mark' Mark Positioning lookup 22-1" "bottom" "'mark' Mark Positioning lookup 22-1" "top" "'mark' Mark Positioning lookup 22-1" "Anchor-0" "'mark' Mark Positioning in Hebrew lookup 0 subtable" "Anchor-1" "'mark' Mark Positioning in Hebrew lookup 1 subtable" "Anchor-2" "'mark' Mark Positioning in Hebrew lookup 2 subtable" "Anchor-3" "'mark' Mark Positioning in Hebrew lookup 3 subtable" "Anchor-4" "'mark' Mark Positioning in Hebrew lookup 3 subtable" "Anchor-5" "'mark' Mark Positioning in Hebrew lookup 4 subtable" "Anchor-6" "'mark' Mark Positioning in Hebrew lookup 4 subtable" "Anchor-7" "'mark' Mark Positioning in Hebrew lookup 9 subtable" "Anchor-8" "'mark' Mark Positioning in Hebrew lookup 10 subtable" "Anchor-9" "'mark' Mark Positioning in Hebrew lookup 11 subtable" "Anchor-10" "Mark to base attachment lookup 15 subtable" "Anchor-11" "Mark to base attachment lookup 16 subtable" "Anchor-12" "Mark to base attachment lookup 17 subtable" "Anchor-13" "Mark to base attachment lookup 18 subtable"
-BeginChars: 65656 2408
+BeginChars: 65656 2409
 
 StartChar: .notdef
 Encoding: 65536 -1 0
@@ -125923,6 +125922,41 @@ SplineSet
 398.87109375 1013.58007812 m 1029,11,12
 399 141.423828125 m 1029,13,14
 616.5 196.5 m 1028,15,-1
+EndSplineSet
+EndChar
+
+StartChar: arrowdblboth
+Encoding: 8660 8660 2408
+Width: 1229
+Flags: WO
+HStem: 170 174<244 281 947 974> 277 67<281 947> 491 159<242 282 939 974> 491 67<282 939>
+LayerCount: 2
+Fore
+SplineSet
+242 491 m 5,0,-1
+ 192 421 l 5,1,-1
+ 244 344 l 5,2,-1
+ 974 344 l 5,3,-1
+ 1034 415 l 5,4,-1
+ 974 491 l 5,5,-1
+ 242 491 l 5,0,-1
+281 277 m 5,6,7
+ 316 224 316 224 350 170 c 5,8,-1
+ 278 170 l 5,9,10
+ 151 319 151 319 8 392 c 5,11,-1
+ 8 428 l 5,12,13
+ 151 501 151 501 278 650 c 5,14,-1
+ 350 650 l 5,15,-1
+ 282 558 l 5,16,-1
+ 939 558 l 5,17,-1
+ 878 650 l 5,18,-1
+ 950 650 l 5,19,20
+ 1077 501 1077 501 1220 428 c 5,21,-1
+ 1220 392 l 5,22,23
+ 1077 319 1077 319 950 170 c 5,24,-1
+ 878 170 l 5,25,26
+ 912 224 912 224 947 277 c 5,27,-1
+ 281 277 l 5,6,7
 EndSplineSet
 EndChar
 EndChars

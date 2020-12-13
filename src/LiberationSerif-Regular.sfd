@@ -20,7 +20,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1277108302
-ModificationTime: 1590988680
+ModificationTime: 1607894720
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -3530,7 +3530,7 @@ NameList: Adobe Glyph List
 DisplaySize: -36
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 102 51 17
+WinInfo: 8568 51 16
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -3539,7 +3539,7 @@ Grid
 EndSplineSet
 TeXData: 1 0 0 262144 131072 87381 481280 -1048576 87381 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
 AnchorClass2: "bottom-right" "'mark' Mark Positioning lookup 25-1" "top-right" "'mark' Mark Positioning lookup 25-1" "top" "'mark' Mark Positioning lookup 25-1" "bottom" "'mark' Mark Positioning lookup 25-1" "Anchor-0" "'mark' Mark Positioning in Hebrew lookup 0 subtable" "Anchor-1" "'mark' Mark Positioning in Hebrew lookup 2 subtable" "Anchor-2" "'mark' Mark Positioning in Hebrew lookup 3 subtable" "Anchor-3" "'mark' Mark Positioning in Hebrew lookup 4 subtable" "Anchor-4" "'mark' Mark Positioning in Hebrew lookup 4 subtable" "Anchor-5" "'mark' Mark Positioning in Hebrew lookup 5 subtable" "Anchor-6" "'mark' Mark Positioning in Hebrew lookup 5 subtable" "Anchor-7" "'mark' Mark Positioning in Hebrew lookup 10 subtable" "Anchor-8" "'mark' Mark Positioning in Hebrew lookup 11 subtable" "Anchor-9" "'mark' Mark Positioning in Hebrew lookup 12 subtable" "Anchor-10" "Mark to base attachment lookup 18 subtable" "Anchor-11" "Mark to base attachment lookup 19 subtable" "Anchor-12" "Mark to base attachment lookup 20 subtable" "Anchor-13" "Mark to base attachment lookup 21 subtable"
-BeginChars: 65816 2588
+BeginChars: 65816 2589
 
 StartChar: .notdef
 Encoding: 65536 -1 0
@@ -212623,6 +212623,41 @@ SplineSet
  726 256 726 256 618.5 196.5 c 4,7,8
  511.471679688 137.260742188 511.471679688 137.260742188 398 137.000976562 c 13,9,10
  398 1017.99902344 l 21,0,1
+EndSplineSet
+EndChar
+
+StartChar: arrowdblboth
+Encoding: 8660 8660 2588
+Width: 2048
+Flags: WO
+HStem: 230 167<647.922 691 1357 1400.08> 337 60<691 1357> 532 71<671 1367>
+LayerCount: 2
+Fore
+SplineSet
+558 466 m 5,0,-1
+ 638 397 l 5,1,-1
+ 1406 401 l 5,2,-1
+ 1477 465 l 5,3,-1
+ 1416 532 l 5,4,-1
+ 626 532 l 5,5,-1
+ 558 466 l 5,0,-1
+691 337 m 5,6,7
+ 726 284 726 284 760 230 c 5,8,-1
+ 688 230 l 5,9,10
+ 561 379 561 379 418 452 c 5,11,-1
+ 418 488 l 5,12,13
+ 561 561 561 561 688 710 c 5,14,-1
+ 760 710 l 5,15,16
+ 716 656 716 656 671 603 c 5,17,-1
+ 1367 603 l 5,18,19
+ 1328 656 1328 656 1288 710 c 5,20,-1
+ 1360 710 l 5,21,22
+ 1487 561 1487 561 1630 488 c 5,23,-1
+ 1630 452 l 5,24,25
+ 1487 379 1487 379 1360 230 c 5,26,-1
+ 1288 230 l 5,27,28
+ 1322 284 1322 284 1357 337 c 5,29,-1
+ 691 337 l 5,6,7
 EndSplineSet
 EndChar
 EndChars
