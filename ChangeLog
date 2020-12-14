@@ -1,3 +1,9 @@
+* Mon Dec 14 2020 Vishal Vijayraghavan <vishalvijayraghavan@gmail.com>
+- Releasing liberation-fonts 2.1.2 version
+- Resolves #25: liberation-fonts doesn't have proper <==> symbol
+- Resolves #33: Liberation Mono: U+20BF is too wide
+- Resolves #14: Liberation mono fonts are not recognized as monospace by fontconfig and cairo
+
 * Mon Jun 1 2020 Vishal Vijayraghavan <vishalvijayraghavan@gmail.com>
 - Releasing liberation-fonts 2.1.1 version
 - Few more updates to Bugzilla #1072095: 	Liberation Sans renders most Latin combining characters incorrectly
