@@ -4,7 +4,7 @@ FullName: Liberation Serif Bold
 FamilyName: Liberation Serif
 Weight: Bold
 Copyright: Digitized data copyright (c) 2010 Google Corporation.\nCopyright (c) 2012 Red Hat, Inc.
-Version: 2.1.1
+Version: 2.1.2
 ItalicAngle: 0
 UnderlinePosition: -126
 UnderlineWidth: 195
@@ -20,7 +20,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1123398000
-ModificationTime: 1590950514
+ModificationTime: 1608522306
 PfmFamily: 17
 TTFWeight: 700
 TTFWidth: 5
@@ -3474,7 +3474,7 @@ ShortTable: maxp 16
   3
   1
 EndShort
-LangName: 1033 "" "" "" "Ascender - Liberation Serif" "" "Version 2.1.1" "" "Liberation is a trademark of Red Hat, Inc. registered in U.S. Patent and Trademark Office and certain other jurisdictions." "Ascender Corporation" "Steve Matteson" "Based on Tinos, which was designed by Steve Matteson as an innovative, refreshing serif design that is metrically compatible with Times New Roman+ISIA. Tinos offers improved on-screen readability characteristics and the pan-European WGL character set and solves the needs of developers looking for width-compatible fonts to address document portability across platforms." "http://www.ascendercorp.com/" "http://www.ascendercorp.com/typedesigners.html" "Licensed under the SIL Open Font License, Version 1.1" "http://scripts.sil.org/OFL"
+LangName: 1033 "" "" "" "Ascender - Liberation Serif" "" "Version 2.1.2" "" "Liberation is a trademark of Red Hat, Inc. registered in U.S. Patent and Trademark Office and certain other jurisdictions." "Ascender Corporation" "Steve Matteson" "Based on Tinos, which was designed by Steve Matteson as an innovative, refreshing serif design that is metrically compatible with Times New Roman+ISIA. Tinos offers improved on-screen readability characteristics and the pan-European WGL character set and solves the needs of developers looking for width-compatible fonts to address document portability across platforms." "http://www.ascendercorp.com/" "http://www.ascendercorp.com/typedesigners.html" "Licensed under the SIL Open Font License, Version 1.1" "http://scripts.sil.org/OFL"
 GaspTable: 3 8 2 13 1 65535 3 0
 Encoding: UnicodeBmp
 Compacted: 1
@@ -3483,7 +3483,7 @@ NameList: Adobe Glyph List
 DisplaySize: -36
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 0 51 17
+WinInfo: 0 51 16
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -3498,7 +3498,7 @@ Grid
  -139 -326.833333333 -154 -290.333333333 -154 -247 c 256
 EndSplineSet
 AnchorClass2: "bottom-right" "'mark' Mark Positioning lookup 25-1" "top-right" "'mark' Mark Positioning lookup 25-1" "top" "'mark' Mark Positioning lookup 25-1" "bottom" "'mark' Mark Positioning lookup 25-1" "Anchor-0" "'mark' Mark Positioning in Hebrew lookup 0 subtable" "Anchor-1" "'mark' Mark Positioning in Hebrew lookup 2 subtable" "Anchor-2" "'mark' Mark Positioning in Hebrew lookup 3 subtable" "Anchor-3" "'mark' Mark Positioning in Hebrew lookup 4 subtable" "Anchor-4" "'mark' Mark Positioning in Hebrew lookup 4 subtable" "Anchor-5" "'mark' Mark Positioning in Hebrew lookup 5 subtable" "Anchor-6" "'mark' Mark Positioning in Hebrew lookup 5 subtable" "Anchor-7" "'mark' Mark Positioning in Hebrew lookup 10 subtable" "Anchor-8" "'mark' Mark Positioning in Hebrew lookup 11 subtable" "Anchor-9" "'mark' Mark Positioning in Hebrew lookup 12 subtable" "Anchor-10" "Mark to base attachment lookup 18 subtable" "Anchor-11" "Mark to base attachment lookup 19 subtable" "Anchor-12" "Mark to base attachment lookup 20 subtable" "Anchor-13" "Mark to base attachment lookup 21 subtable"
-BeginChars: 65816 2588
+BeginChars: 65816 2589
 
 StartChar: .notdef
 Encoding: 65536 -1 0
@@ -71370,7 +71370,7 @@ StartChar: Adotbelow
 Encoding: 7840 7840 732
 Width: 1479
 GlyphClass: 2
-Flags: HW
+Flags: W
 LayerCount: 2
 Fore
 Refer: 36 65 N 1 0 0 1 0 0 3
@@ -71381,7 +71381,7 @@ StartChar: adotbelow
 Encoding: 7841 7841 733
 Width: 1024
 GlyphClass: 2
-Flags: HW
+Flags: W
 LayerCount: 2
 Fore
 Refer: 68 97 N 1 0 0 1 0 0 3
@@ -71560,7 +71560,7 @@ StartChar: Acircumflexdotbelow
 Encoding: 7852 7852 744
 Width: 1479
 GlyphClass: 2
-Flags: HW
+Flags: W
 LayerCount: 2
 Fore
 Refer: 36 65 N 1 0 0 1 0 0 3
@@ -71572,7 +71572,7 @@ StartChar: acircumflexdotbelow
 Encoding: 7853 7853 745
 Width: 1024
 GlyphClass: 2
-Flags: HW
+Flags: W
 LayerCount: 2
 Fore
 Refer: 68 97 N 1 0 0 1 0 0 3
@@ -71720,7 +71720,7 @@ StartChar: Abrevedotbelow
 Encoding: 7862 7862 754
 Width: 1479
 GlyphClass: 2
-Flags: HW
+Flags: W
 LayerCount: 2
 Fore
 Refer: 36 65 N 1 0 0 1 0 0 3
@@ -71732,7 +71732,7 @@ StartChar: abrevedotbelow
 Encoding: 7863 7863 755
 Width: 1024
 GlyphClass: 2
-Flags: HW
+Flags: W
 LayerCount: 2
 Fore
 Refer: 68 97 N 1 0 0 1 0 0 3
@@ -71744,7 +71744,7 @@ StartChar: Edotbelow
 Encoding: 7864 7864 756
 Width: 1366
 GlyphClass: 2
-Flags: HW
+Flags: W
 LayerCount: 2
 Fore
 Refer: 40 69 N 1 0 0 1 0 0 3
@@ -71755,7 +71755,7 @@ StartChar: edotbelow
 Encoding: 7865 7865 757
 Width: 909
 GlyphClass: 2
-Flags: HW
+Flags: W
 LayerCount: 2
 Fore
 Refer: 72 101 N 1 0 0 1 0 0 3
@@ -71966,7 +71966,7 @@ StartChar: Ecircumflexdotbelow
 Encoding: 7878 7878 770
 Width: 1366
 GlyphClass: 2
-Flags: HW
+Flags: W
 LayerCount: 2
 Fore
 Refer: 40 69 N 1 0 0 1 0 0 3
@@ -71978,7 +71978,7 @@ StartChar: ecircumflexdotbelow
 Encoding: 7879 7879 771
 Width: 909
 GlyphClass: 2
-Flags: HW
+Flags: W
 LayerCount: 2
 Fore
 Refer: 72 101 N 1 0 0 1 0 0 3
@@ -72023,7 +72023,7 @@ StartChar: Idotbelow
 Encoding: 7882 7882 774
 Width: 797
 GlyphClass: 2
-Flags: HW
+Flags: W
 LayerCount: 2
 Fore
 Refer: 44 73 N 1 0 0 1 0 0 3
@@ -72034,7 +72034,7 @@ StartChar: idotbelow
 Encoding: 7883 7883 775
 Width: 569
 GlyphClass: 2
-Flags: HW
+Flags: W
 LayerCount: 2
 Fore
 Refer: 76 105 N 1 0 0 1 0 0 3
@@ -72045,7 +72045,7 @@ StartChar: Odotbelow
 Encoding: 7884 7884 776
 Width: 1593
 GlyphClass: 2
-Flags: HW
+Flags: W
 LayerCount: 2
 Fore
 Refer: 50 79 N 1 0 0 1 0 0 3
@@ -72056,7 +72056,7 @@ StartChar: odotbelow
 Encoding: 7885 7885 777
 Width: 1024
 GlyphClass: 2
-Flags: HW
+Flags: W
 LayerCount: 2
 Fore
 Refer: 82 111 N 1 0 0 1 0 0 3
@@ -72235,7 +72235,7 @@ StartChar: Ocircumflexdotbelow
 Encoding: 7896 7896 788
 Width: 1593
 GlyphClass: 2
-Flags: HW
+Flags: W
 LayerCount: 2
 Fore
 Refer: 50 79 N 1 0 0 1 0 0 3
@@ -72247,7 +72247,7 @@ StartChar: ocircumflexdotbelow
 Encoding: 7897 7897 789
 Width: 1024
 GlyphClass: 2
-Flags: HW
+Flags: W
 LayerCount: 2
 Fore
 Refer: 82 111 N 1 0 0 1 0 0 3
@@ -72395,7 +72395,7 @@ StartChar: Ohorndotbelow
 Encoding: 7906 7906 798
 Width: 1593
 GlyphClass: 2
-Flags: HW
+Flags: W
 LayerCount: 2
 Fore
 Refer: 674 416 N 1 0 0 1 0 0 3
@@ -72406,7 +72406,7 @@ StartChar: ohorndotbelow
 Encoding: 7907 7907 799
 Width: 1134
 GlyphClass: 2
-Flags: HW
+Flags: W
 LayerCount: 2
 Fore
 Refer: 675 417 N 1 0 0 1 0 0 3
@@ -72417,7 +72417,7 @@ StartChar: Udotbelow
 Encoding: 7908 7908 800
 Width: 1479
 GlyphClass: 2
-Flags: HW
+Flags: W
 LayerCount: 2
 Fore
 Refer: 56 85 N 1 0 0 1 0 0 3
@@ -72428,7 +72428,7 @@ StartChar: udotbelow
 Encoding: 7909 7909 801
 Width: 1139
 GlyphClass: 2
-Flags: HW
+Flags: W
 LayerCount: 2
 Fore
 Refer: 88 117 N 1 0 0 1 0 0 3
@@ -72607,7 +72607,7 @@ StartChar: Uhorndotbelow
 Encoding: 7920 7920 812
 Width: 1630
 GlyphClass: 2
-Flags: HW
+Flags: W
 LayerCount: 2
 Fore
 Refer: 676 431 N 1 0 0 1 0 0 3
@@ -72618,7 +72618,7 @@ StartChar: uhorndotbelow
 Encoding: 7921 7921 813
 Width: 1229
 GlyphClass: 2
-Flags: HW
+Flags: W
 LayerCount: 2
 Fore
 Refer: 677 432 N 1 0 0 1 0 0 3
@@ -72629,7 +72629,7 @@ StartChar: Ydotbelow
 Encoding: 7924 7924 814
 Width: 1479
 GlyphClass: 2
-Flags: HW
+Flags: W
 LayerCount: 2
 Fore
 Refer: 60 89 N 1 0 0 1 0 0 3
@@ -72640,7 +72640,7 @@ StartChar: ydotbelow
 Encoding: 7925 7925 815
 Width: 1024
 GlyphClass: 2
-Flags: HW
+Flags: W
 LayerCount: 2
 Fore
 Refer: 92 121 N 1 0 0 1 0 0 3
@@ -134981,7 +134981,7 @@ StartChar: uni1E04
 Encoding: 7684 7684 1594
 Width: 1366
 GlyphClass: 2
-Flags: HW
+Flags: W
 LayerCount: 2
 Fore
 Refer: 37 66 N 1 0 0 1 0 0 3
@@ -134992,7 +134992,7 @@ StartChar: uni1E05
 Encoding: 7685 7685 1595
 Width: 1139
 GlyphClass: 2
-Flags: HW
+Flags: W
 LayerCount: 2
 Fore
 Refer: 69 98 N 1 0 0 1 0 0 3
@@ -135141,7 +135141,7 @@ StartChar: uni1E0C
 Encoding: 7692 7692 1602
 Width: 1479
 GlyphClass: 2
-Flags: HW
+Flags: W
 LayerCount: 2
 Fore
 Refer: 39 68 N 1 0 0 1 0 0 3
@@ -135152,7 +135152,7 @@ StartChar: uni1E0D
 Encoding: 7693 7693 1603
 Width: 1139
 GlyphClass: 2
-Flags: HW
+Flags: W
 LayerCount: 2
 Fore
 Refer: 71 100 N 1 0 0 1 0 0 3
@@ -135788,7 +135788,7 @@ StartChar: uni1E24
 Encoding: 7716 7716 1626
 Width: 1593
 GlyphClass: 2
-Flags: HW
+Flags: W
 LayerCount: 2
 Fore
 Refer: 43 72 N 1 0 0 1 0 0 3
@@ -135799,7 +135799,7 @@ StartChar: uni1E25
 Encoding: 7717 7717 1627
 Width: 1139
 GlyphClass: 2
-Flags: HW
+Flags: W
 LayerCount: 2
 Fore
 Refer: 75 104 N 1 0 0 1 0 0 3
@@ -136165,7 +136165,7 @@ StartChar: uni1E32
 Encoding: 7730 7730 1640
 Width: 1593
 GlyphClass: 2
-Flags: HW
+Flags: W
 LayerCount: 2
 Fore
 Refer: 46 75 N 1 0 0 1 0 0 3
@@ -136176,7 +136176,7 @@ StartChar: uni1E33
 Encoding: 7731 7731 1641
 Width: 1139
 GlyphClass: 2
-Flags: HW
+Flags: W
 LayerCount: 2
 Fore
 Refer: 78 107 N 1 0 0 1 0 0 3
@@ -136236,7 +136236,7 @@ StartChar: uni1E36
 Encoding: 7734 7734 1644
 Width: 1366
 GlyphClass: 2
-Flags: HW
+Flags: W
 LayerCount: 2
 Fore
 Refer: 47 76 N 1 0 0 1 0 0 3
@@ -136247,7 +136247,7 @@ StartChar: uni1E37
 Encoding: 7735 7735 1645
 Width: 569
 GlyphClass: 2
-Flags: HW
+Flags: W
 LayerCount: 2
 Fore
 Refer: 79 108 N 1 0 0 1 0 0 3
@@ -136258,7 +136258,7 @@ StartChar: uni1E38
 Encoding: 7736 7736 1646
 Width: 1366
 GlyphClass: 2
-Flags: HW
+Flags: W
 LayerCount: 2
 Fore
 Refer: 47 76 N 1 0 0 1 0 0 3
@@ -136270,7 +136270,7 @@ StartChar: uni1E39
 Encoding: 7737 7737 1647
 Width: 569
 GlyphClass: 2
-Flags: HW
+Flags: W
 LayerCount: 2
 Fore
 Refer: 79 108 N 1 0 0 1 0 0 3
@@ -136508,7 +136508,7 @@ StartChar: uni1E42
 Encoding: 7746 7746 1656
 Width: 1933
 GlyphClass: 2
-Flags: HW
+Flags: W
 LayerCount: 2
 Fore
 Refer: 48 77 N 1 0 0 1 0 0 3
@@ -136519,7 +136519,7 @@ StartChar: uni1E43
 Encoding: 7747 7747 1657
 Width: 1706
 GlyphClass: 2
-Flags: HW
+Flags: W
 LayerCount: 2
 Fore
 Refer: 80 109 N 1 0 0 1 0 0 3
@@ -136596,7 +136596,7 @@ StartChar: uni1E46
 Encoding: 7750 7750 1660
 Width: 1479
 GlyphClass: 2
-Flags: HW
+Flags: W
 LayerCount: 2
 Fore
 Refer: 49 78 N 1 0 0 1 0 0 3
@@ -136607,7 +136607,7 @@ StartChar: uni1E47
 Encoding: 7751 7751 1661
 Width: 1139
 GlyphClass: 2
-Flags: HW
+Flags: W
 LayerCount: 2
 Fore
 Refer: 81 110 N 1 0 0 1 0 0 3
@@ -137203,7 +137203,7 @@ StartChar: uni1E5A
 Encoding: 7770 7770 1680
 Width: 1479
 GlyphClass: 2
-Flags: HW
+Flags: W
 LayerCount: 2
 Fore
 Refer: 53 82 N 1 0 0 1 0 0 3
@@ -137214,7 +137214,7 @@ StartChar: uni1E5B
 Encoding: 7771 7771 1681
 Width: 909
 GlyphClass: 2
-Flags: HW
+Flags: W
 LayerCount: 2
 Fore
 Refer: 85 114 N 1 0 0 1 0 0 3
@@ -137225,7 +137225,7 @@ StartChar: uni1E5C
 Encoding: 7772 7772 1682
 Width: 1479
 GlyphClass: 2
-Flags: HW
+Flags: W
 LayerCount: 2
 Fore
 Refer: 53 82 N 1 0 0 1 0 0 3
@@ -137237,7 +137237,7 @@ StartChar: uni1E5D
 Encoding: 7773 7773 1683
 Width: 909
 GlyphClass: 2
-Flags: HW
+Flags: W
 LayerCount: 2
 Fore
 Refer: 85 114 N 1 0 0 1 0 0 3
@@ -137365,7 +137365,7 @@ StartChar: uni1E62
 Encoding: 7778 7778 1688
 Width: 1139
 GlyphClass: 2
-Flags: HW
+Flags: W
 LayerCount: 2
 Fore
 Refer: 54 83 N 1 0 0 1 0 0 3
@@ -137376,7 +137376,7 @@ StartChar: uni1E63
 Encoding: 7779 7779 1689
 Width: 797
 GlyphClass: 2
-Flags: HW
+Flags: W
 LayerCount: 2
 Fore
 Refer: 86 115 N 1 0 0 1 0 0 3
@@ -137531,7 +137531,7 @@ StartChar: uni1E68
 Encoding: 7784 7784 1694
 Width: 1139
 GlyphClass: 2
-Flags: HW
+Flags: W
 LayerCount: 2
 Fore
 Refer: 54 83 N 1 0 0 1 0 0 3
@@ -137543,7 +137543,7 @@ StartChar: uni1E69
 Encoding: 7785 7785 1695
 Width: 797
 GlyphClass: 2
-Flags: HW
+Flags: W
 LayerCount: 2
 Fore
 Refer: 86 115 N 1 0 0 1 0 0 3
@@ -137625,7 +137625,7 @@ StartChar: uni1E6C
 Encoding: 7788 7788 1698
 Width: 1366
 GlyphClass: 2
-Flags: HW
+Flags: W
 LayerCount: 2
 Fore
 Refer: 55 84 N 1 0 0 1 0 0 3
@@ -137636,7 +137636,7 @@ StartChar: uni1E6D
 Encoding: 7789 7789 1699
 Width: 682
 GlyphClass: 2
-Flags: HW
+Flags: W
 LayerCount: 2
 Fore
 Refer: 87 116 N 1 0 0 1 0 0 3
@@ -138129,7 +138129,7 @@ StartChar: uni1E7E
 Encoding: 7806 7806 1716
 Width: 1479
 GlyphClass: 2
-Flags: HW
+Flags: W
 LayerCount: 2
 Fore
 Refer: 57 86 N 1 0 0 1 0 0 3
@@ -138140,7 +138140,7 @@ StartChar: uni1E7F
 Encoding: 7807 7807 1717
 Width: 1024
 GlyphClass: 2
-Flags: HW
+Flags: W
 LayerCount: 2
 Fore
 Refer: 89 118 N 1 0 0 1 0 0 3
@@ -138215,7 +138215,7 @@ StartChar: uni1E88
 Encoding: 7816 7816 1720
 Width: 2048
 GlyphClass: 2
-Flags: HW
+Flags: W
 LayerCount: 2
 Fore
 Refer: 58 87 N 1 0 0 1 0 0 3
@@ -138226,7 +138226,7 @@ StartChar: uni1E89
 Encoding: 7817 7817 1721
 Width: 1479
 GlyphClass: 2
-Flags: HW
+Flags: W
 LayerCount: 2
 Fore
 Refer: 90 119 N 1 0 0 1 0 0 3
@@ -138505,7 +138505,7 @@ StartChar: uni1E92
 Encoding: 7826 7826 1730
 Width: 1366
 GlyphClass: 2
-Flags: HW
+Flags: W
 LayerCount: 2
 Fore
 Refer: 61 90 N 1 0 0 1 0 0 3
@@ -138516,7 +138516,7 @@ StartChar: uni1E93
 Encoding: 7827 7827 1731
 Width: 909
 GlyphClass: 2
-Flags: HW
+Flags: W
 LayerCount: 2
 Fore
 Refer: 93 122 N 1 0 0 1 0 0 3
@@ -193270,6 +193270,41 @@ SplineSet
  725 902 725 902 616.5 960 c 4,7,8
  508.493164062 1017.73632812 508.493164062 1017.73632812 399 1017.99902344 c 13,9,-1
  400 137.00390625 l 21,0,1
+EndSplineSet
+EndChar
+
+StartChar: arrowdblboth
+Encoding: 8660 8660 2588
+Width: 2048
+Flags: W
+HStem: 230 134<662 701 1357 1396> 317 47<701 1357> 572 138<658 691 1357 1396> 572 51<691 1357>
+LayerCount: 2
+Fore
+SplineSet
+562 470 m 5,0,-1
+ 662 364 l 5,1,-1
+ 1396 364 l 5,2,-1
+ 1492 470 l 5,3,-1
+ 1396 572 l 5,4,-1
+ 658 572 l 5,5,-1
+ 562 470 l 5,0,-1
+701 317 m 5,6,7
+ 730 274 730 274 760 230 c 5,8,-1
+ 688 230 l 5,9,10
+ 561 379 561 379 418 452 c 5,11,-1
+ 418 488 l 5,12,13
+ 561 561 561 561 688 710 c 5,14,-1
+ 760 710 l 5,15,16
+ 726 666 726 666 691 623 c 5,17,-1
+ 1357 623 l 5,18,19
+ 1322 666 1322 666 1288 710 c 5,20,-1
+ 1360 710 l 5,21,22
+ 1487 561 1487 561 1630 488 c 5,23,-1
+ 1630 452 l 5,24,25
+ 1487 379 1487 379 1360 230 c 5,26,-1
+ 1288 230 l 5,27,28
+ 1322 274 1322 274 1357 317 c 5,29,-1
+ 701 317 l 5,6,7
 EndSplineSet
 EndChar
 EndChars

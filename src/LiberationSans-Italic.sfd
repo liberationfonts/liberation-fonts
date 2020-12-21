@@ -4,7 +4,7 @@ FullName: Liberation Sans Italic
 FamilyName: Liberation Sans
 Weight: Book
 Copyright: Digitized data copyright (c) 2010 Google Corporation.\nCopyright (c) 2012 Red Hat, Inc.
-Version: 2.1.1
+Version: 2.1.2
 ItalicAngle: -12
 UnderlinePosition: -142
 UnderlineWidth: 150
@@ -20,7 +20,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1277743413
-ModificationTime: 1580105239
+ModificationTime: 1608522248
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -3792,7 +3792,7 @@ ShortTable: maxp 16
   4
   1
 EndShort
-LangName: 1033 "" "" "" "Ascender - Liberation Sans" "" "Version 2.1.1" "" "Liberation is a trademark of Red Hat, Inc. registered in U.S. Patent and Trademark Office and certain other jurisdictions." "Ascender Corporation" "Steve Matteson" "Based on Arimo, which was designed by Steve Matteson as an innovative, refreshing sans serif design that is metrically compatible with Arial+ISIA. Arimo offers improved on-screen readability characteristics and the pan-European WGL character set and solves the needs of developers looking for width-compatible fonts to address document portability across platforms." "http://www.ascendercorp.com/" "http://www.ascendercorp.com/typedesigners.html" "Licensed under the SIL Open Font License, Version 1.1" "http://scripts.sil.org/OFL"
+LangName: 1033 "" "" "" "Ascender - Liberation Sans" "" "Version 2.1.2" "" "Liberation is a trademark of Red Hat, Inc. registered in U.S. Patent and Trademark Office and certain other jurisdictions." "Ascender Corporation" "Steve Matteson" "Based on Arimo, which was designed by Steve Matteson as an innovative, refreshing sans serif design that is metrically compatible with Arial+ISIA. Arimo offers improved on-screen readability characteristics and the pan-European WGL character set and solves the needs of developers looking for width-compatible fonts to address document portability across platforms." "http://www.ascendercorp.com/" "http://www.ascendercorp.com/typedesigners.html" "Licensed under the SIL Open Font License, Version 1.1" "http://scripts.sil.org/OFL"
 GaspTable: 3 8 2 17 1 65535 3 0
 Encoding: UnicodeBmp
 UnicodeInterp: none
@@ -3800,11 +3800,11 @@ NameList: Adobe Glyph List
 DisplaySize: -36
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 9588 51 13
+WinInfo: 8568 51 16
 BeginPrivate: 0
 EndPrivate
 AnchorClass2: "Anchor23" "mkmkMarktoMarklookup27 subtable" "Anchor22" "mkmkMarktoMarklookup26 subtable" "Anchor21" "markMarkPositioninglookup25 subtable" "Anchor20" "markMarkPositioninglookup24 subtable" "Anchor19" "markMarkPositioninglookup23 subtable" "Anchor18" "markMarkPositioninglookup23 subtable" "Anchor17" "markMarkPositioninglookup22 subtable" "Anchor16" "markMarkPositioninglookup22 subtable" "Anchor15" "markMarkPositioninglookup21 subtable" "Anchor14" "markMarkPositioninglookup20 subtable" "Anchor13" "markMarkPositioninglookup19 subtable" "Anchor12" "markMarkPositioninglookup18 subtable" "Anchor11" "markMarkPositioninglookup18 subtable" "Anchor10" "markMarkPositioninglookup18 subtable" "Anchor-0" "'mark' Mark Positioning in Hebrew lookup 1 subtable" "Anchor-1" "'mark' Mark Positioning in Hebrew lookup 3 subtable" "Anchor-2" "'mark' Mark Positioning in Hebrew lookup 4 subtable" "Anchor-3" "'mark' Mark Positioning in Hebrew lookup 5 subtable" "Anchor-4" "'mark' Mark Positioning in Hebrew lookup 5 subtable" "Anchor-5" "'mark' Mark Positioning in Hebrew lookup 6 subtable" "Anchor-6" "'mark' Mark Positioning in Hebrew lookup 6 subtable" "Anchor-7" "'mark' Mark Positioning in Hebrew lookup 11 subtable" "Anchor-8" "'mark' Mark Positioning in Hebrew lookup 12 subtable" "Anchor-9" "'mark' Mark Positioning in Hebrew lookup 13 subtable" "Anchor-24" "Mark to base attachment lookup 29 subtable" "Anchor-25" "Mark to base attachment lookup 30 subtable" "Anchor-26" "Mark to base attachment lookup 31 subtable" "Anchor-27" "Mark to base attachment lookup 32 subtable"
-BeginChars: 65831 2602
+BeginChars: 65831 2603
 
 StartChar: .notdef
 Encoding: 65536 -1 0
@@ -193725,6 +193725,41 @@ SplineSet
  725 902 725 902 616.5 960 c 4,8,9
  508.493164062 1017.73632812 508.493164062 1017.73632812 399 1017.99902344 c 13,10,-1
  400 137.00390625 l 21,1,2
+EndSplineSet
+EndChar
+
+StartChar: arrowdblboth
+Encoding: 8660 8660 2602
+Width: 2048
+Flags: W
+HStem: 310 133<650 699 1357 1400> 387 56<699 1357> 642 148<652 699 1356 1400.08> 642 61<699 1356>
+LayerCount: 2
+Fore
+SplineSet
+550 549 m 5,0,-1
+ 650 443 l 5,1,-1
+ 1400 450 l 5,2,-1
+ 1506 545 l 5,3,-1
+ 1409 637 l 5,4,-1
+ 652 642 l 5,5,-1
+ 550 549 l 5,0,-1
+699 387 m 5,6,7
+ 730 348 730 348 760 310 c 5,8,-1
+ 688 310 l 5,9,10
+ 561 459 561 459 418 532 c 5,11,-1
+ 418 568 l 5,12,13
+ 561 641 561 641 688 790 c 5,14,-1
+ 760 790 l 5,15,16
+ 730 746 730 746 699 703 c 5,17,-1
+ 1356 703 l 5,18,19
+ 1341 722 1341 722 1288 790 c 5,20,-1
+ 1360 790 l 5,21,22
+ 1487 641 1487 641 1630 568 c 5,23,-1
+ 1630 532 l 5,24,25
+ 1487 459 1487 459 1360 310 c 5,26,-1
+ 1288 310 l 5,27,28
+ 1322 348 1322 348 1357 387 c 5,29,-1
+ 699 387 l 5,6,7
 EndSplineSet
 EndChar
 EndChars

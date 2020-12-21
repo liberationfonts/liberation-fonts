@@ -4,7 +4,7 @@ FullName: Liberation Mono Bold
 FamilyName: Liberation Mono
 Weight: Bold
 Copyright: Digitized data copyright (c) 2010 Google Corporation.\nCopyright (c) 2012 Red Hat, Inc.
-Version: 2.1.1
+Version: 2.1.2
 ItalicAngle: 0
 UnderlinePosition: -375
 UnderlineWidth: 205
@@ -20,7 +20,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1277890270
-ModificationTime: 1590931976
+ModificationTime: 1607892167
 PfmFamily: 17
 TTFWeight: 700
 TTFWidth: 5
@@ -3968,20 +3968,20 @@ ShortTable: maxp 16
   3
   1
 EndShort
-LangName: 1033 "" "" "" "Ascender - Liberation Mono" "" "Version 2.1.1" "" "Liberation is a trademark of Red Hat, Inc. registered in U.S. Patent and Trademark Office and certain other jurisdictions." "Ascender Corporation" "Steve Matteson" "Based on Cousine, which was designed by Steve Matteson as an innovative, refreshing sans serif design that is metrically compatible with Courier New+ISIA. Cousine offers improved on-screen readability characteristics and the pan-European WGL character set and solves the needs of developers looking for width-compatible fonts to address document portability across platforms." "http://www.ascendercorp.com/" "http://www.ascendercorp.com/typedesigners.html" "Licensed under the SIL Open Font License, Version 1.1" "http://scripts.sil.org/OFL"
+LangName: 1033 "" "" "" "Ascender - Liberation Mono" "" "Version 2.1.2" "" "Liberation is a trademark of Red Hat, Inc. registered in U.S. Patent and Trademark Office and certain other jurisdictions." "Ascender Corporation" "Steve Matteson" "Based on Cousine, which was designed by Steve Matteson as an innovative, refreshing sans serif design that is metrically compatible with Courier New+ISIA. Cousine offers improved on-screen readability characteristics and the pan-European WGL character set and solves the needs of developers looking for width-compatible fonts to address document portability across platforms." "http://www.ascendercorp.com/" "http://www.ascendercorp.com/typedesigners.html" "Licensed under the SIL Open Font License, Version 1.1" "http://scripts.sil.org/OFL"
 GaspTable: 3 8 2 15 1 65535 3 0
 Encoding: UnicodeBmp
-Compacted: 1
 UnicodeInterp: none
 NameList: Adobe Glyph List
 DisplaySize: -36
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 0 51 17
+WinInfo: 8160 51 16
 BeginPrivate: 0
 EndPrivate
+TeXData: 1 0 0 629248 314624 209749 553984 -1048576 209749 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
 AnchorClass2: "bottom-right" "'mark' Mark Positioning lookup 22-1" "top-right" "'mark' Mark Positioning lookup 22-1" "bottom" "'mark' Mark Positioning lookup 22-1" "top" "'mark' Mark Positioning lookup 22-1" "Anchor-0" "'mark' Mark Positioning in Hebrew lookup 0 subtable" "Anchor-1" "'mark' Mark Positioning in Hebrew lookup 1 subtable" "Anchor-2" "'mark' Mark Positioning in Hebrew lookup 2 subtable" "Anchor-3" "'mark' Mark Positioning in Hebrew lookup 3 subtable" "Anchor-4" "'mark' Mark Positioning in Hebrew lookup 3 subtable" "Anchor-5" "'mark' Mark Positioning in Hebrew lookup 4 subtable" "Anchor-6" "'mark' Mark Positioning in Hebrew lookup 4 subtable" "Anchor-7" "'mark' Mark Positioning in Hebrew lookup 9 subtable" "Anchor-8" "'mark' Mark Positioning in Hebrew lookup 10 subtable" "Anchor-9" "'mark' Mark Positioning in Hebrew lookup 11 subtable" "Anchor-10" "Mark to base attachment lookup 15 subtable" "Anchor-11" "Mark to base attachment lookup 16 subtable" "Anchor-12" "Mark to base attachment lookup 17 subtable" "Anchor-13" "Mark to base attachment lookup 18 subtable"
-BeginChars: 65654 2406
+BeginChars: 65654 2407
 
 StartChar: .notdef
 Encoding: 65536 -1 0
@@ -159017,60 +159017,61 @@ EndChar
 
 StartChar: uni20BF
 Encoding: 8383 8383 2394
-Width: 1459
+Width: 1229
 Flags: W
-HStem: 0 219<136 364 662 709.059 876.062 1064.67> 593 218<662 1001> 1130 219<662 711.474 875.333 998.819> 1157 192<138 367>
-VStem: 364 298<219 593 811 1130> 413 175.105<-297 0 1349 1619> 709.059 167.004<-297 0 1349 1619> 1038 297<849.101 1092.09> 1119 297<273.815 537.119>
+HStem: -156 375<471 529 636 785.617> 0 219<529 636 789 871.264> 0 152<31 176> 593 218<471 810> 1130 377<471 529 636 788.126> 1130 219<529 636> 1196 153<24 176>
+VStem: 176 295<219 593 811 1130> 376 153<-156 0 1349 1507> 636 153<-156 0 1349 1507> 847 297<849.101 1092.09> 928 297<273.815 537.119>
 LayerCount: 2
 Fore
 SplineSet
-876 -297 m 17,0,-1
- 709 -297 l 1,1,-1
- 709 0 l 1,2,-1
- 588 0 l 1,3,-1
- 588 -297 l 1,4,-1
- 413 -297 l 1,5,-1
- 413 0 l 1,6,-1
- 135 0 l 1,7,-1
- 136 206 l 1,8,-1
- 364 206 l 17,9,-1
- 367 1157 l 9,10,-1
- 138 1157 l 17,11,-1
- 138 1349 l 1,12,-1
- 418 1349 l 1,13,-1
- 418 1619 l 1,14,-1
- 584 1619 l 1,15,-1
- 584 1349 l 1,16,-1
- 711 1349 l 1,17,-1
- 711 1619 l 1,18,-1
- 875 1619 l 9,19,-1
- 875 1349 l 17,20,-1
- 892 1349 l 2,21,22
- 1110 1349 1110 1349 1222.5 1261.5 c 128,-1,23
- 1335 1174 1335 1174 1335 1010 c 0,24,25
- 1335 895 1335 895 1269 816.5 c 128,-1,26
- 1203 738 1203 738 1066 709 c 1,27,28
- 1237 691 1237 691 1326.5 607 c 128,-1,29
- 1416 523 1416 523 1416 385 c 0,30,31
- 1416 204 1416 204 1292 102 c 128,-1,32
- 1168 0 1168 0 949 0 c 2,33,-1
- 876 0 l 9,34,-1
- 876 -297 l 17,0,-1
-1038 970 m 0,35,36
- 1038 1130 1038 1130 871 1130 c 2,37,-1
- 662 1130 l 1,38,-1
- 662 811 l 1,39,-1
- 873 811 l 2,40,41
- 1038 811 1038 811 1038 970 c 0,35,36
-1119 410 m 0,42,43
- 1119 498 1119 498 1066 545.5 c 128,-1,44
- 1013 593 1013 593 912 593 c 2,45,-1
- 662 593 l 1,46,-1
- 662 219 l 1,47,-1
- 919 219 l 2,48,49
- 1119 219 1119 219 1119 410 c 0,42,43
+1225 385 m 4,0,1
+ 1225 204 1225 204 1101 102 c 4,2,3
+ 986 7 986 7 789 0.52734375 c 5,4,-1
+ 789 -156 l 5,5,-1
+ 636 -156 l 5,6,-1
+ 636 0 l 5,7,-1
+ 529 0 l 5,8,-1
+ 529 -156 l 5,9,-1
+ 376 -156 l 5,10,-1
+ 376 0 l 5,11,-1
+ 324 0 l 5,12,-1
+ 176 0 l 5,13,-1
+ 31 0 l 5,14,-1
+ 31 152 l 5,15,-1
+ 176 152 l 5,16,-1
+ 176 1196 l 5,17,-1
+ 24 1196 l 5,18,-1
+ 24 1349 l 5,19,-1
+ 176 1349 l 5,20,-1
+ 371 1349 l 5,21,-1
+ 376 1349 l 5,22,-1
+ 376 1507 l 5,23,-1
+ 529 1507 l 5,24,-1
+ 529 1349 l 5,25,-1
+ 636 1349 l 5,26,-1
+ 636 1507 l 5,27,-1
+ 789 1507 l 5,28,-1
+ 789 1345.03808594 l 5,29,30
+ 943 1330 943 1330 1031.5 1261.5 c 4,31,32
+ 1144 1174 1144 1174 1144 1010 c 4,33,34
+ 1144 895 1144 895 1078 816.5 c 132,-1,35
+ 1012 738 1012 738 875 709 c 5,36,37
+ 1046 691 1046 691 1135.5 607 c 132,-1,38
+ 1225 523 1225 523 1225 385 c 4,0,1
+847 970 m 4,39,40
+ 847 1130 847 1130 680 1130 c 6,41,-1
+ 471 1130 l 5,42,-1
+ 471 811 l 5,43,-1
+ 682 811 l 6,44,45
+ 847 811 847 811 847 970 c 4,39,40
+928 410 m 4,46,47
+ 928 498 928 498 875 545.5 c 132,-1,48
+ 822 593 822 593 721 593 c 6,49,-1
+ 471 593 l 5,50,-1
+ 471 219 l 5,51,-1
+ 728 219 l 6,52,53
+ 928 219 928 219 928 410 c 4,46,47
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uni266C
@@ -159409,6 +159410,41 @@ SplineSet
  174 686 174 686 229.5 792.5 c 132,-1,22
  285 899 285 899 392.5 958.5 c 132,-1,23
  500 1018 500 1018 614 1018 c 4,10,11
+EndSplineSet
+EndChar
+
+StartChar: arrowdblboth
+Encoding: 8660 8660 2406
+Width: 1229
+Flags: WO
+HStem: 390 186<245 292 936 984> 505 71<292 936> 682 188<241 281 947 990.078> 682 67<281 947>
+LayerCount: 2
+Fore
+SplineSet
+241 682 m 5,0,-1
+ 181 628 l 5,1,-1
+ 245 576 l 5,2,-1
+ 984 577 l 5,3,-1
+ 1030 629 l 5,4,-1
+ 993 684 l 5,5,-1
+ 241 682 l 5,0,-1
+292 505 m 5,6,7
+ 350 390 l 5,8,-1
+ 278 390 l 5,9,10
+ 151 539 151 539 8 612 c 5,11,-1
+ 8 648 l 5,12,13
+ 151 721 151 721 278 870 c 5,14,-1
+ 350 870 l 5,15,16
+ 316 810 316 810 281 749 c 5,17,-1
+ 947 749 l 5,18,-1
+ 878 870 l 5,19,-1
+ 950 870 l 5,20,21
+ 1077 721 1077 721 1220 648 c 5,22,-1
+ 1220 612 l 5,23,24
+ 1077 539 1077 539 950 390 c 5,25,-1
+ 878 390 l 5,26,27
+ 936 502 l 5,28,-1
+ 292 505 l 5,6,7
 EndSplineSet
 EndChar
 EndChars

@@ -4,7 +4,7 @@ FullName: Liberation Serif Italic
 FamilyName: Liberation Serif
 Weight: Book
 Copyright: Digitized data copyright (c) 2010 Google Corporation.\nCopyright (c) 2012 Red Hat, Inc.
-Version: 2.1.1
+Version: 2.1.2
 ItalicAngle: -16.333
 UnderlinePosition: -173
 UnderlineWidth: 100
@@ -20,7 +20,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1123398000
-ModificationTime: 1590982669
+ModificationTime: 1608522359
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -3780,7 +3780,7 @@ ShortTable: maxp 16
   4
   1
 EndShort
-LangName: 1033 "" "" "" "Ascender - Liberation Serif" "" "Version 2.1.1" "" "Liberation is a trademark of Red Hat, Inc. registered in U.S. Patent and Trademark Office and certain other jurisdictions." "Ascender Corporation" "Steve Matteson" "Based on Tinos, which was designed by Steve Matteson as an innovative, refreshing serif design that is metrically compatible with Times New Roman+ISIA. Tinos offers improved on-screen readability characteristics and the pan-European WGL character set and solves the needs of developers looking for width-compatible fonts to address document portability across platforms." "http://www.ascendercorp.com/" "http://www.ascendercorp.com/typedesigners.html" "Licensed under the SIL Open Font License, Version 1.1" "http://scripts.sil.org/OFL"
+LangName: 1033 "" "" "" "Ascender - Liberation Serif" "" "Version 2.1.2" "" "Liberation is a trademark of Red Hat, Inc. registered in U.S. Patent and Trademark Office and certain other jurisdictions." "Ascender Corporation" "Steve Matteson" "Based on Tinos, which was designed by Steve Matteson as an innovative, refreshing serif design that is metrically compatible with Times New Roman+ISIA. Tinos offers improved on-screen readability characteristics and the pan-European WGL character set and solves the needs of developers looking for width-compatible fonts to address document portability across platforms." "http://www.ascendercorp.com/" "http://www.ascendercorp.com/typedesigners.html" "Licensed under the SIL Open Font License, Version 1.1" "http://scripts.sil.org/OFL"
 GaspTable: 3 8 2 20 1 65535 3 0
 Encoding: UnicodeBmp
 Compacted: 1
@@ -3789,12 +3789,12 @@ NameList: Adobe Glyph List
 DisplaySize: -36
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 459 51 17
+WinInfo: 0 51 16
 BeginPrivate: 0
 EndPrivate
 TeXData: 1 0 -613545 262144 131072 87381 481280 -1048576 87381 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
 AnchorClass2: "bottom-right" "'mark' Mark Positioning lookup 25-1" "top-right" "'mark' Mark Positioning lookup 25-1" "top" "'mark' Mark Positioning lookup 25-1" "bottom" "'mark' Mark Positioning lookup 25-1" "Anchor-0" "'mark' Mark Positioning in Hebrew lookup 0 subtable" "Anchor-1" "'mark' Mark Positioning in Hebrew lookup 2 subtable" "Anchor-2" "'mark' Mark Positioning in Hebrew lookup 3 subtable" "Anchor-3" "'mark' Mark Positioning in Hebrew lookup 4 subtable" "Anchor-4" "'mark' Mark Positioning in Hebrew lookup 4 subtable" "Anchor-5" "'mark' Mark Positioning in Hebrew lookup 5 subtable" "Anchor-6" "'mark' Mark Positioning in Hebrew lookup 5 subtable" "Anchor-7" "'mark' Mark Positioning in Hebrew lookup 10 subtable" "Anchor-8" "'mark' Mark Positioning in Hebrew lookup 11 subtable" "Anchor-9" "'mark' Mark Positioning in Hebrew lookup 12 subtable" "Anchor-10" "Mark to base attachment lookup 18 subtable" "Anchor-11" "Mark to base attachment lookup 19 subtable" "Anchor-12" "Mark to base attachment lookup 20 subtable" "Anchor-13" "Mark to base attachment lookup 21 subtable"
-BeginChars: 65818 2596
+BeginChars: 65818 2597
 
 StartChar: .notdef
 Encoding: 65536 -1 0
@@ -191707,6 +191707,41 @@ SplineSet
  734 256 734 256 626.5 196.5 c 4,7,8
  519.471679688 137.260742188 519.471679688 137.260742188 406 137.000976562 c 13,9,10
  406 1017.99902344 l 21,0,1
+EndSplineSet
+EndChar
+
+StartChar: arrowdblboth
+Encoding: 8660 8660 2596
+Width: 2048
+Flags: W
+HStem: 220 163<647.922 691 1360 1400.08> 317 66<691 1367> 534 166<647.922 691 1360 1400.08> 534 69<691 1367>
+LayerCount: 2
+Fore
+SplineSet
+548 456 m 5,0,-1
+ 634 383 l 5,1,-1
+ 1414 385 l 5,2,-1
+ 1492 466 l 5,3,-1
+ 1414 537 l 5,4,-1
+ 636 534 l 5,5,-1
+ 548 456 l 5,0,-1
+691 317 m 5,6,7
+ 726 268 726 268 760 220 c 5,8,-1
+ 688 220 l 5,9,10
+ 561 369 561 369 418 442 c 5,11,-1
+ 418 478 l 5,12,13
+ 561 551 561 551 688 700 c 5,14,-1
+ 760 700 l 5,15,16
+ 726 652 726 652 691 603 c 5,17,-1
+ 1367 603 l 5,18,19
+ 1328 652 1328 652 1288 700 c 5,20,-1
+ 1360 700 l 5,21,22
+ 1487 551 1487 551 1630 478 c 5,23,-1
+ 1630 442 l 5,24,25
+ 1487 369 1487 369 1360 220 c 5,26,-1
+ 1288 220 l 5,27,28
+ 1328 268 1328 268 1367 317 c 5,29,-1
+ 691 317 l 5,6,7
 EndSplineSet
 EndChar
 EndChars
