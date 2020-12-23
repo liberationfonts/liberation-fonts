@@ -4,7 +4,7 @@ FullName: Liberation Mono
 FamilyName: Liberation Mono
 Weight: Book
 Copyright: Digitized data copyright (c) 2010 Google Corporation.\nCopyright (c) 2012 Red Hat, Inc.
-Version: 2.1.2
+Version: 2.1.3
 ItalicAngle: 0
 UnderlinePosition: -435
 UnderlineWidth: 84
@@ -20,7 +20,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1277020711
-ModificationTime: 1607893120
+ModificationTime: 1608705231
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -3933,7 +3933,7 @@ ShortTable: maxp 16
   3
   1
 EndShort
-LangName: 1033 "" "" "Regular" "Ascender - Liberation Mono" "" "Version 2.1.2" "" "Liberation is a trademark of Red Hat, Inc. registered in U.S. Patent and Trademark Office and certain other jurisdictions." "Ascender Corporation" "Steve Matteson" "Based on Cousine, which was designed by Steve Matteson as an innovative, refreshing sans serif design that is metrically compatible with Courier New+ISIA. Cousine offers improved on-screen readability characteristics and the pan-European WGL character set and solves the needs of developers looking for width-compatible fonts to address document portability across platforms." "http://www.ascendercorp.com/" "http://www.ascendercorp.com/typedesigners.html" "Licensed under the SIL Open Font License, Version 1.1" "http://scripts.sil.org/OFL"
+LangName: 1033 "" "" "Regular" "Ascender - Liberation Mono" "" "Version 2.1.3" "" "Liberation is a trademark of Red Hat, Inc. registered in U.S. Patent and Trademark Office and certain other jurisdictions." "Ascender Corporation" "Steve Matteson" "Based on Cousine, which was designed by Steve Matteson as an innovative, refreshing sans serif design that is metrically compatible with Courier New+ISIA. Cousine offers improved on-screen readability characteristics and the pan-European WGL character set and solves the needs of developers looking for width-compatible fonts to address document portability across platforms." "http://www.ascendercorp.com/" "http://www.ascendercorp.com/typedesigners.html" "Licensed under the SIL Open Font License, Version 1.1" "http://scripts.sil.org/OFL"
 GaspTable: 3 8 2 17 1 65535 3 0
 Encoding: UnicodeBmp
 UnicodeInterp: none
@@ -3941,7 +3941,7 @@ NameList: Adobe Glyph List
 DisplaySize: -36
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 8568 51 16
+WinInfo: 9800 25 16
 BeginPrivate: 0
 EndPrivate
 TeXData: 1 0 0 629248 314624 209749 553984 -1048576 209749 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
@@ -170442,7 +170442,7 @@ EndChar
 
 StartChar: uni266C
 Encoding: 9836 9836 2395
-Width: 1369
+Width: 1229
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -170475,12 +170475,11 @@ SplineSet
  494 924 l 5,31,-1
  494 804 l 5,28,-1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uni2669
 Encoding: 9833 9833 2396
-Width: 1369
+Width: 1229
 VWidth: 0
 Flags: W
 HStem: 24 289<359.119 588.484>
@@ -170492,22 +170491,21 @@ SplineSet
  664 191 l 2,1,2
  664 190 664 190 664 189 c 128,-1,3
  664 188 664 188 664 187 c 0,4,5
- 664 124 664 124 596 74 c 128,-1,7
- 528 24 528 24 442 24 c 0,8,9
- 373 24 373 24 327.5 58 c 128,-1,10
- 282 92 282 92 282 148 c 0,11,12
- 282 213 282 213 350.5 263 c 128,-1,13
- 419 313 419 313 502 313 c 0,14,15
- 560 313 560 313 602 290 c 1,16,-1
- 602 1126 l 1,17,-1
+ 664 124 664 124 596 74 c 128,-1,6
+ 528 24 528 24 442 24 c 0,7,8
+ 373 24 373 24 327.5 58 c 128,-1,9
+ 282 92 282 92 282 148 c 0,10,11
+ 282 213 282 213 350.5 263 c 128,-1,12
+ 419 313 419 313 502 313 c 0,13,14
+ 560 313 560 313 602 290 c 1,15,-1
+ 602 1126 l 1,16,-1
  644 1126 l 1,0,-1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uni2262
 Encoding: 8802 8802 2397
-Width: 1369
+Width: 1229
 VWidth: 0
 Flags: W
 HStem: 244 148<116 377.042 587.19 1111> 600 148<116 534.465 744.366 1111> 956 148<116 691.889 901.541 1111>
@@ -170545,7 +170543,6 @@ SplineSet
  534 600 l 1,27,-1
  116 600 l 1,0,-1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uni25D0
@@ -170769,7 +170766,7 @@ EndChar
 StartChar: arrowdblboth
 Encoding: 8660 8660 2406
 Width: 1229
-Flags: WO
+Flags: W
 HStem: 230 143<260 291 947 978> 307 66<291 947> 563 147<242 291 947 986> 563 60<291 947>
 LayerCount: 2
 Fore

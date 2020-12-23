@@ -4,7 +4,7 @@ FullName: Liberation Mono Bold
 FamilyName: Liberation Mono
 Weight: Bold
 Copyright: Digitized data copyright (c) 2010 Google Corporation.\nCopyright (c) 2012 Red Hat, Inc.
-Version: 2.1.2
+Version: 2.1.3
 ItalicAngle: 0
 UnderlinePosition: -375
 UnderlineWidth: 205
@@ -20,7 +20,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1277890270
-ModificationTime: 1607892167
+ModificationTime: 1608704991
 PfmFamily: 17
 TTFWeight: 700
 TTFWidth: 5
@@ -3968,7 +3968,7 @@ ShortTable: maxp 16
   3
   1
 EndShort
-LangName: 1033 "" "" "" "Ascender - Liberation Mono" "" "Version 2.1.2" "" "Liberation is a trademark of Red Hat, Inc. registered in U.S. Patent and Trademark Office and certain other jurisdictions." "Ascender Corporation" "Steve Matteson" "Based on Cousine, which was designed by Steve Matteson as an innovative, refreshing sans serif design that is metrically compatible with Courier New+ISIA. Cousine offers improved on-screen readability characteristics and the pan-European WGL character set and solves the needs of developers looking for width-compatible fonts to address document portability across platforms." "http://www.ascendercorp.com/" "http://www.ascendercorp.com/typedesigners.html" "Licensed under the SIL Open Font License, Version 1.1" "http://scripts.sil.org/OFL"
+LangName: 1033 "" "" "" "Ascender - Liberation Mono" "" "Version 2.1.3" "" "Liberation is a trademark of Red Hat, Inc. registered in U.S. Patent and Trademark Office and certain other jurisdictions." "Ascender Corporation" "Steve Matteson" "Based on Cousine, which was designed by Steve Matteson as an innovative, refreshing sans serif design that is metrically compatible with Courier New+ISIA. Cousine offers improved on-screen readability characteristics and the pan-European WGL character set and solves the needs of developers looking for width-compatible fonts to address document portability across platforms." "http://www.ascendercorp.com/" "http://www.ascendercorp.com/typedesigners.html" "Licensed under the SIL Open Font License, Version 1.1" "http://scripts.sil.org/OFL"
 GaspTable: 3 8 2 15 1 65535 3 0
 Encoding: UnicodeBmp
 UnicodeInterp: none
@@ -3976,7 +3976,7 @@ NameList: Adobe Glyph List
 DisplaySize: -36
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 8160 51 16
+WinInfo: 9800 25 16
 BeginPrivate: 0
 EndPrivate
 TeXData: 1 0 0 629248 314624 209749 553984 -1048576 209749 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
@@ -159076,7 +159076,7 @@ EndChar
 
 StartChar: uni266C
 Encoding: 9836 9836 2395
-Width: 1459
+Width: 1229
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -159109,12 +159109,11 @@ SplineSet
  494 924 l 5,31,-1
  494 804 l 5,28,-1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uni2669
 Encoding: 9833 9833 2396
-Width: 1459
+Width: 1229
 VWidth: 0
 Flags: W
 HStem: 24 289<359.119 588.484>
@@ -159137,12 +159136,11 @@ SplineSet
  602 1126 l 1,19,-1
  654 1127 l 1,0,-1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uni2262
 Encoding: 8802 8802 2397
-Width: 1459
+Width: 1229
 VWidth: 0
 Flags: W
 HStem: -1 21G<226.885 449.324> 244 148<116 331.167 606.722 1111> 600 148<116 482.695 756.946 1111> 956 148<116 634.223 907.17 1111> 1334 20G<799.031 1016.88>
@@ -159179,7 +159177,6 @@ SplineSet
  483 600 l 1,27,-1
  116 600 l 1,0,-1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uni25D0
@@ -159416,7 +159413,7 @@ EndChar
 StartChar: arrowdblboth
 Encoding: 8660 8660 2406
 Width: 1229
-Flags: WO
+Flags: W
 HStem: 390 186<245 292 936 984> 505 71<292 936> 682 188<241 281 947 990.078> 682 67<281 947>
 LayerCount: 2
 Fore
