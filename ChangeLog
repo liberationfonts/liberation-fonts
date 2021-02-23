@@ -1,3 +1,8 @@
+* Tue Feb 23 2021 Vishal Vijayraghavan <vishalvijayraghavan@gmail.com>
+- Releasing liberation-fonts 2.1.3 version
+- Resolves #37: U+2262,2669,266C too wide
+- Resolves Bugzilla #1464310: Tilded G not works with Liberation Sans and Serif
+
 * Mon Dec 21 2020 Vishal Vijayraghavan <vishalvijayraghavan@gmail.com>
 - Releasing liberation-fonts 2.1.2 version
 - Resolves #25: liberation-fonts doesn't have proper <==> symbol
