@@ -45,11 +45,11 @@ DISTPREFIX_TTF := liberation-fonts-ttf-$(VER)
 SFDFILES       := $(addprefix $(SRCDIR)/$(NAME),    $(VARIANTS:=.sfd))
 TTFFILES       := $(addprefix $(EXPORTDIR)/$(NAME), $(VARIANTS:=.ttf))
 
-versionupdate:
-	$(PYTHON) $(FONTVERSION_UPDATE_SCRIPT) $(SRCDIR) $(VER)
-
 # keeping backward compatibility for "build"
 all build: ttf-dir
+
+versionupdate:
+	$(PYTHON) $(FONTVERSION_UPDATE_SCRIPT) $(SRCDIR) $(VER)
 
 $(EXPORTDIR):
 	mkdir -p $@
