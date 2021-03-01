@@ -102,7 +102,7 @@ dist-sfd:: $(SFDFILES)
 	  && mkdir -p $${tempdir}/$(DISTPREFIX)/{src,scripts} \
 	  && cp Makefile $(MISCFILES) $${tempdir}/$(DISTPREFIX) \
 	  && cp $(SFDFILES) $${tempdir}/$(DISTPREFIX)/src \
-	  && cp $(SCRIPTS) $(FONTTOOLSCRIPT) $${tempdir}/$(DISTPREFIX)/scripts \
+	  && cp $(SCRIPTS) $(FONTTOOLSCRIPT) $(FONTVERSION_UPDATE_SCRIPT) $${tempdir}/$(DISTPREFIX)/scripts \
 	  && tar Cczvhf $${tempdir} $(DISTPREFIX).tar.gz $(DISTPREFIX) \
 	  || echo 'Problem encountered ($@)'; rm -rf -- $${tempdir}
 dist-ttf: ttf
