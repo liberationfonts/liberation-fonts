@@ -15,37 +15,33 @@
  Install
   ============
 
-  1. Get sources
-
-   The latest sources are available via github by checking out the repo:
-   
-   	$ git clone https://github.com/liberationfonts/liberation-fonts
-
-   Or downloading the tar.gz file via [github](https://github.com/liberationfonts/liberation-fonts/tags).
-    eg. 2.00.5 can be retrieved via:
+  1. Get source
+        ```
+   	    $ git clone https://github.com/liberationfonts/liberation-fonts.git
+        ```
     
-	$ wget https://github.com/liberationfonts/liberation-fonts/files/2926169/liberation-fonts-2.00.5.tar.gz
+     - Or downloading the tar.gz file from [releases](https://github.com/fontforge/fontforge/releases).
 
-   You can extract the files using the following command where VERSION=2.00.4:
-  	
-	$ tar zxvf liberation-fonts-[VERSION].tar.gz
-
+     - Extract the tar file:
+  	    ```
+	    $ tar zxvf liberation-fonts-[VERSION].tar.gz
+        ```
   2. Build from the source
-  
-	$ cd liberation-fonts    or   $ cd liberation-fonts-[VERSION]
-	$ make
-		
-   The binary font files will be available in 'liberation-fonts-ttf-[VERSION]' directory.
+        ```
+    	$ cd liberation-fonts    or   $ cd liberation-fonts-[VERSION]
+    	$ make
+    	```	
+     The binary font files will be available in 'liberation-fonts-ttf-[VERSION]' directory.
 
   3. Install to system
-  
-   Fedora Users : 
-   One can manually install the fonts by copying the TTFs to `~/.fonts` for user wide usage, 
-   and/or to `/usr/share/fonts/liberation` for system-wide availability. 
-   Then, run `fc-cache` to let that cached.
+        
+        Fedora Users : 
+        - One can manually install the fonts by copying the TTFs to `~/.fonts` for user wide usage 
+        - and/or to `/usr/share/fonts/liberation` for system-wide availability. 
+        - Then, run `fc-cache` to let that cached.
 
-   Other distributions : 
-   please check out corresponding documentation.
+        Other distributions : 
+        please check out corresponding documentation.
 
 
   Usage
@@ -66,21 +62,23 @@
    For Maintainers
   ====================
 
-  Before packaging a new release based on a new source tarball, you have to
-  update the version suffix in the Makefile:
+  1. Before packaging a new release based on a new source tarball, you have to update the version suffix in the Makefile:
+        ```
+        VER = [NEW_VERSION]
+        ```
+  2. After updating Makefile VER attribute, update all font metadata by executing:
+        ```
+        $ make versionupdate
+        ```
+        can verfy changes using ftinfo/otfinfo or fontforge itself. 
+  3. It is highly recommended that file 'ChangeLog' is updated to reflect changes.
 
-    VER = [VERSION]
-
-  Make sure that the defined version corresponds to the font software metadata
-  which you can check with ftinfo/otfinfo or fontforge itself. It is highly 
-  recommended that file 'ChangeLog' is updated to reflect changes.
-
-  Create a tarball with the following command:
-
-    $ make dist
-
-  The new versioned tarball will be available in the dist/ folder as
-  `liberation-fonts-[NEW_VERSION].tar.gz.`
+  4. Create a tarball with the following command:
+        ```
+        $ make dist
+        ```
+        The new versioned tarball will be available in the dist/ folder as `liberation-fonts-[NEW_VERSION].tar.gz.`
+  5. Create github tag for that [NEW_VERSION] and upload dist tarball 
 
   Credits
  ============
