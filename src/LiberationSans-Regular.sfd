@@ -3523,7 +3523,7 @@ NameList: Adobe Glyph List
 DisplaySize: -24
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 1813 37 22
+WinInfo: 0 76 21
 BeginPrivate: 0
 EndPrivate
 AnchorClass2: "Anchor24" "mkmkMarktoMarklookup28 subtable" "Anchor23" "mkmkMarktoMarklookup27 subtable" "Anchor22" "Marktobaseattachmentlookup26 subtable" "Anchor21" "markMarkPositioninglookup25 subtable" "Anchor20" "markMarkPositioninglookup24 subtable" "Anchor19" "markMarkPositioninglookup23 subtable" "Anchor18" "markMarkPositioninglookup23 subtable" "Anchor17" "markMarkPositioninglookup22 subtable" "Anchor16" "markMarkPositioninglookup22 subtable" "Anchor15" "markMarkPositioninglookup21 subtable" "Anchor14" "markMarkPositioninglookup20 subtable" "Anchor13" "markMarkPositioninglookup19 subtable" "Anchor12" "markMarkPositioninglookup18 subtable" "Anchor11" "markMarkPositioninglookup18 subtable" "Anchor10" "markMarkPositioninglookup18 subtable" "Anchor-0" "'mark' Mark Positioning in Hebrew lookup 1 subtable" "Anchor-1" "'mark' Mark Positioning in Hebrew lookup 3 subtable" "Anchor-2" "'mark' Mark Positioning in Hebrew lookup 4 subtable" "Anchor-3" "'mark' Mark Positioning in Hebrew lookup 5 subtable" "Anchor-4" "'mark' Mark Positioning in Hebrew lookup 5 subtable" "Anchor-5" "'mark' Mark Positioning in Hebrew lookup 6 subtable" "Anchor-6" "'mark' Mark Positioning in Hebrew lookup 6 subtable" "Anchor-7" "'mark' Mark Positioning in Hebrew lookup 11 subtable" "Anchor-8" "'mark' Mark Positioning in Hebrew lookup 12 subtable" "Anchor-9" "'mark' Mark Positioning in Hebrew lookup 13 subtable" "Anchor-25" "Mark to base attachment lookup 30 subtable" "Anchor-26" "Mark to base attachment lookup 31 subtable" "Anchor-27" "Mark to base attachment lookup 32 subtable" "Anchor-28" "Mark to base attachment lookup 33 subtable"
@@ -67463,7 +67463,7 @@ EndChar
 StartChar: hookabovecomb
 Encoding: 777 777 691
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 TtInstrs:
 NPUSHB
@@ -67667,7 +67667,7 @@ EndChar
 StartChar: tildecomb
 Encoding: 771 771 697
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 AnchorPoint: "Anchor23" 330 1180 mark 0
 AnchorPoint: "Anchor23" 320 1600 basemark 0
@@ -68116,7 +68116,7 @@ EndChar
 StartChar: gravecomb
 Encoding: 768 768 721
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 TtInstrs:
 PUSHB_3
@@ -68151,7 +68151,7 @@ EndChar
 StartChar: acutecomb
 Encoding: 769 769 722
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 TtInstrs:
 PUSHB_3
@@ -68197,7 +68197,7 @@ EndChar
 StartChar: dotbelowcomb
 Encoding: 803 803 724
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 AnchorPoint: "Anchor24" -680 -130 mark 0
 AnchorPoint: "Anchor24" -685 -420 basemark 0
@@ -110212,7 +110212,7 @@ EndChar
 StartChar: uni0302
 Encoding: 770 770 1311
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 TtInstrs:
 PUSHB_6
@@ -110256,7 +110256,7 @@ EndChar
 StartChar: uni0304
 Encoding: 772 772 1312
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 TtInstrs:
 PUSHB_5
@@ -110290,7 +110290,7 @@ EndChar
 StartChar: uni0305
 Encoding: 773 773 1313
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 TtInstrs:
 PUSHB_5
@@ -110323,7 +110323,7 @@ EndChar
 StartChar: uni0306
 Encoding: 774 774 1314
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 TtInstrs:
 PUSHB_5
@@ -110365,7 +110365,7 @@ EndChar
 StartChar: uni0307
 Encoding: 775 775 1315
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 TtInstrs:
 PUSHB_5
@@ -110398,7 +110398,7 @@ EndChar
 StartChar: uni0308
 Encoding: 776 776 1316
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 TtInstrs:
 PUSHB_8
@@ -110443,7 +110443,7 @@ EndChar
 StartChar: uni030A
 Encoding: 778 778 1317
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 TtInstrs:
 PUSHB_5
@@ -110492,7 +110492,7 @@ EndChar
 StartChar: uni030B
 Encoding: 779 779 1318
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 TtInstrs:
 PUSHB_5
@@ -110537,7 +110537,7 @@ EndChar
 StartChar: uni030C
 Encoding: 780 780 1319
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 TtInstrs:
 PUSHB_5
@@ -110580,7 +110580,7 @@ EndChar
 StartChar: uni030D
 Encoding: 781 781 1320
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 TtInstrs:
 PUSHB_3
@@ -110612,7 +110612,7 @@ EndChar
 StartChar: uni030E
 Encoding: 782 782 1321
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 TtInstrs:
 PUSHB_5
@@ -110653,7 +110653,7 @@ EndChar
 StartChar: uni030F
 Encoding: 783 783 1322
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 TtInstrs:
 PUSHB_8
@@ -110702,7 +110702,7 @@ EndChar
 StartChar: uni0310
 Encoding: 784 784 1323
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 TtInstrs:
 PUSHB_7
@@ -110753,7 +110753,7 @@ EndChar
 StartChar: uni0311
 Encoding: 785 785 1324
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 TtInstrs:
 PUSHB_5
@@ -110795,7 +110795,7 @@ EndChar
 StartChar: uni0312
 Encoding: 786 786 1325
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 TtInstrs:
 PUSHB_5
@@ -110835,7 +110835,7 @@ EndChar
 StartChar: uni0313
 Encoding: 787 787 1326
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 TtInstrs:
 PUSHB_5
@@ -110875,7 +110875,7 @@ EndChar
 StartChar: uni0314
 Encoding: 788 788 1327
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 TtInstrs:
 PUSHB_5
@@ -110915,7 +110915,7 @@ EndChar
 StartChar: uni0315
 Encoding: 789 789 1328
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 TtInstrs:
 PUSHB_5
@@ -110953,7 +110953,7 @@ EndChar
 StartChar: uni0316
 Encoding: 790 790 1329
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 TtInstrs:
 PUSHB_7
@@ -110991,7 +110991,7 @@ EndChar
 StartChar: uni0317
 Encoding: 791 791 1330
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 TtInstrs:
 PUSHB_7
@@ -111029,7 +111029,7 @@ EndChar
 StartChar: uni0318
 Encoding: 792 792 1331
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 TtInstrs:
 NPUSHB
@@ -111088,7 +111088,7 @@ EndChar
 StartChar: uni0319
 Encoding: 793 793 1332
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 TtInstrs:
 NPUSHB
@@ -111147,7 +111147,7 @@ EndChar
 StartChar: uni031A
 Encoding: 794 794 1333
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 TtInstrs:
 PUSHB_4
@@ -111183,7 +111183,7 @@ EndChar
 StartChar: uni031B
 Encoding: 795 795 1334
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 TtInstrs:
 PUSHB_5
@@ -111221,7 +111221,7 @@ EndChar
 StartChar: uni031C
 Encoding: 796 796 1335
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 TtInstrs:
 PUSHB_8
@@ -111267,7 +111267,7 @@ EndChar
 StartChar: uni031D
 Encoding: 797 797 1336
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 TtInstrs:
 NPUSHB
@@ -111314,7 +111314,7 @@ EndChar
 StartChar: uni031E
 Encoding: 798 798 1337
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 TtInstrs:
 NPUSHB
@@ -111361,7 +111361,7 @@ EndChar
 StartChar: uni031F
 Encoding: 799 799 1338
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 TtInstrs:
 NPUSHB
@@ -111420,7 +111420,7 @@ EndChar
 StartChar: uni0320
 Encoding: 800 800 1339
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 TtInstrs:
 PUSHB_5
@@ -111453,7 +111453,7 @@ EndChar
 StartChar: uni0321
 Encoding: 801 801 1340
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 TtInstrs:
 PUSHB_7
@@ -111493,7 +111493,7 @@ EndChar
 StartChar: uni0322
 Encoding: 802 802 1341
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 TtInstrs:
 PUSHB_7
@@ -111533,7 +111533,7 @@ EndChar
 StartChar: uni0324
 Encoding: 804 804 1342
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 TtInstrs:
 PUSHB_8
@@ -111578,7 +111578,7 @@ EndChar
 StartChar: uni0325
 Encoding: 805 805 1343
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 TtInstrs:
 PUSHB_8
@@ -111631,7 +111631,7 @@ EndChar
 StartChar: uni0326
 Encoding: 806 806 1344
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 TtInstrs:
 NPUSHB
@@ -111678,7 +111678,7 @@ EndChar
 StartChar: uni0327
 Encoding: 807 807 1345
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 TtInstrs:
 PUSHB_7
@@ -111726,7 +111726,7 @@ EndChar
 StartChar: uni0328
 Encoding: 808 808 1346
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 TtInstrs:
 PUSHB_4
@@ -111766,7 +111766,7 @@ EndChar
 StartChar: uni0329
 Encoding: 809 809 1347
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 TtInstrs:
 PUSHB_8
@@ -111804,7 +111804,7 @@ EndChar
 StartChar: uni032A
 Encoding: 810 810 1348
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 TtInstrs:
 PUSHB_8
@@ -111848,7 +111848,7 @@ EndChar
 StartChar: uni032B
 Encoding: 811 811 1349
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 TtInstrs:
 NPUSHB
@@ -111913,7 +111913,7 @@ EndChar
 StartChar: uni032C
 Encoding: 812 812 1350
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 TtInstrs:
 NPUSHB
@@ -111970,7 +111970,7 @@ EndChar
 StartChar: uni032D
 Encoding: 813 813 1351
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 TtInstrs:
 NPUSHB
@@ -112025,7 +112025,7 @@ EndChar
 StartChar: uni032E
 Encoding: 814 814 1352
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 TtInstrs:
 NPUSHB
@@ -112074,7 +112074,7 @@ EndChar
 StartChar: uni032F
 Encoding: 815 815 1353
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 TtInstrs:
 NPUSHB
@@ -112123,7 +112123,7 @@ EndChar
 StartChar: uni0330
 Encoding: 816 816 1354
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 TtInstrs:
 NPUSHB
@@ -112190,7 +112190,7 @@ EndChar
 StartChar: uni0331
 Encoding: 817 817 1355
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 TtInstrs:
 PUSHB_5
@@ -112223,7 +112223,7 @@ EndChar
 StartChar: uni0332
 Encoding: 818 818 1356
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 TtInstrs:
 PUSHB_5
@@ -112256,7 +112256,7 @@ EndChar
 StartChar: uni0333
 Encoding: 819 819 1357
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 TtInstrs:
 NPUSHB
@@ -112310,7 +112310,7 @@ EndChar
 StartChar: uni0334
 Encoding: 820 820 1358
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 TtInstrs:
 PUSHB_7
@@ -112361,7 +112361,7 @@ EndChar
 StartChar: uni0335
 Encoding: 821 821 1359
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 TtInstrs:
 PUSHB_2
@@ -112388,7 +112388,7 @@ EndChar
 StartChar: uni0336
 Encoding: 822 822 1360
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 TtInstrs:
 PUSHB_2
@@ -112415,7 +112415,7 @@ EndChar
 StartChar: uni0337
 Encoding: 823 823 1361
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 TtInstrs:
 PUSHB_4
@@ -112446,7 +112446,7 @@ EndChar
 StartChar: uni0338
 Encoding: 824 824 1362
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 TtInstrs:
 PUSHB_2
@@ -112473,7 +112473,7 @@ EndChar
 StartChar: uni0339
 Encoding: 825 825 1363
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 TtInstrs:
 NPUSHB
@@ -112526,7 +112526,7 @@ EndChar
 StartChar: uni033A
 Encoding: 826 826 1364
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 TtInstrs:
 PUSHB_8
@@ -112570,7 +112570,7 @@ EndChar
 StartChar: uni033B
 Encoding: 827 827 1365
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 TtInstrs:
 PUSHB_8
@@ -112615,7 +112615,7 @@ EndChar
 StartChar: uni033C
 Encoding: 828 828 1366
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 TtInstrs:
 NPUSHB
@@ -112678,7 +112678,7 @@ EndChar
 StartChar: uni033D
 Encoding: 829 829 1367
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 TtInstrs:
 NPUSHB
@@ -112730,7 +112730,7 @@ EndChar
 StartChar: uni033E
 Encoding: 830 830 1368
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 TtInstrs:
 PUSHB_7
@@ -112785,7 +112785,7 @@ EndChar
 StartChar: uni033F
 Encoding: 831 831 1369
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 TtInstrs:
 PUSHB_5
@@ -112826,7 +112826,7 @@ EndChar
 StartChar: uni0340
 Encoding: 832 832 1370
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 TtInstrs:
 PUSHB_3
@@ -112857,7 +112857,7 @@ EndChar
 StartChar: uni0341
 Encoding: 833 833 1371
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 TtInstrs:
 PUSHB_3
@@ -112888,7 +112888,7 @@ EndChar
 StartChar: uni0342
 Encoding: 834 834 1372
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 TtInstrs:
 NPUSHB
@@ -112949,7 +112949,7 @@ EndChar
 StartChar: uni0343
 Encoding: 835 835 1373
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 TtInstrs:
 PUSHB_5
@@ -112989,7 +112989,7 @@ EndChar
 StartChar: uni0344
 Encoding: 836 836 1374
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 TtInstrs:
 PUSHB_8
@@ -113043,7 +113043,7 @@ EndChar
 StartChar: uni0345
 Encoding: 837 837 1375
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 TtInstrs:
 NPUSHB
@@ -113093,7 +113093,7 @@ EndChar
 StartChar: uni0346
 Encoding: 838 838 1376
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 TtInstrs:
 PUSHB_5
@@ -113133,7 +113133,7 @@ EndChar
 StartChar: uni0347
 Encoding: 839 839 1377
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 TtInstrs:
 NPUSHB
@@ -113189,7 +113189,7 @@ EndChar
 StartChar: uni0348
 Encoding: 840 840 1378
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 TtInstrs:
 NPUSHB
@@ -113237,7 +113237,7 @@ EndChar
 StartChar: uni0349
 Encoding: 841 841 1379
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 TtInstrs:
 PUSHB_7
@@ -113277,7 +113277,7 @@ EndChar
 StartChar: uni034A
 Encoding: 842 842 1380
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 TtInstrs:
 NPUSHB
@@ -113337,7 +113337,7 @@ EndChar
 StartChar: uni034B
 Encoding: 843 843 1381
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 TtInstrs:
 NPUSHB
@@ -113425,7 +113425,7 @@ EndChar
 StartChar: uni034C
 Encoding: 844 844 1382
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 TtInstrs:
 NPUSHB
@@ -113513,7 +113513,7 @@ EndChar
 StartChar: uni034D
 Encoding: 845 845 1383
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 TtInstrs:
 PUSHB_5
@@ -113555,7 +113555,7 @@ EndChar
 StartChar: uni034E
 Encoding: 846 846 1384
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 TtInstrs:
 NPUSHB
@@ -113601,7 +113601,7 @@ EndChar
 StartChar: uni034F
 Encoding: 847 847 1385
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 TtInstrs:
 NPUSHB
@@ -113915,7 +113915,7 @@ EndChar
 StartChar: uni0360
 Encoding: 864 864 1386
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 TtInstrs:
 PUSHB_7
@@ -113963,7 +113963,7 @@ EndChar
 StartChar: uni0361
 Encoding: 865 865 1387
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 TtInstrs:
 PUSHB_5
@@ -114001,7 +114001,7 @@ EndChar
 StartChar: uni0362
 Encoding: 866 866 1388
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 TtInstrs:
 PUSHB_5
@@ -114038,7 +114038,7 @@ EndChar
 StartChar: uni0363
 Encoding: 867 867 1389
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 AnchorPoint: "Anchor23" 0 480 mark 0
 AnchorPoint: "Anchor23" 0 1680 basemark 0
@@ -114052,7 +114052,7 @@ EndChar
 StartChar: uni0364
 Encoding: 868 868 1390
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 AnchorPoint: "Anchor23" 0 480 mark 0
 AnchorPoint: "Anchor23" 0 1680 basemark 0
@@ -114066,7 +114066,7 @@ EndChar
 StartChar: uni0365
 Encoding: 869 869 1391
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 TtInstrs:
 PUSHB_5
@@ -114106,7 +114106,7 @@ EndChar
 StartChar: uni0366
 Encoding: 870 870 1392
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 AnchorPoint: "Anchor23" 0 480 mark 0
 AnchorPoint: "Anchor23" 0 1680 basemark 0
@@ -114120,7 +114120,7 @@ EndChar
 StartChar: uni0367
 Encoding: 871 871 1393
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 AnchorPoint: "Anchor23" 0 480 mark 0
 AnchorPoint: "Anchor23" 0 1680 basemark 0
@@ -114134,7 +114134,7 @@ EndChar
 StartChar: uni0368
 Encoding: 872 872 1394
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 TtInstrs:
 NPUSHB
@@ -114197,7 +114197,7 @@ EndChar
 StartChar: uni0369
 Encoding: 873 873 1395
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 AnchorPoint: "Anchor23" 0 480 mark 0
 AnchorPoint: "Anchor23" 0 1680 basemark 0
@@ -114211,7 +114211,7 @@ EndChar
 StartChar: uni036A
 Encoding: 874 874 1396
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 TtInstrs:
 NPUSHB
@@ -114272,7 +114272,7 @@ EndChar
 StartChar: uni036B
 Encoding: 875 875 1397
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 AnchorPoint: "Anchor23" 0 480 mark 0
 AnchorPoint: "Anchor23" 0 1680 basemark 0
@@ -114286,7 +114286,7 @@ EndChar
 StartChar: uni036C
 Encoding: 876 876 1398
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 TtInstrs:
 NPUSHB
@@ -114338,7 +114338,7 @@ EndChar
 StartChar: uni036D
 Encoding: 877 877 1399
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 AnchorPoint: "Anchor23" 0 480 mark 0
 AnchorPoint: "Anchor23" 0 1680 basemark 0
@@ -114352,7 +114352,7 @@ EndChar
 StartChar: uni036E
 Encoding: 878 878 1400
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 AnchorPoint: "Anchor23" 0 480 mark 0
 AnchorPoint: "Anchor23" 0 1680 basemark 0
@@ -114366,7 +114366,7 @@ EndChar
 StartChar: uni036F
 Encoding: 879 879 1401
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 TtInstrs:
 NPUSHB
@@ -150453,7 +150453,7 @@ EndChar
 StartChar: uni0350
 Encoding: 848 848 2022
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 TtInstrs:
 PUSHB_4
@@ -150490,7 +150490,7 @@ EndChar
 StartChar: uni0351
 Encoding: 849 849 2023
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 TtInstrs:
 PUSHB_5
@@ -150532,7 +150532,7 @@ EndChar
 StartChar: uni0352
 Encoding: 850 850 2024
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 TtInstrs:
 NPUSHB
@@ -150588,7 +150588,7 @@ EndChar
 StartChar: uni0353
 Encoding: 851 851 2025
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 TtInstrs:
 NPUSHB
@@ -150640,7 +150640,7 @@ EndChar
 StartChar: uni0354
 Encoding: 852 852 2026
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 TtInstrs:
 PUSHB_6
@@ -150681,7 +150681,7 @@ EndChar
 StartChar: uni0355
 Encoding: 853 853 2027
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 TtInstrs:
 PUSHB_6
@@ -150722,7 +150722,7 @@ EndChar
 StartChar: uni0356
 Encoding: 854 854 2028
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 TtInstrs:
 NPUSHB
@@ -150780,7 +150780,7 @@ EndChar
 StartChar: uni0357
 Encoding: 855 855 2029
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 TtInstrs:
 PUSHB_5
@@ -150822,7 +150822,7 @@ EndChar
 StartChar: uni035D
 Encoding: 861 861 2030
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 TtInstrs:
 PUSHB_5
@@ -150860,7 +150860,7 @@ EndChar
 StartChar: uni035E
 Encoding: 862 862 2031
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 TtInstrs:
 PUSHB_2
@@ -150888,7 +150888,7 @@ EndChar
 StartChar: uni035F
 Encoding: 863 863 2032
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 TtInstrs:
 PUSHB_2
@@ -162268,7 +162268,7 @@ EndChar
 StartChar: uni0358
 Encoding: 856 856 2172
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 TtInstrs:
 PUSHB_2
@@ -162299,7 +162299,7 @@ EndChar
 StartChar: uni0359
 Encoding: 857 857 2173
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 TtInstrs:
 NPUSHB
@@ -162373,7 +162373,7 @@ EndChar
 StartChar: uni035A
 Encoding: 858 858 2174
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 TtInstrs:
 NPUSHB
@@ -162452,7 +162452,7 @@ EndChar
 StartChar: uni035B
 Encoding: 859 859 2175
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 TtInstrs:
 PUSHB_5
@@ -162491,7 +162491,7 @@ EndChar
 StartChar: uni035C
 Encoding: 860 860 2176
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 TtInstrs:
 PUSHB_5
