@@ -20,7 +20,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1277409190
-ModificationTime: 1630385744
+ModificationTime: 1632991403
 PfmFamily: 17
 TTFWeight: 700
 TTFWidth: 5
@@ -59,6 +59,8 @@ Lookup: 4 1 0 "'ccmp' Glyph Composition/Decomposition in Hebrew lookup 1" { "'cc
 Lookup: 6 1 0 "'ccmp' Glyph Composition/Decomposition in Hebrew lookup 2" { "'ccmp' Glyph Composition/Decomposition in Hebrew lookup 2 subtable"  } ['ccmp' ('hebr' <'dflt' > ) ]
 Lookup: 4 0 0 "'ccmp' Glyph Composition/Decomposition lookup 3" { "'ccmp' Glyph Composition/Decomposition lookup 3 subtable"  } ['ccmp' ('grek' <'dflt' > 'latn' <'dflt' > ) ]
 Lookup: 4 1 0 "Ligature Substitution lookup 4" { "Ligature Substitution lookup 4 subtable"  } []
+Lookup: 1 0 0 "'sups' Superscript lookup 5" { "'sups' Superscript lookup 5 subtable" ("superior") } ['sups' ('DFLT' <'dflt' > 'bopo' <'dflt' > 'copt' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'hebr' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 1 0 0 "'subs' Subscript lookup 6" { "'subs' Subscript lookup 6 subtable" ("inferior") } ['subs' ('DFLT' <'dflt' > 'bopo' <'dflt' > 'copt' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'hebr' <'dflt' > 'latn' <'dflt' > ) ]
 Lookup: 258 9 0 "'kern' Horizontal Kerning in Hebrew lookup 0" { "'kern' Horizontal Kerning in Hebrew lookup 0 subtable"  } ['kern' ('hebr' <'dflt' > ) ]
 Lookup: 260 1 0 "'mark' Mark Positioning in Hebrew lookup 1" { "'mark' Mark Positioning in Hebrew lookup 1 subtable"  } ['mark' ('hebr' <'dflt' > ) ]
 Lookup: 264 1 0 "'mark' Mark Positioning in Hebrew lookup 2" { "'mark' Mark Positioning in Hebrew lookup 2 subtable"  } ['mark' ('hebr' <'dflt' > ) ]
@@ -6389,6 +6391,7 @@ SplineSet
  773 518 773 518 773 705 c 0,12,13
 EndSplineSet
 Validated: 1
+Substitution2: "'subs' Subscript lookup 6 subtable" zero.subs
 EndChar
 
 StartChar: one
@@ -6459,6 +6462,7 @@ SplineSet
 EndSplineSet
 Validated: 1
 Kerns2: 20 -113 "'kern' Horizontal Kerning lookup 17 subtable"
+Substitution2: "'subs' Subscript lookup 6 subtable" one.subs
 EndChar
 
 StartChar: two
@@ -6557,6 +6561,7 @@ SplineSet
  71 0 l 1,0,-1
 EndSplineSet
 Validated: 1
+Substitution2: "'subs' Subscript lookup 6 subtable" two.subs
 EndChar
 
 StartChar: three
@@ -6750,6 +6755,7 @@ SplineSet
  1065 527 1065 527 1065 391 c 0,0,1
 EndSplineSet
 Validated: 1
+Substitution2: "'subs' Subscript lookup 6 subtable" three.subs
 EndChar
 
 StartChar: four
@@ -6841,6 +6847,8 @@ SplineSet
  672 957 l 2,11,12
 EndSplineSet
 Validated: 1
+Substitution2: "'subs' Subscript lookup 6 subtable" four.subs
+Substitution2: "'sups' Superscript lookup 5 subtable" four.sups
 EndChar
 
 StartChar: five
@@ -6992,6 +7000,8 @@ SplineSet
  1082 684 1082 684 1082 469 c 0,0,1
 EndSplineSet
 Validated: 1
+Substitution2: "'subs' Subscript lookup 6 subtable" five.subs
+Substitution2: "'sups' Superscript lookup 5 subtable" five.sups
 EndChar
 
 StartChar: six
@@ -7109,6 +7119,8 @@ SplineSet
  783 334 783 334 783 453 c 0,24,25
 EndSplineSet
 Validated: 1
+Substitution2: "'subs' Subscript lookup 6 subtable" six.subs
+Substitution2: "'sups' Superscript lookup 5 subtable" six.sups
 EndChar
 
 StartChar: seven
@@ -7178,6 +7190,8 @@ SplineSet
  1049 1186 l 1,0,1
 EndSplineSet
 Validated: 1
+Substitution2: "'subs' Subscript lookup 6 subtable" seven.subs
+Substitution2: "'sups' Superscript lookup 5 subtable" seven.sups
 EndChar
 
 StartChar: eight
@@ -7303,6 +7317,8 @@ SplineSet
  785 292 785 292 785 420 c 0,36,37
 EndSplineSet
 Validated: 1
+Substitution2: "'subs' Subscript lookup 6 subtable" eight.subs
+Substitution2: "'sups' Superscript lookup 5 subtable" eight.sups
 EndChar
 
 StartChar: nine
@@ -7426,6 +7442,8 @@ SplineSet
  766 821 766 821 766 924 c 0,24,25
 EndSplineSet
 Validated: 1
+Substitution2: "'subs' Subscript lookup 6 subtable" nine.subs
+Substitution2: "'sups' Superscript lookup 5 subtable" nine.sups
 EndChar
 
 StartChar: colon
@@ -69717,10 +69735,9 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: foursuperior
+StartChar: four.sups
 Encoding: 8308 8308 650
 Width: 1013
-GlyphClass: 2
 Flags: W
 HStem: 660 105<288 577 766 898>
 VStem: 577 189<516 660 765 1092.11>
@@ -69748,10 +69765,9 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: fivesuperior
+StartChar: five.sups
 Encoding: 8309 8309 651
 Width: 962
-GlyphClass: 2
 Flags: W
 HStem: 514 112<346.099 586.556> 878 114<347.95 596.605> 1125 105<362 778>
 VStem: 633 203<659.415 845.051>
@@ -69781,10 +69797,9 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: sevensuperior
+StartChar: seven.sups
 Encoding: 8311 8311 652
 Width: 845
-GlyphClass: 2
 Flags: W
 HStem: 1116 116<81 573>
 VStem: 225 206<526 722.216>
@@ -69804,10 +69819,9 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: eightsuperior
+StartChar: eight.sups
 Encoding: 8312 8312 653
 Width: 968
-GlyphClass: 2
 Flags: W
 HStem: 503 99<360.267 602.896> 834 98<374.125 601.188> 1132 98<373.905 602.333>
 VStem: 134 203<627.965 810.088> 157 202<949.715 1113.97> 617 203<950.154 1114.08> 640 204<629.65 810.561>
@@ -199101,7 +199115,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni2080
+StartChar: zero.subs
 Encoding: 8320 8320 2601
 Width: 923
 Flags: W
@@ -199129,7 +199143,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni2081
+StartChar: one.subs
 Encoding: 8321 8321 2602
 Width: 847
 Flags: W
@@ -199153,7 +199167,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni2082
+StartChar: two.subs
 Encoding: 8322 8322 2603
 Width: 910
 Flags: W
@@ -199182,7 +199196,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni2083
+StartChar: three.subs
 Encoding: 8323 8323 2604
 Width: 947
 Flags: W
@@ -199220,7 +199234,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni2084
+StartChar: four.subs
 Encoding: 8324 8324 2605
 Width: 976
 Flags: W
@@ -199250,7 +199264,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni2085
+StartChar: five.subs
 Encoding: 8325 8325 2606
 Width: 939
 Flags: W
@@ -199282,7 +199296,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni2086
+StartChar: six.subs
 Encoding: 8326 8326 2607
 Width: 930
 Flags: W
@@ -199317,7 +199331,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni2087
+StartChar: seven.subs
 Encoding: 8327 8327 2608
 Width: 819
 Flags: W
@@ -199339,7 +199353,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni2088
+StartChar: eight.subs
 Encoding: 8328 8328 2609
 Width: 959
 Flags: W
@@ -199381,7 +199395,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni2089
+StartChar: nine.subs
 Encoding: 8329 8329 2610
 Width: 922
 Flags: W
@@ -199417,7 +199431,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni2076
+StartChar: six.sups
 Encoding: 8310 8310 2611
 Width: 943
 Flags: W
@@ -199782,10 +199796,10 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni2079
+StartChar: nine.sups
 Encoding: 8313 8313 2619
 Width: 972
-Flags: WO
+Flags: W
 HStem: 506 111<355.878 580.88> 761 105<370.475 589.891> 1123 110<369.332 582.784>
 VStem: 137 199<899.387 1090.3> 640 193<678.113 841>
 LayerCount: 2

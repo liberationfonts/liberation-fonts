@@ -20,7 +20,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1277890270
-ModificationTime: 1617649989
+ModificationTime: 1633004922
 PfmFamily: 17
 TTFWeight: 700
 TTFWidth: 5
@@ -58,6 +58,8 @@ Lookup: 4 1 0 "'dlig' Discretionary Ligatures in Hebrew lookup 0" { "'dlig' Disc
 Lookup: 4 1 0 "'ccmp' Glyph Composition/Decomposition in Hebrew lookup 1" { "'ccmp' Glyph Composition/Decomposition in Hebrew lookup 1 subtable"  } ['ccmp' ('hebr' <'dflt' > ) ]
 Lookup: 6 1 0 "'ccmp' Glyph Composition/Decomposition in Hebrew lookup 2" { "'ccmp' Glyph Composition/Decomposition in Hebrew lookup 2 subtable"  } ['ccmp' ('hebr' <'dflt' > ) ]
 Lookup: 4 1 0 "Ligature Substitution lookup 3" { "Ligature Substitution lookup 3 subtable"  } []
+Lookup: 1 0 0 "'sups' Superscript lookup 4" { "'sups' Superscript lookup 4 subtable" ("superior") } ['sups' ('DFLT' <'dflt' > 'bopo' <'dflt' > 'copt' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'hebr' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 1 0 0 "'subs' Subscript lookup 5" { "'subs' Subscript lookup 5 subtable" ("inferior") } ['subs' ('DFLT' <'dflt' > 'bopo' <'dflt' > 'copt' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'hebr' <'dflt' > 'latn' <'dflt' > ) ]
 Lookup: 260 0 0 "'mark' Mark Positioning lookup 22" { "'mark' Mark Positioning lookup 22-1"  } ['mark' ('DFLT' <'dflt' > 'bopo' <'dflt' > 'copt' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'hebr' <'dflt' > 'latn' <'dflt' > ) ]
 Lookup: 260 1 0 "'mark' Mark Positioning in Hebrew lookup 0" { "'mark' Mark Positioning in Hebrew lookup 0 subtable"  } ['mark' ('hebr' <'dflt' > ) ]
 Lookup: 260 7 0 "'mark' Mark Positioning in Hebrew lookup 1" { "'mark' Mark Positioning in Hebrew lookup 1 subtable"  } ['mark' ('hebr' <'dflt' > ) ]
@@ -3971,12 +3973,13 @@ EndShort
 LangName: 1033 "" "" "" "Ascender - Liberation Mono" "" "Version 2.1.4" "" "Liberation is a trademark of Red Hat, Inc. registered in U.S. Patent and Trademark Office and certain other jurisdictions." "Ascender Corporation" "Steve Matteson" "Based on Cousine, which was designed by Steve Matteson as an innovative, refreshing sans serif design that is metrically compatible with Courier New+ISIA. Cousine offers improved on-screen readability characteristics and the pan-European WGL character set and solves the needs of developers looking for width-compatible fonts to address document portability across platforms." "http://www.ascendercorp.com/" "http://www.ascendercorp.com/typedesigners.html" "Licensed under the SIL Open Font License, Version 1.1" "http://scripts.sil.org/OFL"
 GaspTable: 3 8 2 15 1 65535 3 0
 Encoding: UnicodeBmp
+Compacted: 1
 UnicodeInterp: none
 NameList: Adobe Glyph List
 DisplaySize: -36
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 8211 51 16
+WinInfo: 1428 51 17
 BeginPrivate: 0
 EndPrivate
 TeXData: 1 0 0 629248 314624 209749 553984 -1048576 209749 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
@@ -5651,6 +5654,7 @@ SplineSet
  506 555 l 1,27,-1
 EndSplineSet
 Validated: 1
+Substitution2: "'subs' Subscript lookup 5 subtable" zero.subs
 EndChar
 
 StartChar: one
@@ -5740,6 +5744,7 @@ SplineSet
  149 0 l 1,0,-1
 EndSplineSet
 Validated: 1
+Substitution2: "'subs' Subscript lookup 5 subtable" one.subs
 EndChar
 
 StartChar: two
@@ -5861,6 +5866,7 @@ SplineSet
  123 0 l 1,0,-1
 EndSplineSet
 Validated: 1
+Substitution2: "'subs' Subscript lookup 5 subtable" two.subs
 EndChar
 
 StartChar: three
@@ -6026,6 +6032,7 @@ SplineSet
  1125 504 1125 504 1125 376 c 0,0,1
 EndSplineSet
 Validated: 1
+Substitution2: "'subs' Subscript lookup 5 subtable" three.subs
 EndChar
 
 StartChar: four
@@ -6119,6 +6126,8 @@ SplineSet
  712 907 l 2,11,12
 EndSplineSet
 Validated: 1
+Substitution2: "'subs' Subscript lookup 5 subtable" four.subs
+Substitution2: "'sups' Superscript lookup 4 subtable" four.sups
 EndChar
 
 StartChar: five
@@ -6245,6 +6254,8 @@ SplineSet
  1123 657 1123 657 1123 454 c 0,0,1
 EndSplineSet
 Validated: 1
+Substitution2: "'subs' Subscript lookup 5 subtable" five.subs
+Substitution2: "'sups' Superscript lookup 4 subtable" five.sups
 EndChar
 
 StartChar: six
@@ -6372,6 +6383,8 @@ SplineSet
  833 327 833 327 833 438 c 0,24,25
 EndSplineSet
 Validated: 1
+Substitution2: "'subs' Subscript lookup 5 subtable" six.subs
+Substitution2: "'sups' Superscript lookup 4 subtable" six.sups
 EndChar
 
 StartChar: seven
@@ -6440,6 +6453,8 @@ SplineSet
  1092 1126 l 1,0,1
 EndSplineSet
 Validated: 1
+Substitution2: "'subs' Subscript lookup 5 subtable" seven.subs
+Substitution2: "'sups' Superscript lookup 4 subtable" seven.sups
 EndChar
 
 StartChar: eight
@@ -6573,6 +6588,8 @@ SplineSet
  829 286 829 286 829 405 c 0,35,36
 EndSplineSet
 Validated: 1
+Substitution2: "'subs' Subscript lookup 5 subtable" eight.subs
+Substitution2: "'sups' Superscript lookup 4 subtable" eight.sups
 EndChar
 
 StartChar: nine
@@ -6700,6 +6717,8 @@ SplineSet
  809 785 809 785 809 879 c 0,24,25
 EndSplineSet
 Validated: 1
+Substitution2: "'subs' Subscript lookup 5 subtable" nine.subs
+Substitution2: "'sups' Superscript lookup 4 subtable" nine.sups
 EndChar
 
 StartChar: colon
@@ -159445,7 +159464,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni2074
+StartChar: four.sups
 Encoding: 8308 8308 2407
 Width: 1229
 Flags: W
@@ -159538,7 +159557,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni2075
+StartChar: five.sups
 Encoding: 8309 8309 2408
 Width: 1229
 Flags: W
@@ -159664,7 +159683,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni2076
+StartChar: six.sups
 Encoding: 8310 8310 2409
 Width: 1229
 Flags: W
@@ -159791,7 +159810,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni2077
+StartChar: seven.sups
 Encoding: 8311 8311 2410
 Width: 1229
 Flags: W
@@ -159859,7 +159878,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni2078
+StartChar: eight.sups
 Encoding: 8312 8312 2411
 Width: 1229
 Flags: W
@@ -159992,7 +160011,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni2079
+StartChar: nine.sups
 Encoding: 8313 8313 2412
 Width: 1229
 Flags: W
@@ -160119,7 +160138,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni2080
+StartChar: zero.subs
 Encoding: 8320 8320 2413
 Width: 1229
 Flags: W
@@ -160243,7 +160262,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni2081
+StartChar: one.subs
 Encoding: 8321 8321 2414
 Width: 1229
 Flags: W
@@ -160332,7 +160351,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni2082
+StartChar: two.subs
 Encoding: 8322 8322 2415
 Width: 1229
 Flags: W
@@ -160453,7 +160472,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni2083
+StartChar: three.subs
 Encoding: 8323 8323 2416
 Width: 1229
 Flags: W
@@ -160618,7 +160637,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni2084
+StartChar: four.subs
 Encoding: 8324 8324 2417
 Width: 1229
 Flags: W
@@ -160711,7 +160730,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni2085
+StartChar: five.subs
 Encoding: 8325 8325 2418
 Width: 1229
 Flags: W
@@ -160837,7 +160856,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni2086
+StartChar: six.subs
 Encoding: 8326 8326 2419
 Width: 1229
 Flags: W
@@ -160964,7 +160983,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni2087
+StartChar: seven.subs
 Encoding: 8327 8327 2420
 Width: 1229
 Flags: W
@@ -161032,7 +161051,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni2088
+StartChar: eight.subs
 Encoding: 8328 8328 2421
 Width: 1229
 Flags: W
@@ -161165,7 +161184,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni2089
+StartChar: nine.subs
 Encoding: 8329 8329 2422
 Width: 1229
 Flags: W
