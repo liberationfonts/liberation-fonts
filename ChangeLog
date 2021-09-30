@@ -1,3 +1,8 @@
+* Thu Sep 30 2021 Vishal Vijayraghavan <vishalvijayraghavan@gmail.com>
+- Releasing liberation-fonts 2.1.5 version
+- Resolves #40: More fixes to Superscript and subscript Numbers missing issues
+-- fixed inconsistent weight, missing glyphs and GSUB issues
+
 * Tue May 04 2021 Vishal Vijayraghavan <vishalvijayraghavan@gmail.com>
 - Releasing liberation-fonts 2.1.4 version
 - Resolves #40: Superscript and subscript Numbers missing 
