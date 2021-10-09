@@ -20,7 +20,7 @@
    	    $ git clone https://github.com/liberationfonts/liberation-fonts.git
         ```
     
-     - Or downloading the tar.gz file from [releases](https://github.com/fontforge/fontforge/releases).
+     - Or downloading the tar.gz file from [releases](https://github.com/liberationfonts/liberation-fonts/releases).
 
      - Extract the tar file:
   	    ```
