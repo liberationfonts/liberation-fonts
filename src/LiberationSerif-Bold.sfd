@@ -20,7 +20,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1123398000
-ModificationTime: 1633007095
+ModificationTime: 1634611558
 PfmFamily: 17
 TTFWeight: 700
 TTFWidth: 5
@@ -3485,7 +3485,7 @@ NameList: Adobe Glyph List
 DisplaySize: -36
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 1734 51 17
+WinInfo: 1479 51 16
 BeginPrivate: 0
 EndPrivate
 AnchorClass2: "bottom-right" "'mark' Mark Positioning lookup 25-1" "top-right" "'mark' Mark Positioning lookup 25-1" "top" "'mark' Mark Positioning lookup 25-1" "bottom" "'mark' Mark Positioning lookup 25-1" "Anchor-0" "'mark' Mark Positioning in Hebrew lookup 0 subtable" "Anchor-1" "'mark' Mark Positioning in Hebrew lookup 2 subtable" "Anchor-2" "'mark' Mark Positioning in Hebrew lookup 3 subtable" "Anchor-3" "'mark' Mark Positioning in Hebrew lookup 4 subtable" "Anchor-4" "'mark' Mark Positioning in Hebrew lookup 4 subtable" "Anchor-5" "'mark' Mark Positioning in Hebrew lookup 5 subtable" "Anchor-6" "'mark' Mark Positioning in Hebrew lookup 5 subtable" "Anchor-7" "'mark' Mark Positioning in Hebrew lookup 10 subtable" "Anchor-8" "'mark' Mark Positioning in Hebrew lookup 11 subtable" "Anchor-9" "'mark' Mark Positioning in Hebrew lookup 12 subtable" "Anchor-10" "Mark to base attachment lookup 18 subtable" "Anchor-11" "Mark to base attachment lookup 19 subtable" "Anchor-12" "Mark to base attachment lookup 20 subtable" "Anchor-13" "Mark to base attachment lookup 21 subtable"
@@ -34066,7 +34066,7 @@ StartChar: onequarter
 Encoding: 188 188 240
 Width: 1536
 GlyphClass: 2
-Flags: HW
+Flags: W
 TtInstrs:
 NPUSHB
  17
@@ -34107,7 +34107,7 @@ StartChar: threequarters
 Encoding: 190 190 241
 Width: 1536
 GlyphClass: 2
-Flags: HW
+Flags: W
 TtInstrs:
 NPUSHB
  15
@@ -50605,7 +50605,7 @@ StartChar: oneeighth
 Encoding: 8539 8539 486
 Width: 1536
 GlyphClass: 2
-Flags: HW
+Flags: W
 TtInstrs:
 NPUSHB
  14
@@ -50644,7 +50644,7 @@ StartChar: threeeighths
 Encoding: 8540 8540 487
 Width: 1536
 GlyphClass: 2
-Flags: HW
+Flags: W
 TtInstrs:
 NPUSHB
  16
@@ -50685,7 +50685,7 @@ StartChar: fiveeighths
 Encoding: 8541 8541 488
 Width: 1536
 GlyphClass: 2
-Flags: HW
+Flags: W
 TtInstrs:
 NPUSHB
  16
@@ -50726,7 +50726,7 @@ StartChar: seveneighths
 Encoding: 8542 8542 489
 Width: 1536
 GlyphClass: 2
-Flags: HW
+Flags: W
 TtInstrs:
 NPUSHB
  25
@@ -192888,63 +192888,61 @@ Refer: 16 45 N 1 0 0 1 0 0 2
 Validated: 1
 EndChar
 
-StartChar: uni20BF
+StartChar: bitcoin
 Encoding: 8383 8383 2576
 Width: 1366
 Flags: W
-HStem: -3.61035 113.61<139.97 207 522 545.093 752 900.702> 0 73<34 125.857> 654 110<522 814.494> 1231 110<139.97 207 522 540.818 738 817.02> 1268 73<34 129.39>
-VStem: 207 315<110 654 764 1231> 225.947 190.053<-311.479 -3.02539 1341 1631> 540.818 197.182<-299.41 -6 1341 1631> 545.093 207.907<-313 -6> 878 328<873.281 1172.24> 979 330<205.029 556.131>
+HStem: -153 257<522 526 696 802.906> -5 109<160.48 207 526 696 806 888.96> 0 73<34 125.857> 654 110<522 814.494> 1231 258<522 526 696 804.282> 1231 110<139.97 207 526 695.651> 1268 73<34 129.39>
+VStem: 207 315<110 654 764 1231> 416 110<-153 -3.02632 1341 1489> 696 110<-153 -5 1341 1489> 878 328<873.974 1172.22> 979 330<201.467 558.158>
 LayerCount: 2
 Fore
 SplineSet
-878 1010 m 0,0,1
- 878 1127 878 1127 827.5 1179 c 128,-1,2
- 777 1231 777 1231 661 1231 c 2,3,-1
- 522 1231 l 1,4,-1
- 522 764 l 1,5,-1
- 669 764 l 2,6,7
- 776 764 776 764 827 820 c 128,-1,8
- 878 876 878 876 878 1010 c 0,0,1
-979 391 m 0,9,10
- 979 524 979 524 912.5 589 c 128,-1,11
- 846 654 846 654 695 654 c 2,12,-1
- 522 654 l 1,13,-1
- 522 110 l 1,14,15
- 666 104 666 104 749 104 c 0,16,17
- 866 104 866 104 922.5 175 c 128,-1,18
- 979 246 979 246 979 391 c 0,9,10
-545 -314 m 25,19,-1
- 545 -4 l 17,20,-1
- 416 -3 l 1,21,-1
- 416 -313 l 1,22,-1
- 226 -311 l 1,23,-1
- 226 -1 l 1,24,-1
- 34 0 l 1,25,-1
- 34 73 l 1,26,-1
- 207 100 l 1,27,-1
- 207 1242 l 1,28,-1
- 34 1268 l 1,29,-1
- 34 1341 l 1,30,-1
- 226 1341 l 1,31,-1
- 226 1631 l 1,32,-1
- 416 1631 l 1,33,-1
- 416 1341 l 1,34,-1
- 541 1341 l 1,35,-1
- 541 1631 l 9,36,-1
- 738 1634 l 25,37,-1
- 738 1340 l 17,38,39
- 958 1337 958 1337 1079 1270 c 0,40,41
- 1206 1198 1206 1198 1206 1038 c 0,42,43
- 1206 918 1206 918 1131 831 c 128,-1,44
- 1056 744 1056 744 930 717 c 1,45,46
- 1117 698 1117 698 1213 615.5 c 128,-1,47
- 1309 533 1309 533 1309 391 c 0,48,49
- 1309 196 1309 196 1165 95 c 128,-1,50
- 1021 -6 1021 -6 752 -6 c 9,51,-1
- 753 -313 l 25,52,-1
- 545 -314 l 25,19,-1
+930 717 m 5,0,1
+ 1309 678 1309 678 1309 391 c 4,2,3
+ 1309 196 1309 196 1172.40364913 100.192837234 c 4,4,5
+ 1036 4 1036 4 806 -4.93205708746 c 5,6,-1
+ 806 -153 l 5,7,-1
+ 696 -153 l 5,8,-1
+ 696 -5 l 5,9,-1
+ 526 -3.02631578947 l 5,10,-1
+ 526 -153 l 5,11,-1
+ 416 -153 l 5,12,-1
+ 416 -1.3154296875 l 5,13,-1
+ 296 0 l 5,14,-1
+ 34 0 l 5,15,-1
+ 34 73 l 5,16,-1
+ 207 100 l 5,17,-1
+ 207 1242 l 5,18,-1
+ 34 1268 l 5,19,-1
+ 34 1341 l 5,20,-1
+ 416 1341 l 5,21,-1
+ 416 1489 l 5,22,-1
+ 526 1489 l 5,23,-1
+ 526 1341 l 5,24,-1
+ 696 1341 l 5,25,-1
+ 696 1489 l 5,26,-1
+ 806 1489 l 5,27,-1
+ 806 1336.81482913 l 5,28,29
+ 983 1324 983 1324 1079 1269.5 c 4,30,31
+ 1206 1198 1206 1198 1206 1038 c 4,32,33
+ 1206 918 1206 918 1131 831 c 132,-1,34
+ 1056 744 1056 744 930 717 c 5,0,1
+749 104 m 4,35,36
+ 979 104 979 104 979 391 c 4,37,38
+ 979 524 979 524 912.5 589 c 132,-1,39
+ 846 654 846 654 695 654 c 6,40,-1
+ 522 654 l 5,41,-1
+ 522 110 l 5,42,43
+ 666 104 666 104 749 104 c 4,35,36
+827 820 m 132,-1,45
+ 878 876 878 876 878 1001.5 c 132,-1,46
+ 878 1127 878 1127 827.5 1179 c 132,-1,47
+ 777 1231 777 1231 661 1231 c 6,48,-1
+ 522 1231 l 5,49,-1
+ 522 764 l 5,50,-1
+ 669 764 l 6,51,44
+ 776 764 776 764 827 820 c 132,-1,45
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uni266C
