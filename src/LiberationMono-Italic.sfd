@@ -20,7 +20,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1277886966
-ModificationTime: 1634613661
+ModificationTime: 1637635849
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -4122,7 +4122,7 @@ NameList: Adobe Glyph List
 DisplaySize: -36
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 1479 51 16
+WinInfo: 0 51 17
 BeginPrivate: 0
 EndPrivate
 TeXData: 1 0 -562637 629248 314624 209749 553984 -1048576 209749 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
@@ -17549,82 +17549,9 @@ Encoding: 322 322 224
 Width: 1229
 GlyphClass: 2
 Flags: W
-TtInstrs:
-NPUSHB
- 26
- 0
- 3
- 10
- 13
- 4
- 11
- 1
- 11
- 1
- 11
- 17
- 7
- 17
- 14
- 80
- 89
- 17
- 0
- 4
- 9
- 7
- 9
- 80
- 89
- 7
- 21
-SVTCA[y-axis]
-MIAP[rnd]
-CALL
-SRP1
-SVTCA[y-axis]
-SHP[rp1]
-RTG
-MIAP[rnd]
-CALL
-SRP1
-SRP2
-SVTCA[y-axis]
-IP
-IP
-RTG
-MDAP[rnd]
-MDAP[rnd]
-SRP2
-SLOOP
-IP
-IUP[x]
-IUP[y]
-EndTTInstrs
 LayerCount: 2
 Fore
-SplineSet
-803 884 m 1,0,-1
- 1053 1013 l 1,1,-1
- 1093 900 l 1,2,-1
- 774 736 l 1,3,-1
- 659 142 l 1,4,-1
- 1039 142 l 1,5,-1
- 1011 0 l 1,6,-1
- 29 0 l 1,7,-1
- 57 142 l 1,8,-1
- 479 142 l 1,9,-1
- 574 635 l 1,10,-1
- 333 512 l 1,11,-1
- 290 624 l 1,12,-1
- 603 783 l 1,13,-1
- 712 1342 l 1,14,-1
- 373 1342 l 1,15,-1
- 400 1484 l 1,16,-1
- 919 1484 l 1,17,-1
- 803 884 l 1,0,-1
-EndSplineSet
-Validated: 1
+Refer: 79 108 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: Scaron
@@ -19346,70 +19273,9 @@ Encoding: 314 314 269
 Width: 1229
 GlyphClass: 2
 Flags: W
-TtInstrs:
-NPUSHB
- 19
- 12
- 128
- 10
- 9
- 64
- 9
- 6
- 80
- 89
- 9
- 3
- 0
- 5
- 3
- 5
- 80
- 89
- 3
- 21
-SVTCA[y-axis]
-MIAP[rnd]
-CALL
-SRP1
-SVTCA[y-axis]
-SHP[rp1]
-RTG
-MIAP[rnd]
-CALL
-SVTCA[y-axis]
-SMD
-RTG
-SRP0
-MDRP[rp0,min,rnd,white]
-SMD
-MDRP[min,rnd,black]
-IUP[x]
-IUP[y]
-EndTTInstrs
 LayerCount: 2
 Fore
-SplineSet
-659 142 m 1,0,-1
- 1039 142 l 1,1,-1
- 1011 0 l 1,2,-1
- 29 0 l 1,3,-1
- 57 142 l 1,4,-1
- 479 142 l 1,5,-1
- 686 1207 l 1,6,-1
- 397 1207 l 1,7,-1
- 424 1349 l 1,8,-1
- 893 1349 l 1,9,-1
- 659 142 l 1,0,-1
-707 1445 m 1,10,-1
- 711 1465 l 1,11,-1
- 984 1705 l 1,12,-1
- 1181 1705 l 1,13,-1
- 1176 1676 l 1,14,-1
- 831 1445 l 1,15,-1
- 707 1445 l 1,10,-1
-EndSplineSet
-Validated: 1
+Refer: 79 108 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: Lcaron
